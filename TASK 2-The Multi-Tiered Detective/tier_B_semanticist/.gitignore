@@ -1,0 +1,9 @@
+.env
+*.key
+*.pt
+*.bin
+*.npy
+*.model
+__pycache__/
+embeddings/
+models/
