@@ -1,712 +1,391 @@
 # Topic: Wealth and Inheritance
 # Book: sense_and_sensibility
 # Author: austen
+# (AI Rewritten)
 
---- Paragraph 1 ---
-“But indeed you must and shall come. I am sure you will like it of all
-things. The Westons will be with us, and it will be quite delightful.
-You cannot think what a sweet place Cleveland is; and we are so gay
-now, for Mr. Palmer is always going about the country canvassing
-against the election; and so many people came to dine with us that I
-never saw before, it is quite charming! But, poor fellow! it is very
-fatiguing to him! for he is forced to make every body like him.”
+We need to rewrite each paragraph entirely in Austen style, preserving meaning. 50 paragraphs. Must keep exact format: "--- Paragraph N ---" then rewritten paragraph. Need to produce 50 rewrites.
 
---- Paragraph 2 ---
-“Poor little creatures!” said Miss Steele, as soon as they were gone.
-“It might have been a very sad accident.”
+We must be careful to emulate Austen's style: formal, witty, with long sentences, use of "indeed", "very", "indeed", "I am sure", etc. Also maintain meaning.
 
---- Paragraph 3 ---
-“Yes; and heaven knows how much longer we may have to wait. Poor
-Edward! It puts him quite out of heart.” Then taking a small miniature
-from her pocket, she added, “To prevent the possibility of mistake, be
-so good as to look at this face. It does not do him justice, to be
-sure, but yet I think you cannot be deceived as to the person it was
-drew for.—I have had it above these three years.”
+Let's go through each paragraph.
 
---- Paragraph 4 ---
-“I am sure,” said she, “I have no doubt in the world of your faithfully
-keeping this secret, because you must know of what importance it is to
-us, not to have it reach his mother; for she would never approve of it,
-I dare say. I shall have no fortune, and I fancy she is an exceeding
-proud woman.”
+Paragraph 1: Original: “But indeed you must and shall come. I am sure you will like it of all things. The Westons will be with us, and it will be quite delightful. You cannot think what a sweet place Cleveland is; and we are so gay now, for Mr. Palmer is always going about the country canvassing against the election; and so many people came to dine with us that I never saw before, it is quite charming! But, poor fellow! it is very fatiguing to him! for he is forced to make every body like him.”
 
---- Paragraph 5 ---
-“To be sure,” continued Lucy, after a few minutes silence on both
-sides, “his mother must provide for him sometime or other; but poor
-Edward is so cast down by it! Did you not think him dreadful
-low-spirited when he was at Barton? He was so miserable when he left us
-at Longstaple, to go to you, that I was afraid you would think him
-quite ill.”
+Rewrite in Austen style: "Indeed you must and shall come, for I am certain you will find it most agreeable. The Westons shall be with us, and the prospect will be most delightful. You cannot form a conception how sweet a place Cleveland is; and we are now in high spirits, for Mr. Palmer is constantly travelling through the country, canvassing for the election, and so many guests have come to dine with us that I have never witnessed anything so charming! Yet, poor man, it is a great fatigue to him, for he is obliged to make every one like him."
 
---- Paragraph 6 ---
-“I begged him to exert himself for fear you should suspect what was the
-matter; but it made him so melancholy, not being able to stay more than
-a fortnight with us, and seeing me so much affected. Poor fellow! I am
-afraid it is just the same with him now; for he writes in wretched
-spirits. I heard from him just before I left Exeter;” taking a letter
-from her pocket and carelessly showing the direction to Elinor. “You
-know his hand, I dare say,—a charming one it is; but that is not
-written so well as usual. He was tired, I dare say, for he had just
-filled the sheet to me as full as possible.”
+But need to keep meaning: He must come, will like it, Westons will be there, Cleveland sweet, gay now because Palmer canvassing, many dined, charming, but poor fellow is fatiguing because forced to make everyone like him.
 
---- Paragraph 7 ---
-“Writing to each other,” said Lucy, returning the letter into her
-pocket, “is the only comfort we have in such long separations. Yes, _I_
-have one other comfort in his picture, but poor Edward has not even
-_that_. If he had but my picture, he says he should be easy. I gave him
-a lock of my hair set in a ring when he was at Longstaple last, and
-that was some comfort to him, he said, but not equal to a picture.
-Perhaps you might notice the ring when you saw him?”
+Let's craft: "Indeed you must and shall come, for I am certain you will find it most agreeable. The Westons will be with us, and the gathering will be most delightful. You cannot imagine a sweeter place than Cleveland, and we are now in high spirits, for Mr. Palmer is constantly travelling through the country, canvassing for the election, and so many have come to dine with us that I have never before seen such a charming scene! Yet, poor fellow, it is a great fatigue to him, for he is obliged to make every body like him."
 
---- Paragraph 8 ---
-If in the supposition of his seeking to marry herself, his difficulties
-from his mother had seemed great, how much greater were they now likely
-to be, when the object of his engagement was undoubtedly inferior in
-connections, and probably inferior in fortune to herself. These
-difficulties, indeed, with a heart so alienated from Lucy, might not
-press very hard upon his patience; but melancholy was the state of the
-person by whom the expectation of family opposition and unkindness,
-could be felt as a relief!
+Make sure to keep same meaning.
 
---- Paragraph 9 ---
-“I am glad,” said Lady Middleton to Lucy, “you are not going to finish
-poor little Annamaria’s basket this evening; for I am sure it must hurt
-your eyes to work filigree by candlelight. And we will make the dear
-little love some amends for her disappointment to-morrow, and then I
-hope she will not much mind it.”
+Paragraph 2: “Poor little creatures!” said Miss Steele, as soon as they were gone. “It might have been a very sad accident.”
 
---- Paragraph 10 ---
-“You are very good, I hope it won’t hurt your eyes—will you ring the
-bell for some working candles? My poor little girl would be sadly
-disappointed, I know, if the basket was not finished tomorrow, for
-though I told her it certainly would not, I am sure she depends upon
-having it done.”
+Rewrite: "Poor little creatures!" exclaimed Miss Steele, as soon as they were gone. "It might have been a very sad accident."
 
---- Paragraph 11 ---
-“He has only two thousand pounds of his own; it would be madness to
-marry upon that, though for my own part, I could give up every prospect
-of more without a sigh. I have been always used to a very small income,
-and could struggle with any poverty for him; but I love him too well to
-be the selfish means of robbing him, perhaps, of all that his mother
-might give him if he married to please her. We must wait, it may be for
-many years. With almost every other man in the world, it would be an
-alarming prospect; but Edward’s affection and constancy nothing can
-deprive me of I know.”
+But need more Austen style: "Poor little creatures!" said Miss Steele, as soon as they were gone. "It might have been a very sad accident."
 
---- Paragraph 12 ---
-“Ay, to be sure, I thought as much. Well, Colonel, I have brought two
-young ladies with me, you see—that is, you see but one of them now, but
-there is another somewhere. Your friend, Miss Marianne, too—which you
-will not be sorry to hear. I do not know what you and Mr. Willoughby
-will do between you about her. Ay, it is a fine thing to be young and
-handsome. Well! I was young once, but I never was very handsome—worse
-luck for me. However, I got a very good husband, and I don’t know what
-the greatest beauty can do more. Ah! poor man! he has been dead these
-eight years and better. But Colonel, where have you been to since we
-parted? And how does your business go on? Come, come, let’s have no
-secrets among friends.”
+Maybe: "Poor little creatures!" exclaimed Miss Steele, as soon as they were gone. "It might have been a very sad accident."
 
---- Paragraph 13 ---
-“If this open weather holds much longer,” said Mrs. Jennings, when they
-met at breakfast the following morning, “Sir John will not like leaving
-Barton next week; ’tis a sad thing for sportsmen to lose a day’s
-pleasure. Poor souls! I always pity them when they do; they seem to
-take it so much to heart.”
+That's fine.
 
---- Paragraph 14 ---
-“Poor Elinor! how unhappy I make you!”
+Paragraph 3: “Yes; and heaven knows how much longer we may have to wait. Poor Edward! It puts him quite out of heart.” Then taking a small miniature from her pocket, she added, “To prevent the possibility of mistake, be so good as to look at this face. It does not do him justice, to be sure, but yet I think you cannot be deceived as to the person it was drew for.—I have had it above these three years.”
 
---- Paragraph 15 ---
-“How is she, Miss Dashwood? Poor thing! she looks very bad. No wonder.
-Ay, it is but too true. He is to be married very soon—a
-good-for-nothing fellow! I have no patience with him. Mrs. Taylor told
-me of it half an hour ago, and she was told it by a particular friend
-of Miss Grey herself, else I am sure I should not have believed it; and
-I was almost ready to sink as it was. Well, said I, all I can say is,
-that if this be true, he has used a young lady of my acquaintance
-abominably ill, and I wish with all my soul his wife may plague his
-heart out. And so I shall always say, my dear, you may depend on it. I
-have no notion of men’s going on in this way; and if ever I meet him
-again, I will give him such a dressing as he has not had this many a
-day. But there is one comfort, my dear Miss Marianne; he is not the
-only young man in the world worth having; and with your pretty face you
-will never want admirers. Well, poor thing! I won’t disturb her any
-longer, for she had better have her cry out at once and have done with.
-The Parrys and Sandersons luckily are coming tonight you know, and that
-will amuse her.”
+Rewrite: "Yes; and heaven knows how much longer we may have to wait. Poor Edward! It puts him quite out of heart." Then taking a small miniature from her pocket, she added, "To prevent the possibility of mistake, be so good as to look at this face. It does not do him justice, to be sure, but yet I think you cannot be deceived as to the person it was drew for.—I have had it above these three years."
 
---- Paragraph 16 ---
-“Poor soul!” cried Mrs. Jennings, as soon as she was gone, “how it
-grieves me to see her! And I declare if she is not gone away without
-finishing her wine! And the dried cherries too! Lord! nothing seems to
-do her any good. I am sure if I knew of any thing she would like, I
-would send all over the town for it. Well, it is the oddest thing to
-me, that a man should use such a pretty girl so ill! But when there is
-plenty of money on one side, and next to none on the other, Lord bless
-you! they care no more about such things!—”
+Need to rewrite in Austen style: maybe combine sentences.
 
---- Paragraph 17 ---
-“Fifty thousand pounds, my dear. Did you ever see her? a smart, stylish
-girl they say, but not handsome. I remember her aunt very well, Biddy
-Henshawe; she married a very wealthy man. But the family are all rich
-together. Fifty thousand pounds! and by all accounts, it won’t come
-before it’s wanted; for they say he is all to pieces. No wonder!
-dashing about with his curricle and hunters! Well, it don’t signify
-talking; but when a young man, be who he will, comes and makes love to
-a pretty girl, and promises marriage, he has no business to fly off
-from his word only because he grows poor, and a richer girl is ready to
-have him. Why don’t he, in such a case, sell his horses, let his house,
-turn off his servants, and make a thorough reform at once? I warrant
-you, Miss Marianne would have been ready to wait till matters came
-round. But that won’t do now-a-days; nothing in the way of pleasure can
-ever be given up by the young men of this age.”
+"Aye, and heaven knows how much longer we may have to wait; poor Edward! It quite unsettles his mind." Then: "Taking a small miniature from her pocket, she begged him, 'Pray, look at this face; though it does not do him justice, I am sure you cannot be deceived as to the person it portrays. I have possessed it above three years.'"
 
---- Paragraph 18 ---
-“Her guardians, my dear. But now she is of age and may choose for
-herself; and a pretty choice she has made!—What now,” after pausing a
-moment—“your poor sister is gone to her own room, I suppose, to moan by
-herself. Is there nothing one can get to comfort her? Poor dear, it
-seems quite cruel to let her be alone. Well, by-and-by we shall have a
-few friends, and that will amuse her a little. What shall we play at?
-She hates whist I know; but is there no round game she cares for?”
+Paragraph 4: “I am sure,” said she, “I have no doubt in the world of your faithfully keeping this secret, because you must know of what importance it is to us, not to have it reach his mother; for she would never approve of it, I dare say. I shall have no fortune, and I fancy she is an exceeding proud woman.”
 
---- Paragraph 19 ---
-“Aye, I believe that will be best for her. Let her name her own supper,
-and go to bed. Lord! no wonder she has been looking so bad and so cast
-down this last week or two, for this matter I suppose has been hanging
-over her head as long as that. And so the letter that came today
-finished it! Poor soul! I am sure if I had had a notion of it, I would
-not have joked her about it for all my money. But then you know, how
-should I guess such a thing? I made sure of its being nothing but a
-common love letter, and you know young people like to be laughed at
-about them. Lord! how concerned Sir John and my daughters will be when
-they hear it! If I had my senses about me I might have called in
-Conduit Street in my way home, and told them of it. But I shall see
-them tomorrow.”
+Rewrite: "I am sure," said she, "I have no doubt in the world that you will keep this secret faithfully, for it is of the utmost importance that it never reach his mother; for she would never approve of it, I dare say. I shall have no fortune, and I suspect she is an exceedingly proud woman."
 
---- Paragraph 20 ---
-“My dear,” said she, entering, “I have just recollected that I have
-some of the finest old Constantia wine in the house that ever was
-tasted, so I have brought a glass of it for your sister. My poor
-husband! how fond he was of it! Whenever he had a touch of his old
-colicky gout, he said it did him more good than any thing else in the
-world. Do take it to your sister.”
+Paragraph 5: “To be sure,” continued Lucy, after a few minutes silence on both sides, “his mother must provide for him sometime or other; but poor Edward is so cast down by it! Did you not think him dreadful low-spirited when he was at Barton? He was so miserable when he left us at Longstaple, to go to you, that I was afraid you would think him quite ill.”
 
---- Paragraph 21 ---
-“If I am not deceived by the uncertainty, the partiality of tender
-recollection, there is a very strong resemblance between them, as well
-in mind as person. The same warmth of heart, the same eagerness of
-fancy and spirits. This lady was one of my nearest relations, an orphan
-from her infancy, and under the guardianship of my father. Our ages
-were nearly the same, and from our earliest years we were playfellows
-and friends. I cannot remember the time when I did not love Eliza; and
-my affection for her, as we grew up, was such, as perhaps, judging from
-my present forlorn and cheerless gravity, you might think me incapable
-of having ever felt. Hers, for me, was, I believe, fervent as the
-attachment of your sister to Mr. Willoughby and it was, though from a
-different cause, no less unfortunate. At seventeen she was lost to me
-for ever. She was married—married against her inclination to my
-brother. Her fortune was large, and our family estate much encumbered.
-And this, I fear, is all that can be said for the conduct of one, who
-was at once her uncle and guardian. My brother did not deserve her; he
-did not even love her. I had hoped that her regard for me would support
-her under any difficulty, and for some time it did; but at last the
-misery of her situation, for she experienced great unkindness, overcame
-all her resolution, and though she had promised me that nothing—but how
-blindly I relate! I have never told you how this was brought on. We
-were within a few hours of eloping together for Scotland. The
-treachery, or the folly, of my cousin’s maid betrayed us. I was
-banished to the house of a relation far distant, and she was allowed no
-liberty, no society, no amusement, till my father’s point was gained. I
-had depended on her fortitude too far, and the blow was a severe
-one—but had her marriage been happy, so young as I then was, a few
-months must have reconciled me to it, or at least I should not have now
-to lament it. This however was not the case. My brother had no regard
-for her; his pleasures were not what they ought to have been, and from
-the first he treated her unkindly. The consequence of this, upon a mind
-so young, so lively, so inexperienced as Mrs. Brandon’s, was but too
-natural. She resigned herself at first to all the misery of her
-situation; and happy had it been if she had not lived to overcome those
-regrets which the remembrance of me occasioned. But can we wonder that,
-with such a husband to provoke inconstancy, and without a friend to
-advise or restrain her (for my father lived only a few months after
-their marriage, and I was with my regiment in the East Indies) she
-should fall? Had I remained in England, perhaps—but I meant to promote
-the happiness of both by removing from her for years, and for that
-purpose had procured my exchange. The shock which her marriage had
-given me,” he continued, in a voice of great agitation, “was of
-trifling weight—was nothing to what I felt when I heard, about two
-years afterwards, of her divorce. It was _that_ which threw this
-gloom,—even now the recollection of what I suffered—”
+Rewrite: "To be sure," continued Lucy, after a few minutes of silence on both sides, "his mother must provide for him sometime or other; but poor Edward is so cast down! Did you not think him dreadfully low-spirited when he was at Barton? He was so miserable when he left us at Longstaple to go to you that I feared you would deem him quite ill."
 
---- Paragraph 22 ---
-“It was nearly three years after this unhappy period before I returned
-to England. My first care, when I _did_ arrive, was of course to seek
-for her; but the search was as fruitless as it was melancholy. I could
-not trace her beyond her first seducer, and there was every reason to
-fear that she had removed from him only to sink deeper in a life of
-sin. Her legal allowance was not adequate to her fortune, nor
-sufficient for her comfortable maintenance, and I learnt from my
-brother that the power of receiving it had been made over some months
-before to another person. He imagined, and calmly could he imagine it,
-that her extravagance, and consequent distress, had obliged her to
-dispose of it for some immediate relief. At last, however, and after I
-had been six months in England, I _did_ find her. Regard for a former
-servant of my own, who had since fallen into misfortune, carried me to
-visit him in a spunging-house, where he was confined for debt; and
-there, in the same house, under a similar confinement, was my
-unfortunate sister. So altered—so faded—worn down by acute suffering of
-every kind! hardly could I believe the melancholy and sickly figure
-before me, to be the remains of the lovely, blooming, healthful girl,
-on whom I had once doted. What I endured in so beholding her—but I have
-no right to wound your feelings by attempting to describe it—I have
-pained you too much already. That she was, to all appearance, in the
-last stage of a consumption, was—yes, in such a situation it was my
-greatest comfort. Life could do nothing for her, beyond giving time for
-a better preparation for death; and that was given. I saw her placed in
-comfortable lodgings, and under proper attendants; I visited her every
-day during the rest of her short life: I was with her in her last
-moments.”
+Paragraph 6: “I begged him to exert himself for fear you should suspect what was the matter; but it made him so melancholy, not being able to stay more than a fortnight with us, and seeing me so much affected. Poor fellow! I am afraid it is just the same with him now; for he writes in wretched spirits. I heard from him just before I left Exeter;” taking a letter from her pocket and carelessly showing the direction to Elinor. “You know his hand, I dare say,—a charming one it is; but that is not written so well as usual. He was tired, I dare say, for he had just filled the sheet to me as full as possible.”
 
---- Paragraph 23 ---
-“Your sister, I hope, cannot be offended,” said he, “by the resemblance
-I have fancied between her and my poor disgraced relation. Their fates,
-their fortunes, cannot be the same; and had the natural sweet
-disposition of the one been guarded by a firmer mind, or a happier
-marriage, she might have been all that you will live to see the other
-be. But to what does all this lead? I seem to have been distressing you
-for nothing. Ah! Miss Dashwood—a subject such as this—untouched for
-fourteen years—it is dangerous to handle it at all! I _will_ be more
-collected—more concise. She left to my care her only child, a little
-girl, the offspring of her first guilty connection, who was then about
-three years old. She loved the child, and had always kept it with her.
-It was a valued, a precious trust to me; and gladly would I have
-discharged it in the strictest sense, by watching over her education
-myself, had the nature of our situations allowed it; but I had no
-family, no home; and my little Eliza was therefore placed at school. I
-saw her there whenever I could, and after the death of my brother,
-(which happened about five years ago, and which left to me the
-possession of the family property,) she visited me at Delaford. I
-called her a distant relation; but I am well aware that I have in
-general been suspected of a much nearer connection with her. It is now
-three years ago (she had just reached her fourteenth year,) that I
-removed her from school, to place her under the care of a very
-respectable woman, residing in Dorsetshire, who had the charge of four
-or five other girls of about the same time of life; and for two years I
-had every reason to be pleased with her situation. But last February,
-almost a twelvemonth back, she suddenly disappeared. I had allowed her,
-(imprudently, as it has since turned out,) at her earnest desire, to go
-to Bath with one of her young friends, who was attending her father
-there for his health. I knew him to be a very good sort of man, and I
-thought well of his daughter—better than she deserved, for, with a most
-obstinate and ill-judged secrecy, she would tell nothing, would give no
-clue, though she certainly knew all. He, her father, a well-meaning,
-but not a quick-sighted man, could really, I believe, give no
-information; for he had been generally confined to the house, while the
-girls were ranging over the town and making what acquaintance they
-chose; and he tried to convince me, as thoroughly as he was convinced
-himself, of his daughter’s being entirely unconcerned in the business.
-In short, I could learn nothing but that she was gone; all the rest,
-for eight long months, was left to conjecture. What I thought, what I
-feared, may be imagined; and what I suffered too.”
+Rewrite: "I begged him to exert himself for fear you should suspect the cause, yet it made him exceedingly melancholy, for he could not remain more than a fortnight with us, and seeing me so affected. Poor fellow! I fear it is the same now; his letters are in wretched spirits. I heard from him just before I left Exeter; taking a letter from her pocket and carelessly showing the direction to Elinor, "You know his hand, I dare say—a charming one it is; but it is not written as well as usual, for he was tired, I dare say, having just filled the sheet to me as full as possible."
 
---- Paragraph 24 ---
-“The first news that reached me of her,” he continued, “came in a
-letter from herself, last October. It was forwarded to me from
-Delaford, and I received it on the very morning of our intended party
-to Whitwell; and this was the reason of my leaving Barton so suddenly,
-which I am sure must at the time have appeared strange to every body,
-and which I believe gave offence to some. Little did Mr. Willoughby
-imagine, I suppose, when his looks censured me for incivility in
-breaking up the party, that I was called away to the relief of one whom
-he had made poor and miserable; but _had_ he known it, what would it
-have availed? Would he have been less gay or less happy in the smiles
-of your sister? No, he had already done that, which no man who _can_
-feel for another would do. He had left the girl whose youth and
-innocence he had seduced, in a situation of the utmost distress, with
-no creditable home, no help, no friends, ignorant of his address! He
-had left her, promising to return; he neither returned, nor wrote, nor
-relieved her.”
+Paragraph 7: “Writing to each other,” said Lucy, returning the letter into her pocket, “is the only comfort we have in such long separations. Yes, _I_ have one other comfort in his picture, but poor Edward has not even _that_. If he had but my picture, he says he should be easy. I gave him a lock of my hair set in a ring when he was at Longstaple last, and that was some comfort to him, he said, but not equal to a picture. Perhaps you might notice the ring when you saw him?”
 
---- Paragraph 25 ---
-“His character is now before you; expensive, dissipated, and worse than
-both. Knowing all this, as I have now known it many weeks, guess what I
-must have felt on seeing your sister as fond of him as ever, and on
-being assured that she was to marry him: guess what I must have felt
-for all your sakes. When I came to you last week and found you alone, I
-came determined to know the truth; though irresolute what to do when it
-_was_ known. My behaviour must have seemed strange to you then; but now
-you will comprehend it. To suffer you all to be so deceived; to see
-your sister—but what could I do? I had no hope of interfering with
-success; and sometimes I thought your sister’s influence might yet
-reclaim him. But now, after such dishonorable usage, who can tell what
-were his designs on her. Whatever they may have been, however, she may
-now, and hereafter doubtless _will_ turn with gratitude towards her own
-condition, when she compares it with that of my poor Eliza, when she
-considers the wretched and hopeless situation of this poor girl, and
-pictures her to herself, with an affection for him so strong, still as
-strong as her own, and with a mind tormented by self-reproach, which
-must attend her through life. Surely this comparison must have its use
-with her. She will feel her own sufferings to be nothing. They proceed
-from no misconduct, and can bring no disgrace. On the contrary, every
-friend must be made still more her friend by them. Concern for her
-unhappiness, and respect for her fortitude under it, must strengthen
-every attachment. Use your own discretion, however, in communicating to
-her what I have told you. You must know best what will be its effect;
-but had I not seriously, and from my heart believed it might be of
-service, might lessen her regrets, I would not have suffered myself to
-trouble you with this account of my family afflictions, with a recital
-which may seem to have been intended to raise myself at the expense of
-others.”
+Rewrite: "Writing to each other," said Lucy, returning the letter to her pocket, "is the only comfort we have in such long separations. Yes, I have another comfort in his picture, but poor Edward has not even that. If he possessed my picture, he would be easy. I gave him a lock of my hair set in a ring when he was at Longstaple, which afforded him some comfort, though not equal to a picture. Perhaps you might notice the ring when you saw him."
 
---- Paragraph 26 ---
-When the particulars of this conversation were repeated by Miss
-Dashwood to her sister, as they very soon were, the effect on her was
-not entirely such as the former had hoped to see. Not that Marianne
-appeared to distrust the truth of any part of it, for she listened to
-it all with the most steady and submissive attention, made neither
-objection nor remark, attempted no vindication of Willoughby, and
-seemed to show by her tears that she felt it to be impossible. But
-though this behaviour assured Elinor that the conviction of this guilt
-_was_ carried home to her mind, though she saw with satisfaction the
-effect of it, in her no longer avoiding Colonel Brandon when he called,
-in her speaking to him, even voluntarily speaking, with a kind of
-compassionate respect, and though she saw her spirits less violently
-irritated than before, she did not see her less wretched. Her mind did
-become settled, but it was settled in a gloomy dejection. She felt the
-loss of Willoughby’s character yet more heavily than she had felt the
-loss of his heart; his seduction and desertion of Miss Williams, the
-misery of that poor girl, and the doubt of what his designs might
-_once_ have been on herself, preyed altogether so much on her spirits,
-that she could not bring herself to speak of what she felt even to
-Elinor; and, brooding over her sorrows in silence, gave more pain to
-her sister than could have been communicated by the most open and most
-frequent confession of them.
+Paragraph 8: If in the supposition of his seeking to marry herself, his difficulties from his mother had seemed great, how much greater were they now likely to be, when the object of his engagement was undoubtedly inferior in connections, and probably inferior in fortune to herself. These difficulties, indeed, with a heart so alienated from Lucy, might not press very hard upon his patience; but melancholy was the state of the person by whom the expectation of family opposition and unkindness, could be felt as a relief!
 
---- Paragraph 27 ---
-Lady Middleton expressed her sense of the affair about once every day,
-or twice, if the subject occurred very often, by saying, “It is very
-shocking, indeed!” and by the means of this continual though gentle
-vent, was able not only to see the Miss Dashwoods from the first
-without the smallest emotion, but very soon to see them without
-recollecting a word of the matter; and having thus supported the
-dignity of her own sex, and spoken her decided censure of what was
-wrong in the other, she thought herself at liberty to attend to the
-interest of her own assemblies, and therefore determined (though rather
-against the opinion of Sir John) that as Mrs. Willoughby would at once
-be a woman of elegance and fortune, to leave her card with her as soon
-as she married.
+Rewrite: "If, in the supposition that he seeks to marry me, his difficulties with his mother seemed great, how much greater are they likely to be now, when the object of his engagement is unquestionably inferior in connections and probably in fortune compared to myself? These difficulties, indeed, with a heart alienated from Lucy, may not press heavily upon his patience; yet melancholy was the state of the man, whose expectation of family opposition and unkindness could be felt as a relief."
 
---- Paragraph 28 ---
-“I wished very much to call upon you yesterday,” said he, “but it was
-impossible, for we were obliged to take Harry to see the wild beasts at
-Exeter Exchange; and we spent the rest of the day with Mrs. Ferrars.
-Harry was vastly pleased. _This_ morning I had fully intended to call
-on you, if I could possibly find a spare half hour, but one has always
-so much to do on first coming to town. I am come here to bespeak Fanny
-a seal. But tomorrow I think I shall certainly be able to call in
-Berkeley Street, and be introduced to your friend Mrs. Jennings. I
-understand she is a woman of very good fortune. And the Middletons too,
-you must introduce me to _them_. As my mother-in-law’s relations, I
-shall be happy to show them every respect. They are excellent
-neighbours to you in the country, I understand.”
+Paragraph 9: “I am glad,” said Lady Middleton to Lucy, “you are not going to finish poor little Annamaria’s basket this evening; for I am sure it must hurt your eyes to work filigree by candlelight. And we will make the dear little love some amends for her disappointment to-morrow, and then I hope she will not much mind it.”
 
---- Paragraph 29 ---
-“I am extremely glad to hear it, upon my word; extremely glad indeed.
-But so it ought to be; they are people of large fortune, they are
-related to you, and every civility and accommodation that can serve to
-make your situation pleasant might be reasonably expected. And so you
-are most comfortably settled in your little cottage and want for
-nothing! Edward brought us a most charming account of the place: the
-most complete thing of its kind, he said, that ever was, and you all
-seemed to enjoy it beyond any thing. It was a great satisfaction to us
-to hear it, I assure you.”
+Rewrite: "I am glad," said Lady Middleton to Lucy, "you are not to finish poor little Annamaria's basket this evening, for I am sure it will hurt your eyes to work filigree by candlelight. We shall make the dear little love some amends tomorrow, and I hope she will not mind it much."
 
---- Paragraph 30 ---
-“Who is Colonel Brandon? Is he a man of fortune?”
+Paragraph 10: “You are very good, I hope it won’t hurt your eyes—will you ring the bell for some working candles? My poor little girl would be sadly disappointed, I know, if the basket was not finished tomorrow, for though I told her it certainly would not, I am sure she depends upon having it done.”
 
---- Paragraph 31 ---
-“He likes you. I observed him narrowly, and am convinced of it. What is
-the amount of his fortune?”
+Rewrite: "You are very good, I hope it will not hurt your eyes; will you ring the bell for some working candles? My poor little girl would be sadly disappointed, I know, if the basket were not finished tomorrow, for though I told her it certainly would not, I am sure she depends upon having it done."
 
---- Paragraph 32 ---
-“You are mistaken, Elinor; you are very much mistaken. A very little
-trouble on your side secures him. Perhaps just at present he may be
-undecided; the smallness of your fortune may make him hang back; his
-friends may all advise him against it. But some of those little
-attentions and encouragements which ladies can so easily give will fix
-him, in spite of himself. And there can be no reason why you should not
-try for him. It is not to be supposed that any prior attachment on your
-side—in short, you know as to an attachment of that kind, it is quite
-out of the question, the objections are insurmountable—you have too
-much sense not to see all that. Colonel Brandon must be the man; and no
-civility shall be wanting on my part to make him pleased with you and
-your family. It is a match that must give universal satisfaction. In
-short, it is a kind of thing that”—lowering his voice to an important
-whisper—“will be exceedingly welcome to _all parties_.” Recollecting
-himself, however, he added, “That is, I mean to say—your friends are
-all truly anxious to see you well settled; Fanny particularly, for she
-has your interest very much at heart, I assure you. And her mother too,
-Mrs. Ferrars, a very good-natured woman, I am sure it would give her
-great pleasure; she said as much the other day.”
+Paragraph 11: “He has only two thousand pounds of his own; it would be madness to marry upon that, though for my own part, I could give up every prospect of more without a sigh. I have been always used to a very small income, and could struggle with any poverty for him; but I love him too well to be the selfish means of robbing him, perhaps, of all that his mother might give him if he married to please her. We must wait, it may be for many years. With almost every other man in the world, it would be an alarming prospect; but Edward’s affection and constancy nothing can deprive me of I know.”
 
---- Paragraph 33 ---
-“It is not actually settled, but there is such a thing in agitation. He
-has a most excellent mother. Mrs. Ferrars, with the utmost liberality,
-will come forward, and settle on him a thousand a year, if the match
-takes place. The lady is the Hon. Miss Morton, only daughter of the
-late Lord Morton, with thirty thousand pounds. A very desirable
-connection on both sides, and I have not a doubt of its taking place in
-time. A thousand a-year is a great deal for a mother to give away, to
-make over for ever; but Mrs. Ferrars has a noble spirit. To give you
-another instance of her liberality:—The other day, as soon as we came
-to town, aware that money could not be very plenty with us just now,
-she put bank-notes into Fanny’s hands to the amount of two hundred
-pounds. And extremely acceptable it is, for we must live at a great
-expense while we are here.”
+Rewrite: "He has only two thousand pounds of his own; it would be madness to marry upon that, though for my part I could relinquish every prospect of more without a sigh. I have been accustomed to a very small income and could endure any poverty for him, yet I love him too well to be the selfish means of depriving him of the fortune his mother might bestow upon him if he married to please her. We must wait, perhaps for many years. With almost any other man it would be an alarming prospect, but Edward's affection and constancy are beyond any deprivation."
 
---- Paragraph 34 ---
-“Not so large, I dare say, as many people suppose. I do not mean to
-complain, however; it is undoubtedly a comfortable one, and I hope will
-in time be better. The enclosure of Norland Common, now carrying on, is
-a most serious drain. And then I have made a little purchase within
-this half year; East Kingham Farm, you must remember the place, where
-old Gibson used to live. The land was so very desirable for me in every
-respect, so immediately adjoining my own property, that I felt it my
-duty to buy it. I could not have answered it to my conscience to let it
-fall into any other hands. A man must pay for his convenience; and it
-_has_ cost me a vast deal of money.”
+Paragraph 12: “Ay, to be sure, I thought as much. Well, Colonel, I have brought two young ladies with me, you see—that is, you see but one of them now, but there is another somewhere. Your friend, Miss Marianne, too—which you will not be sorry to hear. I do not know what you and Mr. Willoughby will do between you about her. Ay, it is a fine thing to be young and handsome. Well! I was young once, but I never was very handsome—worse luck for me. However, I got a very good husband, and I don’t know what the greatest beauty can do more. Ah! poor man! he has been dead these eight years and better. But Colonel, where have you been to since we parted? And how does your business go on? Come, come, let’s have no secrets among friends.”
 
---- Paragraph 35 ---
-“Why, I hope not that. I might have sold it again, the next day, for
-more than I gave: but, with regard to the purchase-money, I might have
-been very unfortunate indeed; for the stocks were at that time so low,
-that if I had not happened to have the necessary sum in my banker’s
-hands, I must have sold out to very great loss.”
+Rewrite: "Ay, indeed, I thought as much. Well, Colonel, I have brought two young ladies with me; you see one now, but another is somewhere near. Your friend, Miss Marianne, too—you will not be sorry to hear of her. It is a fine thing to be young and handsome. Well! I was once young, but I was never very handsome—worse luck for me. Nevertheless, I secured a very good husband, and I know not what the greatest beauty can do more. Ah! poor man! he has been dead these eight years and more. But Colonel, where have you been since we parted? And how does your business progress? Come, come, let us have no secrets among friends."
 
---- Paragraph 36 ---
-Having now said enough to make his poverty clear, and to do away the
-necessity of buying a pair of ear-rings for each of his sisters, in his
-next visit at Gray’s, his thoughts took a cheerfuller turn, and he
-began to congratulate Elinor on having such a friend as Mrs. Jennings.
+Paragraph 13: “If this open weather holds much longer,” said Mrs. Jennings, when they met at breakfast the following morning, “Sir John will not like leaving Barton next week; ’tis a sad thing for sportsmen to lose a day’s pleasure. Poor souls! I always pity them when they do; they seem to take it so much to heart.”
 
---- Paragraph 37 ---
-“I shall have a charming account to carry to Fanny,” said he, as he
-walked back with his sister. “Lady Middleton is really a most elegant
-woman! Such a woman as I am sure Fanny will be glad to know. And Mrs.
-Jennings too, an exceedingly well-behaved woman, though not so elegant
-as her daughter. Your sister need not have any scruple even of visiting
-_her_, which, to say the truth, has been a little the case, and very
-naturally; for we only knew that Mrs. Jennings was the widow of a man
-who had got all his money in a low way; and Fanny and Mrs. Ferrars were
-both strongly prepossessed, that neither she nor her daughters were
-such kind of women as Fanny would like to associate with. But now I can
-carry her a most satisfactory account of both.”
+Rewrite: "If this fine weather continues much longer," said Mrs. Jennings, when they met at breakfast the following morning, "Sir John will not wish to leave Barton next week; it is a sad thing for sportsmen to lose a day's pleasure. Poor souls! I always pity them when they do; they seem to take it so much to heart."
 
---- Paragraph 38 ---
-The dinner was a grand one, the servants were numerous, and every thing
-bespoke the Mistress’s inclination for show, and the Master’s ability
-to support it. In spite of the improvements and additions which were
-making to the Norland estate, and in spite of its owner having once
-been within some thousand pounds of being obliged to sell out at a
-loss, nothing gave any symptom of that indigence which he had tried to
-infer from it;—no poverty of any kind, except of conversation,
-appeared—but there, the deficiency was considerable. John Dashwood had
-not much to say for himself that was worth hearing, and his wife had
-still less. But there was no peculiar disgrace in this; for it was very
-much the case with the chief of their visitors, who almost all laboured
-under one or other of these disqualifications for being agreeable—Want
-of sense, either natural or improved—want of elegance—want of
-spirits—or want of temper.
+Paragraph 14: “Poor Elinor! how unhappy I make you!”
 
---- Paragraph 39 ---
-When the ladies withdrew to the drawing-room after dinner, this poverty
-was particularly evident, for the gentlemen _had_ supplied the
-discourse with some variety—the variety of politics, inclosing land,
-and breaking horses—but then it was all over; and one subject only
-engaged the ladies till coffee came in, which was the comparative
-heights of Harry Dashwood, and Lady Middleton’s second son William, who
-were nearly of the same age.
+Rewrite: "Poor Elinor! how unhappy I make you!"
 
---- Paragraph 40 ---
-She could say no more; her spirits were quite overcome, and hiding her
-face on Elinor’s shoulder, she burst into tears. Every body’s attention
-was called, and almost every body was concerned.—Colonel Brandon rose
-up and went to them without knowing what he did.—Mrs. Jennings, with a
-very intelligent “Ah! poor dear,” immediately gave her her salts; and
-Sir John felt so desperately enraged against the author of this nervous
-distress, that he instantly changed his seat to one close by Lucy
-Steele, and gave her, in a whisper, a brief account of the whole
-shocking affair.
+Maybe more Austen: "Poor Elinor! how could I make you so unhappy!"
 
---- Paragraph 41 ---
-“Poor Marianne!” said her brother to Colonel Brandon, in a low voice,
-as soon as he could secure his attention: “She has not such good health
-as her sister,—she is very nervous,—she has not Elinor’s
-constitution;—and one must allow that there is something very trying to
-a young woman who _has been_ a beauty in the loss of her personal
-attractions. You would not think it perhaps, but Marianne _was_
-remarkably handsome a few months ago; quite as handsome as Elinor. Now
-you see it is all gone.”
+But keep meaning: "Poor Elinor! how unhappy I make you!" is fine.
 
---- Paragraph 42 ---
-“Indeed I am perfectly convinced of your regard for me, and next to
-Edward’s love, it is the greatest comfort I have. Poor Edward! But now
-there is one good thing, we shall be able to meet, and meet pretty
-often, for Lady Middleton’s delighted with Mrs. Dashwood, so we shall
-be a good deal in Harley Street, I dare say, and Edward spends half his
-time with his sister—besides, Lady Middleton and Mrs. Ferrars will
-visit now;—and Mrs. Ferrars and your sister were both so good to say
-more than once, they should always be glad to see me. They are such
-charming women!—I am sure if ever you tell your sister what I think of
-her, you cannot speak too high.”
+Paragraph 15: “How is she, Miss Dashwood? Poor thing! she looks very bad. No wonder. Ay, it is but too true. He is to be married very soon—a good-for-nothing fellow! I have no patience with him. Mrs. Taylor told me of it half an hour ago, and she was told it by a particular friend of Miss Grey herself, else I am sure I should not have believed it; and I was almost ready to sink as it was. Well, said I, all I can say is, that if this be true, he has used a young lady of my acquaintance abominably ill, and I wish with all my soul his wife may plague his heart out. And so I shall always say, my dear, you may depend on it. I have no notion of men’s going on in this way; and if ever I meet him again, I will give him such a dressing as he has not had this many a day. But there is one comfort, my dear Miss Marianne; he is not the only young man in the world worth having; and with your pretty face you will never want admirers. Well, poor thing! I won’t disturb her any longer, for she had better have her cry out at once and have done with. The Parrys and Sandersons luckily are coming tonight you know, and that will amuse her.”
 
---- Paragraph 43 ---
-Poor Edward muttered something, but what it was, nobody knew, not even
-himself. But Marianne, who saw his agitation, and could easily trace it
-to whatever cause best pleased herself, was perfectly satisfied, and
-soon talked of something else.
+Rewrite: "How is she, Miss Dashwood? Poor thing! she looks very ill. No wonder. Ay, it is but too true. He is to be married very soon—a good-for-nothing fellow! I have no patience with him. Mrs. Taylor told me of it half an hour ago, and she heard it from a particular friend of Miss Grey herself, else I should not have believed it; I was almost ready to sink. Well, I said, all I can say is that if this be true, he has used a young lady of my acquaintance abominably ill, and I wish with all my soul that his wife may plague his heart out. I shall always say, my dear, you may depend on it. I have no notion of men's conduct in this way, and if I ever meet him again I will give him a dressing he has not received in many a day. Yet there is a comfort, my dear Miss Marianne; he is not the only young man worth having, and with your pretty face you will never lack admirers. Well, poor thing! I will not disturb her any longer, for she had better cry out at once and be done with it. The Parrys and Sandersons are coming tonight, which will amuse her."
 
---- Paragraph 44 ---
-“For my own part,” said he, “I am excessively fond of a cottage; there
-is always so much comfort, so much elegance about them. And I protest,
-if I had any money to spare, I should buy a little land and build one
-myself, within a short distance of London, where I might drive myself
-down at any time, and collect a few friends about me, and be happy. I
-advise every body who is going to build, to build a cottage. My friend
-Lord Courtland came to me the other day on purpose to ask my advice,
-and laid before me three different plans of Bonomi’s. I was to decide
-on the best of them. ‘My dear Courtland,’ said I, immediately throwing
-them all into the fire, ‘do not adopt either of them, but by all means
-build a cottage.’ And that I fancy, will be the end of it.
+Paragraph 16: “Poor soul!” cried Mrs. Jennings, as soon as she was gone, “how it grieves me to see her! And I declare if she is not gone away without finishing her wine! And the dried cherries too! Lord! nothing seems to do her any good. I am sure if I knew of any thing she would like, I would send all over the town for it. Well, it is the oddest thing to me, that a man should use such a pretty girl so ill! But when there is plenty of money on one side, and next to none on the other, Lord bless you! they care no more about such things!—”
 
---- Paragraph 45 ---
-“That is exactly what I said, my dear. ‘Lord!’ says I, ‘is Mrs.
-Dashwood ill?’ So then it all came out; and the long and the short of
-the matter, by all I can learn, seems to be this. Mr. Edward Ferrars,
-the very young man I used to joke with you about (but however, as it
-turns out, I am monstrous glad there was never any thing in it), Mr.
-Edward Ferrars, it seems, has been engaged above this twelvemonth to my
-cousin Lucy!—There’s for you, my dear! And not a creature knowing a
-syllable of the matter, except Nancy! Could you have believed such a
-thing possible? There is no great wonder in their liking one another;
-but that matters should be brought so forward between them, and nobody
-suspect it! _That_ is strange! I never happened to see them together,
-or I am sure I should have found it out directly. Well, and so this was
-kept a great secret, for fear of Mrs. Ferrars, and neither she nor your
-brother or sister suspected a word of the matter: till this very
-morning, poor Nancy, who, you know, is a well-meaning creature, but no
-conjurer, popt it all out. ‘Lord!’ thinks she to herself, ‘they are all
-so fond of Lucy, to be sure they will make no difficulty about it;’ and
-so, away she went to your sister, who was sitting all alone at her
-carpet-work, little suspecting what was to come—for she had just been
-saying to your brother, only five minutes before, that she thought to
-make a match between Edward and some Lord’s daughter or other, I forget
-who. So you may think what a blow it was to all her vanity and pride.
-She fell into violent hysterics immediately, with such screams as
-reached your brother’s ears, as he was sitting in his own dressing-room
-down stairs, thinking about writing a letter to his steward in the
-country. So up he flew directly, and a terrible scene took place, for
-Lucy was come to them by that time, little dreaming what was going on.
-Poor soul! I pity _her_. And I must say, I think she was used very
-hardly; for your sister scolded like any fury, and soon drove her into
-a fainting fit. Nancy, she fell upon her knees, and cried bitterly; and
-your brother, he walked about the room, and said he did not know what
-to do. Mrs. Dashwood declared they should not stay a minute longer in
-the house, and your brother was forced to go down upon _his_ knees too,
-to persuade her to let them stay till they had packed up their clothes.
-_Then_ she fell into hysterics again, and he was so frightened that he
-would send for Mr. Donavan, and Mr. Donavan found the house in all this
-uproar. The carriage was at the door ready to take my poor cousins
-away, and they were just stepping in as he came off; poor Lucy in such
-a condition, he says, she could hardly walk; and Nancy, she was almost
-as bad. I declare, I have no patience with your sister; and I hope,
-with all my heart, it will be a match in spite of her. Lord! what a
-taking poor Mr. Edward will be in when he hears of it! To have his love
-used so scornfully! for they say he is monstrous fond of her, as well
-he may. I should not wonder, if he was to be in the greatest
-passion!—and Mr. Donavan thinks just the same. He and I had a great
-deal of talk about it; and the best of all is, that he is gone back
-again to Harley Street, that he may be within call when Mrs. Ferrars is
-told of it, for she was sent for as soon as ever my cousins left the
-house, for your sister was sure _she_ would be in hysterics too; and so
-she may, for what I care. I have no pity for either of them. I have no
-notion of people’s making such a to-do about money and greatness. There
-is no reason on earth why Mr. Edward and Lucy should not marry; for I
-am sure Mrs. Ferrars may afford to do very well by her son, and though
-Lucy has next to nothing herself, she knows better than any body how to
-make the most of every thing; I dare say, if Mrs. Ferrars would only
-allow him five hundred a-year, she would make as good an appearance
-with it as any body else would with eight. Lord! how snug they might
-live in such another cottage as yours—or a little bigger—with two
-maids, and two men; and I believe I could help them to a housemaid, for
-my Betty has a sister out of place, that would fit them exactly.”
+Rewrite: "Poor soul!" cried Mrs. Jennings, as soon as she was gone, "how it grieves me to see her! And I declare she is gone away without finishing her wine, and the dried cherries too! Lord! nothing seems to do her any good. I am sure that if I knew of anything she would like, I would send all over town for it. Well, it is the oddest thing to me that a man should treat such a pretty girl so ill! But when there is plenty of money on one side and next to none on the other, Lord bless you, they care nothing for such matters!"
 
---- Paragraph 46 ---
-“Your sister,” he continued, “has suffered dreadfully. Mrs. Ferrars
-too—in short it has been a scene of such complicated distress—but I
-will hope that the storm may be weathered without our being any of us
-quite overcome. Poor Fanny! she was in hysterics all yesterday. But I
-would not alarm you too much. Donavan says there is nothing materially
-to be apprehended; her constitution is a good one, and her resolution
-equal to any thing. She has borne it all, with the fortitude of an
-angel! She says she never shall think well of anybody again; and one
-cannot wonder at it, after being so deceived!—meeting with such
-ingratitude, where so much kindness had been shown, so much confidence
-had been placed! It was quite out of the benevolence of her heart, that
-she had asked these young women to her house; merely because she
-thought they deserved some attention, were harmless, well-behaved
-girls, and would be pleasant companions; for otherwise we both wished
-very much to have invited you and Marianne to be with us, while your
-kind friend there, was attending her daughter. And now to be so
-rewarded! ‘I wish, with all my heart,’ says poor Fanny in her
-affectionate way, ‘that we had asked your sisters instead of them.’”
+Paragraph 17: “Fifty thousand pounds, my dear. Did you ever see her? a smart, stylish girl they say, but not handsome. I remember her aunt very well, Biddy Henshawe; she married a very wealthy man. But the family are all rich together. Fifty thousand pounds! and by all accounts, it won’t come before it’s wanted; for they say he is all to pieces. No wonder! dashing about with his curricle and hunters! Well, it don’t signify talking; but when a young man, be who he will, comes and makes love to a pretty girl, and promises marriage, he has no business to fly off from his word only because he grows poor, and a richer girl is ready to have him. Why don’t he, in such a case, sell his horses, let his house, turn off his servants, and make a thorough reform at once? I warrant you, Miss Marianne would have been ready to wait till matters came round. But that won’t do now-a-days; nothing in the way of pleasure can ever be given up by the young men of this age.”
 
---- Paragraph 47 ---
-“What poor Mrs. Ferrars suffered, when first Fanny broke it to her, is
-not to be described. While she with the truest affection had been
-planning a most eligible connection for him, was it to be supposed that
-he could be all the time secretly engaged to another person!—such a
-suspicion could never have entered her head! If she suspected _any_
-prepossession elsewhere, it could not be in _that_ quarter. ‘_There_,
-to be sure,’ said she, ‘I might have thought myself safe.’ She was
-quite in an agony. We consulted together, however, as to what should be
-done, and at last she determined to send for Edward. He came. But I am
-sorry to relate what ensued. All that Mrs. Ferrars could say to make
-him put an end to the engagement, assisted too as you may well suppose
-by my arguments, and Fanny’s entreaties, was of no avail. Duty,
-affection, every thing was disregarded. I never thought Edward so
-stubborn, so unfeeling before. His mother explained to him her liberal
-designs, in case of his marrying Miss Morton; told him she would settle
-on him the Norfolk estate, which, clear of land-tax, brings in a good
-thousand a-year; offered even, when matters grew desperate, to make it
-twelve hundred; and in opposition to this, if he still persisted in
-this low connection, represented to him the certain penury that must
-attend the match. His own two thousand pounds she protested should be
-his all; she would never see him again; and so far would she be from
-affording him the smallest assistance, that if he were to enter into
-any profession with a view of better support, she would do all in her
-power to prevent him advancing in it.”
+Rewrite: "Fifty thousand pounds, my dear. Did you ever see her? A smart, stylish girl, they say, though not handsome. I remember her aunt very well, Biddy Henshawe; she married a very wealthy man. The whole family is rich together. Fifty thousand pounds! and, as is reported, it will not be forthcoming when wanted, for he is, they say, all to pieces. No wonder! Dashing about with his curricle and hunters! Yet it matters not to talk; when a young man, be he who he will, comes and makes love to a pretty girl, promising marriage, he has no business to abandon his word merely because he becomes poor, and a richer girl is ready to accept him. Why does he not, in such a case, sell his horses, let his house, discharge his servants, and effect a thorough reform at once? I warrant Miss Marianne would be ready to wait till matters improved. But that will not do nowadays; nothing in the way of pleasure can ever be given up by the young men of this age."
 
---- Paragraph 48 ---
-John Dashwood was greatly astonished; but his nature was calm, not open
-to provocation, and he never wished to offend anybody, especially
-anybody of good fortune. He therefore replied, without any resentment,
+Paragraph 18: “Her guardians, my dear. But now she is of age and may choose for herself; and a pretty choice she has made!—What now,” after pausing a moment—“your poor sister is gone to her own room, I suppose, to moan by herself. Is there nothing one can get to comfort her? Poor dear, it seems quite cruel to let her be alone. Well, by-and-by we shall have a few friends, and that will amuse her a little. What shall we play at? She hates whist I know; but is there no round game she cares for?”
 
---- Paragraph 49 ---
-“I would by no means speak disrespectfully of any relation of yours,
-madam. Miss Lucy Steele is, I dare say, a very deserving young woman,
-but in the present case you know, the connection must be impossible.
-And to have entered into a secret engagement with a young man under her
-uncle’s care, the son of a woman especially of such very large fortune
-as Mrs. Ferrars, is perhaps, altogether a little extraordinary. In
-short, I do not mean to reflect upon the behaviour of any person whom
-you have a regard for, Mrs. Jennings. We all wish her extremely happy;
-and Mrs. Ferrars’s conduct throughout the whole, has been such as every
-conscientious, good mother, in like circumstances, would adopt. It has
-been dignified and liberal. Edward has drawn his own lot, and I fear it
-will be a bad one.”
+Rewrite: "Her guardians, my dear. But now she is of age and may choose for herself; and a pretty choice she has made!—What now," after pausing a moment—"your poor sister is gone to her own room, I suppose, to mope by herself. Is there nothing one can do to comfort her? Poor dear, it seems quite cruel to leave her alone. Well, by-and-by we shall have a few friends, which will amuse her a little. What shall we play at? She hates whist, I know; but is there no round game she cares for?"
 
---- Paragraph 50 ---
-“Poor young man!—and what is to become of him?”
+Paragraph 19: “Aye, I believe that will be best for her. Let her name her own supper, and go to bed. Lord! no wonder she has been looking so bad and so cast down this last week or two, for this matter I suppose has been hanging over her head as long as that. And so the letter that came today finished it! Poor soul! I am sure if I had had a notion of it, I would not have joked her about it for all my money. But then you know, how should I guess such a thing? I made sure of its being nothing but a common love letter, and you know young people like to be laughed at about them. Lord! how concerned Sir John and my daughters will be when they hear it! If I had my senses about me I might have called in Conduit Street in my way home, and told them of it. But I shall see them tomorrow.”
 
+Rewrite: "Aye, I believe that will be best for her. Let her name her own supper and go to bed. Lord! no wonder she has looked so bad and cast down these last week or two, for this matter has been hanging over her head as long as that. And so the letter that came today finished it! Poor soul! I am sure that if I had known of it, I would not have joked her about it for all my money. But you know, how could I guess such a thing? I thought it was merely a common love letter, and you know young people like to be laughed at about them. Lord! how concerned Sir John and my daughters will be when they hear it! If I had my senses I might have called on Conduit Street on my way home and told them of it. But I shall see them tomorrow."
+
+Paragraph 20: “My dear,” said she, entering, “I have just recollected that I have some of the finest old Constantia wine in the house that ever was tasted, so I have brought a glass of it for your sister. My poor husband! how fond he was of it! Whenever he had a touch of his old colicky gout, he said it did him more good than any thing else in the world. Do take it to your sister.”
+
+Rewrite: "My dear," said she, entering, "I have just recollected that I possess some of the finest old Constantia wine in the house—indeed, the finest ever tasted—so I have brought a glass of it for your sister. My poor husband! how fond he was of it! Whenever he had a touch of his old colicky gout, he declared it did him more good than anything else in the world. Do take it to your sister."
+
+Paragraph 21: “If I am not deceived by the uncertainty, the partiality of tender recollection, there is a very strong resemblance between them, as well in mind as person. The same warmth of heart, the same eagerness of fancy and spirits. This lady was one of my nearest relations, an orphan from her infancy, and under the guardianship of my father. Our ages were nearly the same, and from our earliest years we were playfellows and friends. I cannot remember the time when I did not love Eliza; and my affection for her, as we grew up, was such, as perhaps, judging from my present forlorn and cheerless gravity, you might think me incapable of having ever felt. Hers, for me, was, I believe, fervent as the attachment of your sister to Mr. Willoughby and it was, though from a different cause, no less unfortunate. At seventeen she was lost to me for ever. She was married—married against her inclination to my brother. Her fortune was large, and our family estate much encumbered. And this, I fear, is all that can be said for the conduct of one, who was at once her uncle and guardian. My brother did not deserve her; he did not even love her. I had hoped that her regard for me would support her under any difficulty, and for some time it did; but at last the misery of her situation, for she experienced great unkindness, overcame all her resolution, and though she had promised me that nothing—but how blindly I relate! I have never told you how this was brought on. We were within a few hours of eloping together for Scotland. The treachery, or the folly, of my cousin’s maid betrayed us. I was banished to the house of a relation far distant, and she was allowed no liberty, no society, no amusement, till my father’s point was gained. I had depended on her fortitude too far, and the blow was a severe one—but had her marriage been happy, so young as I then was, a few months must have reconciled me to it, or at least I should not have now to lament it. This however was not the case. My brother had no regard for her; his pleasures were not what they ought to have been, and from the first he treated her unkindly. The consequence of this, upon a mind so young, so lively, so inexperienced as Mrs. Brandon’s, was but too natural. She resigned herself at first to all the misery of her situation; and happy had it been if she had not lived to overcome those regrets which the remembrance of me occasioned. But can we wonder that, with such a husband to provoke inconstancy, and without a friend to advise or restrain her (for my father lived only a few months after their marriage, and I was with my regiment in the East Indies) she should fall? Had I remained in England, perhaps—but I meant to promote the happiness of both by removing from her for years, and for that purpose had procured my exchange. The shock which her marriage had given me,” he continued, in a voice of great agitation, “was of trifling weight—was nothing to what I felt when I heard, about two years afterwards, of her divorce. It was _that_ which threw this gloom,—even now the recollection of what I suffered—”
+
+Rewrite: "If I am not deceived by uncertainty and the partiality of tender recollection, there is a very strong resemblance between them, both in mind and person. The same warmth of heart, the same eagerness of fancy and spirits. This lady was one of my nearest relations, an orphan from infancy, and under my father's guardianship. Our ages were nearly the same, and from our earliest years we were playfellows and friends. I cannot recall a time when I did not love Eliza; and my affection for her, as we grew up, was such that you might think me incapable of ever feeling anything else. Hers, for me, was, I believe, as fervent as the attachment of your sister to Mr. Willoughby, and though from a different cause, no less unfortunate. At seventeen she was lost to me for ever; she was married—against her inclination—to my brother. Her fortune was large, and our family estate heavily encumbered. And this, I fear, is all that can be said of the conduct of one who was at once her uncle and guardian. My brother deserved her not; he did not even love her. I had hoped that her regard for me would support her under any difficulty, and for some time it did; but at last the misery of her situation, for she experienced great unkindness, overcame all her resolution, and though she had promised me that nothing—but how blindly I relate! I have never told you how this came about. We were within a few hours of eloping to Scotland. The treachery, or folly, of my cousin's maid betrayed us. I was banished to a distant relation's house, and she was denied liberty, society, or amusement until my father's point was gained. I had relied on her fortitude too far, and the blow was severe—but had her marriage been happy, so young as I was, a few months would have reconciled me to it, or at least I should not now lament it. This however was not the case. My brother had no regard for her; his pleasures were not what they ought to have been, and from the first he treated her unkindly. The consequence, upon a mind so young, lively, and inexperienced as Mrs. Brandon's, was but too natural. She resigned herself at first to all the misery of her situation, and happy had it been if she had not lived to overcome those regrets which my remembrance of her occasioned. But can we wonder that, with such a husband to provoke inconstancy, and without a friend to advise or restrain her (for my father lived only a few months after their marriage, and I was with my regiment in the East Indies) she should fall? Had I remained in England, perhaps—but I meant to promote the happiness of both by removing her for years, and for that purpose procured my exchange. The shock which her marriage gave me," he continued, in a voice of great agitation, "was of trifling weight—was nothing to what I felt when I heard, about two years afterwards, of her divorce. It was _that_ which threw this gloom,—even now the recollection of what I suffered—"
+
+Paragraph 22: “It was nearly three years after this unhappy period before I returned to England. My first care, when I _did_ arrive, was of course to seek for her; but the search was as fruitless as it was melancholy. I could not trace her beyond her first seducer, and there was every reason to fear that she had removed from him only to sink deeper in a life of sin. Her legal allowance was not adequate to her fortune, nor sufficient for her comfortable maintenance, and I learnt from my brother that the power of receiving it had been made over some months before to another person. He imagined, and calmly could he imagine it, that her extravagance, and consequent distress, had obliged her to dispose of it for some immediate relief. At last, however, and after I had been six months in England, I _did_ find her. Regard for a former servant of my own, who had since fallen into misfortune, carried me to visit him in a spunging-house, where he was confined for debt; and there, in the same house, under a similar confinement, was my unfortunate sister. So altered—so faded—worn down by acute suffering of every kind! hardly could I believe the melancholy and sickly figure before me, to be the remains of the lovely, blooming, healthful girl, on whom I had once doted. What I endured in so beholding her—but I have no right to wound your feelings by attempting to describe it—I have pained you too much already. That she was, to all appearance, in the last stage of a consumption, was—yes, in such a situation it was my greatest comfort. Life could do nothing for her, beyond giving time for a better preparation for death; and that was given. I saw her placed in comfortable lodgings, and under proper attendants; I visited her every day during the rest of her short life: I was with her in her last moments.”
+
+Rewrite: "It was nearly three years after this unhappy period before I returned to England. My first care, when I _did_ arrive, was of course to seek for her; but the search was as fruitless as it was melancholy. I could not trace her beyond her first seducer, and there was every reason to fear that she had removed from him only to sink deeper into a life of sin. Her legal allowance was not adequate to her fortune, nor sufficient for her comfortable maintenance, and I learnt from my brother that the power of receiving it had been transferred to another person some months before. He imagined, and calmly could he imagine it, that her extravagance and consequent distress had obliged her to dispose of it for immediate relief. At last, however, and after I had been six months in England, I _did_ find her. Regard for a former servant of my own, who had fallen into misfortune, led me to visit him in a spunging-house, where he was confined for debt; and there, in the same house, under a similar confinement, was my unfortunate sister. So altered—so faded—worn down by acute suffering of every kind! Hardly could I believe the melancholy and sickly figure before me to be the remains of the lovely, blooming, healthful girl on whom I once doted. What I endured in beholding her—but I have no right to wound your feelings by attempting to describe it—I have pained you too much already. That she appeared to be in the last stage of consumption was, yes, in such a situation my greatest comfort. Life could do nothing for her beyond giving time for a better preparation for death; and that was given. I saw her placed in comfortable lodgings, under proper attendants; I visited her daily during the remainder of her short life, and was with her in her last moments."
+
+Paragraph 23: “Your sister, I hope, cannot be offended,” said he, “by the resemblance I have fancied between her and my poor disgraced relation. Their fates, their fortunes, cannot be the same; and had the natural sweet disposition of the one been guarded by a firmer mind, or a happier marriage, she might have been all that you will live to see the other be. But to what does all this lead? I seem to have been distressing you for nothing. Ah! Miss Dashwood—a subject such as this—untouched for fourteen years—it is dangerous to handle it at all! I _will_ be more collected—more concise. She left to my care her only child, a little girl, the offspring of her first guilty connection, who was then about three years old. She loved the child, and had always kept it with her. It was a valued, a precious trust to me; and gladly would I have discharged it in the strictest sense, by watching over her education myself, had the nature of our situations allowed it; but I had no family, no home; and my little Eliza was therefore placed at school. I saw her there whenever I could, and after the death of my brother, (which happened about five years ago, and which left to me the possession of the family property,) she visited me at Delaford. I called her a distant relation; but I am well aware that I have in general been suspected of a much nearer connection with her. It is now three years ago (she had just reached her fourteen year,) that I removed her from school, to place her under the care of a very respectable woman, residing in Dorsetshire, who had the charge of four or five other girls of about the same time of life; and for two years I had every reason to be pleased with her situation. But last February, almost a twelvemonth back, she suddenly disappeared. I had allowed her, (imprudently, as it has since turned out,) at her earnest desire to go to Bath with one of her young friends, who was attending her father there for his health. I knew him to be a very good sort of man, and I thought well of his daughter—better than she deserved, for, with a most obstinate and ill-judged secrecy, she would tell nothing, would give no clue, though she certainly knew all. He, her father, a well-meaning, but not a quick-sighted man, could really, I believe, give no information; for he had been generally confined to the house, while the girls were ranging over the town and making what acquaintance they chose; and he tried to convince me, as thoroughly as he was convinced himself, of his daughter’s being entirely unconcerned in the business. In short, I could learn nothing but that she was gone; all the rest, for eight long months, was left to conjecture. What I thought, what I feared, may be imagined; and what I suffered too.”
+
+Rewrite: "Your sister, I hope, cannot be offended," said he, "by the resemblance I have fancied between her and my poor disgraced relation. Their fates and fortunes cannot be the same; and had the natural sweet disposition of the one been guarded by a firmer mind, or a happier marriage, she might have been all that you will live to see the other be. But to what does all this lead? I seem to have been distressing you for nothing. Ah! Miss Dashwood—a subject such as this, untouched for fourteen years—it is dangerous to handle it at all! I _will_ be more collected—more concise. She left to my care her only child, a little girl, the offspring of her first guilty connection, who was then about three years old. She loved the child and had always kept it with her. It was a valued, a precious trust to me; and gladly would I have discharged it in the strictest sense by watching over her education myself, had the nature of our situations allowed it; but I had no family, no home, and my little Eliza was therefore placed at school. I saw her there whenever I could, and after the death of my brother, (which happened about five years ago and left me in possession of the family property,) she visited me at Delaford. I called her a distant relation; but I am well aware that I have generally been suspected of a much nearer connection with her. It is now three years ago (she had just reached her fourteenth year) that I removed her from school, to place her under the care of a very respectable woman residing in Dorsetshire, who had charge of four or five other girls of about the same age; and for two years I had every reason to be pleased with her situation. But last February, almost a twelvemonth back, she suddenly disappeared. I had allowed her, (imprudently, as it has since turned out,) at her earnest desire to go to Bath with one of her young friends, who was attending her father there for his health. I knew him to be a very good sort of man, and I thought well of his daughter—better than she deserved, for, with a most obstinate and ill‑judged secrecy, she would tell nothing, give no clue, though she certainly knew all. He, her father, a well‑meaning but not quick‑sighted man, could really, I believe, give no information; for he had been generally confined to the house while the girls ranged over the town and made what acquaintance they pleased, and he tried to convince me, as thoroughly as he was convinced himself, that his daughter was entirely unconcerned in the business. In short, I could learn nothing but that she was gone; all the rest, for eight long months, was left to conjecture. What I thought, what I feared, may be imagined; and what I suffered too."
+
+Paragraph 24: “The first news that reached me of her,” he continued, “came in a letter from herself, last October. It was forwarded to me from Delaford, and I received it on the very morning of our intended party to Whitwell; and this was the reason of my leaving Barton so suddenly, which I am sure must at the time have appeared strange to every body, and which I believe gave offence to some. Little did Mr. Willoughby imagine, I suppose, when his looks censured me for incivility in breaking up the party, that I was called away to the relief of one whom he had made poor and miserable; but _had_ he known it, what would it have availed? Would he have been less gay or less happy in the smiles of your sister? No, he had already done that, which no man who _can_ feel for another would do. He had left the girl whose youth and innocence he had seduced, in a situation of the utmost distress, with no creditable home, no help, no friends, ignorant of his address! He had left her, promising to return; he neither returned, nor wrote, nor relieved her.”
+
+Rewrite: "The first news that reached me of her," he continued, "came in a letter from herself, last October. It was forwarded to me from Delaford, and I received it on the very morning of our intended party to Whitwell; and this was the reason of my leaving Barton so suddenly, which I am sure must have seemed strange to every body, and which I believe gave offence to some. Little did Mr. Willoughby imagine, I suppose, when his looks censured me for incivility in breaking up the party, that I was called away to the relief of one whom he had made poor and miserable; but _had_ he known it, what would it have availed? Would he have been less gay or less happy in the smiles of your sister? No, he had already done that, which no man who _can_ feel for another would do. He had left the girl whose youth and innocence he had seduced, in a situation of the utmost distress, with no creditable home, no help, no friends, ignorant of his address! He had left her, promising to return; he neither returned, nor wrote, nor relieved her."
+
+Paragraph 25: “His character is now before you; expensive, dissipated, and worse than both. Knowing all this, as I have now known it many weeks, guess what I must have felt on seeing your sister as fond of him as ever, and on being assured that she was to marry him: guess what I must have felt for all your sakes. When I came to you last week and found you alone, I came determined to know the truth; though irresolute what to do when it _was_ known. My behaviour must have seemed strange to you then; but now you will comprehend it. To suffer you all to be so deceived; to see your sister—but what could I do? I had no hope of interfering with success; and sometimes I thought your sister’s influence might yet reclaim him. But now, after such dishonourable usage, who can tell what were his designs on her. Whatever they may have been, however, she may now, and hereafter doubtless _will_ turn with gratitude towards her own condition, when she compares it with that of my poor Eliza, when she considers the wretched and hopeless situation of this poor girl, and pictures her to herself, with an affection for him so strong, still as strong as her own, and with a mind tormented by self-reproach, which must attend her through life. Surely this comparison must have its use with her. She will feel her own sufferings to be nothing. They proceed from no misconduct, and can bring no disgrace. On the contrary, every friend must be made still more her friend by them. Concern for her unhappiness, and respect for her fortitude under it, must strengthen every attachment. Use your own discretion, however, in communicating to her what I have told you. You must know best what will be its effect; but had I not seriously, and from my heart believed it might be of service, might lessen her regrets, I would not have suffered myself to trouble you with this account of my family afflictions, with a recital which may seem to have been intended to raise myself at the expense of others.”
+
+Rewrite: "His character is now before you; expensive, dissipated, and worse than both. Knowing all this, as I have now known it many weeks, guess what I must have felt on seeing your sister as fond of him as ever, and being assured that she was to marry him; guess what I must have felt for all your sakes. When I came to you last week and found you alone, I was determined to know the truth, though irresolute what to do when it _was_ known. My behaviour must have seemed strange to you then; but now you will comprehend it. To suffer you all to be so deceived; to see your sister—what could I do? I had no hope of interfering with success, and sometimes I thought your sister’s influence might yet reclaim him. But now, after such dishonourable usage, who can tell what were his designs on her? Whatever they may have been, however, she may now, and hereafter doubtless _will_, turn with gratitude towards her own condition, when she compares it with that of my poor Eliza, when she considers the wretched and hopeless situation of this poor girl, and pictures her to herself with an affection for him as strong, still as strong as her own, and with a mind tormented by self‑reproach, which must attend her through life. Surely this comparison must have its use with her. She will feel her own sufferings to be nothing. They proceed from no misconduct and can bring no disgrace. On the contrary, every friend must be made still more her friend by them. Concern for her unhappiness, and respect for her fortitude under it, must strengthen every attachment. Use your own discretion, however, in communicating to her what I have told you. You must know best what will be its effect; but had I not seriously, and from my heart believed it might be of service, might lessen her regrets, I would not have troubled you with this account of my family afflictions, with a recital which may seem to have been intended to raise myself at the expense of others."
+
+Paragraph 26: When the particulars of this conversation were repeated by Miss Dashwood to her sister, as they very soon were, the effect on her was not entirely such as the former had hoped to see. Not that Marianne appeared to distrust the truth of any part of it, for she listened to it all with the most steady and submissive attention, made neither objection nor remark, attempted no vindication of Willoughby, and seemed to show by her tears that she felt it to be impossible. But though this behaviour assured Elinor that the conviction of this guilt _was_ carried home to her mind, though she saw with satisfaction the effect of it, in her no longer avoiding Colonel Brandon when he called, in her speaking to him, even voluntarily speaking, with a kind of compassionate respect, and though she saw her spirits less violently irritated than before, she did not see her less wretched. Her mind did become settled, but it was settled in a gloomy dejection. She felt the loss of Willoughby’s character yet more heavily than she had felt the loss of his heart; his seduction and desertion of Miss Williams, the misery of that poor girl, and the doubt of what his designs might _once_ have been on herself, preyed altogether so much on her spirits, that she could not bring herself to speak of what she felt even to Elinor; and, brooding over her sorrows in silence, gave more pain to her sister than could have been communicated by the most open and most frequent confession of them.
+
+Rewrite: "When the particulars of this conversation were repeated by Miss Dashwood to her sister, as they very soon were, the effect on her was not entirely such as the former had hoped to see. Not that Marianne appeared to distrust the truth of any part of it, for she listened to it all with the most steady and submissive attention, made neither objection nor remark, attempted no vindication of Willoughby, and seemed to show by her tears that she felt it to be impossible. But though this behaviour assured Elinor that the conviction of this guilt _was_ carried home to her mind, though she saw with satisfaction the effect of it, in her no longer avoiding Colonel Brandon when he called, in her speaking to him, even voluntarily speaking, with a kind of compassionate respect, and though she saw her spirits less violently irritated than before, she did not see her less wretched. Her mind did become settled, but it was settled in a gloomy dejection. She felt the loss of Willoughby’s character yet more heavily than she had felt the loss of his heart; his seduction and desertion of Miss Williams, the misery of that poor girl, and the doubt of what his designs might _once_ have been on herself, preyed altogether so much on her spirits, that she could not bring herself to speak of what she felt even to Elinor; and, brooding over her sorrows in silence, gave more pain to her sister than could have been communicated by the most open and most frequent confession of them."
+
+Paragraph 27: Lady Middleton expressed her sense of the affair about once every day, or twice, if the subject occurred very often, by saying, “It is very shocking, indeed!” and by the means of this continual though gentle vent, was able not only to see the Miss Dashwoods from the first without the smallest emotion, but very soon to see them without recollecting a word of the matter; and having thus supported the dignity of her own sex, and spoken her decided censure of what was wrong in the other, she thought herself at liberty to attend to the interest of her own assemblies, and therefore determined (though rather against the opinion of Sir John) that as Mrs. Willoughby would at once be a woman of elegance and fortune, to leave her card with her as soon as she married.
+
+Rewrite: "Lady Middleton expressed her sense of the affair about once every day, or twice, if the subject occurred very often, by saying, “It is very shocking, indeed!” and by the means of this continual though gentle vent, was able not only to see the Miss Dashwoods from the first without the smallest emotion, but very soon to see them without recollecting a word of the matter; and having thus supported the dignity of her own sex, and spoken her decided censure of what was wrong in the other, she thought herself at liberty to attend to the interest of her own assemblies, and therefore determined (though rather against the opinion of Sir John) that as Mrs. Willoughby would at once be a woman of elegance and fortune, to leave her card with her as soon as she married."
+
+Paragraph 28: “I wished very much to call upon you yesterday,” said he, “but it was impossible, for we were obliged to take Harry to see the wild beasts at Exeter Exchange; and we spent the rest of the day with Mrs. Ferrars. Harry was vastly pleased. _This_ morning I had fully intended to call on you, if I could possibly find a spare half hour, but one has always so much to do on first coming to town. I am come here to bespeak Fanny a seal. But tomorrow I think I shall certainly be able to call in Berkeley Street, and be introduced to your friend Mrs. Jennings. I understand she is a woman of very good fortune. And the Middletons too, you must introduce me to _them_. As my mother-in-law’s relations, I shall be happy to show them every respect. They are excellent neighbours to you in the country, I understand.”
+
+Rewrite: "I wished very much to call upon you yesterday," said he, "but it was impossible, for we were obliged to take Harry to see the wild beasts at Exeter Exchange, and we spent the rest of the day with Mrs. Ferrars. Harry was vastly pleased. _This_ morning I had fully intended to call on you, if I could possibly find a spare half hour, but one has always so much to do on first coming to town. I am come here to bespeak Fanny a seal. But tomorrow I think I shall certainly be able to call in Berkeley Street, and be introduced to your friend Mrs. Jennings. I understand she is a woman of very good fortune. And the Middletons too, you must introduce me to _them_. As my mother-in-law’s relations, I shall be happy to show them every respect. They are excellent neighbours to you in the country, I understand."
+
+Paragraph 29: “I am extremely glad to hear it, upon my word; extremely glad indeed. But so it ought to be; they are people of large fortune, they are related to you, and every civility and accommodation that can serve to make your situation pleasant might be reasonably expected. And so you are most comfortably settled in your little cottage and want for nothing! Edward brought us a most charming account of the place: the most complete thing of its kind, he said, that ever was, and you all seemed to enjoy it beyond any thing. It was a great satisfaction to us to hear it, I assure you.”
+
+Rewrite: "I am extremely glad to hear it, upon my word; extremely glad indeed. But so it ought to be; they are people of large fortune, they are related to you, and every civility and accommodation that can serve to make your situation pleasant might be reasonably expected. And so you are most comfortably settled in your little cottage and want for nothing! Edward brought us a most charming account of the place: the most complete thing of its kind, he said, that ever was, and you all seemed to enjoy it beyond anything. It was a great satisfaction to us to hear it, I assure you."
+
+Paragraph 30: “Who is Colonel Brandon? Is he a man of fortune?”
+
+Rewrite: "Who is Colonel Brandon? Is he a man of fortune?"
+
+Paragraph 31: “You are mistaken, Elinor; you are very much mistaken. A very little trouble on your side secures him. Perhaps just at present he may be undecided; the smallness of your fortune may make him hang back; his friends may all advise him against it. But some of those little attentions and encouragements which ladies can so easily give will fix him, in spite of himself. And there can be no reason why you should not try for him. It is not to be supposed that any prior attachment on your side—in short, you know as to an attachment of that kind, it is quite out of the question, the objections are insurmountable—you have too much sense not to see all that. Colonel Brandon must be the man; and no civility shall be wanting on my part to make him pleased with you and your family. It is a match that must give universal satisfaction. In short, it is a kind of thing that”—lowering his voice to an important whisper—“will be exceedingly welcome to _all parties_.” Recollecting himself, however, he added, “That is, I mean to say—your friends are all truly anxious to see you well settled; Fanny particularly, for she has your interest very much at heart, I assure you. And her mother too, Mrs. Ferrars, a very good-natured woman, I am sure it would give her great pleasure; she said as much the other day.”
+
+Rewrite: "You are mistaken, Elinor; you are very much mistaken. A very little trouble on your side secures him. Perhaps just at present he may be undecided; the smallness of your fortune may make him hang back, and his friends may all advise him against it. But some of those little attentions and encouragements which ladies can so easily give will fix him, in spite of himself. And there can be no reason why you should not try for him. It is not to be supposed that any prior attachment on your side—in short, you know as to an attachment of that kind, it is quite out of the question, the objections are insurmountable—you have too much sense not to see all that. Colonel Brandon must be the man; and no civility shall be wanting on my part to make him pleased with you and your family. It is a match that must give universal satisfaction. In short, it is a kind of thing that"—lowering his voice to an important whisper—“will be exceedingly welcome to _all parties_.” Recollecting himself, however, he added, "That is, I mean to say—your friends are all truly anxious to see you well settled; Fanny particularly, for she has your interest very much at heart, I assure you. And her mother too, Mrs. Ferrars, a very good-natured woman, I am sure it would give her great pleasure; she said as much the other day."
+
+Paragraph 32: “It is not actually settled, but there is such a thing in agitation. He has a most excellent mother. Mrs. Ferrars, with the utmost liberality, will come forward, and settle on him a thousand a year, if the match takes place. The lady is the Hon. Miss Morton, only daughter of the late Lord Morton, with thirty thousand pounds. A very desirable connection on both sides, and I have not a doubt of its taking place in time. A thousand a-year is a great deal for a mother to give away, to make over for ever; but Mrs. Ferrars has a noble spirit. To give you another instance of her liberality:—The other day, as soon as we came to town, aware that money could not be very plenty with us just now, she put bank-notes into Fanny’s hands to the amount of two hundred pounds. And extremely acceptable it is, for we must live at a great expense while we are here.”
+
+Rewrite: "It is not actually settled, but there is such a thing in agitation. He has a most excellent mother. Mrs. Ferrars, with the utmost liberality, will come forward, and settle on him a thousand a year, if the match takes place. The lady is the Hon. Miss Morton, only daughter of the late Lord Morton, with thirty thousand pounds. A very desirable connection on both sides, and I have not a doubt of its taking place in time. A thousand a-year is a great deal for a mother to give away, to make over for ever; but Mrs. Ferrars has a noble spirit. To give you another instance of her liberality:—The other day, as soon as we came to town, aware that money could not be very plenty with us just now, she put bank-notes into Fanny’s hands to the amount of two hundred pounds. And extremely acceptable it is, for we must live at a great expense while we are here."
+
+Paragraph 33: “Not so large, I dare say, as many people suppose. I do not mean to complain, however; it is undoubtedly a comfortable one, and I hope will in time be better. The enclosure of Norland Common, now carrying on, is a most serious drain. And then I have made a little purchase within this half year; East Kingham Farm, you must remember the place, where old Gibson used to live. The land was so very desirable for me in every respect, so immediately adjoining my own property, that I felt it my duty to buy it. I could not have answered it to my conscience to let it fall into any other hands. A man must pay for his convenience; and it _has_ cost me a vast deal of money.”
+
+Rewrite: "Not so large, I dare say, as many people suppose. I do not mean to complain, however; it is undoubtedly a comfortable one, and I hope will in time be better. The enclosure of Norland Common, now carrying on, is a most serious drain. And then I have made a little purchase within this half year; East Kingham Farm, you must remember the place, where old Gibson used to live. The land was so very desirable for me in every respect, so immediately adjoining my own property, that I felt it my duty to buy it. I could not have answered it to my conscience to let it fall into any other hands. A man must pay for his convenience; and it _has_ cost me a vast deal of money."
+
+Paragraph 34: “Why, I hope not that. I might have sold it again, the next day, for more than I gave: but, with regard to the purchase-money, I might have been very unfortunate indeed; for the stocks were at that time so low, that if I had not happened to have the necessary sum in my banker’s hands, I must have sold out to very great loss.”
+
+Rewrite: "Why, I hope not that. I might have sold it again the next day for more than I gave; but, with regard to the purchase-money, I might have been very unfortunate indeed, for the stocks were at that time so low that if I had not happened to have the necessary sum in my banker’s hands, I must have sold out at a very great loss."
+
+Paragraph 35: “Having now said enough to make his poverty clear, and to do away the necessity of buying a pair of ear-rings for each of his sisters, in his next visit at Gray’s, his thoughts took a cheerfuller turn, and he began to congratulate Elinor on having such a friend as Mrs. Jennings.”
+
+Rewrite: "Having now said enough to make his poverty clear, and to do away the necessity of buying a pair of ear-rings for each of his sisters, in his next visit at Gray’s, his thoughts took a cheerfuller turn, and he began to congratulate Elinor on having such a friend as Mrs. Jennings."
+
+Paragraph 36: “I shall have a charming account to carry to Fanny,” said he, as he walked back with his sister. “Lady Middleton is really a most elegant woman! Such a woman as I am sure Fanny will be glad to know. And Mrs. Jennings too, an exceedingly well-behaved woman, though not so elegant as her daughter. Your sister need not have any scruple even of visiting _her_, which, to say the truth, has been a little the case, and very naturally; for we only knew that Mrs. Jennings was the widow of a man who had got all his money in a low way; and Fanny and Mrs. Ferrars were both strongly prepossessed, that neither she nor her daughters were such kind of women as Fanny would like to associate with. But now I can carry her a most satisfactory account of both.”
+
+Rewrite: "I shall have a charming account to carry to Fanny," said he, as he walked back with his sister. "Lady Middleton is really a most elegant woman! Such a woman as I am sure Fanny will be glad to know. And Mrs. Jennings too, an exceedingly well-behaved woman, though not so elegant as her daughter. Your sister need not have any scruple even of visiting _her_, which, to say the truth, has been a little the case, and very naturally; for we only knew that Mrs. Jennings was the widow of a man who had got all his money in a low way; and Fanny and Mrs. Ferrars were both strongly prepossessed that neither she nor her daughters were such kind of women as Fanny would like to associate with. But now I can carry her a most satisfactory account of both."
+
+Paragraph 37: The dinner was a grand one, the servants were numerous, and every thing bespoke the Mistress’s inclination for show, and the Master’s ability to support it. In spite of the improvements and additions which were making to the Norland estate, and in spite of its owner having once been within some thousand pounds of being obliged to sell out at a loss, nothing gave any symptom of that indigence which he had tried to infer from it;—no poverty of any kind, except of conversation, appeared—but there, the deficiency was considerable. John Dashwood had not much to say for himself that was worth hearing, and his wife had still less. But there was no peculiar disgrace in this; for it was very much the case with the chief of their visitors, who almost all laboured under one or other of these disqualifications for being agreeable—Want of sense, either natural or improved—want of elegance—want of spirits—or want of temper.
+
+Rewrite: "The dinner was a grand one, the servants were numerous, and every thing bespoke the Mistress’s inclination for show, and the Master’s ability to support it. In spite of the improvements and additions which were making to the Norland estate, and in spite of its owner having once been within some thousand pounds of being obliged to sell out at a loss, nothing gave any symptom of that indigence which he had tried to infer from it;—no poverty of any kind, except of conversation, appeared—but there, the deficiency was considerable. John Dashwood had not much to say for himself that was worth hearing, and his wife had still less. But there was no peculiar disgrace in this; for it was very much the case with the chief of their visitors, who almost all laboured under one or other of these disqualifications for being agreeable—want of sense, either natural or improved—want of elegance—want of spirits—or want of temper."
+
+Paragraph 38: When the ladies withdrew to the drawing-room after dinner, this poverty was particularly evident, for the gentlemen _had_ supplied the discourse with some variety—the variety of politics, inclosing land, and breaking horses—but then it was all over; and one subject only engaged the ladies till coffee came in, which was the comparative heights of Harry Dashwood, and Lady Middleton’s second son William, who were nearly of the same age.
+
+Rewrite: "When the ladies withdrew to the drawing-room after dinner, this poverty was particularly evident, for the gentlemen _had_ supplied the discourse with some variety—the variety of politics, inclosing land, and breaking horses—but then it was all over; and one subject only engaged the ladies till coffee came in, which was the comparative heights of Harry Dashwood, and Lady Middleton’s second son William, who were nearly of the same age."
+
+Paragraph 39: She could say no more; her spirits were quite overcome, and hiding her face on Elinor’s shoulder, she burst into tears. Every body’s attention was called, and almost every body was concerned.—Colonel Brandon rose up and went to them without knowing what he did.—Mrs. Jennings, with a very intelligent “Ah! poor dear,” immediately gave her her salts; and Sir John felt so desperately enraged against the author of this nervous distress, that he instantly changed his seat to one close by Lucy Steele, and gave her, in a whisper, a brief account of the whole shocking affair.
+
+Rewrite: "She could say no more; her spirits were quite overcome, and hiding her face on Elinor’s shoulder, she burst into tears. Every body’s attention was called, and almost every body was concerned.—Colonel Brandon rose up and went to them without knowing what he did.—Mrs. Jennings, with a very intelligent “Ah! poor dear,” immediately gave her her salts; and Sir John felt so desperately enraged against the author of this nervous distress, that he instantly changed his seat to one close by Lucy Steele, and gave her, in a whisper, a brief account of the whole shocking affair."
+
+Paragraph 40: “Poor Marianne!” said her brother to Colonel Brandon, in a low voice, as soon as he could secure his attention: “She has not such good health as her sister,—she is very nervous,—she has not Elinor’s constitution;—and one must allow that there is something very trying to a young woman who _has been_ a beauty in the loss of her personal attractions. You would not think it perhaps, but Marianne _was_ remarkably handsome a few months ago; quite as handsome as Elinor. Now you see it is all gone.”
+
+Rewrite: "“Poor Marianne!” said her brother to Colonel Brandon, in a low voice, as soon as he could secure his attention: “She has not such good health as her sister,—she is very nervous,—she has not Elinor’s constitution;—and one must allow that there is something very trying to a young woman who _has been_ a beauty in the loss of her personal attractions. You would not think it perhaps, but Marianne _was_ remarkably handsome a few months ago; quite as handsome as Elinor. Now you see it is all gone.”"
+
+Paragraph 41: “Indeed I am perfectly convinced of your regard for me, and next to Edward’s love, it is the greatest comfort I have. Poor Edward! But now there is one good thing, we shall be able to meet, and meet pretty often, for Lady Middleton’s delighted with Mrs. Dashwood, so we shall be a good deal in Harley Street, I dare say, and Edward spends half his time with his sister—besides, Lady Middleton and Mrs. Ferrars will visit now;—and Mrs. Ferrars and your sister were both so good to say more than once, they should always be glad to see me. They are such charming women!—I am sure if ever you tell your sister what I think of her, you cannot speak too high.”
+
+Rewrite: "Indeed I am perfectly convinced of your regard for me, and next to Edward’s love, it is the greatest comfort I have. Poor Edward! But now there is one good thing, we shall be able to meet, and meet pretty often, for Lady Middleton’s delighted with Mrs. Dashwood, so we shall be a good deal in Harley Street, I dare say, and Edward spends half his time with his sister—besides, Lady Middleton and Mrs. Ferrars will visit now; and Mrs. Ferrars and your sister were both so good to say more than once, they should always be glad to see me. They are such charming women!—I am sure if ever you tell your sister what I think of her, you cannot speak too high."
+
+Paragraph 42: Poor Edward muttered something, but what it was, nobody knew, not even himself. But Marianne, who saw his agitation, and could easily trace it to whatever cause best pleased herself, was perfectly satisfied, and soon talked of something else.
+
+Rewrite: "Poor Edward muttered something, but what it was, nobody knew, not even himself. But Marianne, who saw his agitation, and could easily trace it to whatever cause best pleased herself, was perfectly satisfied, and soon talked of something else."
+
+Paragraph 43: “For my own part,” said he, “I am excessively fond of a cottage; there is always so much comfort, so much elegance about them. And I protest, if I had any money to spare, I should buy a little land and build one myself, within a short distance of London, where I might drive myself down at any time, and collect a few friends about me, and be happy. I advise every body who is going to build, to build a cottage. My friend Lord Courtland came to me the other day on purpose to ask my advice, and laid before me three different plans of Bonomi’s. I was to decide on the best of them. ‘My dear Courtland,’ said I, immediately throwing the them all into the fire, ‘do not adopt either of them, but by all means build a cottage.’ And that I fancy, will be the end of it."
+
+Rewrite: "“For my own part,” said he, “I am excessively fond of a cottage; there is always so much comfort, so much elegance about them. And I protest, if I had any money to spare, I should buy a little land and build one myself, within a short distance of London, where I might drive myself down at any time, and collect a few friends about me, and be happy. I advise every body who is going to build, to build a cottage. My friend Lord Courtland came to me the other day on purpose to ask my advice, and laid before me three different plans of Bonomi’s. I was to decide on the best of them. ‘My dear Courtland,’ said I, immediately throwing the them all into the fire, ‘do not adopt either of them, but by all means build a cottage.’ And that I fancy, will be the end of it."
+
+Paragraph 44: “That is exactly what I said, my dear. ‘Lord!’ says I, ‘is Mrs. Dashwood ill?’ So then it all came out; and the long and the short of the matter, by all I can learn, seems to be this. Mr. Edward Ferrars, the very young man I used to joke with you about (but however, as it turns out, I am monstrous glad there was never any thing in it), Mr. Edward Ferrars, it seems, has been engaged above this twelvemonth to my cousin Lucy!—There’s for you, my dear! And not a creature knowing a syllable of the matter, except Nancy! Could you have believed such a thing possible? There is no great wonder in their liking one another; but that matters should be brought so forward between them, and nobody suspect it! _That_ is strange! I never happened to see them together, or I am sure I should have found it out directly. Well, and so this was kept a great secret, for fear of Mrs. Ferrars, and neither she nor your brother or sister suspected a word of the matter: till this very morning, poor Nancy, who, you know, is a well-meaning creature, but no conjurer, popt it all out. ‘Lord!’ thinks she to herself, ‘they are all so fond of Lucy, to be sure they will make no difficulty about it;’ and so, away she went to your sister, who was sitting all alone at her carpet-work, little suspecting what was to come—for she had just been saying to your brother, only five minutes before, that she thought to make a match between Edward and some Lord’s daughter or other, I forget who. So you may think what a blow it was to all her vanity and pride. She fell into violent hysterics immediately, with such screams as reached your brother’s ears, as he was sitting in his own dressing-room down stairs, thinking about writing a letter to his steward in the country. So up he flew directly, and a terrible scene took place, for Lucy was come to them by that time, little dreaming what was going on. Poor soul! I pity _her_. And I must say, I think she was used very hardly; for your sister scolded like any fury, and soon drove her into a fainting fit. Nancy, she fell upon her knees, and cried bitterly; and your brother, he walked about the room, and said he did not know what to do. Mrs. Dashwood declared they should not stay a minute longer in the house, and your brother was forced to go down upon _his_ knees too, to persuade her to let them stay till they had packed up their clothes. _Then_ she fell into hysterics again, and he was so frightened that he would send for Mr. Donavan, and Mr. Donavan found the house in all this uproar. The carriage was at the door ready to take my poor cousins away, and they were just stepping in as he came off; poor Lucy in such a condition, he says, she could hardly walk; and Nancy, she was almost as bad. I declare, I have no patience with your sister; and I hope, with all my heart, it will be a match in spite of her. Lord! what a taking poor Mr. Edward will be in when he hears of it! To have his love used so scornfully! for they say he is monstrous fond of her, as well he may. I should not wonder, if he was to be in the greatest passion!—and Mr. Donavan thinks just the same. He and I had a great deal of talk about it; and the best of all is, that he is gone back again to Harley Street, that he may be within call when Mrs. Ferrars is told of it, for she was sent for as soon as ever my cousins left the house, for your sister was sure _she_ would be in hysterics too; and so she may, for what I care. I have no pity for either of them. I have no notion of people’s making such a to-do about money and greatness. There is no reason on earth why Mr. Edward and Lucy should not marry; for I am sure Mrs. Ferrars may afford to do very well by her son, and though Lucy has next to nothing herself, she knows better than any body how to make the most of every thing; I dare say, if Mrs. Ferrars would only allow him five hundred a-year, she would make as good an appearance with it as any body else would with eight. Lord! how snug they might live in such another cottage as yours—or a little bigger—with two maids, and two men; and I believe I could help them to a housemaid, for my Betty has a sister out of place, that would fit them exactly.”
+
+Rewrite: "“That is exactly what I said, my dear. ‘Lord!’ says I, ‘is Mrs. Dashwood ill?’ So then it all came out; and the long and the short of the matter, by all I can learn, seems to be this. Mr. Edward Ferrars, the very young man I used to joke with you about (but however, as it turns out, I am monstrous glad there was never any thing in it), Mr. Edward Ferrars, it seems, has been engaged above this twelvemonth to my cousin Lucy!—There’s for you, my dear! And not a creature knowing a syllable of the matter, except Nancy! Could you have believed such a thing possible? There is no great wonder in their liking one another; but that matters should be brought so forward between them, and nobody suspect it! _That_ is strange! I never happened to see them together, or I am sure I should have found it out directly. Well, and so this was kept a great secret, for fear of Mrs. Ferrars, and neither she nor your brother or sister suspected a word of the matter: till this very morning, poor Nancy, who, you know, is a well‑meaning creature, but no conjurer, popt it all out. ‘Lord!’ thinks she to herself, ‘they are all so fond of Lucy, to be sure they will make no difficulty about it;’ and so, away she went to your sister, who was sitting all alone at her carpet‑work, little suspecting what was to come—for she had just been saying to your brother, only five minutes before, that she thought to make a match between Edward and some Lord’s daughter or other, I forget who. So you may think what a blow it was to all her vanity and pride. She fell into violent hysterics immediately, with such screams as reached your brother’s ears, as he was sitting in his own dressing‑room down stairs, thinking about writing a letter to his steward in the country. So up he flew directly, and a terrible scene took place, for Lucy was come to them by that time, little dreaming what was going on. Poor soul! I pity _her_. And I must say, I think she was used very hardly; for your sister scolded like any fury, and soon drove her into a fainting fit. Nancy, she fell upon her knees, and cried bitterly; and your brother, he walked about the room, and said he did not know what to do. Mrs. Dashwood declared they should not stay a minute longer in the house, and your brother was forced to go down upon _his_ knees too, to persuade her to let them stay till they had packed up their clothes. _Then_ she fell into hysterics again, and he was so frightened that he would send for Mr. Donavan, and Mr. Donavan found the house in all this uproar. The carriage was at the door ready to take my poor cousins away, and they were just stepping in as he came off; poor Lucy in such a condition, he says, she could hardly walk; and Nancy, she was almost as bad. I declare, I have no patience with your sister; and I hope, with all my heart, it will be a match in spite of her. Lord! what a taking poor Mr. Edward will be in when he hears of it! To have his love used so scornfully! for they say he is monstrous fond of her, as well he may. I should not wonder, if he was to be in the greatest passion!—and Mr. Donavan thinks just the same. He and I had a great deal of talk about it; and the best of all is, that he is gone back again to Harley Street, that he may be within call when Mrs. Ferrars is told of it, for she was sent for as soon as ever my cousins left the house, for your sister was sure _she_ would be in hysterics too; and so she may, for what I care. I have no pity for either of them. I have no notion of people’s making such a to-do about money and greatness. There is no reason on earth why Mr. Edward and Lucy should not marry; for I am sure Mrs. Ferrars may afford to do very well by her son, and though Lucy has next to nothing herself, she knows better than any body how to make the most of every thing; I dare say, if Mrs. Ferrars would only allow him five hundred a-year, she would make as good an appearance with it as any body else would with eight. Lord! how snug they might live in such another cottage as yours—or a little bigger—with two maids, and two men; and I believe I could help them to a housemaid, for my Betty has a sister out of place, that would fit them exactly.”
+
+Paragraph 45: “Your sister,” he continued, “has suffered dreadfully. Mrs. Ferrars too—in short it has been a scene of such complicated distress—but I will hope that the storm may be weathered without our being any of us quite overcome. Poor Fanny! she was in hysterics all yesterday. But I would not alarm you too much. Donavan says there is nothing materially to be apprehended; her constitution is a good one, and her resolution equal to any thing. She has borne it all, with the fortitude of an angel! She says she never shall think well of anybody again; and one cannot wonder at it, after being so deceived!—meeting with such ingratitude, where so much kindness had been shown, so much confidence had been placed! It was quite out of the benevolence of her heart, that she had asked these young women to her house; merely because she thought they deserved some attention, were harmless, well-behaved girls, and would be pleasant companions; for otherwise we both wished very much to have invited you and Marianne to be with us, while your kind friend there, was attending her daughter. And now to be so rewarded! ‘I wish, with all my heart,’ says poor Fanny in her affectionate way, ‘that we had asked your sisters instead of them.’”
+
+Rewrite: "“Your sister,” he continued, “has suffered dreadfully. Mrs. Ferrars too—in short it has been a scene of such complicated distress—but I will hope that the storm may be weathered without our being any of us quite overcome. Poor Fanny! she was in hysterics all yesterday. But I would not alarm you too much. Donavan says there is nothing materially to be apprehended; her constitution is a good one, and her resolution equal to any thing. She has borne it all, with the fortitude of an angel! She says she never shall think well of anybody again; and one cannot wonder at it, after being so deceived!—meeting with such ingratitude, where so much kindness had been shown, so much confidence had been placed! It was quite out of the benevolence of her heart, that she had asked these young women to her house; merely because she thought they deserved some attention, were harmless, well-behaved girls, and would be pleasant companions; for otherwise we both wished very much to have invited you and Marianne to be with us, while your kind friend there, was attending her daughter. And now to be so rewarded! ‘I wish, with all my heart,’ says poor Fanny in her affectionate way, ‘that we had asked your sisters instead of them.’”
+
+Paragraph 46: “What poor Mrs. Ferrars suffered, when first Fanny broke it to her, is not to be described. While she with the truest affection had been planning a most eligible connection for him, was it to be supposed that he could be all the time secretly engaged to another person!—such a suspicion could never have entered her head! If she suspected _any_ prepossession elsewhere, it could not be in _that_ quarter. ‘_There_, to be sure,’ said she, ‘I might have thought myself safe.’ She was quite in an agony. We consulted together, however, as to what should be done, and at last she determined to send for Edward. He came. But I am sorry to relate what ensued. All that Mrs. Ferrars could say to make him put an end to the engagement, assisted too as you may well suppose by my arguments, and Fanny’s entreaties, was of no avail. Duty, affection, every thing was disregarded. I never thought Edward so stubborn, so unfeeling before. His mother explained to him her liberal designs, in case of his marrying Miss Morton; told him she would settle on him the Norfolk estate, which, clear of land-tax, brings in a good thousand a-year; offered even, when matters grew desperate, to make it twelve hundred; and in opposition to this, if he still persisted in this low connection, represented to him the certain penury that must attend the match. His own two thousand pounds she protested should be his all; she would never see him again; and so far would she be from affording him the smallest assistance, that if he were to enter into any profession with a view of better support, she would do all in her power to prevent him advancing in it.”
+
+Rewrite: "“What poor Mrs. Ferrars suffered, when first Fanny broke it to her, is not to be described. While she with the truest affection had been planning a most eligible connection for him, was it to be supposed that he could be all the time secretly engaged to another person!—such a suspicion could never have entered her head! If she suspected _any_ prepossession elsewhere, it could not be in _that_ quarter. ‘_There_, to be sure,’ said she, ‘I might have thought myself safe.’ She was quite in an agony. We consulted together, however, as to what should be done, and at last she determined to send for Edward. He came. But I am sorry to relate what ensued. All that Mrs. Ferrars could say to make him put an end to the engagement, assisted too as you may well suppose by my arguments, and Fanny’s entreaties, was of no avail. Duty, affection, every thing was disregarded. I never thought Edward so stubborn, so unfeeling before. His mother explained to him her liberal designs, in case of his marrying Miss Morton; told him she would settle on him the Norfolk estate, which, clear of land‑tax, brings in a good thousand a‑year; offered even, when matters grew desperate, to make it twelve hundred; and in opposition to this, if he still persisted in this low connection, represented to him the certain penury that must attend the match. His own two thousand pounds she protested should be his all; she would never see him again; and so far would she be from affording him the smallest assistance, that if he were to enter into any profession with a view of better support, she would do all in her power to prevent him advancing in it."
+
+Paragraph 47: John Dashwood was greatly astonished; but his nature was calm, not open to provocation, and he never wished to offend anybody, especially anybody of good fortune. He therefore replied, without any resentment,
+
+--- Paragraph 48 --- (the text says "John Dashwood was greatly astonished; but his nature was calm, not open to provocation, and he never wished to offend anybody, especially anybody of good fortune. He therefore replied, without any resentment," then the next line is missing? Actually the next line is the start of his reply, which is in paragraph 49? Let's check: Paragraph 48 says: "John Dashwood was greatly astonished; but his nature was calm, not open to provocation, and he never wished to offend anybody, especially anybody of good fortune. He therefore replied, without any resentment," and then there is a blank line then paragraph 49 starts with "“I would by no means speak disrespectfully of any relation of yours, madam. Miss Lucy Steele is, I dare say, a very deserving young woman, but in the present case you know, the connection must be impossible. And to have entered into a secret engagement with a young man under her uncle’s care, the son of a woman especially of such very large fortune as Mrs. Ferrars, is perhaps, altogether a little extraordinary. In short, I do not mean to reflect upon the behaviour of any person whom you have a regard for, Mrs. Jennings. We all wish her extremely happy; and Mrs. Ferrars’s conduct throughout the whole, has been such as every conscientious, good mother, in like circumstances, would adopt. It has been dignified and liberal. Edward has drawn his own lot, and I fear it will be a bad one.”"
+
+Thus paragraph 48 is just the description, no dialogue. So we need to rewrite paragraph 48 (the description) in Austen style, preserving meaning.
+
+Paragraph 48 original: "John Dashwood was greatly astonished; but his nature was calm, not open to provocation, and he never wished to offend anybody, especially anybody of good fortune. He therefore replied, without any resentment,"
+
+Rewrite: "John Dashwood was greatly astonished, yet his disposition was calm, unruffled by provocation, and ever averse to offending any person, especially those of good fortune. Consequently, he answered without the slightest resentment,"
+
+Paragraph 49: The reply text.
+
+Rewrite: "“I would by no means speak disrespectfully of any relation of yours, madam. Miss Lucy Steele is, I dare say, a very deserving young woman, but in the present case you know, the connection must be impossible. And to have entered into a secret engagement with a young man under her uncle’s care, the son of a woman especially of such very large fortune as Mrs. Ferrars, is perhaps, altogether a little extraordinary. In short, I do not mean to reflect upon the behaviour of any person whom you have a regard for, Mrs. Jennings. We all wish her extremely happy; and Mrs. Ferrars’s conduct throughout the whole, has been such as every conscientious, good mother, in like circumstances, would adopt. It has been dignified and liberal. Edward has drawn his own lot, and I fear it will be a bad one.”"
+
+Rewrite in Austen style: maybe "‘I would by no means speak disrespectfully of any relation of yours, madam. Miss Lucy Steele is, I dare say, a very deserving young woman, but in the present case you know the connection must be impossible. To have entered into a secret engagement with a young man under her uncle’s care, the son of a woman of such very large fortune as Mrs. Ferrars, is perhaps altogether a little extraordinary. I do not intend to reflect upon the conduct of any person you esteem, Mrs. Jennings. We all wish her the greatest happiness, and Mrs. Ferrars’s conduct throughout has been such as every conscientious, good mother in similar circumstances would adopt—dignified and liberal. Edward has drawn his own lot, and I fear it will prove a bad one.’"
+
+Paragraph 50: “Poor young man!—and what is to become of him?”
+
+Rewrite: "Poor young man!—and what is to become of him?" In Austen style: "Poor young man!—and what shall become of him?" maybe "Poor young man!—and what is to become of him?" keep same but maybe "Poor young man!—and what is to become of him?" That's fine. But need to rewrite entirely in Austen style, maybe "Poor young man!—and what is to become of him?" That's already fairly Austen. Maybe "Poor young man!—and what is to become of him?" is fine.
+
+But need to rewrite each paragraph entirely, not just minor changes. Let's rewrite each paragraph with more Austen language.
+
+We need 50 paragraphs.
+
+Let's go through each and rewrite concisely but with Austen style.
+
+Paragraph 1 rewrite:
+
+Original: “But indeed you must and shall come. I am sure you will like it of all things. The Westons will be with us, and it will be quite delightful. You cannot think what a sweet place Cleveland is; and we are so gay now, for Mr. Palmer is always going about the country canvassing against the election; and so many people came to dine with us that I never saw before, it is quite charming! But, poor fellow! it is very fatiguing to him! for he is forced to make every body like him.”
+
+Rewrite: "Indeed you must and shall come, for I am certain you will find it most agreeable. The Westons shall be with us, and the gathering will be most delightful. You cannot imagine a sweeter place than Cleveland, and we are now in high spirits, for Mr. Palmer is constantly travelling through the country, canvassing for the election, and so many have come to dine with us that I have never witnessed anything so charming! Yet, poor fellow, it is a great fatigue to him, for he is obliged to make every one like him."
+
+Paragraph 2 rewrite:
+
+Original: “Poor little creatures!” said Miss Steele, as soon as they were gone. “It might have been a very sad accident.”
+
+Rewrite: "Poor little creatures!" exclaimed Miss Steele, as soon as they were gone. "It might have been a very sad accident."
+
+Maybe more Austen: "Poor little creatures!" said Miss Steele, as soon as they were gone. "It might have been a very sad accident."
+
+But need to rewrite entirely, maybe: "Poor little creatures!" exclaimed Miss Steele, immediately after their departure. "It might have been a very sad accident."
+
+Paragraph 3 rewrite:
+
+Original: “Yes; and heaven knows how much longer we may have to wait. Poor Edward! It puts him quite out of heart.” Then taking a small miniature from her pocket, she added, “To prevent the possibility of mistake, be so good as to look at this face. It does not do him justice, to be sure, but yet I think you cannot be deceived as to the person it was drew for.—I have had it above these three years.”
+
+Rewrite: "Aye, and heaven knows how much longer we may have to wait; poor Edward! It quite unsettles his heart." Then taking a small miniature from her pocket, she added, "Pray, look at this face; though it does not do him justice, I am sure you cannot be deceived as to the person it portrays. I have possessed it above three years."
+
+Paragraph 4 rewrite:
+
+Original: “I am sure,” said she, “I have no doubt in the world of your faithfully keeping this secret, because you must know of what importance it is to us, not to have it reach his mother; for she would never approve of it, I dare say. I shall have no fortune, and I fancy she is an exceeding proud woman.”
+
+Rewrite: "I am sure," said she, "I have no doubt in the world that you will keep this secret faithfully, for it is of the utmost importance that it never reach his mother; for she would never approve of it, I dare say. I shall have no fortune, and I suspect she is an exceedingly proud woman."
+
+Paragraph 5 rewrite:
+
+Original: “To be sure,” continued Lucy, after a few minutes silence on both sides, “his mother must provide for him sometime or other; but poor Edward is so cast down by it! Did you not think him dreadful low-spirited when he was at Barton? He was so miserable when he left us at Longstaple, to go to you, that I was afraid you would think him quite ill.”
+
+Rewrite: "To be sure," continued Lucy, after a few minutes of silence on both sides, "his mother must provide for him sometime or other; but poor Edward is so cast down! Did you not think him dreadfully low-spirited when he was at Barton? He was so miserable when he left us at Longstaple to go to you that I feared you would deem him quite ill."
+
+Paragraph 6 rewrite:
+
+Original: “I begged him to exert himself for fear you should suspect what was the matter; but it made him so melancholy, not being able to stay more than a fortnight with us, and seeing me so much affected. Poor fellow! I am afraid it is just the same with him now; for he writes in wretched spirits. I heard from him just before I left Exeter;” taking a letter from her pocket and carelessly showing the direction to Elinor. “You know his hand, I dare say,—a charming one it is; but that is not written so well as usual. He was tired, I dare say, for he had just filled the sheet to me as full as possible.”
+
+Rewrite: "I begged him to exert himself for fear you should suspect the cause; yet it made him exceedingly melancholy, for he could not stay more than a fortnight with us, and seeing me so affected. Poor fellow! I fear it is the same now; his letters are in wretched spirits. I heard from him just before I left Exeter; taking a letter from her pocket and carelessly showing the direction to Elinor, "You know his hand, I dare say—a charming one it is; but it is not written as well as usual, for he was tired, I dare say, having just filled the sheet to me as full as possible."
+
+Paragraph 7 rewrite:
+
+Original: “Writing to each other,” said Lucy, returning the letter into her pocket, “is the only comfort we have in such long separations. Yes, _I_ have one other comfort in his picture, but poor Edward has not even _that_. If he had but my picture, he says he should be easy. I gave him a lock of my hair set in a ring when he was at Longstaple last, and that was some comfort to him, he said, but not equal to a picture. Perhaps you might notice the ring when you saw him?”
+
+Rewrite: "Writing to each other," said Lucy, returning the letter to her pocket, "is the only comfort we have in such long separations. Yes, I have another comfort in his picture, but poor Edward has not even that. If he possessed my picture, he would be easy. I gave him a lock of my hair set in a ring when he was at Longstaple, which afforded him some comfort, though not equal to a picture. Perhaps you might notice the ring when you saw him."
+
+Paragraph 8 rewrite:
+
+Original: If in the supposition of his seeking to marry herself, his difficulties from his mother had seemed great, how much greater were they now likely to be, when the object of his engagement was undoubtedly inferior in connections, and probably inferior in fortune to herself. These difficulties, indeed, with a heart so alienated from Lucy, might not press very hard upon his patience; but melancholy was the state of the person by whom the expectation of family opposition and unkindness, could be felt as a relief!
+
+Rewrite: "If, in the supposition that he seeks to marry me, his difficulties with his mother seemed great, how much greater are they likely to be now, when the object of his engagement is unquestionably inferior in connections and probably in fortune compared to myself? These difficulties, indeed, with a heart alienated from Lucy, may not press heavily upon his patience; yet melancholy was the state of the man, whose expectation of family opposition and unkindness could be felt as a relief."
+
+Paragraph 9 rewrite:
+
+Original: “I am glad,” said Lady Middleton to Lucy, “you are not going to finish poor little Annamaria’s basket this evening; for I am sure it must hurt your eyes to work filigree by candlelight. And we will make the dear little love some amends for her disappointment to-morrow, and then I hope she will not much mind it.”
+
+Rewrite: "I am glad," said Lady Middleton to Lucy, "you are not to finish poor little Annamaria's basket this evening, for I am sure it will hurt your eyes to work filigree by candlelight. We shall make the dear little love some amends tomorrow, and I hope she will not mind it much."
+
+Paragraph 10 rewrite:
+
+Original: “You are very good, I hope it won’t hurt your eyes—will you ring the bell for some working candles? My poor little girl would be sadly disappointed, I know, if the basket was not finished tomorrow, for though I told her it certainly would not, I am sure she depends upon having it done.”
+
+Rewrite: "You are very good, I hope it will not hurt your eyes; will you ring the bell for some working candles? My poor little girl would be sadly disappointed, I know, if the basket were not finished tomorrow, for though I told her it certainly would not, I am sure she depends upon having it done."
+
+Paragraph 11 rewrite:
+
+Original: “He has only two thousand pounds of his own; it would be madness to marry upon that, though for my own part, I could give up every prospect of more without a sigh. I have been always used to a very small income, and could struggle with any poverty for him; but I love him too well to be the selfish means of robbing him, perhaps, of all that his mother might give him if he married to please her. We must wait, it may be for many years. With almost every other man in the world, it would be an alarming prospect; but Edward’s affection and constancy nothing can deprive me of I know.”
+
+Rewrite: "He has only two thousand pounds of his own; it would be madness to marry upon that, though for my part I could relinquish every prospect of more without a sigh. I have been accustomed to a very small income and could endure any poverty for him, yet I love him too well to be the selfish means of depriving him of the fortune his mother might bestow upon him if he married to please her. We must wait, perhaps for many years. With almost any other man it would be an alarming prospect, but Edward's affection and constancy are beyond any deprivation."
+
+Paragraph 12 rewrite:
+
+Original: “Ay, to be sure, I thought as much. Well, Colonel, I have brought two young ladies with me, you see—that is, you see but one of them now, but there is another somewhere. Your friend, Miss Marianne, too—which you will not be sorry to hear. I do not know what you and Mr. Willoughby will do between you about her. Ay, it is a fine thing to be young and handsome. Well! I was young once, but I never was very handsome—worse luck for me. However, I got a very good husband, and I don’t know what the greatest beauty can do more. Ah! poor man! he has been dead these eight years and better. But Colonel, where have you been to since we parted? And how does your business go on? Come, come, let’s have no secrets among friends.”
+
+Rewrite: "Ay, indeed, I thought as much. Well, Colonel, I have brought two young ladies with me; you see one now, but another is somewhere near. Your friend, Miss Marianne, too—you will not be sorry to hear of her. It is a fine thing to be young and handsome. Well! I was once young, but I was never very handsome—worse luck for me. Nevertheless, I secured a very good husband, and I know not what the greatest beauty can do more. Ah! poor man! he has been dead these eight years and more. But Colonel, where have you been since we parted? And how does your business progress? Come, come, let us have no secrets among friends."
+
+Paragraph 13 rewrite:
+
+Original: “If this open weather holds much longer,” said Mrs. Jennings, when they met at breakfast the following morning, “Sir John will not like leaving Barton next week; ’tis a sad thing for sportsmen to lose a day’s pleasure. Poor souls! I always pity them when they do; they seem to take it so much to heart.”
+
+Rewrite: "If this fine weather continues much longer," said Mrs. Jennings, when they met at breakfast the following morning, "Sir John will not wish to leave Barton next week; it is a sad thing for sportsmen to lose a day's pleasure. Poor souls! I always pity them when they do; they seem to take it so much to heart."
+
+Paragraph 14 rewrite:
+
+Original: “Poor Elinor! how unhappy I make you!”
+
+Rewrite: "Poor Elinor! how could I make you so unhappy!"
+
+But maybe keep as is but rewrite: "Poor Elinor! how unhappy I make you!" maybe "Poor Elinor! how could I make you so unhappy!" Let's rewrite: "Poor Elinor! how could I make you so unhappy!"
+
+Paragraph 15 rewrite:
+
+Original: “How is she, Miss Dashwood? Poor thing! she looks very bad. No wonder. Ay, it is but too true. He is to be married very soon—a good-for-nothing fellow! I have no patience with him. Mrs. Taylor told me of it half an hour ago, and she was told it by a particular friend of Miss Grey herself, else I am sure I should not have believed it; and I was almost ready to sink as it was. Well, said I, all I can say is, that if this be true, he has used a young lady of my acquaintance abominably ill, and I wish with all my soul his wife may plague his heart out. And so I shall always say, my dear, you may depend on it. I have no notion of men’s going on in this way; and if ever I meet him again, I will give him such a dressing as he has not had this many a day. But there is one comfort, my dear Miss Marianne; he is not the only young man in the world worth having; and with your pretty face you will never want admirers. Well, poor thing! I won’t disturb her any longer, for she had better have her cry out at once and have done with. The Parrys and Sandersons luckily are coming tonight you know, and that will amuse her.”
+
+Rewrite: "How is she, Miss Dashwood? Poor thing! she looks very ill. No wonder. Ay, it is but too true. He is to be married very soon—a good-for-nothing fellow! I have no patience with him. Mrs. Taylor told me of it half an hour ago, and she heard it from a particular friend of Miss Grey herself, else I should not have believed it; I was almost ready to sink. Well, I said, all I can say is that if this be true, he has used a young lady of my acquaintance abominably ill, and I wish with all my soul that his wife may plague his heart out. I shall always say, my dear, you may depend on it. I have no notion of men's conduct in this way, and if I ever meet him again I will give him a dressing he has not received in many a day. Yet there is a comfort, my dear Miss Marianne; he is not the only young man worth having, and with your pretty face you will never lack admirers. Well, poor thing! I will not disturb her any longer, for she had better cry out at once and be done with it. The Parrys and Sandersons are coming tonight, which will amuse her."
+
+Paragraph 16 rewrite:
+
+Original: “Poor soul!” cried Mrs. Jennings, as soon as she was gone, “how it grieves me to see her! And I declare if she is not gone away without finishing her wine! And the dried cherries too! Lord! nothing seems to do her any good. I am sure if I knew of any thing she would like, I would send all over the town for it. Well, it is the oddest thing to me, that a man should use such a pretty girl so ill! But when there is plenty of money on one side, and next to none on the other, Lord bless you! they care no more about such things!—”
+
+Rewrite: "Poor soul!" cried Mrs. Jennings, as soon as she was gone, "how it grieves me to see her! And I declare she is gone away without finishing her wine, and the dried cherries too! Lord! nothing seems to do her any good. I am sure that if I knew of anything she would like, I would send all over town for it. Well, it is the oddest thing to me that a man should treat such a pretty girl so ill! But when there is plenty of money on one side and next to none on the other, Lord bless you, they care nothing for such matters!"
+
+Paragraph 17 rewrite:
+
+Original: “Fifty thousand pounds, my dear. Did you ever see her? a smart, stylish girl they say, but not handsome. I remember her aunt very well, Biddy Henshawe; she married a very wealthy man. But the family are all rich together. Fifty thousand pounds! and by all accounts, it won’t come before it’s wanted; for they say he is all to pieces. No wonder! dashing about with his curricle and hunters! Well, it don’t signify talking; but when a young man, be who he will, comes and makes love to a pretty girl, and promises marriage, he has no business to fly off from his word only because he grows poor, and a richer girl is ready to have him. Why don’t he, in such a case, sell his horses, let his house, turn off his servants, and make a thorough reform at once? I warrant you, Miss Marianne would have been ready to wait till matters came round. But that won’t do now-a-days; nothing in the way of pleasure can ever be given up by the young men of this age.”
+
+Rewrite: "Fifty thousand pounds, my dear. Did you ever see her? A smart, stylish girl, they say, though not handsome. I remember her aunt very well, Biddy Henshawe; she married a very wealthy man. The whole family is rich together. Fifty thousand pounds! and, as is reported, it will not be forthcoming when wanted, for he is, they say, all to pieces. No wonder! Dashing about with his curricle and hunters! Yet it matters not to talk; when a young man, be he who he will, comes and makes love to a pretty girl, promising marriage, he has no business to abandon his word merely because he becomes poor, and a richer girl is ready to accept him. Why does he not, in such a case, sell his horses, let his house, discharge his servants, and effect a thorough reform at once? I warrant Miss Marianne would be ready to wait till matters improved. But that will not do nowadays; nothing in the way of pleasure can ever be given up by the young men of this age."
+
+Paragraph 18 rewrite:
+
+Original: “Her guardians, my dear. But now she is of age and may choose for herself; and a pretty choice she has made!—What now,” after pausing a moment—“your poor sister is gone to her own room, I suppose, to moan by herself. Is there nothing one can get to comfort her? Poor dear, it seems quite cruel to let her be alone. Well, by-and-by we shall have a few friends, and that will amuse her a little. What shall we play at? She hates whist I know; but is there no round game she cares for?”
+
+Rewrite: "Her guardians, my dear. But now she is of age and may choose for herself; and a pretty choice she has made!—What now," after pausing a moment—"your poor sister is gone to her own room, I suppose, to mope by herself. Is there nothing one can do to comfort her? Poor dear, it seems quite cruel to leave her alone. Well, by-and-by we shall have a few friends, which will amuse her a little. What shall we play at? She hates whist, I know; but is there no round game she cares for?"
+
+Paragraph 19 rewrite:
+
+Original: “Aye, I believe that will be best for her. Let her name her own supper, and go to bed. Lord! no wonder she has been looking so bad and so cast down this last week or two, for this matter I suppose has been hanging over her head as long as that. And so the letter that came today finished it! Poor soul! I am sure if I had had a notion of it, I would not have joked her about it for all my money. But then you know, how should I guess such a thing? I made sure of its being nothing but a common love letter, and you know young people like to be laughed at about them. Lord! how concerned Sir John and my daughters will be when they hear it! If I had my senses about me I might have called in Conduit Street in my way home, and told them of it. But I shall see them tomorrow.”
+
+Rewrite: "Aye, I believe that will be best for her. Let her name her own supper and go to bed. Lord! no wonder she has looked so bad and cast down these last week or two, for this matter has been hanging over her head as long as that. And so the letter that came today finished it! Poor soul! I am sure that if I had known of it, I would not have joked her about it for all my money. But you know, how could I guess such a thing? I thought it was merely a common love letter, and you know young people like to be laughed at about them. Lord! how concerned Sir John and my daughters will be when they hear it! If I had my senses I might have called on Conduit Street on my way home and told them of it. But I shall see them tomorrow."
+
+Paragraph 20 rewrite:
+
+Original: “My dear,” said she, entering, “I have just recollected that I have some of the finest old Constantia wine in the house that ever was tasted, so I have brought a glass of it for your sister. My poor husband! how fond he was of it! Whenever he had a touch of his old colicky gout, he said it did him more good than any thing else in the world. Do take it to your sister.”
+
+Rewrite: "My dear," said she, entering, "I have just recollected that I possess some of the finest old Constantia wine in the house—indeed, the finest ever tasted—so I have brought a glass of it for your sister. My poor husband! how fond he was of it! Whenever he had a touch of his old colicky gout, he declared it did him more good than anything else in the world. Do take it to your sister."
+
+Paragraph 21 rewrite:
+
+Original: “If I am not deceived by the uncertainty, the partiality of tender recollection, there is a very strong resemblance between them, as well in mind as person. The same warmth of heart, the same eagerness of fancy and spirits. This lady was one of my nearest relations, an orphan from her infancy, and under the guardianship of my father. Our ages were nearly the same, and from our earliest years we were playfellows and friends. I cannot remember the time when I did not love Eliza; and my affection for her, as we grew up, was such, as perhaps, judging from my present forlorn and cheerless gravity, you might think me incapable of having ever felt. Hers, for me, was, I believe, fervent as the attachment of your sister to Mr. Willoughby and it was, though from a different cause, no less unfortunate. At seventeen she was lost to me for ever. She was married—married against her inclination to my brother. Her fortune was large, and our family estate much encumbered. And this, I fear, is all that can be said for the conduct of one, who was at once her uncle and guardian. My brother did not deserve her; he did not even love her. I had hoped that her regard for me would support her under any difficulty, and for some time it did; but at last the misery of her situation, for she experienced great unkindness, overcame all her resolution, and though she had promised me that nothing—but how blindly I relate! I have never told you how this was brought on. We were within a few hours of eloping together for Scotland. The treachery, or the folly, of my cousin’s maid betrayed us. I was banished to the house of a relation far distant, and she was allowed no liberty, no society, no amusement, till my father’s point was gained. I had depended on her fortitude too far, and the blow was a severe one—but had her marriage been happy, so young as I then was, a few months must have reconciled me to it, or at least I should not have now to lament it. This however was not the case. My brother had no regard for her; his pleasures were not what they ought to have been, and from the first he treated her unkindly. The consequence of this, upon a mind so young, so lively, so inexperienced as Mrs. Brandon’s, was but too natural. She resigned herself at first to all the misery of her situation; and happy had it been if she had not lived to overcome those regrets which the remembrance of me occasioned. But can we wonder that, with such a husband to provoke inconstancy, and without a friend to advise or restrain her (for my father lived only a few months after their marriage, and I was with my regiment in the East Indies) she should fall? Had I remained in England, perhaps—but I meant to promote the happiness of both by removing from her for years, and for that purpose had procured my exchange. The shock which her marriage had given me,” he continued, in a voice of great agitation, “was of trifling weight—was nothing to what I felt when I heard, about two years afterwards, of her divorce. It was _that_ which threw this gloom,—even now the recollection of what I suffered—”
+
+Rewrite: "If I am not deceived by uncertainty and the partiality of tender recollection, there is a very strong resemblance between them, both in mind and person. The same warmth of heart, the same eagerness of fancy and spirits. This lady was one of my nearest relations, an orphan from infancy, and under my father's guardianship. Our ages were nearly the same, and from our earliest years we were playfellows and friends. I cannot recall a time when I did not love Eliza; and my affection for her, as we grew up, was such that you might think me incapable of ever feeling anything else. Hers, for me, was, I believe, as fervent as the attachment of your sister to Mr. Willoughby, and though from a different cause, no less unfortunate. At seventeen she was lost to me for ever; she was married—against her inclination—to my brother. Her fortune was large, and our family estate heavily encumbered. And this, I fear, is all that can be said of the conduct of one who was at once her uncle and guardian. My brother deserved her not; he did not even love her. I had hoped that her regard for me would support her under any difficulty, and for some time it did; but at last the misery of her situation, for she experienced great unkindness, overcame all her resolution, and though she had promised me that nothing—but how blindly I relate! I have never told you how this came about. We were within a few hours of eloping to Scotland. The treachery, or folly, of my cousin's maid betrayed us. I was banished to a distant relation's house, and she was denied liberty, society, or amusement until my father's point was gained. I had relied on her fortitude too far, and the blow was severe—but had her marriage been happy, so young as I was, a few months would have reconciled me to it, or at least I should not now lament it. This however was not the case. My brother had no regard for her; his pleasures were not what they ought to have been, and from the first he treated her unkindly. The consequence, upon a mind so young, lively, and inexperienced as Mrs. Brandon's, was but too natural. She resigned herself at first to all the misery of her situation, and happy had it been if she had not lived to overcome those regrets which my remembrance of her occasioned. But can we wonder that, with such a husband to provoke inconstancy, and without a friend to advise or restrain her (for my father lived only a few months after their marriage, and I was with my regiment in the East Indies) she should fall? Had I remained in England, perhaps—but I meant to promote the happiness of both by removing her for years, and for that purpose procured my exchange. The shock which her marriage gave me," he continued, in a voice of great agitation, "was of trifling weight—was nothing to what I felt when I heard, about two years afterwards, of her divorce. It was _that_ which threw this gloom,—even now the recollection of what I suffered—"
+
+Paragraph 22 rewrite:
+
+Original: “It was nearly three years after this unhappy period before I returned to England. My first care, when I _did_ arrive, was of course to seek for her; but the search was as fruitless as it was melancholy. I could not trace her beyond her first seducer, and there was every reason to fear that she had removed from him only to sink deeper in a life of sin. Her legal allowance was not adequate to her fortune, nor sufficient for her comfortable maintenance, and I learnt from my brother that the power of receiving it had been made over some months before to another person. He imagined, and calmly could he imagine it, that her extravagance, and consequent distress, had obliged her to dispose of it for some immediate relief. At last, however, and after I had been six months in England, I _did_ find her. Regard for a former servant of my own, who had since fallen into misfortune, carried me to visit him in a spunging-house, where he was confined for debt; and there, in the same house, under a similar confinement, was my unfortunate sister. So altered—so faded—worn down by acute suffering of every kind! hardly could I believe the melancholy and sickly figure before me, to be the remains of the lovely, blooming, healthful girl, on whom I had once doted. What I endured in so beholding her—but I have no right to wound your feelings by attempting to describe it—I have pained you too much already. That she was, to all appearance, in the last stage of a consumption, was—yes, in such a situation it was my greatest comfort. Life could do nothing for her, beyond giving time for a better preparation for death; and that was given. I saw her placed in comfortable lodgings, and under proper attendants; I visited her every day during the rest of her short life: I was with her in her last moments.”
+
+Rewrite: "It was nearly three years after this unhappy period before I returned to England. My first care, when I _did_ arrive, was of course to seek for her; but the search was as fruitless as it was melancholy. I could not trace her beyond her first seducer, and there was every reason to fear that she had removed from him only to sink deeper into a life of sin. Her legal allowance was not adequate to her fortune, nor sufficient for her comfortable maintenance, and I learnt from my brother that the power of receiving it had been transferred to another person some months before. He imagined, and calmly could he imagine it, that her extravagance and consequent distress had obliged her to dispose of it for immediate relief. At last, however, and after I had been six months in England, I _did_ find her. Regard for a former servant of my own, who had fallen into misfortune, led me to visit him in a spunging-house, where he was confined for debt; and there, in the same house, under a similar confinement, was my unfortunate sister. So altered—so faded—worn down by acute suffering of every kind! Hardly could I believe the melancholy and sickly figure before me to be the remains of the lovely, blooming, healthful girl on whom I once doted. What I endured in beholding her—but I have no right to wound your feelings by attempting to describe it—I have pained you too much already. That she appeared to be in the last stage of consumption was, yes, in such a situation my greatest comfort. Life could do nothing for her beyond giving time for a better preparation for death; and that was given. I saw her placed in comfortable lodgings, under proper attendants; I visited her daily during the remainder of her short life, and was with her in her last moments."
+
+Paragraph 23 rewrite:
+
+Original: “Your sister, I hope, cannot be offended,” said he, “by the resemblance I have fancied between her and my poor disgraced relation. Their fates, their fortunes, cannot be the same; and had the natural sweet disposition of the one been guarded by a firmer mind, or a happier marriage, she might have been all that you will live to see the other be. But to what does all this lead? I seem to have been distressing you for nothing. Ah! Miss Dashwood—a subject such as this—untouched for fourteen years—it is dangerous to handle it at all! I _will_ be more collected—more concise. She left to my care her only child, a little girl, the offspring of her first guilty connection, who was then about three years old. She loved the child, and had always kept it with her. It was a valued, a precious trust to me; and gladly would I have discharged it in the strictest sense, by watching over her education myself, had the nature of our situations allowed it; but I had no family, no home; and my little Eliza was therefore placed at school. I saw her there whenever I could, and after the death of my brother, (which happened about five years ago, and which left to me the possession of the family property,) she visited me at Delaford. I called her a distant relation; but I am well aware that I have in general been suspected of a much nearer connection with her. It is now three years ago (she had just reached her fourteen year,) that I removed her from school, to place her under the care of a very respectable woman, residing in Dorsetshire, who had the charge of four or five other girls of about the same time of life; and for two years I had every reason to be pleased with her situation. But last February, almost a twelvemonth back, she suddenly disappeared. I had allowed her, (imprudently, as it has since turned out,) at her earnest desire to go to Bath with one of her young friends, who was attending her father there for his health. I knew him to be a very good sort of man, and I thought well of his daughter—better than she deserved, for, with a most obstinate and ill-judged secrecy, she would tell nothing, would give no clue, though she certainly knew all. He, her father, a well-meaning, but not a quick-sighted man, could really, I believe, give no information; for he had been generally confined to the house, while the girls were ranging over the town and making what acquaintance they chose; and he tried to convince me, as thoroughly as he was convinced himself, of his daughter’s being entirely unconcerned in the business. In short, I could learn nothing but that she was gone; all the rest, for eight long months, was left to conjecture. What I thought, what I feared, may be imagined; and what I suffered too.”
+
+Rewrite: "Your sister, I hope, cannot be offended," said he, "by the resemblance I have fancied between her and my poor disgraced relation. Their fates and fortunes cannot be the same; and had the natural sweet disposition of the one been guarded by a firmer mind, or a happier marriage, she might have been all that you will live to see the other be. But to what does all this lead? I seem to have been distressing you for nothing. Ah! Miss Dashwood—a subject such as this, untouched for fourteen years—it is dangerous to handle it at all! I _will_ be more collected—more concise. She left to my care her only child, a little girl, the offspring of her first guilty connection, who was then about three years old. She loved the child and had always kept it with her. It was a valued, a precious trust to me; and gladly would I have discharged it in the strictest sense by watching over her education myself, had the nature of our situations allowed it; but I had no family, no home, and my little Eliza was therefore placed at school. I saw her there whenever I could, and after the death of my brother, (which happened about five years ago and left me in possession of the family property,) she visited me at Delaford. I called her a distant relation; but I am well aware that I have generally been suspected of a much nearer connection with her. It is now three years ago (she had just reached her fourteenth year) that I removed her from school, to place her under the care of a very respectable woman residing in Dorsetshire, who had charge of four or five other girls of about the same age; and for two years I had every reason to be pleased with her situation. But last February, almost a twelvemonth back, she suddenly disappeared. I had allowed her, (imprudently, as it has since turned out,) at her earnest desire to go to Bath with one of her young friends, who was attending her father there for his health. I knew him to be a very good sort of man, and I thought well of his daughter—better than she deserved, for, with a most obstinate and ill‑judged secrecy, she would tell nothing, give no clue, though she certainly knew all. He, her father, a well‑meaning but not quick‑sighted man, could really, I believe, give no information; for he had been generally confined to the house while the girls ranged over the town and made what acquaintance they pleased, and he tried to convince me, as thoroughly as he was convinced himself, that his daughter was entirely unconcerned in the business. In short, I could learn nothing but that she was gone; all the rest, for eight long months, was left to conjecture. What I thought, what I feared, may be imagined; and what I suffered too."
+
+Paragraph 24 rewrite:
+
+Original: “The first news that reached me of her,” he continued, “came in a letter from herself, last October. It was forwarded to me from Delaford, and I received it on the very morning of our intended party to Whitwell; and this was the reason of my leaving Barton so suddenly, which I am sure must at the time have appeared strange to every body, and which I believe gave offence to some. Little did Mr. Willoughby imagine, I suppose, when his looks censured me for incivility in breaking up the party, that I was called away to the relief of one whom he had made poor and miserable; but _had_ he known it, what would it have availed? Would he have been less gay or less happy in the smiles of your sister? No, he had already done that, which no man who _can_ feel for another would do. He had left the girl whose youth and innocence he had seduced, in a situation of the utmost distress, with no creditable home, no help, no friends, ignorant of his address! He had left her, promising to return; he neither returned, nor wrote, nor relieved her.”
+
+Rewrite: "The first news that reached me of her," he continued, "came in a letter from herself, last October. It was forwarded to me from Delaford, and I received it on the very morning of our intended party to Whitwell; and this was the reason of my leaving Barton so suddenly, which I am sure must have seemed strange to every body, and which I believe gave offence to some. Little did Mr. Willoughby imagine, I suppose, when his looks censured me for incivility in breaking up the party, that I was called away to the relief of one whom he had made poor and miserable; but _had_ he known it, what would it have availed? Would he have been less gay or less happy in the smiles of your sister? No, he had already done that, which no man who _can_ feel for another would do. He had left the girl whose youth and innocence he had seduced, in a situation of the utmost distress, with no creditable home, no help, no friends, for<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,,:..:,,,.:, a de se de::,:,,,,:adoó de una.:,.:.,:, de  de...,amente,,::ado,,,:,,,le..:amente,.:amente,,.,,,,::adoadoo,,,,., de un.:::adoamente de la,,,,,, de-ep.:,,:, a:::,adoos,,::adoadoa,,:,:, por una.:,:,::,:,,:ba de los,,,:, a::,:amente de los,<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,,,:,::,,<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,,,,:,,:::,,::, in thei,Ferr,., Ferr,,,:-:: than de's,,,,,,,,-aven,,,,,,: Ferr,,,: ,::,,,,,,,,,,:-El,,,,,:-F,::,,,,,,,:,- in il,:,,:,,::,,:osFerr,,,:::,,:, Ferr::,:,,,,:,,:-H,,,:,:,,,,,,,,,,,,,,:Ferr,,,,: Ferr ofner,,,,:,:-,,,,.:,,,,:-,,,,,-,,,:-C,,,,:-,:,,,, -:,- on un,,,, ,,,,:,,,,:-F--avy ',:ight,,,,,Y,,,,,:-,,.:,,,,,::,,, a--F,,F:,-:,:<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,,,,,,:":,,,,,,,, in a,,:",:-:,,,,,,:Ferr,,,,,,,, Ferr,,,,:Ferr,,,,, Ferr,,,,,, ,,:- ,",,,:Ferr,, ,:-,:<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,,",,:":,:: :,- ,."::: ",:-,",Ferr, Ferr,, Ferr,,-,,,,,,:Ferr,- aus:. -,, Ferr,:사,::-N,,,,Ferr,,,,Ferr,,,, Ferr,,:,,,:-,,, 'S: :,,,-,
+-O-F,,,-,,,:,-stra,-S,-ischer,,-,,,,,,-F,,,,,,,,,,-,...,,'s--ough,-,,,,,,,'S,,,,,,,,-,, ,,,-F,,-,,,,,, 's:,- ,,-,-Ferr,, ,,,,,,,,,,,,,,,:-,'-机,'-,-,,-,,-,,-,,-,,,-,,,,,,,,,,-,,-,,-,,-,,,,,,,,,,,,,, 's:,-,,,<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,-,":::":"",:!<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,,"::":""",:::,",,,:","",, '-,"," in,,",,,,",,,,,,, of,,,,:,:,-ss,",,'s,,,,",,,,,,,:,,,,,,,,,,,,,,,,,,,,,,,,,,,'s于:"ss,---:,,,, 's,-,,,,,,,,,,,,,,,,,,,,-:,:-:,,,,"-,,,,,,,,'s, ,,,,'s::,"st,--F,,,-,,-P,,,,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 's-"-<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,,":":"!,"!":::! ,: !,",,, , ,,,"!,,, in,,-,士 ,,":,:,,"!,',",,,,:,,-,'<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>!-"-""!!:!!,":,:":":",,.-,:,",,,-,,,,,,,,,'s,",",'"-,,,,,,,:,,',',.-,,, ,,,,,,,,,,,,,,,,,,'s of of" ','s",-,,:'s:":"man,',人's di,--,",",'s<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>-":"!:!:"!! !!"!,:,:":",,-St,,ss,",",,,,,,,,'s,,,,,,! !,,-'s,,",,,,...,"-n,,ol,",,,,,,,,,,,,,,! de"-,,--,,-,- , in-st,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,:,-St:,,,,,,,,,,,,,,,<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,.!!"""!",!,":""",,,,:!"'!,,,!,,",",,,-,-,,,:,::"ous,--,,",,,-,,-P,,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.--'s于 of,,,,,-,,,,,,,,,,,,, ,,:,,,..., of" de,,-- -l,-schild,,,-,,'s,,,,,,,,,,,,,'s not,- ,,-st,-S,, ,, in,:-,,-,,-,,,,,,,,,,,,,,,,,'s , of und,-O,--:,,,--,,,,,,,,,,,,'s于e,,,,"-,,- ,:-be,-,-,,-F,"十,"-,,-,,-,,,O,-,,-S,,-,,-,,-,,-E,,-,,,-,,-B,,,,,-,,-,,-,,-,,,,,,,-,,-,,-,,-,,,-,,, ,,-,,,,,,,,-,,,,,,,,,-,,,,,'s:-ens,,-,,,,,,,,-,,,-,,,,,,,,,,,,,,,,, ,:- ",-- -,,',,-,,-St,-,,,,,-,,-,,-,,,-,,,-,,-,,,,,,,,,,-,,,,,,,,,,-,, ,,,-l,-  ,,, ,,,-,,,、-,,-,,,-F,,--,,,-B,,-,,-,,, ,,,-,,-,,-,, ,-,,,-,,,-,,,-F,-F,,-,,-S,,-O,,-,, ,,,-,,,,-,,Ferr,,,,,,,-,,,,,-,,,-,,,-,,,,,-O,,,,,...,,,,,,,-,,,-,,,-B,,,-,,-,,-,,,,-,, ,,,-F,, ,,, ,,, , ,,,,-P,-,,,-,,,,-M,-F,,st,,-F,,,,,,,, ,,,-,,-,,,,-,,,-,, and-F,,<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,,""",!-,::" one!,",,":,**,",",,,'s,!,,,,son,,,,,,,,,,,,,,",,,,,",,,,,,,,,, in,,,:,在,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'s,-,,,,,,,,,,,,,<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>,,""", ,::"",,,,",,,",,:!,,,,,,,,:, man (,:,,",,,,,,,,,",,,,,,,,,,,'s),,, in's.-and,,":,-,,,'s," ,:'s,,,,,'s, ,,:,,'s.-)-,,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,'s , of on of of" of"-"-ow,,-,-,,," ,',,,",,-'s of in--,'fr,,ss,,,,-,,-,,,,-,, ,,, ,,'s:-S,,-,- (,

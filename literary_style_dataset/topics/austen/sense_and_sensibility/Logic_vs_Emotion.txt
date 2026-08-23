@@ -1,621 +1,154 @@
 # Topic: Logic vs Emotion
 # Book: sense_and_sensibility
 # Author: austen
+# (AI Rewritten)
 
 --- Paragraph 1 ---
-Mrs. Palmer was several years younger than Lady Middleton, and totally
-unlike her in every respect. She was short and plump, had a very pretty
-face, and the finest expression of good humour in it that could
-possibly be. Her manners were by no means so elegant as her sister’s,
-but they were much more prepossessing. She came in with a smile, smiled
-all the time of her visit, except when she laughed, and smiled when she
-went away. Her husband was a grave looking young man of five or six and
-twenty, with an air of more fashion and sense than his wife, but of
-less willingness to please or be pleased. He entered the room with a
-look of self-consequence, slightly bowed to the ladies, without
-speaking a word, and, after briefly surveying them and their
-apartments, took up a newspaper from the table, and continued to read
-it as long as he staid.
+Mrs. Palmer was some years the junior of Lady Middleton, and in every particular her absolute reverse. She was low and plump, possessed of a remarkably pretty face, and an expression of the most unfeigned good-humour imaginable. Her manners, though lacking the elegance of her sister's, were infinitely more engaging. She entered smiling, smiled throughout her visit—save when she laughed—and departed smiling. Her husband was a grave-looking young man of five-and-twenty, with an air of superior fashion and sense, but decidedly less desire to please or be pleased. He made his entrance with a look of considerable self-consequence, favoured the ladies with a slight bow and no word, briefly surveyed both them and their apartments, then seized a newspaper from the table and read it for the duration of his stay.
 
 --- Paragraph 2 ---
-“Upon my word,” replied Elinor, “you know much more of the matter than
-I do, if you have any reason to expect such a match.”
+"Upon my word," returned Elinor, "you are far better informed than I, if you have any grounds to expect such a match."
 
 --- Paragraph 3 ---
-When their promised visit to the Park and consequent introduction to
-these young ladies took place, they found in the appearance of the
-eldest, who was nearly thirty, with a very plain and not a sensible
-face, nothing to admire; but in the other, who was not more than two or
-three and twenty, they acknowledged considerable beauty; her features
-were pretty, and she had a sharp quick eye, and a smartness of air,
-which though it did not give actual elegance or grace, gave distinction
-to her person. Their manners were particularly civil, and Elinor soon
-allowed them credit for some kind of sense, when she saw with what
-constant and judicious attention they were making themselves agreeable
-to Lady Middleton. With her children they were in continual raptures,
-extolling their beauty, courting their notice, and humouring their
-whims; and such of their time as could be spared from the importunate
-demands which this politeness made on it, was spent in admiration of
-whatever her ladyship was doing, if she happened to be doing any thing,
-or in taking patterns of some elegant new dress, in which her
-appearance the day before had thrown them into unceasing delight.
-Fortunately for those who pay their court through such foibles, a fond
-mother, though, in pursuit of praise for her children, the most
-rapacious of human beings, is likewise the most credulous; her demands
-are exorbitant; but she will swallow any thing; and the excessive
-affection and endurance of the Miss Steeles towards her offspring were
-viewed therefore by Lady Middleton without the smallest surprise or
-distrust. She saw with maternal complacency all the impertinent
-encroachments and mischievous tricks to which her cousins submitted.
-She saw their sashes untied, their hair pulled about their ears, their
-work-bags searched, and their knives and scissors stolen away, and felt
-no doubt of its being a reciprocal enjoyment. It suggested no other
-surprise than that Elinor and Marianne should sit so composedly by,
-without claiming a share in what was passing.
+When the promised visit to the Park and the consequent introduction to these young ladies took place, they discovered in the eldest, a woman of nearly thirty with a very plain and not particularly sensible countenance, nothing to admire; but in the younger, not yet three-and-twenty, they acknowledged considerable beauty. Her features were pretty, her eye sharp and quick, and a certain smartness of air, though it conferred neither true elegance nor grace, gave distinction to her person. Their manners were particularly civil, and Elinor soon granted them some species of sense, when she observed with what constant and judicious attention they laboured to make themselves agreeable to Lady Middleton. With her children they were in continual raptures, extolling their beauty, courting their notice, and humouring their every whim; and such time as could be spared from the importunate demands of this politeness was spent in admiration of whatever her ladyship happened to be doing, or in taking patterns of some elegant new dress, in which her appearance the day before had thrown them into unceasing delight. Fortunately for those who pay court through such foibles, a fond mother, though in pursuit of praise for her children the most rapacious of human beings, is likewise the most credulous; her demands are exorbitant, yet she will swallow anything. The excessive affection and endurance of the Miss Steeles towards her offspring were therefore viewed by Lady Middleton without the smallest surprise or distrust. She beheld with maternal complacency all the impertinent encroachments and mischievous tricks to which her cousins submitted—their sashes untied, their hair pulled about their ears, their work-bags searched, their knives and scissors stolen away—and felt no doubt of its being a reciprocal enjoyment. It occasioned no other wonder than that Elinor and Marianne could sit so composedly by without claiming a share in what was passing.
 
 --- Paragraph 4 ---
-But unfortunately in bestowing these embraces, a pin in her ladyship’s
-head dress slightly scratching the child’s neck, produced from this
-pattern of gentleness such violent screams, as could hardly be outdone
-by any creature professedly noisy. The mother’s consternation was
-excessive; but it could not surpass the alarm of the Miss Steeles, and
-every thing was done by all three, in so critical an emergency, which
-affection could suggest as likely to assuage the agonies of the little
-sufferer. She was seated in her mother’s lap, covered with kisses, her
-wound bathed with lavender-water, by one of the Miss Steeles, who was
-on her knees to attend her, and her mouth stuffed with sugar plums by
-the other. With such a reward for her tears, the child was too wise to
-cease crying. She still screamed and sobbed lustily, kicked her two
-brothers for offering to touch her, and all their united soothings were
-ineffectual till Lady Middleton luckily remembering that in a scene of
-similar distress last week, some apricot marmalade had been
-successfully applied for a bruised temple, the same remedy was eagerly
-proposed for this unfortunate scratch, and a slight intermission of
-screams in the young lady on hearing it, gave them reason to hope that
-it would not be rejected. She was carried out of the room therefore in
-her mother’s arms, in quest of this medicine, and as the two boys chose
-to follow, though earnestly entreated by their mother to stay behind,
-the four young ladies were left in a quietness which the room had not
-known for many hours.
+But unfortunately, in bestowing these embraces, a pin in her ladyship's headdress slightly scratched the child's neck, and from this pattern of gentleness issued such violent screams as could scarcely be outdone by any creature professedly noisy. The mother's consternation was excessive, yet it could not surpass the alarm of the Miss Steeles, and everything was done by all three, in so critical an emergency, which affection could suggest as likely to assuage the agonies of the little sufferer. She was seated in her mother's lap, covered with kisses, her wound bathed with lavender-water by one of the Miss Steeles, who knelt to attend her, and her mouth stuffed with sugar-plums by the other. With such a reward for her tears, the child was too wise to cease crying. She still screamed and sobbed lustily, kicked her two brothers for offering to touch her, and all their united soothings proved ineffectual till Lady Middleton, luckily remembering that in a scene of similar distress last week some apricot marmalade had been successfully applied for a bruised temple, eagerly proposed the same remedy for this unfortunate scratch. A slight intermission of screams in the young lady on hearing it gave them reason to hope it would not be rejected. She was carried out of the room therefore in her mother's arms, in quest of this medicine, and as the two boys chose to follow, though earnestly entreated by their mother to stay behind, the four young ladies were left in a quietness the room had not known for many hours.
 
 --- Paragraph 5 ---
-Marianne was silent; it was impossible for her to say what she did not
-feel, however trivial the occasion; and upon Elinor therefore the whole
-task of telling lies when politeness required it, always fell. She did
-her best when thus called on, by speaking of Lady Middleton with more
-warmth than she felt, though with far less than Miss Lucy.
+Marianne was silent; it was impossible for her to say what she did not feel, however trivial the occasion; and upon Elinor therefore the whole task of telling lies when politeness required it always fell. She did her best when thus called upon, by speaking of Lady Middleton with more warmth than she felt, though with far less than Miss Lucy.
 
 --- Paragraph 6 ---
-Lucy was naturally clever; her remarks were often just and amusing; and
-as a companion for half an hour Elinor frequently found her agreeable;
-but her powers had received no aid from education: she was ignorant and
-illiterate; and her deficiency of all mental improvement, her want of
-information in the most common particulars, could not be concealed from
-Miss Dashwood, in spite of her constant endeavour to appear to
-advantage. Elinor saw, and pitied her for, the neglect of abilities
-which education might have rendered so respectable; but she saw, with
-less tenderness of feeling, the thorough want of delicacy, of
-rectitude, and integrity of mind, which her attentions, her
-assiduities, her flatteries at the Park betrayed; and she could have no
-lasting satisfaction in the company of a person who joined insincerity
-with ignorance; whose want of instruction prevented their meeting in
-conversation on terms of equality, and whose conduct toward others made
-every show of attention and deference towards herself perfectly
-valueless.
+Lucy was naturally clever; her remarks were often just and amusing; and as a companion for half an hour Elinor frequently found her agreeable; but her powers had received no aid from education: she was ignorant and illiterate; and her deficiency of all mental improvement, her want of information in the most common particulars, could not be concealed from Miss Dashwood, despite her constant endeavour to appear to advantage. Elinor saw, and pitied her for, the neglect of abilities which education might have rendered so respectable; but she saw, with less tenderness of feeling, the thorough want of delicacy, of rectitude, and integrity of mind, which her attentions, her assiduities, her flatteries at the Park betrayed; and she could have no lasting satisfaction in the company of a person who joined insincerity with ignorance; whose want of instruction prevented their meeting in conversation on terms of equality, and whose conduct towards others made every show of attention and deference towards herself perfectly valueless.
 
 --- Paragraph 7 ---
-“Good heavens!” cried Elinor, “what do you mean? Are you acquainted
-with Mr. Robert Ferrars? Can you be?” And she did not feel much
-delighted with the idea of such a sister-in-law.
+"Good heavens!" cried Elinor, "what do you mean? Are you acquainted with Mr. Robert Ferrars? Can you be?" And she did not feel much delighted with the idea of such a sister-in-law.
 
 --- Paragraph 8 ---
-What felt Elinor at that moment? Astonishment, that would have been as
-painful as it was strong, had not an immediate disbelief of the
-assertion attended it. She turned towards Lucy in silent amazement,
-unable to divine the reason or object of such a declaration; and though
-her complexion varied, she stood firm in incredulity, and felt in no
-danger of an hysterical fit, or a swoon.
+What did Elinor feel at that moment? Astonishment, that would have been as painful as it was strong, had not an immediate disbelief of the assertion attended it. She turned towards Lucy in silent amazement, unable to divine the reason or object of such a declaration; and though her complexion varied, she stood firm in incredulity, and felt in no danger of an hysterical fit or a swoon.
 
 --- Paragraph 9 ---
-“I think I have,” replied Elinor, with an exertion of spirits, which
-increased with her increase of emotion.
+"I think I have," replied Elinor, with an exertion of spirits which increased with her increase of emotion.
 
 --- Paragraph 10 ---
-“No; considering our situation, it was not strange. Our first care has
-been to keep the matter secret. You knew nothing of me, or my family,
-and, therefore, there could be no _occasion_ for ever mentioning my
-name to you; and, as he was always particularly afraid of his sister’s
-suspecting any thing, _that_ was reason enough for his not mentioning
-it.”
+"No; considering our situation, it was not strange. Our first care has been to keep the matter secret. You knew nothing of me or my family, and therefore there could be no occasion for ever mentioning my name to you; and as he was always particularly afraid of his sister's suspecting anything, that was reason enough for his not mentioning it."
 
 --- Paragraph 11 ---
-“Yes; and heaven knows how much longer we may have to wait. Poor
-Edward! It puts him quite out of heart.” Then taking a small miniature
-from her pocket, she added, “To prevent the possibility of mistake, be
-so good as to look at this face. It does not do him justice, to be
-sure, but yet I think you cannot be deceived as to the person it was
-drew for.—I have had it above these three years.”
+"Yes; and heaven knows how much longer we may have to wait. Poor Edward! It puts him quite out of heart." Then taking a small miniature from her pocket, she added, "To prevent the possibility of mistake, be so good as to look at this face. It does not do him justice, to be sure, but yet I think you cannot be deceived as to the person for whom it was drawn.—I have had it above these three years."
 
 --- Paragraph 12 ---
-She put it into her hands as she spoke; and when Elinor saw the
-painting, whatever other doubts her fear of a too hasty decision, or
-her wish of detecting falsehood might suffer to linger in her mind, she
-could have none of its being Edward’s face. She returned it almost
-instantly, acknowledging the likeness.
+She put it into her hands as she spoke; and when Elinor saw the painting, whatever other doubts her fear of a too hasty decision, or her wish of detecting falsehood, might suffer to linger in her mind, she could have none of its being Edward's face. She returned it almost instantly, acknowledging the likeness.
 
 --- Paragraph 13 ---
-“I was afraid you would think I was taking a great liberty with you,”
-said she, “in telling you all this. I have not known you long to be
-sure, personally at least, but I have known you and all your family by
-description a great while; and as soon as I saw you, I felt almost as
-if you was an old acquaintance. Besides in the present case, I really
-thought some explanation was due to you after my making such particular
-inquiries about Edward’s mother; and I am so unfortunate, that I have
-not a creature whose advice I can ask. Anne is the only person that
-knows of it, and she has no judgment at all; indeed, she does me a
-great deal more harm than good, for I am in constant fear of her
-betraying me. She does not know how to hold her tongue, as you must
-perceive, and I am sure I was in the greatest fright in the world
-t’other day, when Edward’s name was mentioned by Sir John, lest she
-should out with it all. You can’t think how much I go through in my
-mind from it altogether. I only wonder that I am alive after what I
-have suffered for Edward’s sake these last four years. Every thing in
-such suspense and uncertainty; and seeing him so seldom—we can hardly
-meet above twice a-year. I am sure I wonder my heart is not quite
-broke.”
+"I was afraid you would think I was taking a great liberty with you," said she, "in telling you all this. I have not known you long, to be sure, personally at least, but I have known you and all your family by description a great while; and as soon as I saw you, I felt almost as if you were an old acquaintance. Besides, in the present case, I really thought some explanation was due to you after my making such particular inquiries about Edward's mother; and I am so unfortunate that I have not a creature whose advice I can ask. Anne is the only person that knows of it, and she has no judgment at all; indeed, she does me a great deal more harm than good, for I am in constant fear of her betraying me. She does not know how to hold her tongue, as you must perceive, and I am sure I was in the greatest fright in the world t'other day, when Edward's name was mentioned by Sir John, lest she should out with it all. You can't think how much I go through in my mind from it altogether. I only wonder that I am alive after what I have suffered for Edward's sake these last four years. Everything in such suspense and uncertainty; and seeing him so seldom—we can hardly meet above twice a-year. I am sure I wonder my heart is not quite broke."
 
 --- Paragraph 14 ---
-Here she took out her handkerchief; but Elinor did not feel very
-compassionate.
+Here she took out her handkerchief; but Elinor did not feel very compassionate.
 
 --- Paragraph 15 ---
-Elinor saw that it _was_ his hand, and she could doubt no longer. This
-picture, she had allowed herself to believe, might have been
-accidentally obtained; it might not have been Edward’s gift; but a
-correspondence between them by letter, could subsist only under a
-positive engagement, could be authorised by nothing else; for a few
-moments, she was almost overcome—her heart sunk within her, and she
-could hardly stand; but exertion was indispensably necessary; and she
-struggled so resolutely against the oppression of her feelings, that
-her success was speedy, and for the time complete.
+Elinor saw that it was his hand, and she could doubt no longer. This picture she had allowed herself to believe might have been accidentally obtained; it might not have been Edward's gift; but a correspondence between them by letter could subsist only under a positive engagement, could be authorised by nothing else; for a few moments she was almost overcome—her heart sank within her, and she could hardly stand; but exertion was indispensably necessary; and she struggled so resolutely against the oppression of her feelings that her success was speedy, and for the time complete.
 
 --- Paragraph 16 ---
-“I did,” said Elinor, with a composure of voice, under which was
-concealed an emotion and distress beyond any thing she had ever felt
-before. She was mortified, shocked, confounded.
+"I did," said Elinor, with a composure of voice under which was concealed an emotion and distress beyond anything she had ever felt before. She was mortified, shocked, confounded.
 
 --- Paragraph 17 ---
-However small Elinor’s general dependence on Lucy’s veracity might be,
-it was impossible for her on serious reflection to suspect it in the
-present case, where no temptation could be answerable to the folly of
-inventing a falsehood of such a description. What Lucy had asserted to
-be true, therefore, Elinor could not, dared not longer doubt; supported
-as it was too on every side by such probabilities and proofs, and
-contradicted by nothing but her own wishes. Their opportunity of
-acquaintance in the house of Mr. Pratt was a foundation for the rest,
-at once indisputable and alarming; and Edward’s visit near Plymouth,
-his melancholy state of mind, his dissatisfaction at his own prospects,
-his uncertain behaviour towards herself, the intimate knowledge of the
-Miss Steeles as to Norland and their family connections, which had
-often surprised her, the picture, the letter, the ring, formed
-altogether such a body of evidence, as overcame every fear of
-condemning him unfairly, and established as a fact, which no partiality
-could set aside, his ill-treatment of herself.—Her resentment of such
-behaviour, her indignation at having been its dupe, for a short time
-made her feel only for herself; but other ideas, other considerations,
-soon arose. Had Edward been intentionally deceiving her? Had he feigned
-a regard for her which he did not feel? Was his engagement to Lucy an
-engagement of the heart? No; whatever it might once have been, she
-could not believe it such at present. His affection was all her own.
-She could not be deceived in that. Her mother, sisters, Fanny, all had
-been conscious of his regard for her at Norland; it was not an illusion
-of her own vanity. He certainly loved her. What a softener of the heart
-was this persuasion! How much could it not tempt her to forgive! He had
-been blamable, highly blamable, in remaining at Norland after he first
-felt her influence over him to be more than it ought to be. In that, he
-could not be defended; but if he had injured her, how much more had he
-injured himself; if her case were pitiable, his was hopeless. His
-imprudence had made her miserable for a while; but it seemed to have
-deprived himself of all chance of ever being otherwise. She might in
-time regain tranquillity; but _he_, what had he to look forward to?
-Could he ever be tolerably happy with Lucy Steele; could he, were his
-affection for herself out of the question, with his integrity, his
-delicacy, and well-informed mind, be satisfied with a wife like
-her—illiterate, artful, and selfish?
+However small Elinor's general dependence on Lucy's veracity might be, it was impossible for her, on serious reflection, to suspect it in the present case, where no temptation could be answerable to the folly of inventing a falsehood of such a description. What Lucy had asserted to be true, therefore, Elinor could not, dared not longer doubt; supported as it was on every side by such probabilities and proofs, and contradicted by nothing but her own wishes. Their opportunity of acquaintance in the house of Mr. Pratt was a foundation for the rest at once indisputable and alarming; and Edward's visit near Plymouth, his melancholy state of mind, his dissatisfaction at his own prospects, his uncertain behaviour towards herself, the intimate knowledge of the Miss Steeles as to Norland and their family connections, which had often surprised her, the picture, the letter, the ring, formed altogether such a body of evidence as overcame every fear of condemning him unfairly, and established as a fact which no partiality could set aside his ill-treatment of herself.—Her resentment of such behaviour, her indignation at having been its dupe, for a short time made her feel only for herself; but other ideas, other considerations soon arose. Had Edward been intentionally deceiving her? Had he feigned a regard for her which he did not feel? Was his engagement to Lucy an engagement of the heart? No; whatever it might once have been, she could not believe it such at present. His affection was all her own. She could not be deceived in that. Her mother, sisters, Fanny, all had been conscious of his regard for her at Norland; it was not an illusion of her own vanity. He certainly loved her. What a softener of the heart was this persuasion! How much could it not tempt her to forgive! He had been blamable, highly blamable, in remaining at Norland after he first felt her influence over him to be more than it ought to be. In that, he could not be defended; but if he had injured her, how much more had he injured himself; if her case were pitiable, his was hopeless. His imprudence had made her miserable for a while; but it seemed to have deprived himself of all chance of ever being otherwise. She might in time regain tranquillity; but he, what had he to look forward to? Could he ever be tolerably happy with Lucy Steele; could he, were his affection for herself out of the question, with his integrity, his delicacy, and well-informed mind, be satisfied with a wife like her—illiterate, artful, and selfish?
 
 --- Paragraph 18 ---
-If in the supposition of his seeking to marry herself, his difficulties
-from his mother had seemed great, how much greater were they now likely
-to be, when the object of his engagement was undoubtedly inferior in
-connections, and probably inferior in fortune to herself. These
-difficulties, indeed, with a heart so alienated from Lucy, might not
-press very hard upon his patience; but melancholy was the state of the
-person by whom the expectation of family opposition and unkindness,
-could be felt as a relief!
+If in the supposition of his seeking to marry herself, his difficulties from his mother had seemed great, how much greater were they now likely to be, when the object of his engagement was undoubtedly inferior in connections, and probably inferior in fortune to herself. These difficulties indeed, with a heart so alienated from Lucy, might not press very hard upon his patience; but melancholy was the state of the person by whom the expectation of family opposition and unkindness could be felt as a relief!
 
 --- Paragraph 19 ---
-As these considerations occurred to her in painful succession, she wept
-for him, more than for herself. Supported by the conviction of having
-done nothing to merit her present unhappiness, and consoled by the
-belief that Edward had done nothing to forfeit her esteem, she thought
-she could even now, under the first smart of the heavy blow, command
-herself enough to guard every suspicion of the truth from her mother
-and sisters. And so well was she able to answer her own expectations,
-that when she joined them at dinner only two hours after she had first
-suffered the extinction of all her dearest hopes, no one would have
-supposed from the appearance of the sisters, that Elinor was mourning
-in secret over obstacles which must divide her for ever from the object
-of her love, and that Marianne was internally dwelling on the
-perfections of a man, of whose whole heart she felt thoroughly
-possessed, and whom she expected to see in every carriage which drove
-near their house.
+As these considerations occurred to her in painful succession, she wept for him more than for herself. Supported by the conviction of having done nothing to merit her present unhappiness, and consoled by the belief that Edward had done nothing to forfeit her esteem, she thought she could even now, under the first smart of the heavy blow, command herself enough to guard every suspicion of the truth from her mother and sisters. And so well was she able to answer her own expectations that when she joined them at dinner only two hours after she had first suffered the extinction of all her dearest hopes, no one would have supposed from the appearance of the sisters that Elinor was mourning in secret over obstacles which must divide her for ever from the object of her love, and that Marianne was internally dwelling on the perfections of a man of whose whole heart she felt thoroughly possessed, and whom she expected to see in every carriage which drove near their house.
 
 --- Paragraph 20 ---
-From their counsel, or their conversation, she knew she could receive
-no assistance, their tenderness and sorrow must add to her distress,
-while her self-command would neither receive encouragement from their
-example nor from their praise. She was stronger alone, and her own good
-sense so well supported her, that her firmness was as unshaken, her
-appearance of cheerfulness as invariable, as with regrets so poignant
-and so fresh, it was possible for them to be.
+From their counsel or their conversation she knew she could receive no assistance; their tenderness and sorrow must add to her distress, while her self-command would neither receive encouragement from their example nor from their praise. She was stronger alone, and her own good sense so well supported her that her firmness was as unshaken, her appearance of cheerfulness as invariable, as with regrets so poignant and so fresh it was possible for them to be.
 
 --- Paragraph 21 ---
-Much as she had suffered from her first conversation with Lucy on the
-subject, she soon felt an earnest wish of renewing it; and this for
-more reasons than one. She wanted to hear many particulars of their
-engagement repeated again, she wanted more clearly to understand what
-Lucy really felt for Edward, whether there were any sincerity in her
-declaration of tender regard for him, and she particularly wanted to
-convince Lucy, by her readiness to enter on the matter again, and her
-calmness in conversing on it, that she was no otherwise interested in
-it than as a friend, which she very much feared her involuntary
-agitation, in their morning discourse, must have left at least
-doubtful. That Lucy was disposed to be jealous of her appeared very
-probable: it was plain that Edward had always spoken highly in her
-praise, not merely from Lucy’s assertion, but from her venturing to
-trust her on so short a personal acquaintance, with a secret so
-confessedly and evidently important. And even Sir John’s joking
-intelligence must have had some weight. But indeed, while Elinor
-remained so well assured within herself of being really beloved by
-Edward, it required no other consideration of probabilities to make it
-natural that Lucy should be jealous; and that she was so, her very
-confidence was a proof. What other reason for the disclosure of the
-affair could there be, but that Elinor might be informed by it of
-Lucy’s superior claims on Edward, and be taught to avoid him in future?
-She had little difficulty in understanding thus much of her rival’s
-intentions, and while she was firmly resolved to act by her as every
-principle of honour and honesty directed, to combat her own affection
-for Edward and to see him as little as possible; she could not deny
-herself the comfort of endeavouring to convince Lucy that her heart was
-unwounded. And as she could now have nothing more painful to hear on
-the subject than had already been told, she did not mistrust her own
-ability of going through a repetition of particulars with composure.
+Much as she had suffered from her first conversation with Lucy on the subject, she soon felt an earnest wish of renewing it; and this for more reasons than one. She wanted to hear many particulars of their engagement repeated again; she wanted more clearly to understand what Lucy really felt for Edward, whether there were any sincerity in her declaration of tender regard for him; and she particularly wanted to convince Lucy, by her readiness to enter on the matter again and her calmness in conversing on it, that she was no otherwise interested in it than as a friend, which she very much feared her involuntary agitation in their morning discourse must have left at least doubtful. That Lucy was disposed to be jealous of her appeared very probable: it was plain that Edward had always spoken highly in her praise, not merely from Lucy's assertion, but from her venturing to trust her, on so short a personal acquaintance, with a secret so confessedly and evidently important. And even Sir John's joking intelligence must have had some weight. But indeed, while Elinor remained so well assured within herself of being really beloved by Edward, it required no other consideration of probabilities to make it natural that Lucy should be jealous; and that she was so, her very confidence was a proof. What other reason for the disclosure of the affair could there be but that Elinor might be informed by it of Lucy's superior claims on Edward and be taught to avoid him in future? She had little difficulty in understanding thus much of her rival's intentions, and while she was firmly resolved to act by her as every principle of honour and honesty directed, to combat her own affection for Edward and to see him as little as possible, she could not deny herself the comfort of endeavouring to convince Lucy that her heart was unwounded. And as she could now have nothing more painful to hear on the subject than had already been told, she did not mistrust her own ability of going through a repetition of particulars with composure.
 
 --- Paragraph 22 ---
-“I am glad,” said Lady Middleton to Lucy, “you are not going to finish
-poor little Annamaria’s basket this evening; for I am sure it must hurt
-your eyes to work filigree by candlelight. And we will make the dear
-little love some amends for her disappointment to-morrow, and then I
-hope she will not much mind it.”
+"I am glad," said Lady Middleton to Lucy, "you are not going to finish poor little Annamaria's basket this evening; for I am sure it must hurt your eyes to work filigree by candlelight. And we will make the dear little love some amends for her disappointment to-morrow, and then I hope she will not much mind it."
 
 --- Paragraph 23 ---
-“Thank you,” cried Lucy warmly, “for breaking the ice; you have set my
-heart at ease by it; for I was somehow or other afraid I had offended
-you by what I told you that Monday.”
+"Thank you," cried Lucy warmly, "for breaking the ice; you have set my heart at ease by it; for I was somehow or other afraid I had offended you by what I told you that Monday."
 
 --- Paragraph 24 ---
-“And yet I do assure you,” replied Lucy, her little sharp eyes full of
-meaning, “there seemed to me to be a coldness and displeasure in your
-manner that made me quite uncomfortable. I felt sure that you was angry
-with me; and have been quarrelling with myself ever since, for having
-took such a liberty as to trouble you with my affairs. But I am very
-glad to find it was only my own fancy, and that you really do not blame
-me. If you knew what a consolation it was to me to relieve my heart
-speaking to you of what I am always thinking of every moment of my
-life, your compassion would make you overlook every thing else I am
-sure.”
+"And yet I do assure you," replied Lucy, her little sharp eyes full of meaning, "there seemed to me to be a coldness and displeasure in your manner that made me quite uncomfortable. I felt sure that you were angry with me, and have been quarrelling with myself ever since for having taken such a liberty as to trouble you with my affairs. But I am very glad to find it was only my own fancy, and that you really do not blame me. If you knew what a consolation it was to me to relieve my heart by speaking to you of what I am always thinking of every moment of my life, your compassion would make you overlook everything else, I am sure."
 
 --- Paragraph 25 ---
-“Indeed, I can easily believe that it was a very great relief to you,
-to acknowledge your situation to me, and be assured that you shall
-never have reason to repent it. Your case is a very unfortunate one;
-you seem to me to be surrounded with difficulties, and you will have
-need of all your mutual affection to support you under them. Mr.
-Ferrars, I believe, is entirely dependent on his mother.”
+"Indeed, I can easily believe that it was a very great relief to you to acknowledge your situation to me, and be assured that you shall never have reason to repent it. Your case is a very unfortunate one; you seem to me to be surrounded with difficulties, and you will have need of all your mutual affection to support you under them. Mr. Ferrars, I believe, is entirely dependent on his mother."
 
 --- Paragraph 26 ---
-“And for your own sake too, or you are carrying your disinterestedness
-beyond reason.”
+"And for your own sake too, or you are carrying your disinterestedness beyond reason."
 
 --- Paragraph 27 ---
-Though Mrs. Jennings was in the habit of spending a large portion of
-the year at the houses of her children and friends, she was not without
-a settled habitation of her own. Since the death of her husband, who
-had traded with success in a less elegant part of the town, she had
-resided every winter in a house in one of the streets near Portman
-Square. Towards this home, she began on the approach of January to turn
-her thoughts, and thither she one day abruptly, and very unexpectedly
-by them, asked the elder Misses Dashwood to accompany her. Elinor,
-without observing the varying complexion of her sister, and the
-animated look which spoke no indifference to the plan, immediately gave
-a grateful but absolute denial for both, in which she believed herself
-to be speaking their united inclinations. The reason alleged was their
-determined resolution of not leaving their mother at that time of the
-year. Mrs. Jennings received the refusal with some surprise, and
-repeated her invitation immediately.
+Though Mrs. Jennings was in the habit of spending a large portion of the year at the houses of her children and friends, she was not without a settled habitation of her own. Since the death of her husband, who had traded with success in a less elegant part of the town, she had resided every winter in a house in one of the streets near Portman Square. Towards this home she began, on the approach of January, to turn her thoughts, and thither she one day abruptly, and very unexpectedly by them, asked the elder Misses Dashwood to accompany her. Elinor, without observing the varying complexion of her sister and the animated look which spoke no indifference to the plan, immediately gave a grateful but absolute denial for both, in which she believed herself to be speaking their united inclinations. The reason alleged was their determined resolution of not leaving their mother at that time of the year. Mrs. Jennings received the refusal with some surprise and repeated her invitation immediately.
 
 --- Paragraph 28 ---
-“Oh, Lord! I am sure your mother can spare you very well, and I _do_
-beg you will favour me with your company, for I’ve quite set my heart
-upon it. Don’t fancy that you will be any inconvenience to me, for I
-shan’t put myself at all out of my way for you. It will only be sending
-Betty by the coach, and I hope I can afford _that_. We three shall be
-able to go very well in my chaise; and when we are in town, if you do
-not like to go wherever I do, well and good, you may always go with one
-of my daughters. I am sure your mother will not object to it; for I
-have had such good luck in getting my own children off my hands that
-she will think me a very fit person to have the charge of you; and if I
-don’t get one of you at least well married before I have done with you,
-it shall not be my fault. I shall speak a good word for you to all the
-young men, you may depend upon it.”
+"Oh, Lord! I am sure your mother can spare you very well, and I do beg you will favour me with your company, for I've quite set my heart upon it. Don't fancy that you will be any inconvenience to me, for I shan't put myself at all out of my way for you. It will only be sending Betty by the coach, and I hope I can afford that. We three shall be able to go very well in my chaise; and when we are in town, if you do not like to go wherever I do, well and good, you may always go with one of my daughters. I am sure your mother will not object to it; for I have had such good luck in getting my own children off my hands that she will think me a very fit person to have the charge of you; and if I don't get one of you at least well married before I have done with you, it shall not be my fault. I shall speak a good word for you to all the young men, you may depend upon it."
 
 --- Paragraph 29 ---
-“Nay,” cried Mrs. Jennings, “I am sure I shall be monstrous glad of
-Miss Marianne’s company, whether Miss Dashwood will go or not, only the
-more the merrier say I, and I thought it would be more comfortable for
-them to be together; because, if they got tired of me, they might talk
-to one another, and laugh at my odd ways behind my back. But one or the
-other, if not both of them, I must have. Lord bless me! how do you
-think I can live poking by myself, I who have been always used till
-this winter to have Charlotte with me. Come, Miss Marianne, let us
-strike hands upon the bargain, and if Miss Dashwood will change her
-mind by and bye, why so much the better.”
+"Nay," cried Mrs. Jennings, "I am sure I shall be monstrous glad of Miss Marianne's company, whether Miss Dashwood will go or not; only the more the merrier, say I, and I thought it would be more comfortable for them to be together; because, if they got tired of me, they might talk to one another and laugh at my odd ways behind my back. But one or the other, if not both of them, I must have. Lord bless me! how do you think I can live poking by myself, I who have been always used till this winter to have Charlotte with me? Come, Miss Marianne, let us strike hands upon the bargain, and if Miss Dashwood will change her mind by and by, why so much the better."
 
 --- Paragraph 30 ---
-“I thank you, ma’am, sincerely thank you,” said Marianne, with warmth:
-“your invitation has insured my gratitude for ever, and it would give
-me such happiness, yes, almost the greatest happiness I am capable of,
-to be able to accept it. But my mother, my dearest, kindest mother,—I
-feel the justice of what Elinor has urged, and if she were to be made
-less happy, less comfortable by our absence—Oh! no, nothing should
-tempt me to leave her. It should not, must not be a struggle.”
+"I thank you, ma'am, sincerely thank you," said Marianne, with warmth: "your invitation has insured my gratitude for ever, and it would give me such happiness, yes, almost the greatest happiness I am capable of, to be able to accept it. But my mother, my dearest, kindest mother—I feel the justice of what Elinor has urged, and if she were to be made less happy, less comfortable by our absence—Oh! no, nothing should tempt me to leave her. It should not, must not be a struggle."
 
 --- Paragraph 31 ---
-On being informed of the invitation, Mrs. Dashwood, persuaded that such
-an excursion would be productive of much amusement to both her
-daughters, and perceiving through all her affectionate attention to
-herself, how much the heart of Marianne was in it, would not hear of
-their declining the offer upon _her_ account; insisted on their both
-accepting it directly; and then began to foresee, with her usual
-cheerfulness, a variety of advantages that would accrue to them all,
-from this separation.
+On being informed of the invitation, Mrs. Dashwood, persuaded that such an excursion would be productive of much amusement to both her daughters, and perceiving, through all her affectionate attention to herself, how much the heart of Marianne was in it, would not hear of their declining the offer upon her account; insisted on their both accepting it directly; and then began to foresee, with her usual cheerfulness, a variety of advantages that would accrue to them all from this separation.
 
 --- Paragraph 32 ---
-“My objection is this; though I think very well of Mrs. Jennings’s
-heart, she is not a woman whose society can afford us pleasure, or
-whose protection will give us consequence.”
+"My objection is this: though I think very well of Mrs. Jennings's heart, she is not a woman whose society can afford us pleasure, or whose protection will give us consequence."
 
 --- Paragraph 33 ---
-Elinor submitted to the arrangement which counteracted her wishes with
-less reluctance than she had expected to feel. With regard to herself,
-it was now a matter of unconcern whether she went to town or not, and
-when she saw her mother so thoroughly pleased with the plan, and her
-sister exhilarated by it in look, voice, and manner, restored to all
-her usual animation, and elevated to more than her usual gaiety, she
-could not be dissatisfied with the cause, and would hardly allow
-herself to distrust the consequence.
+Elinor submitted to the arrangement which counteracted her wishes with less reluctance than she had expected to feel. With regard to herself, it was now a matter of unconcern whether she went to town or not; and when she saw her mother so thoroughly pleased with the plan, and her sister exhilarated by it in look, voice, and manner, restored to all her usual animation and elevated to more than her usual gaiety, she could not be dissatisfied with the cause, and would hardly allow herself to distrust the consequence.
 
 --- Paragraph 34 ---
-Elinor could not find herself in the carriage with Mrs. Jennings, and
-beginning a journey to London under her protection, and as her guest,
-without wondering at her own situation, so short had their acquaintance
-with that lady been, so wholly unsuited were they in age and
-disposition, and so many had been her objections against such a measure
-only a few days before! But these objections had all, with that happy
-ardour of youth which Marianne and her mother equally shared, been
-overcome or overlooked; and Elinor, in spite of every occasional doubt
-of Willoughby’s constancy, could not witness the rapture of delightful
-expectation which filled the whole soul and beamed in the eyes of
-Marianne, without feeling how blank was her own prospect, how cheerless
-her own state of mind in the comparison, and how gladly she would
-engage in the solicitude of Marianne’s situation to have the same
-animating object in view, the same possibility of hope. A short, a very
-short time however must now decide what Willoughby’s intentions were;
-in all probability he was already in town. Marianne’s eagerness to be
-gone declared her dependence on finding him there; and Elinor was
-resolved not only upon gaining every new light as to his character
-which her own observation or the intelligence of others could give her,
-but likewise upon watching his behaviour to her sister with such
-zealous attention, as to ascertain what he was and what he meant,
-before many meetings had taken place. Should the result of her
-observations be unfavourable, she was determined at all events to open
-the eyes of her sister; should it be otherwise, her exertions would be
-of a different nature—she must then learn to avoid every selfish
-comparison, and banish every regret which might lessen her satisfaction
-in the happiness of Marianne.
+Elinor could not find herself in the carriage with Mrs. Jennings, beginning a journey to London under her protection and as her guest, without wondering at her own situation; so short had their acquaintance with that lady been, so wholly unsuited were they in age and disposition, and so many had been her objections against such a measure only a few days before! But these objections had all, with that happy ardour of youth which Marianne and her mother equally shared, been overcome or overlooked; and Elinor, in spite of every occasional doubt of Willoughby's constancy, could not witness the rapture of delightful expectation which filled the whole soul and beamed in the eyes of Marianne without feeling how blank was her own prospect, how cheerless her own state of mind in the comparison, and how gladly she would engage in the solicitude of Marianne's situation to have the same animating object in view, the same possibility of hope. A short, a very short time however must now decide what Willoughby's intentions were; in all probability he was already in town. Marianne's eagerness to be gone declared her dependence on finding him there; and Elinor was resolved not only upon gaining every new light as to his character which her own observation or the intelligence of others could give her, but likewise upon watching his behaviour to her sister with such zealous attention as to ascertain what he was and what he meant before many meetings had taken place. Should the result of her observations be unfavourable, she was determined at all events to open the eyes of her sister; should it be otherwise, her exertions would be of a different nature—she must then learn to avoid every selfish comparison and banish every regret which might lessen her satisfaction in the happiness of Marianne.
 
 --- Paragraph 35 ---
-Wherever they went, she was evidently always on the watch. In Bond
-Street especially, where much of their business lay, her eyes were in
-constant inquiry; and in whatever shop the party were engaged, her mind
-was equally abstracted from every thing actually before them, from all
-that interested and occupied the others. Restless and dissatisfied
-every where, her sister could never obtain her opinion of any article
-of purchase, however it might equally concern them both: she received
-no pleasure from anything; was only impatient to be at home again, and
-could with difficulty govern her vexation at the tediousness of Mrs.
-Palmer, whose eye was caught by every thing pretty, expensive, or new;
-who was wild to buy all, could determine on none, and dawdled away her
-time in rapture and indecision.
+Wherever they went, she was evidently always on the watch. In Bond Street especially, where much of their business lay, her eyes were in constant inquiry; and in whatever shop the party were engaged, her mind was equally abstracted from everything actually before them, from all that interested and occupied the others. Restless and dissatisfied everywhere, her sister could never obtain her opinion of any article of purchase, however it might equally concern them both: she received no pleasure from anything; was only impatient to be at home again, and could with difficulty govern her vexation at the tediousness of Mrs. Palmer, whose eye was caught by everything pretty, expensive, or new; who was wild to buy all, could determine on none, and dawdled away her time in rapture and indecision.
 
 --- Paragraph 36 ---
-“If this open weather holds much longer,” said Mrs. Jennings, when they
-met at breakfast the following morning, “Sir John will not like leaving
-Barton next week; ’tis a sad thing for sportsmen to lose a day’s
-pleasure. Poor souls! I always pity them when they do; they seem to
-take it so much to heart.”
+"If this open weather holds much longer," said Mrs. Jennings when they met at breakfast the following morning, "Sir John will not like leaving Barton next week; 'tis a sad thing for sportsmen to lose a day's pleasure. Poor souls! I always pity them when they do; they seem to take it so much to heart."
 
 --- Paragraph 37 ---
-The Miss Dashwoods had no greater reason to be dissatisfied with Mrs.
-Jennings’s style of living, and set of acquaintance, than with her
-behaviour to themselves, which was invariably kind. Every thing in her
-household arrangements was conducted on the most liberal plan, and
-excepting a few old city friends, whom, to Lady Middleton’s regret, she
-had never dropped, she visited no one to whom an introduction could at
-all discompose the feelings of her young companions. Pleased to find
-herself more comfortably situated in that particular than she had
-expected, Elinor was very willing to compound for the want of much real
-enjoyment from any of their evening parties, which, whether at home or
-abroad, formed only for cards, could have little to amuse her.
+The Miss Dashwoods had no greater reason to be dissatisfied with Mrs. Jennings's style of living and set of acquaintance than with her behaviour to themselves, which was invariably kind. Everything in her household arrangements was conducted on the most liberal plan, and excepting a few old city friends, whom, to Lady Middleton's regret, she had never dropped, she visited no one to whom an introduction could at all discompose the feelings of her young companions. Pleased to find herself more comfortably situated in that particular than she had expected, Elinor was very willing to compound for the want of much real enjoyment from any of their evening parties, which, whether at home or abroad, formed only for cards, could have little to amuse her.
 
 --- Paragraph 38 ---
-This event, while it raised the spirits of Elinor, restored to those of
-her sister all, and more than all, their former agitation. From this
-moment her mind was never quiet; the expectation of seeing him every
-hour of the day, made her unfit for any thing. She insisted on being
-left behind, the next morning, when the others went out.
+This event, while it raised the spirits of Elinor, restored to those of her sister all, and more than all, their former agitation. From this moment her mind was never quiet; the expectation of seeing him every hour of the day made her unfit for anything. She insisted on being left behind the next morning when the others went out.
 
 --- Paragraph 39 ---
-“Aye, aye,” said Mrs. Jennings, “we know the reason of all that very
-well; if a certain person who shall be nameless, had been there, you
-would not have been a bit tired: and to say the truth it was not very
-pretty of him not to give you the meeting when he was invited.”
+"Aye, aye," said Mrs. Jennings, "we know the reason of all that very well; if a certain person who shall be nameless had been there, you would not have been a bit tired: and to say the truth, it was not very pretty of him not to give you the meeting when he was invited."
 
 --- Paragraph 40 ---
-“By many—by some of whom you know nothing, by others with whom you are
-most intimate, Mrs. Jennings, Mrs. Palmer, and the Middletons. But
-still I might not have believed it, for where the mind is perhaps
-rather unwilling to be convinced, it will always find something to
-support its doubts, if I had not, when the servant let me in today,
-accidentally seen a letter in his hand, directed to Mr. Willoughby in
-your sister’s writing. I came to inquire, but I was convinced before I
-could ask the question. Is every thing finally settled? Is it
-impossible to—? But I have no right, and I could have no chance of
-succeeding. Excuse me, Miss Dashwood. I believe I have been wrong in
-saying so much, but I hardly know what to do, and on your prudence I
-have the strongest dependence. Tell me that it is all absolutely
-resolved on, that any attempt, that in short concealment, if
-concealment be possible, is all that remains.”
+"By many—by some of whom you know nothing, by others with whom you are most intimate, Mrs. Jennings, Mrs. Palmer, and the Middletons. But still I might not have believed it, for where the mind is perhaps rather unwilling to be convinced, it will always find something to support its doubts, if I had not, when the servant let me in today, accidentally seen a letter in his hand directed to Mr. Willoughby in your sister's writing. I came to inquire, but I was convinced before I could ask the question. Is everything finally settled? Is it impossible to—? But I have no right, and I could have no chance of succeeding. Excuse me, Miss Dashwood. I believe I have been wrong in saying so much, but I hardly know what to do, and on your prudence I have the strongest dependence. Tell me that it is all absolutely resolved on, that any attempt, that in short concealment, if concealment be possible, is all that remains."
 
 --- Paragraph 41 ---
-He listened to her with silent attention, and on her ceasing to speak,
-rose directly from his seat, and after saying in a voice of emotion,
-“to your sister I wish all imaginable happiness; to Willoughby that he
-may endeavour to deserve her,”—took leave, and went away.
+He listened to her with silent attention, and on her ceasing to speak rose directly from his seat, and after saying in a voice of emotion, "To your sister I wish all imaginable happiness; to Willoughby that he may endeavour to deserve her," took leave and went away.
 
 --- Paragraph 42 ---
-Elinor derived no comfortable feelings from this conversation, to
-lessen the uneasiness of her mind on other points; she was left, on the
-contrary, with a melancholy impression of Colonel Brandon’s
-unhappiness, and was prevented even from wishing it removed, by her
-anxiety for the very event that must confirm it.
+Elinor derived no comfortable feelings from this conversation to lessen the uneasiness of her mind on other points; she was left, on the contrary, with a melancholy impression of Colonel Brandon's unhappiness, and was prevented even from wishing it removed by her anxiety for the very event that must confirm it.
 
 --- Paragraph 43 ---
-“Pray, pray be composed,” cried Elinor, “and do not betray what you
-feel to every body present. Perhaps he has not observed you yet.”
+"Pray, pray be composed," cried Elinor, "and do not betray what you feel to everybody present. Perhaps he has not observed you yet."
 
 --- Paragraph 44 ---
-At last he turned round again, and regarded them both; she started up,
-and pronouncing his name in a tone of affection, held out her hand to
-him. He approached, and addressing himself rather to Elinor than
-Marianne, as if wishing to avoid her eye, and determined not to observe
-her attitude, inquired in a hurried manner after Mrs. Dashwood, and
-asked how long they had been in town. Elinor was robbed of all presence
-of mind by such an address, and was unable to say a word. But the
-feelings of her sister were instantly expressed. Her face was crimsoned
-over, and she exclaimed, in a voice of the greatest emotion, “Good God!
-Willoughby, what is the meaning of this? Have you not received my
-letters? Will you not shake hands with me?”
+At last he turned round again and regarded them both; she started up, and pronouncing his name in a tone of affection, held out her hand to him. He approached, and addressing himself rather to Elinor than Marianne, as if wishing to avoid her eye and determined not to observe her attitude, inquired in a hurried manner after Mrs. Dashwood and asked how long they had been in town. Elinor was robbed of all presence of mind by such an address and was unable to say a word. But the feelings of her sister were instantly expressed. Her face was crimsoned over, and she exclaimed in a voice of the greatest emotion, "Good God! Willoughby, what is the meaning of this? Have you not received my letters? Will you not shake hands with me?"
 
 --- Paragraph 45 ---
-As for Marianne, on the pangs which so unhappy a meeting must already
-have given her, and on those still more severe which might await her in
-its probable consequence, she could not reflect without the deepest
-concern. Her own situation gained in the comparison; for while she
-could _esteem_ Edward as much as ever, however they might be divided in
-future, her mind might be always supported. But every circumstance that
-could embitter such an evil seemed uniting to heighten the misery of
-Marianne in a final separation from Willoughby—in an immediate and
-irreconcilable rupture with him.
+As for Marianne, on the pangs which so unhappy a meeting must already have given her, and on those still more severe which might await her in its probable consequence, she could not reflect without the deepest concern. Her own situation gained in the comparison; for while she could esteem Edward as much as ever, however they might be divided in future, her mind might be always supported. But every circumstance that could embitter such an evil seemed uniting to heighten the misery of Marianne in a final separation from Willoughby—in an immediate and irreconcilable rupture with him.
 
 --- Paragraph 46 ---
-Elinor paid her every quiet and unobtrusive attention in her power; and
-she would have tried to sooth and tranquilize her still more, had not
-Marianne entreated her, with all the eagerness of the most nervous
-irritability, not to speak to her for the world. In such circumstances,
-it was better for both that they should not be long together; and the
-restless state of Marianne’s mind not only prevented her from remaining
-in the room a moment after she was dressed, but requiring at once
-solitude and continual change of place, made her wander about the house
-till breakfast time, avoiding the sight of every body.
+Elinor paid her every quiet and unobtrusive attention in her power; and she would have tried to soothe and tranquilize her still more, had not Marianne entreated her, with all the eagerness of the most nervous irritability, not to speak to her for the world. In such circumstances it was better for both that they should not be long together; and the restless state of Marianne's mind not only prevented her from remaining in the room a moment after she was dressed, but requiring at once solitude and continual change of place, made her wander about the house till breakfast time, avoiding the sight of everybody.
 
 --- Paragraph 47 ---
-As this was a favourite meal with Mrs. Jennings, it lasted a
-considerable time, and they were just setting themselves, after it,
-round the common working table, when a letter was delivered to
-Marianne, which she eagerly caught from the servant, and, turning of a
-death-like paleness, instantly ran out of the room. Elinor, who saw as
-plainly by this, as if she had seen the direction, that it must come
-from Willoughby, felt immediately such a sickness at heart as made her
-hardly able to hold up her head, and sat in such a general tremour as
-made her fear it impossible to escape Mrs. Jennings’s notice. That good
-lady, however, saw only that Marianne had received a letter from
-Willoughby, which appeared to her a very good joke, and which she
-treated accordingly, by hoping, with a laugh, that she would find it to
-her liking. Of Elinor’s distress, she was too busily employed in
-measuring lengths of worsted for her rug, to see any thing at all; and
-calmly continuing her talk, as soon as Marianne disappeared, she said,
+As this was a favourite meal with Mrs. Jennings, it lasted a considerable time, and they were just setting themselves, after it, round the common working table, when a letter was delivered to Marianne, which she eagerly caught from the servant, and turning of a death-like paleness instantly ran out of the room. Elinor, who saw as plainly by this as if she had seen the direction that it must come from Willoughby, felt immediately such a sickness at heart as made her hardly able to hold up her head, and sat in such a general tremor as made her fear it impossible to escape Mrs. Jennings's notice. That good lady, however, saw only that Marianne had received a letter from Willoughby, which appeared to her a very good joke, and which she treated accordingly, by hoping with a laugh that she would find it to her liking. Of Elinor's distress she was too busily employed in measuring lengths of worsted for her rug to see anything at all; and calmly continuing her talk as soon as Marianne disappeared, she said,
 
 --- Paragraph 48 ---
-“Upon my word, I never saw a young woman so desperately in love in my
-life! _My_ girls were nothing to her, and yet they used to be foolish
-enough; but as for Miss Marianne, she is quite an altered creature. I
-hope, from the bottom of my heart, he won’t keep her waiting much
-longer, for it is quite grievous to see her look so ill and forlorn.
-Pray, when are they to be married?”
+"Upon my word, I never saw a young woman so desperately in love in my life! My girls were nothing to her, and yet they used to be foolish enough; but as for Miss Marianne, she is quite an altered creature. I hope, from the bottom of my heart, he won't keep her waiting much longer, for it is quite grievous to see her look so ill and forlorn. Pray, when are they to be married?"
 
 --- Paragraph 49 ---
-Mrs. Jennings laughed again, but Elinor had not spirits to say more,
-and eager at all events to know what Willoughby had written, hurried
-away to their room, where, on opening the door, she saw Marianne
-stretched on the bed, almost choked by grief, one letter in her hand,
-and two or three others lying by her. Elinor drew near, but without
-saying a word; and seating herself on the bed, took her hand, kissed
-her affectionately several times, and then gave way to a burst of
-tears, which at first was scarcely less violent than Marianne’s. The
-latter, though unable to speak, seemed to feel all the tenderness of
-this behaviour, and after some time thus spent in joint affliction, she
-put all the letters into Elinor’s hands; and then covering her face
-with her handkerchief, almost screamed with agony. Elinor, who knew
-that such grief, shocking as it was to witness it, must have its
-course, watched by her till this excess of suffering had somewhat spent
-itself, and then turning eagerly to Willoughby’s letter, read as
-follows:
+Mrs. Jennings laughed again, but Elinor had not spirits to say more, and eager at all events to know what Willoughby had written, hurried away to their room, where on opening the door she saw Marianne stretched on the bed, almost choked by grief, one letter in her hand and two or three others lying by her. Elinor drew near, but without saying a word; and seating herself on the bed took her hand, kissed her affectionately several times, and then gave way to a burst of tears which at first was scarcely less violent than Marianne's. The latter, though unable to speak, seemed to feel all the tenderness of this behaviour, and after some time thus spent in joint affliction she put all the letters into Elinor's hands; and then covering her face with her handkerchief almost screamed with agony. Elinor, who knew that such grief, shocking as it was to witness it, must have its course, watched by her till this excess of suffering had somewhat spent itself, and then turning eagerly to Willoughby's letter read as follows:
 
 --- Paragraph 50 ---
-In her earnest meditations on the contents of the letter, on the
-depravity of that mind which could dictate it, and probably, on the
-very different mind of a very different person, who had no other
-connection whatever with the affair than what her heart gave him with
-every thing that passed, Elinor forgot the immediate distress of her
-sister, forgot that she had three letters on her lap yet unread, and so
-entirely forgot how long she had been in the room, that when on hearing
-a carriage drive up to the door, she went to the window to see who
-could be coming so unreasonably early, she was all astonishment to
-perceive Mrs. Jennings’s chariot, which she knew had not been ordered
-till one. Determined not to quit Marianne, though hopeless of
-contributing, at present, to her ease, she hurried away to excuse
-herself from attending Mrs. Jennings, on account of her sister being
-indisposed. Mrs. Jennings, with a thoroughly good-humoured concern for
-its cause, admitted the excuse most readily, and Elinor, after seeing
-her safe off, returned to Marianne, whom she found attempting to rise
-from the bed, and whom she reached just in time to prevent her from
-falling on the floor, faint and giddy from a long want of proper rest
-and food; for it was many days since she had any appetite, and many
-nights since she had really slept; and now, when her mind was no longer
-supported by the fever of suspense, the consequence of all this was
-felt in an aching head, a weakened stomach, and a general nervous
-faintness. A glass of wine, which Elinor procured for her directly,
-made her more comfortable, and she was at last able to express some
-sense of her kindness, by saying,
-
+In her earnest meditations on the contents of the letter, on the depravity of that mind which could dictate it, and probably on the very different mind of a very different person who had no other connection whatever with the affair than what her heart gave him with everything that passed, Elinor forgot the immediate distress of her sister, forgot that she had three letters on her lap yet unread, and so entirely forgot how long she had been in the room that when on hearing a carriage drive up to the door she went to the window to see who could be coming so unreasonably early, she was all astonishment to perceive Mrs. Jennings's chariot, which she knew had not been ordered till one. Determined not to quit Marianne, though hopeless of contributing at present to her ease, she hurried away to excuse herself from attending Mrs. Jennings on account of her sister being indisposed. Mrs. Jennings, with a thoroughly good-humoured concern for its cause, admitted the excuse most readily, and Elinor, after seeing her safe off, returned to Marianne, whom she found attempting to rise from the bed, and whom she reached just in time to prevent her from falling on the floor, faint and giddy from a long want of proper rest and food; for it was many days since she had any appetite, and many nights since she had really slept; and now when her mind was no longer supported by the fever of suspense, the consequence of all this was felt in an aching head, a weakened stomach, and a general nervous faintness. A glass of wine, which Elinor procured for her directly, made her more comfortable, and she was at last able to express some sense of her kindness by saying,

@@ -1,470 +1,154 @@
 # Topic: Social Status
 # Book: emma
 # Author: austen
+# (AI Rewritten)
 
 --- Paragraph 1 ---
-Emma Woodhouse, handsome, clever, and rich, with a comfortable home and
-happy disposition, seemed to unite some of the best blessings of
-existence; and had lived nearly twenty-one years in the world with very
-little to distress or vex her.
+Emma Woodhouse, endued with such attractions as beauty and intelligence, and blessed with considerable fortune, found herself in possession of many of life’s most desirable advantages. In her twenty-first year, she had enjoyed so few vexations or cares that one might almost conjecture her days were but lightly spent.
 
 --- Paragraph 2 ---
-The real evils, indeed, of Emma’s situation were the power of having
-rather too much her own way, and a disposition to think a little too
-well of herself; these were the disadvantages which threatened alloy to
-her many enjoyments. The danger, however, was at present so
-unperceived, that they did not by any means rank as misfortunes with
-her.
+Yet her real imperfections lay in the excess of liberty she possessed, and a sanguine self-regard bordering on vanity; these shortcomings, however, were wholly invisible to herself, and thus remained unacknowledged as sources of blemish in her existence.
 
 --- Paragraph 3 ---
-“Poor Miss Taylor!—I wish she were here again. What a pity it is that
-Mr. Weston ever thought of her!”
+‘Poor Miss Taylor!—had she but returned to us again! What a cruel turn of fortune that Mr. Weston should have ever entertained such thoughts!’
 
 --- Paragraph 4 ---
-“The carriage! But James will not like to put the horses to for such a
-little way;—and where are the poor horses to be while we are paying our
-visit?”
+‘The carriage! But James will surely object to the horses being put to for such a trifling journey. And where, pray, are the poor animals to remain while we pay our visit?’
 
 --- Paragraph 5 ---
-“I am very glad I did think of her. It was very lucky, for I would not
-have had poor James think himself slighted upon any account; and I am
-sure she will make a very good servant: she is a civil, pretty-spoken
-girl; I have a great opinion of her. Whenever I see her, she always
-curtseys and asks me how I do, in a very pretty manner; and when you
-have had her here to do needlework, I observe she always turns the lock
-of the door the right way and never bangs it. I am sure she will be an
-excellent servant; and it will be a great comfort to poor Miss Taylor
-to have somebody about her that she is used to see. Whenever James goes
-over to see his daughter, you know, she will be hearing of us. He will
-be able to tell her how we all are.”
+‘I am certain Harriet will prove an excellent servant, my dear. Her civility and gentle tongue command my approbation. Observe how she curtseys and enquires after my well-being with such grace! When engaged in needlework, she takes care to turn the door-latch correctly and never bangs it—qualities that bespeak a mind not unacquainted with propriety. Thus, she would solace poor Miss Taylor’s loneliness, and her presence would be greatly valued by her brother James, who frequently visits from London, sharing news of our household.’
 
 --- Paragraph 6 ---
-Mr. Knightley, a sensible man about seven or eight-and-thirty, was not
-only a very old and intimate friend of the family, but particularly
-connected with it, as the elder brother of Isabella’s husband. He lived
-about a mile from Highbury, was a frequent visitor, and always welcome,
-and at this time more welcome than usual, as coming directly from their
-mutual connexions in London. He had returned to a late dinner, after
-some days’ absence, and now walked up to Hartfield to say that all were
-well in Brunswick Square. It was a happy circumstance, and animated Mr.
-Woodhouse for some time. Mr. Knightley had a cheerful manner, which
-always did him good; and his many inquiries after “poor Isabella” and
-her children were answered most satisfactorily. When this was over, Mr.
-Woodhouse gratefully observed, “It is very kind of you, Mr. Knightley,
-to come out at this late hour to call upon us. I am afraid you must
-have had a shocking walk.”
+Mr. Knightley, a gentleman of sound judgment and advanced years, was not merely a cherished ally but also closely connected to the family through his sister’s marriage. Residing at Donwell Abbey, he often visited Hartfield, and his arrival from London at this juncture animated the household with his customary cheerfulness. His inquiries about ‘poor Isabella’ and her children were richly answered, and Mr. Woodhouse, ever grateful for such kindness, remarked, ‘It is most exceeding kindness of you, Sir, to trouble yourself on our account. You must have endured a severe walk in coming hither.’
 
 --- Paragraph 7 ---
-“Ah! poor Miss Taylor! ’Tis a sad business.”
+‘Ah! Alas, poor Miss Taylor! It is truly a melancholy affair.’
 
 --- Paragraph 8 ---
-“Poor Mr. and Miss Woodhouse, if you please; but I cannot possibly say
-‘poor Miss Taylor.’ I have a great regard for you and Emma; but when it
-comes to the question of dependence or independence!—At any rate, it
-must be better to have only one to please than two.”
+‘Dear Sir, I dare not call poor Miss Taylor so. My regard for you and Emma is profound, yet when weighed against independence, one must prefer a single attachment to pleasing two. Let them be content with one companion, then.’
 
 --- Paragraph 9 ---
-“Dear Emma bears every thing so well,” said her father. “But, Mr.
-Knightley, she is really very sorry to lose poor Miss Taylor, and I am
-sure she _will_ miss her more than she thinks for.”
+‘Emma bears every trial most nobly,’ observed her father. ‘Yet, Mr. Knightley, her sorrow over Miss Taylor’s loss is genuine, and I am persuaded she shall miss her more deeply than she allows herself to think.’
 
 --- Paragraph 10 ---
-“I do not understand what you mean by ‘success,’” said Mr. Knightley.
-“Success supposes endeavour. Your time has been properly and delicately
-spent, if you have been endeavouring for the last four years to bring
-about this marriage. A worthy employment for a young lady’s mind! But
-if, which I rather imagine, your making the match, as you call it,
-means only your planning it, your saying to yourself one idle day, ‘I
-think it would be a very good thing for Miss Taylor if Mr. Weston were
-to marry her,’ and saying it again to yourself every now and then
-afterwards, why do you talk of success? Where is your merit? What are
-you proud of? You made a lucky guess; and _that_ is all that can be
-said.”
+‘I do not comprehend by “success” what you mean,’ said Mr. Knightley. ‘Success implies effort. Your years have been spent most appropriately in fostering this union, should you have so meditated. A worthy pursuit for a lady’s thoughts! Yet if your part was merely contemplating the suitability of Miss Taylor and Mr. Weston’s joining, then what merit lies in such idle musings? A fortunate guess—but that, I deem, is its entire merit.’
 
 --- Paragraph 11 ---
-“And have you never known the pleasure and triumph of a lucky guess?—I
-pity you.—I thought you cleverer—for, depend upon it a lucky guess is
-never merely luck. There is always some talent in it. And as to my poor
-word ‘success,’ which you quarrel with, I do not know that I am so
-entirely without any claim to it. You have drawn two pretty pictures;
-but I think there may be a third—a something between the do-nothing and
-the do-all. If I had not promoted Mr. Weston’s visits here, and given
-many little encouragements, and smoothed many little matters, it might
-not have come to any thing after all. I think you must know Hartfield
-enough to comprehend that.”
+‘You pity me for never experiencing the triumph of a lucky guess!—I confess you do. Depend upon it, Fortune favors the bold; and in my own estimation, the word “success” holds more meaning than you imagine. Your pictorial judgments are fair, yet I suspect a third alternative lies between idleness and omnipotence. Had I not encouraged Mr. Weston’s visits and smoothed the paths before him, might not this union have faltered?'
 
 --- Paragraph 12 ---
-“Only one more, papa; only for Mr. Elton. Poor Mr. Elton! You like Mr.
-Elton, papa,—I must look about for a wife for him. There is nobody in
-Highbury who deserves him—and he has been here a whole year, and has
-fitted up his house so comfortably, that it would be a shame to have
-him single any longer—and I thought when he was joining their hands
-to-day, he looked so very much as if he would like to have the same
-kind office done for him! I think very well of Mr. Elton, and this is
-the only way I have of doing him a service.”
+‘But one more alliance may yet be needed, father—for poor Mr. Elton. I perceive you approve of him! I must seek a spouse for such a gentleman. Alas, none in Highbury yet merit his attention; he has been here a full year, settling his house most handsomely, and today his matrimonial efforts inspired a wish that similar kindness might be shown him.’
 
 --- Paragraph 13 ---
-Mr. Weston was a native of Highbury, and born of a respectable family,
-which for the last two or three generations had been rising into
-gentility and property. He had received a good education, but, on
-succeeding early in life to a small independence, had become indisposed
-for any of the more homely pursuits in which his brothers were engaged,
-and had satisfied an active, cheerful mind and social temper by
-entering into the militia of his county, then embodied.
+Mr. Weston, originally from Highbury’s genteel families, had, through successive generations, advanced in property and status. Educated with care, yet inheriting a modest fortune early, he spurned the common trades of his siblings and, seeking intellectual and social sustenance, joined the militia—then in active service.
 
 --- Paragraph 14 ---
-Her situation was altogether the subject of hours of gratitude to Mrs.
-Weston, and of moments only of regret; and her satisfaction—her more
-than satisfaction—her cheerful enjoyment, was so just and so apparent,
-that Emma, well as she knew her father, was sometimes taken by surprize
-at his being still able to pity ‘poor Miss Taylor,’ when they left her
-at Randalls in the centre of every domestic comfort, or saw her go away
-in the evening attended by her pleasant husband to a carriage of her
-own. But never did she go without Mr. Woodhouse’s giving a gentle sigh,
-and saying, “Ah, poor Miss Taylor! She would be very glad to stay.”
+Her circumstances, in Mrs. Weston’s estimation, merited gratitude mingled with quiet regret. Emma, though familiar with the joys of Hartfield, could not but marvel at her father’s enduring piety for ‘poor Miss Taylor’ when, seeing her depart to Randalls with her husband in a private carriage, he sighed, ‘Alas, Miss Taylor would fain remain!’
 
 --- Paragraph 15 ---
-There was no recovering Miss Taylor—nor much likelihood of ceasing to
-pity her; but a few weeks brought some alleviation to Mr. Woodhouse.
-The compliments of his neighbours were over; he was no longer teased by
-being wished joy of so sorrowful an event; and the wedding-cake, which
-had been a great distress to him, was all eat up. His own stomach could
-bear nothing rich, and he could never believe other people to be
-different from himself. What was unwholesome to him he regarded as
-unfit for any body; and he had, therefore, earnestly tried to dissuade
-them from having any wedding-cake at all, and when that proved vain, as
-earnestly tried to prevent any body’s eating it. He had been at the
-pains of consulting Mr. Perry, the apothecary, on the subject. Mr.
-Perry was an intelligent, gentlemanlike man, whose frequent visits were
-one of the comforts of Mr. Woodhouse’s life; and upon being applied to,
-he could not but acknowledge (though it seemed rather against the bias
-of inclination) that wedding-cake might certainly disagree with
-many—perhaps with most people, unless taken moderately. With such an
-opinion, in confirmation of his own, Mr. Woodhouse hoped to influence
-every visitor of the newly married pair; but still the cake was eaten;
-and there was no rest for his benevolent nerves till it was all gone.
+Miss Taylor’s departure left no hope of return; yet some relief had briefly soothed Mr. Woodhouse’s anxieties. The well-wishers of Highbury had departed, and the wedding-cake—oh, the dread confection that so tormented him—was now consumed. As a man of delicate constitution, he deemed such indulgences unwholesome for all, and with earnest counsel from Dr. Perry (whose kindness to him was renowned), endeavoured to prohibit others’ consumption, to no avail.
 
 --- Paragraph 16 ---
-Mrs. Bates, the widow of a former vicar of Highbury, was a very old
-lady, almost past every thing but tea and quadrille. She lived with her
-single daughter in a very small way, and was considered with all the
-regard and respect which a harmless old lady, under such untoward
-circumstances, can excite. Her daughter enjoyed a most uncommon degree
-of popularity for a woman neither young, handsome, rich, nor married.
-Miss Bates stood in the very worst predicament in the world for having
-much of the public favour; and she had no intellectual superiority to
-make atonement to herself, or frighten those who might hate her into
-outward respect. She had never boasted either beauty or cleverness. Her
-youth had passed without distinction, and her middle of life was
-devoted to the care of a failing mother, and the endeavour to make a
-small income go as far as possible. And yet she was a happy woman, and
-a woman whom no one named without good-will. It was her own universal
-good-will and contented temper which worked such wonders. She loved
-every body, was interested in every body’s happiness, quicksighted to
-every body’s merits; thought herself a most fortunate creature, and
-surrounded with blessings in such an excellent mother, and so many good
-neighbours and friends, and a home that wanted for nothing. The
-simplicity and cheerfulness of her nature, her contented and grateful
-spirit, were a recommendation to every body, and a mine of felicity to
-herself. She was a great talker upon little matters, which exactly
-suited Mr. Woodhouse, full of trivial communications and harmless
-gossip.
+Mrs. Bates, widow of a former curate, was an elderly woman clinging to tea and cards as her sole amusements. Living modestly with her daughter, she garnered universal kindness, though society’s regard for her poverty-stricken state was tinged with pity. Miss Bates’s singular charm lay in her unassuming popularity; her lack of intellect or beauty, indeed, left her vulnerable to censure, yet her fervent affection and constant gratitude rendered her beloved by all.
 
 --- Paragraph 17 ---
-Upon such occasions poor Mr. Woodhouse’s feelings were in sad warfare.
-He loved to have the cloth laid, because it had been the fashion of his
-youth, but his conviction of suppers being very unwholesome made him
-rather sorry to see any thing put on it; and while his hospitality
-would have welcomed his visitors to every thing, his care for their
-health made him grieve that they would eat.
+On such occasions, Mr. Woodhouse’s spirit waged constant war. He delighted in the table being set with the ceremony of his youth, yet fretted at the unhealthfulness of such fare, rejoicing when guests declined his offerings with concern.
 
 --- Paragraph 18 ---
-For some time she was amused, without thinking beyond the immediate
-cause; but as she came to understand the family better, other feelings
-arose. She had taken up a wrong idea, fancying it was a mother and
-daughter, a son and son’s wife, who all lived together; but when it
-appeared that the Mr. Martin, who bore a part in the narrative, and was
-always mentioned with approbation for his great good-nature in doing
-something or other, was a single man; that there was no young Mrs.
-Martin, no wife in the case; she did suspect danger to her poor little
-friend from all this hospitality and kindness, and that, if she were
-not taken care of, she might be required to sink herself forever.
+Time revealed to her a truth more disturbing: she had misconceived her acquaintance, believing it a sister and brother’s household, until learning that Mr. Martin’s ‘wife’ was sole, and that Harriet’s danger stemmed from his kindness—a peril too subtle for hasty hearts.
 
 --- Paragraph 19 ---
-“I have no doubt of his being a very respectable young man. I know,
-indeed, that he is so, and, as such, wish him well. What do you imagine
-his age to be?”
+‘I have no doubt he is a gentleman most respectable,’ she said. ‘Indeed, I know it, and so wish him well. What is his age?’
 
 --- Paragraph 20 ---
-“Only four-and-twenty. That is too young to settle. His mother is
-perfectly right not to be in a hurry. They seem very comfortable as
-they are, and if she were to take any pains to marry him, she would
-probably repent it. Six years hence, if he could meet with a good sort
-of young woman in the same rank as his own, with a little money, it
-might be very desirable.”
+‘Four-and-twenty only. Too young for matrimony. Mrs. Martin’s caution is prudent. They thrive thus, and had she expedited his union, she might rue the haste. Six years hence, if fortune favors, a wife of equal station and resources might prove fitting.’
 
 --- Paragraph 21 ---
-“Well, and that is as early as most men can afford to marry, who are
-not born to an independence. Mr. Martin, I imagine, has his fortune
-entirely to make—cannot be at all beforehand with the world. Whatever
-money he might come into when his father died, whatever his share of
-the family property, it is, I dare say, all afloat, all employed in his
-stock, and so forth; and though, with diligence and good luck, he may
-be rich in time, it is next to impossible that he should have realised
-any thing yet.”
+‘Indeed, ’tis so early for a man not born to independence. Mr. Martin’s estate lies unrealized—his savings tied up in business, not yet converted to solid wealth. With diligence, he may yet rise, but presently, he remains untouched by prosperity.’
 
 --- Paragraph 22 ---
-“I wish you may not get into a scrape, Harriet, whenever he does
-marry;—I mean, as to being acquainted with his wife—for though his
-sisters, from a superior education, are not to be altogether objected
-to, it does not follow that he might marry any body at all fit for you
-to notice. The misfortune of your birth ought to make you particularly
-careful as to your associates. There can be no doubt of your being a
-gentleman’s daughter, and you must support your claim to that station
-by every thing within your own power, or there will be plenty of people
-who would take pleasure in degrading you.”
+‘Mind you, Harriet, when Mr. Martin weds, choose your acquaintance carefully—for if his sisters, polished by education, are no impediment, his spouse might prove unworthy of your notice. Your station demands vigilance in friendships, lest your birth be held beneath contempt.’
 
 --- Paragraph 23 ---
-“Mr. Knightley’s air is so remarkably good that it is not fair to
-compare Mr. Martin with _him_. You might not see one in a hundred with
-_gentleman_ so plainly written as in Mr. Knightley. But he is not the
-only gentleman you have been lately used to. What say you to Mr. Weston
-and Mr. Elton? Compare Mr. Martin with either of _them_. Compare their
-manner of carrying themselves; of walking; of speaking; of being
-silent. You must see the difference.”
+‘Mr. Knightley’s bearing outshines all comparisons. His countenance bespeaks nobility where Mr. Martin shows awkwardness. Yet compare him to Mr. Weston and Mr. Elton—observe their gestures, speech, and silence. The distinction is palpable.’
 
 --- Paragraph 24 ---
-“How much his business engrosses him already is very plain from the
-circumstance of his forgetting to inquire for the book you recommended.
-He was a great deal too full of the market to think of any thing
-else—which is just as it should be, for a thriving man. What has he to
-do with books? And I have no doubt that he _will_ thrive, and be a very
-rich man in time—and his being illiterate and coarse need not disturb
-_us_.”
+‘His business engulfs him wholly—evidenced by his forgetting your book! A thriving man need not concern himself with idle reading. His fate, I deem, is bright, and his lack of scholarly refinement matters little to those of our circle.’
 
 --- Paragraph 25 ---
-“Well! that is quite surprising, for we have had a vast deal of rain
-here. It rained dreadfully hard for half an hour while we were at
-breakfast. I wanted them to put off the wedding.”
+‘Indeed, such weather! We had drenched through breakfast. The nuptials might have been postponed that very hour.’
 
 --- Paragraph 26 ---
-Her sister, though comparatively but little removed by matrimony, being
-settled in London, only sixteen miles off, was much beyond her daily
-reach; and many a long October and November evening must be struggled
-through at Hartfield, before Christmas brought the next visit from
-Isabella and her husband, and their little children, to fill the house,
-and give her pleasant society again.
+Her sister, separated by marriage and London’s distance, rarely visited Hartfield. Many long Octobers and Novembers bled slowly until Christmas’s promise of Isabella and her family’s return.
 
 --- Paragraph 27 ---
 CHAPTER II
 
 --- Paragraph 28 ---
-Such another small basin of thin gruel as his own was all that he
-could, with thorough self-approbation, recommend; though he might
-constrain himself, while the ladies were comfortably clearing the nicer
-things, to say:
+A moderate broth, thin and plain, was perhaps the sole wholesome fare she could recommend, yet she might grudgingly admit, ‘My dear, a little chicken would be… indulgent to your appetite.’
 
 --- Paragraph 29 ---
-Mr. Woodhouse was fond of society in his own way. He liked very much to
-have his friends come and see him; and from various united causes, from
-his long residence at Hartfield, and his good nature, from his fortune,
-his house, and his daughter, he could command the visits of his own
-little circle, in a great measure, as he liked. He had not much
-intercourse with any families beyond that circle; his horror of late
-hours, and large dinner-parties, made him unfit for any acquaintance
-but such as would visit him on his own terms. Fortunately for him,
-Highbury, including Randalls in the same parish, and Donwell Abbey in
-the parish adjoining, the seat of Mr. Knightley, comprehended many
-such. Not unfrequently, through Emma’s persuasion, he had some of the
-chosen and the best to dine with him: but evening parties were what he
-preferred; and, unless he fancied himself at any time unequal to
-company, there was scarcely an evening in the week in which Emma could
-not make up a card-table for him.
+Mr. Woodhouse prized society in his measured way. His home and wealth drew visitors as magnetically as his kindness did. Long resident in Hartfield, with affection for his family, he entertained a select circle—sometimes persuaded by Emma to include the worthy. Yet his aversion to late hours and grand feasts restricted him to intimate gatherings, which he preferred, and Emma’s cards daily provided such opportunities.
 
 --- Paragraph 30 ---
-“Will he, indeed? That will be very bad.”
+‘Indeed, ’tis dreadful!’
 
 --- Paragraph 31 ---
-Emma turned away her head, divided between tears and smiles. “It is
-impossible that Emma should not miss such a companion,” said Mr.
-Knightley. “We should not like her so well as we do, sir, if we could
-suppose it; but she knows how much the marriage is to Miss Taylor’s
-advantage; she knows how very acceptable it must be, at Miss Taylor’s
-time of life, to be settled in a home of her own, and how important to
-her to be secure of a comfortable provision, and therefore cannot allow
-herself to feel so much pain as pleasure. Every friend of Miss Taylor
-must be glad to have her so happily married.”
+Emma’s gaze fell, misted with tears and smiles. ‘No friend of Miss Taylor could wish so well as Knightley, who sees her happiness. She knows the marriage secures her comforts, her independence, and her peace at life’s latter hour. No sorrow so deep, when weighed against such fortune, can hold sway in her heart.’
 
 --- Paragraph 32 ---
-The next question was—
+The next inquiry arose—  
 
 --- Paragraph 33 ---
-“I promise you to make none for myself, papa; but I must, indeed, for
-other people. It is the greatest amusement in the world! And after such
-success, you know!—Every body said that Mr. Weston would never marry
-again. Oh dear, no! Mr. Weston, who had been a widower so long, and who
-seemed so perfectly comfortable without a wife, so constantly occupied
-either in his business in town or among his friends here, always
-acceptable wherever he went, always cheerful—Mr. Weston need not spend
-a single evening in the year alone if he did not like it. Oh no! Mr.
-Weston certainly would never marry again. Some people even talked of a
-promise to his wife on her deathbed, and others of the son and the
-uncle not letting him. All manner of solemn nonsense was talked on the
-subject, but I believed none of it.
+‘I promise, Papa, to wed none myself. Yet I must plot for others—it is the world’s greatest amusement! And what fortune awaited Mr. Weston’s second venture? All believed he’d never marry again. Yet…’ (She paused, considering.) ‘Mr. Weston, so content, so courteous everywhere, so merry—all envied him even his solitude! Yet none predicted his rekindled hopes, and none, save I, deemed marriage possible.’
 
 --- Paragraph 34 ---
-She was the youngest of the two daughters of a most affectionate,
-indulgent father; and had, in consequence of her sister’s marriage,
-been mistress of his house from a very early period. Her mother had
-died too long ago for her to have more than an indistinct remembrance
-of her caresses; and her place had been supplied by an excellent woman
-as governess, who had fallen little short of a mother in affection.
+She was the last of two daughters, cherish’d by an indulgent father. Since her sister’s union, she’d governed Hartfield from youth, supplanting her mother’s absence with a governess’s steadfast love.
 
 --- Paragraph 35 ---
-“With a great deal of pleasure, sir, at any time,” said Mr. Knightley,
-laughing, “and I agree with you entirely, that it will be a much better
-thing. Invite him to dinner, Emma, and help him to the best of the fish
-and the chicken, but leave him to chuse his own wife. Depend upon it, a
-man of six or seven-and-twenty can take care of himself.”
+‘Certainly, Sir,’ laughed Knightley. ‘Invite him to dinner, Emma, and reserve the best fish and fowl for him—but let him choose his own mate. A man of six-and-twenty needs not coddle himself.’
 
 --- Paragraph 36 ---
-“But you must have found it very damp and dirty. I wish you may not
-catch cold.”
+‘But the journey must have been damp, dirtying your clothes. I dread you caught chill.’
 
 --- Paragraph 37 ---
-“Mr. Martin, I suppose, is not a man of information beyond the line of
-his own business? He does not read?”
+‘Has Mr. Martin shown intellectual curiosity beyond his trade? Does he peruse books?’
 
 --- Paragraph 38 ---
-“And you have forgotten one matter of joy to me,” said Emma, “and a
-very considerable one—that I made the match myself. I made the match,
-you know, four years ago; and to have it take place, and be proved in
-the right, when so many people said Mr. Weston would never marry again,
-may comfort me for any thing.”
+‘And you’ve overlooked joy most precious to me,’ Emma cried, ‘that I secured this match four years past. When so many declared Mr. Weston would never wed again, I contrived their union. What satisfaction!’
 
 --- Paragraph 39 ---
-“Oh yes!—there is a great difference. But Mr. Weston is almost an old
-man. Mr. Weston must be between forty and fifty.”
+‘’Tis clear he’s past middle age. Forty or fifty, I’d guess.’
 
 --- Paragraph 40 ---
-“How often we shall be going to see them, and they coming to see us!—We
-shall be always meeting! _We_ must begin; we must go and pay wedding
-visit very soon.”
+‘How often we’d stroll to meet them—We must begin shortly! We’ll pay them nuptial visits forthwith.’
 
 --- Paragraph 41 ---
-“Certainly, he is not like Mr. Knightley. He has not such a fine air
-and way of walking as Mr. Knightley. I see the difference plain enough.
-But Mr. Knightley is so very fine a man!”
+‘Indeed, he’s no match for Knightley. His grace and stride are lacking. Yet ‘tis unjust to compare him to a gentleman so plainly noble in bearing.’
 
 --- Paragraph 42 ---
-“My dear, how am I to get so far? Randalls is such a distance. I could
-not walk half so far.”
+‘Dear, how could I reach Randalls? Such a distance! My legs’d buckle midway.’
 
 --- Paragraph 43 ---
-“Which makes his good manners the more valuable. The older a person
-grows, Harriet, the more important it is that their manners should not
-be bad; the more glaring and disgusting any loudness, or coarseness, or
-awkwardness becomes. What is passable in youth is detestable in later
-age. Mr. Martin is now awkward and abrupt; what will he be at Mr.
-Weston’s time of life?”
+‘Hence his manners gain worth. The older one grows, the more vital decorum! Youth conceals flaws, but maturity exposes all. Mr. Martin’s bluntness suits youth, yet will he endure at sixty?’
 
 --- Paragraph 44 ---
-She was a very pretty girl, and her beauty happened to be of a sort
-which Emma particularly admired. She was short, plump, and fair, with a
-fine bloom, blue eyes, light hair, regular features, and a look of
-great sweetness, and, before the end of the evening, Emma was as much
-pleased with her manners as her person, and quite determined to
-continue the acquaintance.
+She was fair, with a sweetness that gleamed in her roseate hue and bright eyes—a vision Emma instantly adored. Her gentle grace and lively smile left such an impression that Emma resolved on continued acquaintance.
 
 --- Paragraph 45 ---
-She was not struck by any thing remarkably clever in Miss Smith’s
-conversation, but she found her altogether very engaging—not
-inconveniently shy, not unwilling to talk—and yet so far from pushing,
-shewing so proper and becoming a deference, seeming so pleasantly
-grateful for being admitted to Hartfield, and so artlessly impressed by
-the appearance of every thing in so superior a style to what she had
-been used to, that she must have good sense, and deserve encouragement.
-Encouragement should be given. Those soft blue eyes, and all those
-natural graces, should not be wasted on the inferior society of
-Highbury and its connexions. The acquaintance she had already formed
-were unworthy of her. The friends from whom she had just parted, though
-very good sort of people, must be doing her harm. They were a family of
-the name of Martin, whom Emma well knew by character, as renting a
-large farm of Mr. Knightley, and residing in the parish of Donwell—very
-creditably, she believed—she knew Mr. Knightley thought highly of
-them—but they must be coarse and unpolished, and very unfit to be the
-intimates of a girl who wanted only a little more knowledge and
-elegance to be quite perfect. _She_ would notice her; she would improve
-her; she would detach her from her bad acquaintance, and introduce her
-into good society; she would form her opinions and her manners. It
-would be an interesting, and certainly a very kind undertaking; highly
-becoming her own situation in life, her leisure, and powers.
+Not a mind of surpassing wit lit Miss Smith’s discourse, yet she was so charmingly modest, so gracious in her deference, so appreciative in her wonder at Hartfield’s splendour—that Emma concluded she possessed keen wit, and must be encouraged. Her beauty and sensibility deserved a loftier sphere than Highbury’s common run. Emma would draw her forth, elevate her tastes, and place her amid society’s elites—her undertaking most becoming!
 
 --- Paragraph 46 ---
-She was so busy in admiring those soft blue eyes, in talking and
-listening, and forming all these schemes in the in-betweens, that the
-evening flew away at a very unusual rate; and the supper-table, which
-always closed such parties, and for which she had been used to sit and
-watch the due time, was all set out and ready, and moved forwards to
-the fire, before she was aware. With an alacrity beyond the common
-impulse of a spirit which yet was never indifferent to the credit of
-doing every thing well and attentively, with the real good-will of a
-mind delighted with its own ideas, did she then do all the honours of
-the meal, and help and recommend the minced chicken and scalloped
-oysters, with an urgency which she knew would be acceptable to the
-early hours and civil scruples of their guests.
+Lost in admiration of Miss Smith’s eyes and charms, Emma’s evening raced swift. When the supper table, long her watchword, arrived, she swept through the feast with such zeal as even her father’s early hour permitted, presenting delicacies with fervour most welcome.
 
 --- Paragraph 47 ---
-Mrs. Goddard, and the teachers, and the girls and the affairs of the
-school in general, formed naturally a great part of the
-conversation—and but for her acquaintance with the Martins of
-Abbey-Mill Farm, it must have been the whole. But the Martins occupied
-her thoughts a good deal; she had spent two very happy months with
-them, and now loved to talk of the pleasures of her visit, and describe
-the many comforts and wonders of the place. Emma encouraged her
-talkativeness—amused by such a picture of another set of beings, and
-enjoying the youthful simplicity which could speak with so much
-exultation of Mrs. Martin’s having “_two_ parlours, two very good
-parlours, indeed; one of them quite as large as Mrs. Goddard’s
-drawing-room; and of her having an upper maid who had lived
-five-and-twenty years with her; and of their having eight cows, two of
-them Alderneys, and one a little Welch cow, a very pretty little Welch
-cow indeed; and of Mrs. Martin’s saying as she was so fond of it, it
-should be called _her_ cow; and of their having a very handsome
-summer-house in their garden, where some day next year they were all to
-drink tea:—a very handsome summer-house, large enough to hold a dozen
-people.”
+Hartfield’s school and its matron dictated much discourse—had not the Martins of Abbey-Mill Farm intruded, the topic might have consumed the entire night. Emma, ever eager, encouraged Miss Goddard’s tales of Mrs. Martin’s “two parlours, two great ones!”, her maid of twenty-five years, and their eight cows, including an Alderney and a Welch heifer, adored as her own. The summerhouse planned for summer tea-parties brightened Emma’s thoughts.
 
 --- Paragraph 48 ---
-“What sort of looking man is Mr. Martin?”
+‘But pray, what is Mr. Martin’s countenance like?’
 
 --- Paragraph 49 ---
-Captain Weston was a general favourite; and when the chances of his
-military life had introduced him to Miss Churchill, of a great
-Yorkshire family, and Miss Churchill fell in love with him, nobody was
-surprized, except her brother and his wife, who had never seen him, and
-who were full of pride and importance, which the connexion would
-offend.
+Captain Weston’s universal popularity was no marvel; his union with Miss Churchill, daughter of Yorkshire nobility, though contrary to her brother’s wishes, drew no surprise—for all knew his amiability and the respect he owed.
 
 --- Paragraph 50 ---
-Mrs. Goddard was the mistress of a School—not of a seminary, or an
-establishment, or any thing which professed, in long sentences of
-refined nonsense, to combine liberal acquirements with elegant
-morality, upon new principles and new systems—and where young ladies
-for enormous pay might be screwed out of health and into vanity—but a
-real, honest, old-fashioned Boarding-school, where a reasonable
-quantity of accomplishments were sold at a reasonable price, and where
-girls might be sent to be out of the way, and scramble themselves into
-a little education, without any danger of coming back prodigies. Mrs.
-Goddard’s school was in high repute—and very deservedly; for Highbury
-was reckoned a particularly healthy spot: she had an ample house and
-garden, gave the children plenty of wholesome food, let them run about
-a great deal in the summer, and in winter dressed their chilblains with
-her own hands. It was no wonder that a train of twenty young couple now
-walked after her to church. She was a plain, motherly kind of woman,
-who had worked hard in her youth, and now thought herself entitled to
-the occasional holiday of a tea-visit; and having formerly owed much to
-Mr. Woodhouse’s kindness, felt his particular claim on her to leave her
-neat parlour, hung round with fancy-work, whenever she could, and win
-or lose a few sixpences by his fireside.
-
+Mrs. Goddard managed a school—not a pretentious seminary, but a honest, venerable boarding house where girls earned meagre accomplishments at modest cost, escaping the perils of fancy and pride. Her venue, famed for health, offered wholesome fare, liberty in summer, and home-based cures for chilblains. Such repute drew ten young couples to her door daily. A motherly soul, unpretentious yet beloved, she owed debts of gratitude to Mr. Woodhouse, whose kindness to her youth had earned her frequent visits to his parlour, where she’d win or lose a shilling by his fireside.

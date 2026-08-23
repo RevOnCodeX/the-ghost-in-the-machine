@@ -1,604 +1,156 @@
 # Topic: Pride and Prejudice
 # Book: pride_and_prejudice
 # Author: austen
+# (AI Rewritten)
 
---- Paragraph 1 ---
-_I suppose, however, that the majority of at least competent votes
-would, all things considered, be divided between_ Emma _and the present
-book; and perhaps the vulgar verdict (if indeed a fondness for Miss
-Austen be not of itself a patent of exemption from any possible charge
-of vulgarity) would go for_ Emma. _It is the larger, the more varied, the
-more popular; the author had by the time of its composition seen rather
-more of the world, and had improved her general, though not her most
-peculiar and characteristic dialogue; such figures as Miss Bates, as the
-Eltons, cannot but unite the suffrages of everybody. On the other hand,
-I, for my part, declare for_ Pride and Prejudice _unhesitatingly. It
-seems to me the most perfect, the most characteristic, the most
-eminently quintessential of its author’s works; and for this contention
-in such narrow space as is permitted to me, I propose here to show
-cause._
 
---- Paragraph 2 ---
-_In the first place, the book (it may be barely necessary to remind the
-reader) was in its first shape written very early, somewhere about 1796,
-when Miss Austen was barely twenty-one; though it was revised and
-finished at Chawton some fifteen years later, and was not published till
-1813, only four years before her death. I do not know whether, in this
-combination of the fresh and vigorous projection of youth, and the
-critical revision of middle life, there may be traced the distinct
-superiority in point of construction, which, as it seems to me, it
-possesses over all the others. The plot, though not elaborate, is almost
-regular enough for Fielding; hardly a character, hardly an incident
-could be retrenched without loss to the story. The elopement of Lydia
-and Wickham is not, like that of Crawford and Mrs. Rushworth, a_ coup de
-théâtre; _it connects itself in the strictest way with the course of the
-story earlier, and brings about the denouement with complete propriety.
-All the minor passages--the loves of Jane and Bingley, the advent of Mr.
-Collins, the visit to Hunsford, the Derbyshire tour--fit in after the
-same unostentatious, but masterly fashion. There is no attempt at the
-hide-and-seek, in-and-out business, which in the transactions between
-Frank Churchill and Jane Fairfax contributes no doubt a good deal to the
-intrigue of_ Emma, _but contributes it in a fashion which I do not think
-the best feature of that otherwise admirable book. Although Miss Austen
-always liked something of the misunderstanding kind, which afforded her
-opportunities for the display of the peculiar and incomparable talent to
-be noticed presently, she has been satisfied here with the perfectly
-natural occasions provided by the false account of Darcy’s conduct given
-by Wickham, and by the awkwardness (arising with equal naturalness) from
-the gradual transformation of Elizabeth’s own feelings from positive
-aversion to actual love. I do not know whether the all-grasping hand of
-the playwright has ever been laid upon_ Pride and Prejudice; _and I dare
-say that, if it were, the situations would prove not startling or
-garish enough for the footlights, the character-scheme too subtle and
-delicate for pit and gallery. But if the attempt were made, it would
-certainly not be hampered by any of those loosenesses of construction,
-which, sometimes disguised by the conveniences of which the novelist can
-avail himself, appear at once on the stage._
 
---- Paragraph 3 ---
-_I think, however, though the thought will doubtless seem heretical to
-more than one school of critics, that construction is not the highest
-merit, the choicest gift, of the novelist. It sets off his other gifts
-and graces most advantageously to the critical eye; and the want of it
-will sometimes mar those graces--appreciably, though not quite
-consciously--to eyes by no means ultra-critical. But a very badly-built
-novel which excelled in pathetic or humorous character, or which
-displayed consummate command of dialogue--perhaps the rarest of all
-faculties--would be an infinitely better thing than a faultless plot
-acted and told by puppets with pebbles in their mouths. And despite the
-ability which Miss Austen has shown in working out the story, I for one
-should put_ Pride and Prejudice _far lower if it did not contain what
-seem to me the very masterpieces of Miss Austen’s humour and of her
-faculty of character-creation--masterpieces who may indeed admit John
-Thorpe, the Eltons, Mrs. Norris, and one or two others to their company,
-but who, in one instance certainly, and perhaps in others, are still
-superior to them._
+--- Paragraph 1 ---  
+Ah, dear interlocutor, I fancy the public’s caprice might sway between Emma’s vivacious charm and this present volume; perhaps the clamour of the crowd (for must we not acknowledge that a fondness for Miss Austen shields one from trivial censure?) would sway toward Emma. It is broader, more variegated, more reckoned among the masses. The author, by the time these pages were penned, had traversed more of life’s labyrinth, honing her gift for commonplace dialogue—figures like Miss Bates or the Efflesmes, a delight to all. Yet, mine heart declares unfalteringly for Pride and Prejudice. I deem it her magnum opus, most representative of her genius. To justify this in such sparse space, I shall expound its merits here.  
 
---- Paragraph 4 ---
-_In respect of her art generally, Mr. Goldwin Smith has truly observed
-that “metaphor has been exhausted in depicting the perfection of it,
-combined with the narrowness of her field;” and he has justly added that
-we need not go beyond her own comparison to the art of a miniature
-painter. To make this latter observation quite exact we must not use the
-term miniature in its restricted sense, and must think rather of Memling
-at one end of the history of painting and Meissonier at the other, than
-of Cosway or any of his kind. And I am not so certain that I should
-myself use the word “narrow” in connection with her. If her world is a
-microcosm, the cosmic quality of it is at least as eminent as the
-littleness. She does not touch what she did not feel herself called to
-paint; I am not so sure that she could not have painted what she did not
-feel herself called to touch. It is at least remarkable that in two very
-short periods of writing--one of about three years, and another of not
-much more than five--she executed six capital works, and has not left a
-single failure. It is possible that the romantic paste in her
-composition was defective: we must always remember that hardly
-anybody born in her decade--that of the eighteenth-century
-seventies--independently exhibited the full romantic quality. Even Scott
-required hill and mountain and ballad, even Coleridge metaphysics and
-German to enable them to chip the classical shell. Miss Austen was an
-English girl, brought up in a country retirement, at the time when
-ladies went back into the house if there was a white frost which might
-pierce their kid shoes, when a sudden cold was the subject of the
-gravest fears, when their studies, their ways, their conduct were
-subject to all those fantastic limits and restrictions against which
-Mary Wollstonecraft protested with better general sense than particular
-taste or judgment. Miss Austen, too, drew back when the white frost
-touched her shoes; but I think she would have made a pretty good journey
-even in a black one._
+--- Paragraph 2 ---  
+The tale began in youthful fervour, circa 1796, when Miss Austen was but twenty-one; yet she refined it at Chawton fifteen years hence, publishing it mere years ere her twilight. I wonder if the interplay of youthful vigour and mature cunning in its creation confers a structural grace surpassing her other works. The plot, though modest, is almost flawless—a portrayal of Fielding’s precision. Each character, each incident, hangs by a thread indispensable to the narrative. The Lydia-Wickham liaison is no theatrical flourish; it weaves inextricably with prior events, culminating in fitting resolution. Lesser scenes—Jane and Bingley’s shuttle, Mr. Collins’ intrusion, the Hunsford excursion—are executed with quiet artistry. Unlike Emma’s tangled intrigues, where mirth masks confusion, this tale leans on natural folly: Wickham’s deceit and Elizabeth’s evolving heart suffice. Had a playwright’s remit shaped it, the الجزء would lack wonder; its cleverness would falter on stage.  
 
---- Paragraph 5 ---
-_The goodness of the minor characters in_ Pride and Prejudice _has been
-already alluded to, and it makes a detailed dwelling on their beauties
-difficult in any space, and impossible in this. Mrs. Bennet we have
-glanced at, and it is not easy to say whether she is more exquisitely
-amusing or more horribly true. Much the same may be said of Kitty and
-Lydia; but it is not every author, even of genius, who would have
-differentiated with such unerring skill the effects of folly and
-vulgarity of intellect and disposition working upon the common
-weaknesses of woman at such different ages. With Mary, Miss Austen has
-taken rather less pains, though she has been even more unkind to her;
-not merely in the text, but, as we learn from those interesting
-traditional appendices which Mr. Austen Leigh has given us, in dooming
-her privately to marry “one of Mr. Philips’s clerks.” The habits of
-first copying and then retailing moral sentiments, of playing and
-singing too long in public, are, no doubt, grievous and criminal; but
-perhaps poor Mary was rather the scapegoat of the sins of blue stockings
-in that Fordyce-belectured generation. It is at any rate difficult not
-to extend to her a share of the respect and affection (affection and
-respect of a peculiar kind; doubtless), with which one regards Mr.
-Collins, when she draws the moral of Lydia’s fall. I sometimes wish
-that the exigencies of the story had permitted Miss Austen to unite
-these personages, and thus at once achieve a notable mating and soothe
-poor Mrs. Bennet’s anguish over the entail._
+--- Paragraph 3 ---  
+Yet must I confess, though it may strike some as heretical, that a novelist’s highest virtue lies not merely in craft, but in the breath of joy or wit that infuses her creations. A tale well-broken, yet teeming with poignant or comic souls, outshines a rigid plot performed by automatons. Despite Miss Austen’s commendable artistry, I would rank Pride and Prejudice lower without those exquisite gems of her humour and character-making—those luminous figures like John Thorpe or Lady Catherine, superior even to her lesser creations.  
 
---- Paragraph 6 ---
-_Darcy has always seemed to me by far the best and most interesting of
-Miss Austen’s heroes; the only possible competitor being Henry Tilney,
-whose part is so slight and simple that it hardly enters into
-comparison. It has sometimes, I believe, been urged that his pride is
-unnatural at first in its expression and later in its yielding, while
-his falling in love at all is not extremely probable. Here again I
-cannot go with the objectors. Darcy’s own account of the way in which
-his pride had been pampered, is perfectly rational and sufficient; and
-nothing could be, psychologically speaking, a_ causa verior _for its
-sudden restoration to healthy conditions than the shock of Elizabeth’s
-scornful refusal acting on a nature_ ex hypothesi _generous. Nothing in
-even our author is finer and more delicately touched than the change of
-his demeanour at the sudden meeting in the grounds of Pemberley. Had he
-been a bad prig or a bad coxcomb, he might have been still smarting
-under his rejection, or suspicious that the girl had come
-husband-hunting. His being neither is exactly consistent with the
-probable feelings of a man spoilt in the common sense, but not really
-injured in disposition, and thoroughly in love. As for his being in
-love, Elizabeth has given as just an exposition of the causes of that
-phenomenon as Darcy has of the conditions of his unregenerate state,
-only she has of course not counted in what was due to her own personal
-charm._
+--- Paragraph 4 ---  
+Goldwin Smith, with his sagacious pen, remarks that metaphor is spent in chronicling Miss Austen’s perfection, her scope confined yet profound. He adds we need look no further than her analogy to a miniature painter—though this demands a broader lens, spanning Memling’s solemnity to Meissonier’s detail. Her world, though circumscribed, pulsates with miniature majesty; she paints only what she feels, though one might conjecture she could have captured more. In three years and five, she crafted six masterpieces, leaving no flaw. Critics may fault her romanticism, yet in her era, such passion was scarce. Without Waller’s mountains or Coleridge’s metaphysics, few matched her talent. Miss Austen, though secluded, conveyed her intimacy with such precision.  
 
---- Paragraph 7 ---
-[Illustration: ·PRIDE AND PREJUDICE·
+--- Paragraph 5 ---  
+The minor figures of Pride and Prejudice, already lauded, resist detailed homage here. Mrs. Bennet is a paradox— quam both foolishly amusing and painfully genuine. Her relatives, Kitty and Lydia, embody folly’s spectrum, differentiated with Miss Austen’s shrewdness. Mary, spared detailed charity, serves as a scapegoat, her fate sealed by Mr. Philips’s clerk. Though Mary’s faults—moralizing, musicking—are grievous, perhaps she symbolizes the follies of her generation. Still, had exigency permitted, uniting her with Mr. Collins might have eased Mrs. Bennet’s torment.  
 
---- Paragraph 8 ---
-“I do not believe Mrs. Long will do any such thing. She has two nieces
-of her own. She is a selfish, hypocritical woman, and I have no opinion
-of her.”
+--- Paragraph 6 ---  
+Darcy stands unrivalled among Miss Austen’s heroes, save perhaps Henry Tilney, whose cameo is too brief for contest. Critics murmur his pride seems unnatural, his love improbable. Nonsense! His pride stems from upbringing, his despair from Elizabeth’s scorn—reasonable, even. His transformation at Pemberley is a masterstroke; a man of this nature, undimmed by rejection, would love genuinely. Elizabeth’s analysis of his change is as sharp as Darcy’s of her own misgivings.  
 
---- Paragraph 9 ---
-Mr. Bingley was good-looking and gentlemanlike: he had a pleasant
-countenance, and easy, unaffected manners. His sisters were fine women,
-with an air of decided fashion. His brother-in-law, Mr. Hurst, merely
-looked the gentleman; but his friend Mr. Darcy soon drew the attention
-of the room by his fine, tall person, handsome features, noble mien, and
-the report, which was in general circulation within five minutes after
-his entrance, of his having ten thousand a year. The gentlemen
-pronounced him to be a fine figure of a man, the ladies declared he was
-much handsomer than Mr. Bingley, and he was looked at with great
-admiration for about half the evening, till his manners gave a disgust
-which turned the tide of his popularity; for he was discovered to be
-proud, to be above his company, and above being pleased; and not all his
-large estate in Derbyshire could save him from having a most forbidding,
-disagreeable countenance, and being unworthy to be compared with his
-friend.
+--- Paragraph 7 ---  
+*(Illustration of Pride and Prejudice—left to imagination, as per original.)*  
 
---- Paragraph 10 ---
-Elizabeth listened in silence, but was not convinced: their behaviour at
-the assembly had not been calculated to please in general; and with more
-quickness of observation and less pliancy of temper than her sister, and
-with a judgment, too, unassailed by any attention to herself, she was
-very little disposed to approve them. They were, in fact, very fine
-ladies; not deficient in good-humour when they were pleased, nor in the
-power of being agreeable where they chose it; but proud and conceited.
-They were rather handsome; had been educated in one of the first private
-seminaries in town; had a fortune of twenty thousand pounds; were in the
-habit of spending more than they ought, and of associating with people
-of rank; and were, therefore, in every respect entitled to think well of
-themselves and meanly of others. They were of a respectable family in
-the north of England; a circumstance more deeply impressed on their
-memories than that their brother’s fortune and their own had been
-acquired by trade.
+--- Paragraph 8 ---  
+“Fear not, my dear; Mrs. Long will not act thus. She hath two nieces, and is a self-serving pantomimist. I abhor her.”  
 
---- Paragraph 11 ---
-Between him and Darcy there was a very steady friendship, in spite of a
-great opposition of character. Bingley was endeared to Darcy by the
-easiness, openness, and ductility of his temper, though no disposition
-could offer a greater contrast to his own, and though with his own he
-never appeared dissatisfied. On the strength of Darcy’s regard, Bingley
-had the firmest reliance, and of his judgment the highest opinion. In
-understanding, Darcy was the superior. Bingley was by no means
-deficient; but Darcy was clever. He was at the same time haughty,
-reserved, and fastidious; and his manners, though well bred, were not
-inviting. In that respect his friend had greatly the advantage. Bingley
-was sure of being liked wherever he appeared; Darcy was continually
-giving offence.
+--- Paragraph 9 ---  
+Mr. Bingley charmed with his merry visage and unpretentious grace. His sisters, polished in Style, his brother-in-law, Mr. Hurst, dazzled with posture alone. Yet it was Darcy—tall, handsome, intelligent—whose presence commanded stare. Initial awe gave way to disdain as his pride surfaced, eclipsing his manifold assets.  
 
---- Paragraph 12 ---
-“I do not believe a word of it, my dear. If he had been so very
-agreeable, he would have talked to Mrs. Long. But I can guess how it
-was; everybody says that he is eat up with pride, and I dare say he had
-heard somehow that Mrs. Long does not keep a carriage, and had to come
-to the ball in a hack chaise.”
+--- Paragraph 10 ---  
+Elizabeth marked their behaviour at the ball with disdain; their pride and pretension—though handsome and well-educated—were transparently selfish. A north-country family, their means from commerce, yet they flaunted rank. Unlucky Bingley fell for this lot, a faultless match in their eyes.  
 
---- Paragraph 13 ---
-“His pride,” said Miss Lucas, “does not offend _me_ so much as pride
-often does, because there is an excuse for it. One cannot wonder that so
-very fine a young man, with family, fortune, everything in his favour,
-should think highly of himself. If I may so express it, he has a _right_
-to be proud.”
+--- Paragraph 11 ---  
+Bingley and Darcy’s bond was steadfast, their contrasts vast. Bingley, amiable and pliable, found in Darcy a jubilant ally. Darcy, proud and austere, yet never displeased by his friend. Though intellectually superior, Bingley’s charm was irresistible; Darcy’s manners, though refined, clashed with his reserve.  
 
---- Paragraph 14 ---
-“That is very true,” replied Elizabeth, “and I could easily forgive
-_his_ pride, if he had not mortified _mine_.”
+--- Paragraph 12 ---  
+“Nonsense!” Elizabeth retorted. “If he were amiable, he’d converse with Mrs. Long. Likely, he overheard her carriage-less plight and harangued her thus.”  
 
---- Paragraph 15 ---
-“Pride,” observed Mary, who piqued herself upon the solidity of her
-reflections, “is a very common failing, I believe. By all that I have
-ever read, I am convinced that it is very common indeed; that human
-nature is particularly prone to it, and that there are very few of us
-who do not cherish a feeling of self-complacency on the score of some
-quality or other, real or imaginary. Vanity and pride are different
-things, though the words are often used synonymously. A person may be
-proud without being vain. Pride relates more to our opinion of
-ourselves; vanity to what we would have others think of us.”
+--- Paragraph 13 ---  
+“Pride,” said Miss Lucas, “is justifiable here. A fine young man, with fortune, might deem himself entitled to it.”  
 
---- Paragraph 16 ---
-“If I were as rich as Mr. Darcy,” cried a young Lucas, who came with his
-sisters, “I should not care how proud I was. I would keep a pack of
-foxhounds, and drink a bottle of wine every day.”
+--- Paragraph 14 ---  
+“Speak truly, but his pride wounded mine,” Elizabeth arched.  
 
---- Paragraph 17 ---
-“You are considering how insupportable it would be to pass many
-evenings in this manner,--in such society; and, indeed, I am quite of
-your opinion. I was never more annoyed! The insipidity, and yet the
-noise--the nothingness, and yet the self-importance, of all these
-people! What would I give to hear your strictures on them!”
+--- Paragraph 15 ---  
+“Pride,” observed Mary, “is common. All human hearts nurture self-praise, real or feigned. Pride and vanity differ: the former our self-regard, the latter our craving for others’ acclaim.”  
 
---- Paragraph 18 ---
-“I admire the activity of your benevolence,” observed Mary, “but every
-impulse of feeling should be guided by reason; and, in my opinion,
-exertion should always be in proportion to what is required.”
+--- Paragraph 16 ---  
+“If I had Darcy’s wealth,” laughed young Lucas, “I’d raise foxhounds and drink daily!”  
 
---- Paragraph 19 ---
-When dinner was over, she returned directly to Jane, and Miss Bingley
-began abusing her as soon as she was out of the room. Her manners were
-pronounced to be very bad indeed,--a mixture of pride and impertinence:
-she had no conversation, no style, no taste, no beauty. Mrs. Hurst
-thought the same, and added,--
+--- Paragraph 17 ---  
+“Your evenings here exhaust me!” Mary despaired. “Their insipidity and noise! The Nothingness, yet pretension!”  
 
---- Paragraph 20 ---
-“Eliza Bennet,” said Miss Bingley, when the door was closed on her, “is
-one of those young ladies who seek to recommend themselves to the other
-sex by undervaluing their own; and with many men, I daresay, it
-succeeds; but, in my opinion, it is a paltry device, a very mean art.”
+--- Paragraph 18 ---  
+“Your charity’s vigour I admire,” Mary mused, “but action must align with reason, proportioned to need.”  
 
---- Paragraph 21 ---
-Elizabeth passed the chief of the night in her sister’s room, and in the
-morning had the pleasure of being able to send a tolerable answer to the
-inquiries which she very early received from Mr. Bingley by a housemaid,
-and some time afterwards from the two elegant ladies who waited on his
-sisters. In spite of this amendment, however, she requested to have a
-note sent to Longbourn, desiring her mother to visit Jane, and form her
-own judgment of her situation. The note was immediately despatched, and
-its contents as quickly complied with. Mrs. Bennet, accompanied by her
-two youngest girls, reached Netherfield soon after the family breakfast.
+--- Paragraph 19 ---  
+Post-dinner, Elizabeth reunited with Jane. Miss Bingley, upon her exit, jeered: “That Eliza Bennet devalues herself to court men? A base trick, though sometimes efficacious.”  
 
---- Paragraph 22 ---
-Elizabeth took up some needlework, and was sufficiently amused in
-attending to what passed between Darcy and his companion. The perpetual
-commendations of the lady either on his hand-writing, or on the evenness
-of his lines, or on the length of his letter, with the perfect unconcern
-with which her praises were received, formed a curious dialogue, and was
-exactly in unison with her opinion of each.
+--- Paragraph 20 ---  
+Elizabeth occupied herself with needlework, amused by Darcy’s adulation—either his penmanship, orderly lines, or letter length. Her silence mirrored her scorn.  
 
---- Paragraph 23 ---
-“Nothing is more deceitful,” said Darcy, “than the appearance of
-humility. It is often only carelessness of opinion, and sometimes an
-indirect boast.”
+--- Paragraph 21 ---  
+In the morning, Elizabeth dispatched a note to Longbourn, requesting Mrs. Bennet to visit Jane. Mrs. Bennet, with the youngest girls, arrived at Netherfield shortly after breakfast.  
 
---- Paragraph 24 ---
-“The indirect boast; for you are really proud of your defects in
-writing, because you consider them as proceeding from a rapidity of
-thought and carelessness of execution, which, if not estimable, you
-think at least highly interesting. The power of doing anything with
-quickness is always much prized by the possessor, and often without any
-attention to the imperfection of the performance. When you told Mrs.
-Bennet this morning, that if you ever resolved on quitting Netherfield
-you should be gone in five minutes, you meant it to be a sort of
-panegyric, of compliment to yourself; and yet what is there so very
-laudable in a precipitance which must leave very necessary business
-undone, and can be of no real advantage to yourself or anyone else?”
+--- Paragraph 22 ---  
+Elizabeth occupied herself with needlework, amused by Darcy’s adulation—either his penmanship, orderly lines, or letter length. Her silence mirrored her scorn.  
 
---- Paragraph 25 ---
-“I hope,” said she, as they were walking together in the shrubbery the
-next day, “you will give your mother-in-law a few hints, when this
-desirable event takes place, as to the advantage of holding her tongue;
-and if you can compass it, to cure the younger girls of running after
-the officers. And, if I may mention so delicate a subject, endeavour to
-check that little something, bordering on conceit and impertinence,
-which your lady possesses.”
+--- Paragraph 23 ---  
+“Nonsense,” Darcy said. “Humility often masks boast. A claim to ignorance is itself a boast.”  
 
---- Paragraph 26 ---
-“Such as vanity and pride.”
+--- Paragraph 24 ---  
+“The boast masked by humility,” he continued. “Quickness—heralded as virtue, though flawed—is prized in solitude. When you swore to leave Netherfield in five minutes, it was not approval, but a pat on the back for speed.”  
 
---- Paragraph 27 ---
-“Yes, vanity is a weakness indeed. But pride--where there is a real
-superiority of mind--pride will be always under good regulation.”
+--- Paragraph 25 ---  
+“I trust you’ll counsel your mother-in-law to silence, and coax the girls from courting officers. And, if delicate, temper Lady Catherine’s hauteur,” Elizabeth suggested.  
 
---- Paragraph 28 ---
-“No,” said Darcy, “I have made no such pretension. I have faults enough,
-but they are not, I hope, of understanding. My temper I dare not vouch
-for. It is, I believe, too little yielding; certainly too little for the
-convenience of the world. I cannot forget the follies and vices of
-others so soon as I ought, nor their offences against myself. My
-feelings are not puffed about with every attempt to move them. My temper
-would perhaps be called resentful. My good opinion once lost is lost for
-ever.”
+--- Paragraph 26 ---  
+“Vanity, of course.”  
 
---- Paragraph 29 ---
-During dinner, Mr. Bennet scarcely spoke at all; but when the servants
-were withdrawn, he thought it time to have some conversation with his
-guest, and therefore started a subject in which he expected him to
-shine, by observing that he seemed very fortunate in his patroness. Lady
-Catherine de Bourgh’s attention to his wishes, and consideration for his
-comfort, appeared very remarkable. Mr. Bennet could not have chosen
-better. Mr. Collins was eloquent in her praise. The subject elevated him
-to more than usual solemnity of manner; and with a most important aspect
-he protested that he had never in his life witnessed such behaviour in a
-person of rank--such affability and condescension, as he had himself
-experienced from Lady Catherine. She had been graciously pleased to
-approve of both the discourses which he had already had the honour of
-preaching before her. She had also asked him twice to dine at Rosings,
-and had sent for him only the Saturday before, to make up her pool of
-quadrille in the evening. Lady Catherine was reckoned proud by many
-people, he knew, but _he_ had never seen anything but affability in her.
-She had always spoken to him as she would to any other gentleman; she
-made not the smallest objection to his joining in the society of the
-neighbourhood, nor to his leaving his parish occasionally for a week or
-two to visit his relations. She had even condescended to advise him to
-marry as soon as he could, provided he chose with discretion; and had
-once paid him a visit in his humble parsonage, where she had perfectly
-approved all the alterations he had been making, and had even vouchsafed
-to suggest some herself,--some shelves in the closets upstairs.
+--- Paragraph 27 ---  
+“Yes, but pride—rooted in genuine superiority—is nobly regulated.”  
 
---- Paragraph 30 ---
-Mr. Collins was not a sensible man, and the deficiency of nature had
-been but little assisted by education or society; the greatest part of
-his life having been spent under the guidance of an illiterate and
-miserly father; and though he belonged to one of the universities, he
-had merely kept the necessary terms without forming at it any useful
-acquaintance. The subjection in which his father had brought him up had
-given him originally great humility of manner; but it was now a good
-deal counteracted by the self-conceit of a weak head, living in
-retirement, and the consequential feelings of early and unexpected
-prosperity. A fortunate chance had recommended him to Lady Catherine de
-Bourgh when the living of Hunsford was vacant; and the respect which he
-felt for her high rank, and his veneration for her as his patroness,
-mingling with a very good opinion of himself, of his authority as a
-clergyman, and his right as a rector, made him altogether a mixture of
-pride and obsequiousness, self-importance and humility.
+--- Paragraph 28 ---  
+“No,” Darcy demurred. “I claim none. My failings lie elsewhere: my temperament, too sudden in forgiveness, too harsh in remembrance. My opinion, once lost, is lost.”  
 
---- Paragraph 31 ---
-Lydia’s intention of walking to Meryton was not forgotten: every sister
-except Mary agreed to go with her; and Mr. Collins was to attend them,
-at the request of Mr. Bennet, who was most anxious to get rid of him,
-and have his library to himself; for thither Mr. Collins had followed
-him after breakfast, and there he would continue, nominally engaged with
-one of the largest folios in the collection, but really talking to Mr.
-Bennet, with little cessation, of his house and garden at Hunsford. Such
-doings discomposed Mr. Bennet exceedingly. In his library he had been
-always sure of leisure and tranquillity; and though prepared, as he told
-Elizabeth, to meet with folly and conceit in every other room in the
-house, he was used to be free from them there: his civility, therefore,
-was most prompt in inviting Mr. Collins to join his daughters in their
-walk; and Mr. Collins, being in fact much better fitted for a walker
-than a reader, was extremely well pleased to close his large book, and
-go.
+--- Paragraph 29 ---  
+At dinner, Mr. Bennet, sparse in speech, broached a topic wherein Darcy might excel: Lady Catherine’s kindness. Mr. Collins gushed, praising the lady’s affability. Mr. Bennet agreed—she approved his discourses, invited him to Rosings, even advised marriage. Yet his visit to her modest manse revealed no disdain, only civility.  
 
---- Paragraph 32 ---
-In describing to her all the grandeur of Lady Catherine and her mansion,
-with occasional digressions in praise of his own humble abode, and the
-improvements it was receiving, he was happily employed until the
-gentlemen joined them; and he found in Mrs. Philips a very attentive
-listener, whose opinion of his consequence increased with what she
-heard, and who was resolving to retail it all among her neighbours as
-soon as she could. To the girls, who could not listen to their cousin,
-and who had nothing to do but to wish for an instrument, and examine
-their own indifferent imitations of china on the mantel-piece, the
-interval of waiting appeared very long. It was over at last, however.
-The gentlemen did approach: and when Mr. Wickham walked into the room,
-Elizabeth felt that she had neither been seeing him before, nor thinking
-of him since, with the smallest degree of unreasonable admiration. The
-officers of the ----shire were in general a very creditable,
-gentlemanlike set and the best of them were of the present party; but
-Mr, Wickham was as far beyond them all in person, countenance, air, and
-walk, as _they_ were superior to the broad-faced stuffy uncle Philips,
-breathing port wine, who followed them into the room.
+--- Paragraph 30 ---  
+Mr. Collins, though learned, was dulled by his teacher’s ignorance. Raised in modest means, his fortunes bred conceit. A mix of humility and self-adulation now governed him, bolstered by Lady Catherine’s patronage.  
 
---- Paragraph 33 ---
-“I have no right to give _my_ opinion,” said Wickham, “as to his being
-agreeable or otherwise. I am not qualified to form one. I have known him
-too long and too well to be a fair judge. It is impossible for _me_ to
-be impartial. But I believe your opinion of him would in general
-astonish--and, perhaps, you would not express it quite so strongly
-anywhere else. Here you are in your own family.”
+--- Paragraph 31 ---  
+Lydia’s plan to walk to Meryton was revived; all sisters (save Mary) joined, with Mr. Collins as reluctant chaperone. Mr. Bennet, eager to reclaim his library, sent him. There, Mr. Collins feigned reading,Yet “discoursed of Hunsford and his garden, monopolizing Mr. Bennet’s company.”  
 
---- Paragraph 34 ---
-“Upon my word I say no more _here_ than I might say in any house in the
-neighbourhood, except Netherfield. He is not at all liked in
-Hertfordshire. Everybody is disgusted with his pride. You will not find
-him more favourably spoken of by anyone.”
+--- Paragraph 32 ---  
+Narrating Lady Catherine’s splendor, Mr. Collins waxed grandiose, contrasting his cottage’s “rude improvements.” Amused by Mrs. Philips, he craved her praise. The girls, impatient, counted chimes. When officers arrived, Wickham’s entrance electrified Elizabeth—his presence, a revelation.  
 
---- Paragraph 35 ---
-“There was just such an informality in the terms of the bequest as to
-give me no hope from law. A man of honour could not have doubted the
-intention, but Mr. Darcy chose to doubt it--or to treat it as a merely
-conditional recommendation, and to assert that I had forfeited all claim
-to it by extravagance, imprudence, in short, anything or nothing.
-Certain it is that the living became vacant two years ago, exactly as I
-was of an age to hold it, and that it was given to another man; and no
-less certain is it, that I cannot accuse myself of having really done
-anything to deserve to lose it. I have a warm unguarded temper, and I
-may perhaps have sometimes spoken my opinion _of_ him, and _to_ him, too
-freely. I can recall nothing worse. But the fact is, that we are very
-different sort of men, and that he hates me.”
+--- Paragraph 33 ---  
+“Opinion of his charm?” Wickham queried. “I’ve known him too long; my judgment clouded.”  
 
---- Paragraph 36 ---
-“How strange!” cried Elizabeth. “How abominable! I wonder that the very
-pride of this Mr. Darcy has not made him just to you. If from no better
-motive, that he should not have been too proud to be dishonest,--for
-dishonesty I must call it.”
+--- Paragraph 34 ---  
+“Here, though, your disdain would astound,” he added. “Hertfordshire hates him for his pride, and rightly.”  
 
---- Paragraph 37 ---
-“It _is_ wonderful,” replied Wickham; “for almost all his actions may be
-traced to pride; and pride has often been his best friend. It has
-connected him nearer with virtue than any other feeling. But we are none
-of us consistent; and in his behaviour to me there were stronger
-impulses even than pride.”
+--- Paragraph 35 ---  
+“How his pride could omit dishonesty!” Elizabeth exclaimed. “It’s scandalous!”  
 
---- Paragraph 38 ---
-“Can such abominable pride as his have ever done him good?”
+--- Paragraph 36 ---  
+Wickham replied, “Pride guided many actions, yet inconsistency haunts all.”  
 
---- Paragraph 39 ---
-“Yes; it has often led him to be liberal and generous; to give his money
-freely, to display hospitality, to assist his tenants, and relieve the
-poor. Family pride, and _filial_ pride, for he is very proud of what his
-father was, have done this. Not to appear to disgrace his family, to
-degenerate from the popular qualities, or lose the influence of the
-Pemberley House, is a powerful motive. He has also _brotherly_ pride,
-which, with _some_ brotherly affection, makes him a very kind and
-careful guardian of his sister; and you will hear him generally cried up
-as the most attentive and best of brothers.”
+--- Paragraph 37 ---  
+“True,” he mused. “Benevolence, too, sprang from it—charity to tenants, humility toward superiors.”  
 
---- Paragraph 40 ---
-He shook his head. “I wish I could call her amiable. It gives me pain to
-speak ill of a Darcy; but she is too much like her brother,--very, very
-proud. As a child, she was affectionate and pleasing, and extremely fond
-of me; and I have devoted hours and hours to her amusement. But she is
-nothing to me now. She is a handsome girl, about fifteen or sixteen,
-and, I understand, highly accomplished. Since her father’s death her
-home has been London, where a lady lives with her, and superintends her
-education.”
+--- Paragraph 38 ---  
+“Can such pride ever benefit?” Elizabeth wondered.  
 
---- Paragraph 41 ---
-“Probably not; but Mr. Darcy can please where he chooses. He does not
-want abilities. He can be a conversible companion if he thinks it worth
-his while. Among those who are at all his equals in consequence, he is a
-very different man from what he is to the less prosperous. His pride
-never deserts him; but with the rich he is liberal-minded, just,
-sincere, rational, honourable, and, perhaps, agreeable,--allowing
-something for fortune and figure.”
+--- Paragraph 39 ---  
+“Indeed,” Wickham conceded. “It fueled his liberality, his care for his sister. Pride, in family and filiation, is a social virtue.”  
 
---- Paragraph 42 ---
-“I believe her to be both in a great degree,” replied Wickham; “I have
-not seen her for many years; but I very well remember that I never liked
-her, and that her manners were dictatorial and insolent. She has the
-reputation of being remarkably sensible and clever; but I rather believe
-she derives part of her abilities from her rank and fortune, part from
-her authoritative manner, and the rest from the pride of her nephew, who
-chooses that everyone connected with him should have an understanding of
-the first class.”
+--- Paragraph 40 ---  
+He shook his head. “I envy amiability. It pains me to disparage Darcy, but Elizabeth is a replica of her brother—proud, imperious.” She recalled her youthful affection for Wickham, now indifferent.  
 
---- Paragraph 43 ---
-“Laugh as much as you choose, but you will not laugh me out of my
-opinion. My dearest Lizzy, do but consider in what a disgraceful light
-it places Mr. Darcy, to be treating his father’s favourite in such a
-manner,--one whom his father had promised to provide for. It is
-impossible. No man of common humanity, no man who had any value for his
-character, could be capable of it. Can his most intimate friends be so
-excessively deceived in him? Oh no.”
+--- Paragraph 41 ---  
+“Yet Darcy could please,” she mused. “To equals, he’s reasonable, fair, agreeable.”  
 
---- Paragraph 44 ---
-“I am by no means of opinion, I assure you,” said he, “that a ball of
-this kind, given by a young man of character, to respectable people, can
-have any evil tendency; and I am so far from objecting to dancing
-myself, that I shall hope to be honoured with the hands of all my fair
-cousins in the course of the evening; and I take this opportunity of
-soliciting yours, Miss Elizabeth, for the two first dances especially; a
-preference which I trust my cousin Jane will attribute to the right
-cause, and not to any disrespect for her.”
+--- Paragraph 42 ---  
+“Doubtless,” Wickham agreed. “His pride never leaves; with the rich, he’s gracious, sincere.”  
 
---- Paragraph 45 ---
-“And never allow yourself to be blinded by prejudice?”
+--- Paragraph 43 ---  
+“The disgrace!” Elizabeth cried. “Treating Lady Catherine thus—his father’s ward! It’s ignoble.”  
 
---- Paragraph 46 ---
-“It is particularly incumbent on those who never change their opinion,
-to be secure of judging properly at first.”
+--- Paragraph 44 ---  
+“I defy your horror,” Wickham retorted. “Observe Lady Catherine’s dignity; I follow my duty.” Mr. Collins curtseyed, but Darcy’s disdain grew.  
 
---- Paragraph 47 ---
-“My dear Miss Elizabeth, I have the highest opinion in the world of your
-excellent judgment in all matters within the scope of your
-understanding, but permit me to say that there must be a wide difference
-between the established forms of ceremony amongst the laity and those
-which regulate the clergy; for, give me leave to observe that I consider
-the clerical office as equal in point of dignity with the highest rank
-in the kingdom--provided that a proper humility of behaviour is at the
-same time maintained. You must, therefore, allow me to follow the
-dictates of my conscience on this occasion, which lead me to perform
-what I look on as a point of duty. Pardon me for neglecting to profit by
-your advice, which on every other subject shall be my constant guide,
-though in the case before us I consider myself more fitted by education
-and habitual study to decide on what is right than a young lady like
-yourself;” and with a low bow he left her to attack Mr. Darcy, whose
-reception of his advances she eagerly watched, and whose astonishment at
-being so addressed was very evident. Her cousin prefaced his speech with
-a solemn bow, and though she could not hear a word of it, she felt as if
-hearing it all, and saw in the motion of his lips the words “apology,”
-“Hunsford,” and “Lady Catherine de Bourgh.” It vexed her to see him
-expose himself to such a man. Mr. Darcy was eyeing him with
-unrestrained wonder; and when at last Mr. Collins allowed him to speak,
-replied with an air of distant civility. Mr. Collins, however, was not
-discouraged from speaking again, and Mr. Darcy’s contempt seemed
-abundantly increasing with the length of his second speech; and at the
-end of it he only made him a slight bow, and moved another way: Mr.
-Collins then returned to Elizabeth.
+--- Paragraph 45 ---  
+“And chamfer not your prejudice?”  
 
---- Paragraph 48 ---
-“My reasons for marrying are, first, that I think it a right thing for
-every clergyman in easy circumstances (like myself) to set the example
-of matrimony in his parish; secondly, that I am convinced it will add
-very greatly to my happiness; and, thirdly, which perhaps I ought to
-have mentioned earlier, that it is the particular advice and
-recommendation of the very noble lady whom I have the honour of calling
-patroness. Twice has she condescended to give me her opinion (unasked
-too!) on this subject; and it was but the very Saturday night before I
-left Hunsford,--between our pools at quadrille, while Mrs. Jenkinson was
-arranging Miss De Bourgh’s footstool,--that she said, ‘Mr. Collins, you
-must marry. A clergyman like you must marry. Choose properly, choose a
-gentlewoman for _my_ sake, and for your _own_; let her be an active,
-useful sort of person, not brought up high, but able to make a small
-income go a good way. This is my advice. Find such a woman as soon as
-you can, bring her to Hunsford, and I will visit her.’ Allow me, by the
-way, to observe, my fair cousin, that I do not reckon the notice and
-kindness of Lady Catherine de Bourgh as among the least of the
-advantages in my power to offer. You will find her manners beyond
-anything I can describe; and your wit and vivacity, I think, must be
-acceptable to her, especially when tempered with the silence and respect
-which her rank will inevitably excite. Thus much for my general
-intention in favour of matrimony; it remains to be told why my views
-were directed to Longbourn instead of my own neighbourhood, where I
-assure you there are many amiable young women. But the fact is, that
-being, as I am, to inherit this estate after the death of your honoured
-father (who, however, may live many years longer), I could not satisfy
-myself without resolving to choose a wife from among his daughters, that
-the loss to them might be as little as possible when the melancholy
-event takes place--which, however, as I have already said, may not be
-for several years. This has been my motive, my fair cousin, and I
-flatter myself it will not sink me in your esteem. And now nothing
-remains for me but to assure you in the most animated language of the
-violence of my affection. To fortune I am perfectly indifferent, and
-shall make no demand of that nature on your father, since I am well
-aware that it could not be complied with; and that one thousand pounds
-in the 4 per cents., which will not be yours till after your mother’s
-decease, is all that you may ever be entitled to. On that head,
-therefore, I shall be uniformly silent: and you may assure yourself that
-no ungenerous reproach shall ever pass my lips when we are married.”
+--- Paragraph 46 ---  
+“Those fixed in error must judge wisely at first.”  
 
---- Paragraph 49 ---
-“Let her be called down. She shall hear my opinion.”
+--- Paragraph 47 ---  
+Mr. Darcy, flustered, apologized profoundly, invoking Lady Catherine’s authority. Elizabeth, intrigued, observed his demeanor shift as Mr. Collins pontificated.  
 
---- Paragraph 50 ---
-Mr. Collins, meanwhile, was meditating in solitude on what had passed.
-He thought too well of himself to comprehend on what motive his cousin
-could refuse him; and though his pride was hurt, he suffered in no other
-way. His regard for her was quite imaginary; and the possibility of her
-deserving her mother’s reproach prevented his feeling any regret.
+--- Paragraph 48 ---  
+Mr. Collins, pondering the rebuff, prized his self-regard. Though hurt by Elizabeth’s refusal, he consoled himself: her mother’s censure was undeserved.  
 
+--- Paragraph 49 ---  
+“Let her descend. I shall state my view.”  
+
+--- Paragraph 50 ---  
+Mr. Collins, meanwhile, mused. Though stung by Elizabeth’s rejection, he clung to his idealized notion of her. Her mother’s disapproval was, to him, a minor trial.
