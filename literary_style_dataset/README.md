@@ -53,14 +53,14 @@ The dataset was generated in three major phases:
 The raw Gutenberg texts were stripped of boilerplate (TOC, licensing, illustrations) using `scripts/clean_dataset.py`. Each paragraph in the text was explicitly numbered (e.g. `[Paragraph 1]`) to allow for exact referencing.
 
 ### 2. Thematic Extraction (`topics/`)
-Using `generate_topics.py`, we queried an LLM to identify **5 major thematic topics per book**. The LLM then scanned the numbered texts and extracted exactly **50 real paragraphs** from the original book that strongly relate to each topic. 
+Using `scripts/generate_topics.py`, we queried an LLM to identify **5 major thematic topics per book**. The LLM then scanned the numbered texts and extracted exactly **50 real paragraphs** from the original book that strongly relate to each topic. 
 This created 30 unique topic files, each containing 50 original paragraphs.
 
 ### 3. Style Rewriting (Parallelization)
-Using `rewrite_topics_parallel.py`, each of the 1,500 extracted paragraphs was passed back to an LLM. The LLM was instructed to **completely rewrite** the paragraph from scratch, maintaining the semantic meaning, but perfectly mimicking the highly distinct literary style of the original author (Austen or Dickens). 
+Using `scripts/rewrite_topics_parallel.py`, each of the 1,500 extracted paragraphs was passed back to an LLM. The LLM was instructed to **completely rewrite** the paragraph from scratch, maintaining the semantic meaning, but perfectly mimicking the highly distinct literary style of the original author (Austen or Dickens). 
 These rewritten files are saved back into the `topics/` folder and marked with `# (AI Rewritten)` at the top of the text files.
 
-*Note: The parallel rewriting script (`rewrite_topics_parallel.py`) uses a round-robin strategy across multiple API keys using a `ThreadPoolExecutor` to bypass rate limits.*
+*Note: The parallel rewriting script (`scripts/rewrite_topics_parallel.py`) uses a round-robin strategy across multiple API keys using a `ThreadPoolExecutor` to bypass rate limits.*
 
 ---
 
