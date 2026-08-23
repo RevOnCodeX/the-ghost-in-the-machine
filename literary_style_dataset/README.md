@@ -28,11 +28,10 @@ literary_style_dataset/
 │   └── austen/
 │
 ├── scripts/
-│   └── clean_dataset.py          # Cleaning pipeline to strip Gutenberg text and add numbering
-│
-├── generate_topics.py            # AI script to extract 5 themes per book and 50 paragraphs per theme
-├── rewrite_topics.py             # Single-threaded AI script to rewrite topics
-└── rewrite_topics_parallel.py    # High-throughput multi-key parallel AI rewrite script
+│   ├── clean_dataset.py          # Cleaning pipeline to strip Gutenberg text and add numbering
+│   ├── generate_topics.py        # AI script to extract 5 themes per book and 50 paragraphs per theme
+│   ├── rewrite_topics.py         # Single-threaded AI script to rewrite topics
+│   └── rewrite_topics_parallel.py# High-throughput multi-key parallel AI rewrite script
 ```
 
 ---
@@ -80,10 +79,10 @@ python3 scripts/clean_dataset.py
 
 Extract thematic paragraphs:
 ```bash
-python3 generate_topics.py
+python3 scripts/generate_topics.py
 ```
 
 Run the parallel rewriting script:
 ```bash
-python3 rewrite_topics_parallel.py
+python3 scripts/rewrite_topics_parallel.py
 ```
