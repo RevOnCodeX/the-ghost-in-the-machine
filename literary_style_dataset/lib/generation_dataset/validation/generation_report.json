@@ -1,0 +1,9 @@
+{
+    "total_plain": 5,
+    "total_styled": 5,
+    "failed_validation": 0,
+    "duplicates_removed": 0,
+    "providers_used": {
+        "gemini": 5
+    }
+}

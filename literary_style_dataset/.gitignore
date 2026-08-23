@@ -1,0 +1,10 @@
+
+# Security and Environment
+.env
+.env.*
+__pycache__/
+*.pyc
+
+# Logs and Data
+generation_logs/
+local_models/

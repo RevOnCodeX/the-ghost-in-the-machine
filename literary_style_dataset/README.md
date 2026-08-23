@@ -1,107 +1,48 @@
-# The Ghost Machine: Literary Style Dataset
+# The Ghost in the Machine - Literary Dataset
 
-This repository contains a reproducible NLP dataset consisting of novels by Charles Dickens and Jane Austen, sourced from Project Gutenberg. It is specifically designed for literary stylometry and human-vs-AI writing classification tasks.
+This repository contains a dataset comparing human-authored literary texts (Charles Dickens and Jane Austen) against AI-generated paragraphs written in a plain, neutral style and an author-mimicking style.
 
-## 📂 Repository Structure
+## Pipeline Architecture
 
-```text
-literary_style_dataset/
-├── raw/
-│   ├── dickens/
-│   │   ├── oliver_twist.txt
-│   │   ├── great_expectations.txt
-│   │   └── tale_of_two_cities.txt
-│   └── austen/
-│       ├── pride_and_prejudice.txt
-│       ├── sense_and_sensibility.txt
-│       └── emma.txt
-│
-├── cleaned/               # Generated automatically by the script
-│   ├── dickens/
-│   └── austen/
-│
-├── lib/
-│   └── dataset/           # Structured semantic datasets generated via API
-│       ├── dickens/
-│       │   ├── oliver_twist_paragraphs.jsonl        # (Human text + annotations)
-│       │   ├── oliver_twist_ai_plain.jsonl          # (Plain AI generation)
-│       │   └── oliver_twist_ai_styled.jsonl         # (Styled AI generation)
-│       └── austen/
-│
-├── scripts/
-│   ├── clean_dataset.py   # The data-cleaning pipeline
-│   ├── generate_semantic_dataset.py # Mock script for generating semantic datasets
-│   └── generate_ai_variations.py    # Mock script for generating AI paragraph variations
-│
-└── README.md
+The dataset is generated using a scalable multi-provider AI generation pipeline. It supports API provider fallback, quota management, and automatic retries.
+
+### Provider Fallback System
+The API router seamlessly shifts between API providers if one hits rate limits (429) or persistent errors. 
+The active fallback priority order is:
+1. **Gemini** (`gemini-flash-latest`)
+2. **OpenRouter** (`nvidia/nemotron-3.5-lightning:free`, `thinkingmachines/inkling-small:free`)
+3. **AgentRoute** (`gpt-5.6-sol`)
+
+## Setup Instructions
+
+### 1. Installation
+Install the required dependencies using the provided `requirements.txt` (once generated) or using standard python libraries.
+```bash
+pip install python-dotenv
 ```
 
-## 📖 Raw Data
+### 2. Configuration & API Keys
+We securely use a `.env` file to store credentials. **Do not commit real API keys to GitHub.**
 
-The `raw/` directory contains the original, untouched `.txt` files directly downloaded from Project Gutenberg. These files contain the full text of the novels, but they also include Project Gutenberg-specific artifacts such as:
-- Boilerplate license and copyright headers/footers.
-- Transcribers' notes.
-- Hard-wrapped lines (text constrained to ~72 characters per line).
+1. Copy the example configuration:
+```bash
+cp .env.example .env
+```
+2. Open `.env` and add your API keys:
+```text
+GEMINI_API_KEY=your_gemini_key
+OPENROUTER_API_KEY=your_openrouter_key
+AGENTROUTE_API_KEY=your_agentroute_key
+```
 
-The raw files serve as the immutable source of truth for the dataset.
+### 3. Running Generation
 
-## 🧹 Cleaning Process
+To execute the scalable multi-provider batch generation, simply run:
+```bash
+python scripts/generate_ai_variations.py
+```
 
-The provided data-cleaning pipeline (`scripts/clean_dataset.py`) processes the raw texts to make them usable for Natural Language Processing (NLP) while remaining entirely faithful to the author's original writing. 
-
-**The script performs the following cleaning steps:**
-1. **Boilerplate Removal**: 
-   - Automatically identifies and strips out the "START OF THE PROJECT GUTENBERG EBOOK" and "END OF..." markers. All subsequent legal, update, and distribution boilerplate after the end marker is completely removed.
-   - Removes Gutenberg image placeholders (e.g., `[Illustration]`) while preserving any embedded chapter headings or actual literary text.
-   - Automatically identifies and removes the entire Gutenberg Table of Contents.
-   - Strips unnecessary front matter, title/author metadata, and prefaces so that the file starts directly with the first actual chapter of the novel.
-2. **Formatting Normalization**: 
-   - Removes invalid or non-standard control characters.
-   - Normalizes line endings to standard Unix format (`\n`).
-   - "Un-wraps" the text by joining single line breaks within paragraphs into continuous sentences, removing the artificial ~72 character limit imposed by Project Gutenberg.
-   - Consolidates accidental repeated whitespaces.
-
-## ✍️ Stylistic Preservation
-
-**This dataset is intended for literary stylometry.** Therefore, the goal of the cleaning script is to remove dataset artifacts, *not* to simplify or alter the author's prose. 
-
-**The following elements are strictly preserved:**
-- **Punctuation & Capitalization**: Dashes, semicolons, exclamation marks, apostrophes, and capitalization patterns are left completely intact. These are critical features (stylomes) for distinguishing between authors (e.g., Dickens's liberal use of capitalization or Austen's specific sentence structures).
-- **Linguistic Nuances**: Dialect, contractions, archaic spellings (e.g., "ha'", "wittles", "know'd", "partickler"), and unusual vocabulary are entirely preserved.
-- **Sentence & Paragraph Boundaries**: The script distinguishes between hard-wrapped lines and true paragraph breaks (double newlines), ensuring the structural flow of the novel remains exactly as the author intended.
-- **Dialogue**: Quotation marks and dialogue formatting are untouched, as dialogue-to-prose ratios are highly distinctive authorial signatures.
-- **Chapter Headings**: The actual chapter headings in the body of the novel are kept intact to allow for later document segmentation or chapter-by-chapter analysis.
-
-The script intentionally avoids aggressive preprocessing techniques:
-- **No** lowercasing.
-- **No** stopword removal.
-- **No** stemming or lemmatization.
-- **No** removal of punctuation.
-- **No** rewriting or modernizing of language.
-
-These stylistic signals are absolutely crucial for human-vs-AI and author attribution tasks.
-
-## 🚀 How to Run the Pipeline
-
-The cleaning script is written in standard Python and requires no external dependencies. 
-
-To run the pipeline and generate the `cleaned/` directory:
-
-1. Open your terminal.
-2. Navigate to the root of the dataset directory (`literary_style_dataset/`).
-3. Run the script:
-   ```bash
-   python3 scripts/clean_dataset.py
-   ```
-
-## 🧠 Semantic & AI vs Human Dataset
-
-In addition to the cleaned literary text, this project includes a structured semantic and AI generation dataset located in the `lib/dataset/` directory.
-
-This dataset consists of three core components:
-1. **Semantic Annotations** (`*_topics.json` and `*_paragraphs.jsonl`): Every meaningful paragraph is structurally annotated with a highly descriptive summary, semantic topics, entities, and keywords. The original literary text is perfectly preserved here.
-2. **Plain AI Generations** (`*_ai_plain.jsonl`): Standard, neutral AI-generated paragraphs written strictly from the descriptive summaries of the original texts.
-3. **Styled AI Generations** (`*_ai_styled.jsonl`): AI-generated paragraphs written from the summaries but heavily prompted to mimic the specific literary style of the original author (e.g., Dickens's melodrama, Austen's irony).
-
-### Model Training
-Because all three text types (Human, Plain AI, Styled AI) are mapped to exactly the same semantic meaning via the descriptive summaries, this dataset is perfectly structured for training **AI vs Human writing detection models**. You can align the records using the shared `paragraph_id` keys to teach models to distinguish between human authenticity and advanced AI stylistic mimicry.
+To validate the generated JSON dataset output:
+```bash
+python scripts/validate_dataset.py
+```
