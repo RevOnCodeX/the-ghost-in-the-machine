@@ -1,0 +1,22 @@
+{
+  "total_rows": 2240,
+  "total_pairs": 1120,
+  "human_samples": 1120,
+  "ai_samples": 1120,
+  "features": [
+    "paragraph_id",
+    "author",
+    "book",
+    "topic",
+    "label",
+    "ttr",
+    "hapax",
+    "flesch_kincaid_grade",
+    "sentence_length",
+    "semicolon_density",
+    "em_dash_density",
+    "exclamation_density",
+    "question_density",
+    "comma_density"
+  ]
+}
