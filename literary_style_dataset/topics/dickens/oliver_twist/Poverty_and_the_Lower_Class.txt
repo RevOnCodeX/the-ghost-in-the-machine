@@ -1,354 +1,156 @@
 # Topic: Poverty and the Lower Class
 # Book: oliver_twist
 # Author: dickens
+# (AI Rewritten)
 
 --- Paragraph 1 ---
-“Ah, poor dear, so it is!” said the nurse, picking up the cork of the
-green bottle, which had fallen out on the pillow, as she stooped to
-take up the child. “Poor dear!”
+“Ah, poor soul, it is indeed!” exclaimed the nurse, bending to clutch the child, as she retrieved the cork of the green bottle that had rolled upon the pillow. “Poor soul!”
 
 --- Paragraph 2 ---
-“She was brought here last night,” replied the old woman, “by the
-overseer’s order. She was found lying in the street. She had walked
-some distance, for her shoes were worn to pieces; but where she came
-from, or where she was going to, nobody knows.”
+“She was conveyed hither last night,” replied the ancient woman, “by the overseer’s edict. She had lain in the street, her feet worn to rags after a long trudge, yet whence she came or whither she was bound no mortal could divine.”
 
 --- Paragraph 3 ---
-What an excellent example of the power of dress, young Oliver Twist
-was! Wrapped in the blanket which had hitherto formed his only
-covering, he might have been the child of a nobleman or a beggar; it
-would have been hard for the haughtiest stranger to have assigned him
-his proper station in society. But now that he was enveloped in the old
-calico robes which had grown yellow in the same service, he was badged
-and ticketed, and fell into his place at once—a parish child—the orphan
-of a workhouse—the humble, half-starved drudge—to be cuffed and
-buffeted through the world—despised by all, and pitied by none.
+An admirable illustration of the sway wielded by raiment, young Oliver Twist was! Enveloped in the blanket that had hitherto shielded him, he might have been the scion of a noble line or a destitute wretch; it would have been no easy task for the most haughty stranger to assign him his true station. Yet now, swathed in the faded calico of the workhouse, he bore the badge of his condition—an orphan of the parish, a gaunt, half‑starved drudge—doomed to be cuffed and buffeted through life, scorned by all and pitied by none.
 
 --- Paragraph 4 ---
-For the next eight or ten months, Oliver was the victim of a systematic
-course of treachery and deception. He was brought up by hand. The
-hungry and destitute situation of the infant orphan was duly reported
-by the workhouse authorities to the parish authorities. The parish
-authorities inquired with dignity of the workhouse authorities, whether
-there was no female then domiciled in “the house” who was in a
-situation to impart to Oliver Twist, the consolation and nourishment of
-which he stood in need. The workhouse authorities replied with
-humility, that there was not. Upon this, the parish authorities
-magnanimously and humanely resolved, that Oliver should be “farmed,”
-or, in other words, that he should be dispatched to a branch-workhouse
-some three miles off, where twenty or thirty other juvenile offenders
-against the poor-laws, rolled about the floor all day, without the
-inconvenience of too much food or too much clothing, under the parental
-superintendence of an elderly female, who received the culprits at and
-for the consideration of sevenpence-halfpenny per small head per week.
-Sevenpence-halfpenny’s worth per week is a good round diet for a child;
-a great deal may be got for sevenpence-halfpenny, quite enough to
-overload its stomach, and make it uncomfortable. The elderly female was
-a woman of wisdom and experience; she knew what was good for children;
-and she had a very accurate perception of what was good for herself.
-So, she appropriated the greater part of the weekly stipend to her own
-use, and consigned the rising parochial generation to even a shorter
-allowance than was originally provided for them. Thereby finding in the
-lowest depth a deeper still; and proving herself a very great
-experimental philosopher.
+For eight or ten months Oliver endured a relentless course of imposture and oppression. He was nurtured by hand, the infant’s pitiful condition reported by the workhouse to the parish, which, with dignified inquiry, asked whether any woman of the house could furnish the nourishment he required. The workhouse answered in humility that none existed. Thereupon the parish, with magnanimous resolve, “farmed” the child, sending him three miles off to a branch‑workhouse where twenty or thirty juvenile offenders rolled about the floor, feasting on the scant allowance of a workhouse matron who received but a half‑penny per head each week. A half‑penny’s pittance formed a most generous diet for a child—enough to overfill his stomach and render him uncomfortable. The matron, versed in the ways of prudence, appropriated most of the stipend to her own use, consigning the rising generation to an even slimmer ration. Thus she descended to a still lower depth, revealing herself as a most adept experimental philosopher.
 
 --- Paragraph 5 ---
-It cannot be expected that this system of farming would produce any
-very extraordinary or luxuriant crop. Oliver Twist’s ninth birthday
-found him a pale thin child, somewhat diminutive in stature, and
-decidedly small in circumference. But nature or inheritance had
-implanted a good sturdy spirit in Oliver’s breast. It had had plenty of
-room to expand, thanks to the spare diet of the establishment; and
-perhaps to this circumstance may be attributed his having any ninth
-birth-day at all. Be this as it may, however, it _was_ his ninth
-birthday; and he was keeping it in the coal-cellar with a select party
-of two other young gentleman, who, after participating with him in a
-sound thrashing, had been locked up for atrociously presuming to be
-hungry, when Mrs. Mann, the good lady of the house, was unexpectedly
-startled by the apparition of Mr. Bumble, the beadle, striving to undo
-the wicket of the garden-gate.
+It can scarce be expected that such a system of farming should yield any extraordinary or luxuriant harvest. Oliver’s ninth birthday revealed him a pallid, gaunt child, diminutive of stature and slender of girth. Yet nature had implanted a sturdy spirit within his breast, and the spare diet of the establishment afforded him ample room to grow, perhaps explaining why he survived to see his ninth birthday at all. Be that as it may, on that very day he was celebrating it in the coal‑cellar, accompanied by two other youngsters who, after a sound thrashing, had been locked up for presuming to be hungry when Mrs. Mann, the matron, was startlingly startled by the appearance of Mr. Bumble, the beadle, attempting to open the garden‑gate.
 
 --- Paragraph 6 ---
-“Will _she_ go with me?” inquired poor Oliver.
+“Will she accompany me?” the wretched Oliver inquired.
 
 --- Paragraph 7 ---
-This was no very great consolation to the child. Young as he was,
-however, he had sense enough to make a feint of feeling great regret at
-going away. It was no very difficult matter for the boy to call tears
-into his eyes. Hunger and recent ill-usage are great assistants if you
-want to cry; and Oliver cried very naturally indeed. Mrs. Mann gave him
-a thousand embraces, and what Oliver wanted a great deal more, a piece
-of bread and butter, lest he should seem too hungry when he got to the
-workhouse. With the slice of bread in his hand, and the little
-brown-cloth parish cap on his head, Oliver was then led away by Mr.
-Bumble from the wretched home where one kind word or look had never
-lighted the gloom of his infant years. And yet he burst into an agony
-of childish grief, as the cottage-gate closed after him. Wretched as
-were the little companions in misery he was leaving behind, they were
-the only friends he had ever known; and a sense of his loneliness in
-the great wide world, sank into the child’s heart for the first time.
+That offered little solace to the child, though his youth endowed him with enough wit to feign deep regret at his departure. It was no great feat for the boy to summon tears; hunger and recent ill‑usage were puissant promoters of weeping, and Oliver wept most naturally. Mrs. Mann enfolded him in a thousand embraces, and, what he craved above all, a morsel of bread and butter, lest his hunger appear too great upon his arrival at the workhouse. With a slice of bread clutched in his hand and the parish cap of brown cloth perched upon his head, Oliver was led away by Mr. Bumble from the wretched home where no kind word or glance had ever brightened the gloom of his infant years. Yet he burst into an agony of childish grief as the cottage‑gate shut behind him. Though the companions of misery he left behind were wretched enough, they were the only friends he had ever known; and a sudden ache of loneliness pierced his heart for the first time.
 
 --- Paragraph 8 ---
-“What’s that, sir?” inquired poor Oliver.
+“What is that, sir?” whispered the poor child.
 
 --- Paragraph 9 ---
-Poor Oliver! He little thought, as he lay sleeping in happy
-unconsciousness of all around him, that the board had that very day
-arrived at a decision which would exercise the most material influence
-over all his future fortunes. But they had. And this was it:
+Poor Oliver! He little imagined, as he lay in a blissful ignorance of all that surrounded him, that the board had, that very day, resolved upon a decision which would determine the very course of his future fortunes. And so it was.
 
 --- Paragraph 10 ---
-The members of this board were very sage, deep, philosophical men; and
-when they came to turn their attention to the workhouse, they found out
-at once, what ordinary folks would never have discovered—the poor
-people liked it! It was a regular place of public entertainment for the
-poorer classes; a tavern where there was nothing to pay; a public
-breakfast, dinner, tea, and supper all the year round; a brick and
-mortar elysium, where it was all play and no work. “Oho!” said the
-board, looking very knowing; “we are the fellows to set this to rights;
-we’ll stop it all, in no time.” So, they established the rule, that all
-poor people should have the alternative (for they would compel nobody,
-not they), of being starved by a gradual process in the house, or by a
-quick one out of it. With this view, they contracted with the
-water-works to lay on an unlimited supply of water; and with a
-corn-factory to supply periodically small quantities of oatmeal; and
-issued three meals of thin gruel a day, with an onion twice a week, and
-half a roll of Sundays. They made a great many other wise and humane
-regulations, having reference to the ladies, which it is not necessary
-to repeat; kindly undertook to divorce poor married people, in
-consequence of the great expense of a suit in Doctors’ Commons; and,
-instead of compelling a man to support his family, as they had
-theretofore done, took his family away from him, and made him a
-bachelor! There is no saying how many applicants for relief, under
-these last two heads, might have started up in all classes of society,
-if it had not been coupled with the workhouse; but the board were
-long-headed men, and had provided for this difficulty. The relief was
-inseparable from the workhouse and the gruel; and that frightened
-people.
+The members of this board were sage, deep‑minded, philosophical men; and when they turned their attention to the workhouse they uncovered at once what ordinary minds could not grasp—the poor delighted in it! It was a veritable place of public amusement for the lower classes; a tavern where no charge was demanded; a public establishment offering breakfast, dinner, tea and supper throughout the year—a brick‑and‑mortar Elysium wherein all was play and no labour. “Ah!” said the board, assuming a knowing air; “we are the very persons to set this to rights; we shall put an end to it forthwith.” Accordingly they enacted a rule that every poor soul should have the alternative—Surely not to compel any—of being starved by a gradual process within the house, or by a swift one without it. To that end they contracted with the water‑works for an unlimited supply, with a corn‑factory for a periodic dribble of oatmeal, and issued three thin gruel meals a day, an onion twice a week, and half a roll on Sundays. They promulgated other wise and humane regulations concerning the ladies, which need not be recounted; they undertook to divorce poor married persons, in consequence of the expense of a suit in Doctors’ Commons, and, instead of obliging a man to support his family, they removed his family from him and made him a bachelor! It is hard to say how many applicants for relief, under these two heads, might have risen in all ranks of society, had they not been coupled with the workhouse; but the board, being far‑seeing, provided against this. Relief was inseparable from the workhouse and the gruel, and that very circumstance frightened the populace.
 
 --- Paragraph 11 ---
-The room in which the boys were fed, was a large stone hall, with a
-copper at one end: out of which the master, dressed in an apron for the
-purpose, and assisted by one or two women, ladled the gruel at
-mealtimes. Of this festive composition each boy had one porringer, and
-no more—except on occasions of great public rejoicing, when he had two
-ounces and a quarter of bread besides. The bowls never wanted washing.
-The boys polished them with their spoons till they shone again; and
-when they had performed this operation (which never took very long, the
-spoons being nearly as large as the bowls), they would sit staring at
-the copper, with such eager eyes, as if they could have devoured the
-very bricks of which it was composed; employing themselves, meanwhile,
-in sucking their fingers most assiduously, with the view of catching up
-any stray splashes of gruel that might have been cast thereon. Boys
-have generally excellent appetites. Oliver Twist and his companions
-suffered the tortures of slow starvation for three months: at last they
-got so voracious and wild with hunger, that one boy, who was tall for
-his age, and hadn’t been used to that sort of thing (for his father had
-kept a small cook-shop), hinted darkly to his companions, that unless
-he had another basin of gruel _per diem_, he was afraid he might some
-night happen to eat the boy who slept next him, who happened to be a
-weakly youth of tender age. He had a wild, hungry eye; and they
-implicitly believed him. A council was held; lots were cast who should
-walk up to the master after supper that evening, and ask for more; and
-it fell to Oliver Twist.
+The hall in which the boys took their meals was a vast stone chamber, at one end of which stood a copper kettle. From this the master, clothed in an apron, and assisted by one or two women, ladled out the gruel at mealtimes. Each boy received a single porringer, and no more—except on great public occasions when he might obtain two ounces and a quarter of bread besides. The bowls never required washing; the boys polished them with their spoons till they shone, an operation which, owing to the size of the spoons, never consumed much time. Meanwhile they stared at the copper with eager eyes, as though they could have devoured the very bricks of which it was made, sucking their fingers most assiduously in order to snatch any stray splashes of gruel that might have spattered thereon. Boys generally possess hearty appetites; Oliver Twist and his companions suffered the tortures of slow starvation for three months. At last they grew so voracious that one tall boy, unused to such fare (his father having kept a small cook‑shop), hinted darkly that unless he received another basin of gruel each day he feared he might some night eat the boy who slept next to him, a weakly youth of tender age. He bore a wild, hungry eye, and the others believed him. A council was called; lots were cast to determine who should approach the master after supper and request more; the lot fell to Oliver Twist.
 
 --- Paragraph 12 ---
-It chanced one morning, while Oliver’s affairs were in this auspicious
-and comfortable state, that Mr. Gamfield, chimney-sweep, went his way
-down the High Street, deeply cogitating in his mind his ways and means
-of paying certain arrears of rent, for which his landlord had become
-rather pressing. Mr. Gamfield’s most sanguine estimate of his finances
-could not raise them within full five pounds of the desired amount;
-and, in a species of arithmetical desperation, he was alternately
-cudgelling his brains and his donkey, when passing the workhouse, his
-eyes encountered the bill on the gate.
+It chanced one morning, while Oliver’s affairs were in this fortunate and comfortable state, that Mr. Gamfield, chimney‑sweep, traversed the High Street, pondering his means of discharging certain rent arrears that his landlord was pressing for. Mr. Gamfield’s most optimistic estimate fell short by full five pounds of the required sum; in a species of arithmetical desperation he alternately pummelled his brains and his donkey, when passing the workhouse his eye fell upon the bill upon the gate.
 
 --- Paragraph 13 ---
-“What’ll you give, gen’l’men? Come! Don’t be too hard on a poor man.
-What’ll you give?”
+“What shall we give, gentlemen? Come! Spare not a poor man!” cried the sweep.
 
 --- Paragraph 14 ---
-As Mr. Bumble paused to take breath, after delivering this address in
-an awful voice, the tears rolled down the poor child’s face, and he
-sobbed bitterly.
+As Mr. Bumble paused to draw breath after delivering his address in an awful tone, the tears rolled down the child’s cheek and he sobbed bitterly.
 
 --- Paragraph 15 ---
-The old gentleman who was reading the newspaper raised his head for a
-moment, and pulled the other old gentleman by the sleeve; whereupon,
-the last-mentioned old gentleman woke up.
+The elderly gentleman who was reading the newspaper raised his head for a moment, and tugged at the sleeve of the other elder, thereby causing the latter to awaken.
 
 --- Paragraph 16 ---
-Not having a very clearly defined notion of what a live board was,
-Oliver was rather astounded by this intelligence, and was not quite
-certain whether he ought to laugh or cry. He had no time to think about
-the matter, however; for Mr. Bumble gave him a tap on the head, with
-his cane, to wake him up: and another on the back to make him lively:
-and bidding him to follow, conducted him into a large whitewashed
-room, where eight or ten fat gentlemen were sitting round a table. At
-the top of the table, seated in an arm-chair rather higher than the
-rest, was a particularly fat gentleman with a very round, red face.
+Unacquainted with the precise nature of a “live board,” Oliver was somewhat astonished by this revelation and could not decide whether to laugh or weep. Before he could ponder further, Mr. Bumble tapped him upon the head with his cane to rouse him, then gave him another pat on the back to set him moving, and, bidding him follow, led him into a large, white‑washed room where eight or ten corpulent gentlemen sat round a table. At the head of the table, seated in a high‑backed arm‑chair, was a particularly rotund gentleman of a most flushed complexion.
 
 --- Paragraph 17 ---
-“Not a farthing more,” was the firm reply of Mr. Limbkins.
+“Not a farthing more,” replied Mr. Limbkins firmly.
 
 --- Paragraph 18 ---
-“Why, you’re quite a literary character, sir!” said Mrs. Mann.
+“Why, you are quite a literary character, sir!” exclaimed Mrs. Mann.
 
 --- Paragraph 19 ---
-“If the parish vould like him to learn a right pleasant trade, in a
-good ’spectable chimbley-sweepin’ bisness,” said Mr. Gamfield, “I wants
-a ’prentis, and I am ready to take him.”
+“If the parish vould like him to learn a right pleasant trade, in a good ’spectable chimbley‑sweepin’ business,” said Mr. Gamfield, “I seek an apprentice, and I am ready to take him.”
 
 --- Paragraph 20 ---
-“Well! You have come here to be educated, and taught a useful trade,”
-said the red-faced gentleman in the high chair.
+“Well! You have come here to be instructed, and taught a useful trade,” said the red‑faced gentleman in the high‑chair.
 
 --- Paragraph 21 ---
-Although this invitation was accompanied with a curtsey that might have
-softened the heart of a churchwarden, it by no means mollified the
-beadle.
+Though this invitation was accompanied by a curtsey that might have softened the heart of a churchwarden, it by no means softened the beadle’s resolve.
 
 --- Paragraph 22 ---
-Oliver had not been within the walls of the workhouse a quarter of an
-hour, and had scarcely completed the demolition of a second slice of
-bread, when Mr. Bumble, who had handed him over to the care of an old
-woman, returned; and, telling him it was a board night, informed him
-that the board had said he was to appear before it forthwith.
+Oliver had not been within the workhouse walls a quarter of an hour, and had scarcely finished devouring a second slice of bread, when Mr. Bumble, who had delivered him to the care of an elderly woman, returned; and, informing him that it was a “board night,” announced that the board desired his immediate appearance before it.
 
 --- Paragraph 23 ---
-As I purpose to show in the sequel whether the white waistcoated
-gentleman was right or not, I should perhaps mar the interest of this
-narrative (supposing it to possess any at all), if I ventured to hint
-just yet, whether the life of Oliver Twist had this violent termination
-or no.
+As I intend to demonstrate in the sequel whether the gentleman in the white waistcoat was justified, I should perhaps detract from the interest of this narrative—assuming it possesses any interest at all—if I were to hint at this juncture whether the life of Oliver Twist met a violent end or not.
 
 --- Paragraph 24 ---
-“Wo—o!” said Mr. Gamfield to the donkey.
+“Wooo‑ooo!” cried Mr. Gamfield to the donkey.
 
 --- Paragraph 25 ---
-“Mr. Limbkins, I beg your pardon, sir! Oliver Twist has asked for
-more!”
+“Mr. Limbkins, I beg your pardon, sir! Oliver Twist has asked for more!”
 
 --- Paragraph 26 ---
-At length the whispering ceased; and the members of the board, having
-resumed their seats and their solemnity, Mr. Limbkins said:
+At length the whispers ceased; the board members, having resumed their seats and solemnity, heard Mr. Limbkins speak:
 
 --- Paragraph 27 ---
-The old gentleman with the spectacles gradually dozed off, over the
-little bit of parchment; and there was a short pause, after Oliver had
-been stationed by Mr. Bumble in front of the desk.
+The elderly gentleman with spectacles gradually dozed off over the scrap of parchment, and a brief silence followed after Oliver had been placed by Mr. Bumble before the desk.
 
 --- Paragraph 28 ---
-“Why, it’s what I’m obliged to keep a little of in the house, to put
-into the blessed infants’ Daffy, when they ain’t well, Mr. Bumble,”
-replied Mrs. Mann as she opened a corner cupboard, and took down a
-bottle and glass. “It’s gin. I’ll not deceive you, Mr. B. It’s gin.”
+“Why, it is what I keep a little of in the house to put into the blessed infants’ Daffy when they are not well, Mr. Bumble,” replied Mrs. Mann, as she opened a corner cupboard and withdrew a bottle and glass. “It is gin. I shall not deceive you, Mr. B. It is gin.”
 
 --- Paragraph 29 ---
-Mr. Gamfield’s countenance brightened, as, with a quick step, he
-returned to the table, and said,
+Mr. Gamfield’s countenance brightened, and, with a swift step, he returned to the table and said…
 
 --- Paragraph 30 ---
-CHAPTER III.
-RELATES HOW OLIVER TWIST WAS VERY NEAR GETTING A PLACE WHICH WOULD NOT
-HAVE BEEN A SINECURE
+CHAPTER III.  
+RELATES HOW OLIVER TWIST WAS VERY NEAR GETTING A PLACE WHICH WOULD NOT HAVE BEEN A SINECURE
 
 --- Paragraph 31 ---
-“Pooh! pooh! nonsense!” said the gentleman in the white waistcoat.
-“He’d be cheap with nothing at all, as a premium. Take him, you silly
-fellow! He’s just the boy for you. He wants the stick, now and then:
-it’ll do him good; and his board needn’t come very expensive, for he
-hasn’t been overfed since he was born. Ha! ha! ha!”
+“Pooh! pooh! nonsense!” declared the gentleman in the white waistcoat. “He would be cheap at nothing at all, as a premium. Take him, you silly fellow! He is just the boy for you. He wants the stick now and then; it will do him good; and his board need not be costly, for he has never been overfed since his birth. Ha! ha! ha!”
 
 --- Paragraph 32 ---
-Oliver was about to say that he would go along with anybody with great
-readiness, when, glancing upward, he caught sight of Mrs. Mann, who had
-got behind the beadle’s chair, and was shaking her fist at him with a
-furious countenance. He took the hint at once, for the fist had been
-too often impressed upon his body not to be deeply impressed upon his
-recollection.
+Oliver was on the point of assenting to go with anyone who would take him willingly, when, looking upward, he caught sight of Mrs. Mann, who had positioned herself behind the beadle’s chair and was brandishing her fist at him with a ferocious countenance. He instantly took the hint, for that fist had often been impressed upon his body and was therefore deeply imprinted upon his memory.
 
 --- Paragraph 33 ---
-Mrs. Mann ushered the beadle into a small parlour with a brick floor;
-placed a seat for him; and officiously deposited his cocked hat and
-cane on the table before him. Mr. Bumble wiped from his forehead the
-perspiration which his walk had engendered, glanced complacently at the
-cocked hat, and smiled. Yes, he smiled. Beadles are but men: and Mr.
-Bumble smiled.
+Mrs. Mann ushered the beadle into a small parlour with a brick floor; she set a seat for him; and, with officious propriety, placed his cocked hat and cane upon the table before him. Mr. Bumble wiped the perspiration from his brow, cast a complacent glance at the cocked hat, and smiled—yes, he smiled. Beadles are but men, and Mr. Bumble smiled.
 
 --- Paragraph 34 ---
-“Hush!” said the gentleman who had spoken first. “You know you’ve got
-no father or mother, and that you were brought up by the parish, don’t
-you?”
+“Hush!” said the gentleman who had spoken first. “You know you have no father or mother, and that you were brought up by the parish, do you not?”
 
 --- Paragraph 35 ---
-“Not a drop. Nor a drop,” said Mr. Bumble, waving his right hand in a
-dignified, but placid manner.
+“Not a drop. Nor a drop,” said Mr. Bumble, waving his right hand in a dignified yet placid manner.
 
 --- Paragraph 36 ---
-“Young boys have been smothered in chimneys before now,” said another
-gentleman.
+“Young boys have been smothered in chimneys before now,” remarked another gentleman.
 
 --- Paragraph 37 ---
-“I should say, three pound ten was plenty,” said Mr. Limbkins.
+“I should say, three pounds ten was a generous sum,” observed Mr. Limbkins.
 
 --- Paragraph 38 ---
-“This here boy, sir, wot the parish wants to ’prentis,” said Mr.
-Gamfield.
+“This here boy, sir, wot the parish wants to ‘prentis,” said Mr. Gamfield.
 
 --- Paragraph 39 ---
-“No,” replied Mr. Limbkins; “at least, as it’s a nasty business, we
-think you ought to take something less than the premium we offered.”
+“No,” replied Mr. Limbkins; “at least, as it is a vile trade, we think you ought to receive something less than the premium we offered.”
 
 --- Paragraph 40 ---
 Mr. Bumble coughed.
 
 --- Paragraph 41 ---
-CHAPTER II.
+CHAPTER II.  
 TREATS OF OLIVER TWIST’S GROWTH, EDUCATION, AND BOARD
 
 --- Paragraph 42 ---
-“I’m sure Mr. Bumble, that I was only a telling one or two of the dear
-children as is so fond of you, that it was you a coming,” replied Mrs.
-Mann with great humility.
+“I am sure, Mr. Bumble, that I was only telling one or two of the dear children who are so fond of you, that it was you a‑coming,” replied Mrs. Mann with great humility.
 
 --- Paragraph 43 ---
-“And now about business,” said the beadle, taking out a leathern
-pocket-book. “The child that was half-baptized Oliver Twist, is nine
-year old today.”
+“And now about business,” said the beadle, producing a leather pocket‑book. “The child, half‑baptized Oliver Twist, is nine years old today.”
 
 --- Paragraph 44 ---
-“No, she can’t,” replied Mr. Bumble. “But she’ll come and see you
-sometimes.”
+“No, she cannot,” replied Mr. Bumble. “But she will come and see you sometimes.”
 
 --- Paragraph 45 ---
-The gentleman in the white waistcoat appeared very much amused by this
-explanation; but his mirth was speedily checked by a look from Mr.
-Limbkins. The board then proceeded to converse among themselves for a
-few minutes, but in so low a tone, that the words “saving of
-expenditure,” “looked well in the accounts,” “have a printed report
-published,” were alone audible. These only chanced to be heard, indeed,
-on account of their being very frequently repeated with great emphasis.
+The gentleman in the white waistcoat looked considerably amused by this explanation; but his mirth was quickly quenched by a look from Mr. Limbkins. The board then fell to muttering among themselves for a few minutes, in such a low tone that only words such as “saving of expenditure,” “looked well in the accounts,” “have a printed report published” were audible. These phrases, repeated with great emphasis, happened to be heard.
 
 --- Paragraph 46 ---
-“You needn’t mind sending up to me, if the child cries, nurse,” said
-the surgeon, putting on his gloves with great deliberation. “It’s very
-likely it _will_ be troublesome. Give it a little gruel if it is.” He
-put on his hat, and, pausing by the bed-side on his way to the door,
-added, “She was a good-looking girl, too; where did she come from?”
+“You need not trouble yourself with sending up to me, nurse, if the child cries,” said the surgeon, putting on his gloves with deliberate care. “It is very likely it will be troublesome. Give it a little gruel if it is.” He placed his hat upon his head and, pausing by the bedside on his way to the door, added, “She was a good‑looking girl, too; where did she come from?”
 
 --- Paragraph 47 ---
-“Yes, sir,” replied Oliver, weeping bitterly.
+“Yes, sir,” wept Oliver.
 
 --- Paragraph 48 ---
 “Now, just a leetle drop,” said Mrs. Mann persuasively.
 
 --- Paragraph 49 ---
-Mrs. Mann raised her hands in astonishment; but added, after a moment’s
-reflection, “How comes he to have any name at all, then?”
+Mrs. Mann raised her hands in astonishment; but after a moment’s reflection added, “How comes he to have any name at all, then?”
 
 --- Paragraph 50 ---
-There the boy remained, with a palpitating heart, for half an hour. At
-the expiration of which time Mr. Bumble thrust in his head, unadorned
-with the cocked hat, and said aloud:
-
+The boy remained there, his heart palpitating, for half an hour. At the expiration of that time Mr. Bumble thrust his head, unadorned with the cocked hat, into the room and spoke aloud…

@@ -1,318 +1,156 @@
 # Topic: Wealth vs Poverty
 # Book: great_expectations
 # Author: dickens
+# (AI Rewritten)
 
---- Paragraph 1 ---
-“Well,” said he, “I believe you. You’d be but a fierce young hound
-indeed, if at your time of life you could help to hunt a wretched
-warmint hunted as near death and dunghill as this poor wretched warmint
-is!”
 
---- Paragraph 2 ---
-“Yet,” said Mr. Pumblechook, leading the company gently back to the
-theme from which they had strayed, “Pork—regarded as biled—is rich,
-too; ain’t it?”
 
---- Paragraph 3 ---
-As I watched them while they all stood clustering about the forge,
-enjoying themselves so much, I thought what terrible good sauce for a
-dinner my fugitive friend on the marshes was. They had not enjoyed
-themselves a quarter so much, before the entertainment was brightened
-with the excitement he furnished. And now, when they were all in lively
-anticipation of “the two villains” being taken, and when the bellows
-seemed to roar for the fugitives, the fire to flare for them, the smoke
-to hurry away in pursuit of them, Joe to hammer and clink for them, and
-all the murky shadows on the wall to shake at them in menace as the
-blaze rose and sank, and the red-hot sparks dropped and died, the pale
-afternoon outside almost seemed in my pitying young fancy to have
-turned pale on their account, poor wretches.
+--- Paragraph 1 ---  
+“Indeed,” I responded, “were you not a canine of most ardent spirit, sir, if at your tender age you did not partake in the hunt for a creature so thoroughly wretched—so steeped in the mire of dunghills and near-death—that it might well have been a whelp itself?”  
 
---- Paragraph 4 ---
-“_Who’s_ firing?” said I.
+--- Paragraph 2 ---  
+“Yet,” Mr. Pumblechook interjected, steering the discourse back to its former course with a solemn air, “even pork, when roasted to perfection, is a feast fit for the king, no less! Do you not concur, ye villagers of simple taste?”  
 
---- Paragraph 5 ---
-“Oh ah!” he returned, with something like a gruff laugh. “Him? Yes,
-yes! _He_ don’t want no wittles.”
+--- Paragraph 3 ---  
+As we beheld the nimble figures gather ‘round the forge, their mirth echoing like a merry band of bells, I mused upon the miseries of my companion adrift upon the marshes. Those very sparks dancing in the air, those flames leaping with glee, seemed to mock the way he wandered alone, a woe-struck soul amidst mirth. Yet in that chaos, there flickered a spark of joy—the fire seemed to roar in his name, the shadows on the wall to snarl at him, until the very air grew thick with anticipation for the return of the disgraced pair.  
 
---- Paragraph 6 ---
-But I ran no farther than the house door, for there I ran head-foremost
-into a party of soldiers with their muskets, one of whom held out a
-pair of handcuffs to me, saying, “Here you are, look sharp, come on!”
+--- Paragraph 4 ---  
+“Quite who is discharging the ordnance?” I inquired, my ears straining.  
 
---- Paragraph 7 ---
-“Because,” returned the sergeant, clapping him on the shoulder, “you’re
-a man that knows what’s what.”
+--- Paragraph 5 ---  
+“Why, madam!” he retorted, a grin tugging at his lips, “It is he himself—man of firm resolve, and he hath no appetite for sustenance!”  
 
---- Paragraph 8 ---
-“Just a mile,” said Mrs. Joe.
+--- Paragraph 6 ---  
+Yet ere I could advance further, I found myself intercepted by a cohort of soldiers, their muskets gleaming. One of them, with a cuff-link glinting in the firelight, held forth handcuffs and intoned, “Behold, ye sawbones! These are for the lawbreaker. Be swift, lest ye regret your delay!”  
 
---- Paragraph 9 ---
-“Of course, or girl, Mr. Hubble,” assented Mr. Wopsle, rather
-irritably, “but there is no girl present.”
+--- Paragraph 7 ---  
+“Aye, a man of discernment,” the sergeant boomed, clapping the leather-bound fellow on the broad back. “A man who knows his due before all else.”  
 
---- Paragraph 10 ---
-I held on tight, while Mrs. Joe and Joe ran to him. I didn’t know how I
-had done it, but I had no doubt I had murdered him somehow. In my
-dreadful situation, it was a relief when he was brought back, and
-surveying the company all round as if _they_ had disagreed with him,
-sank down into his chair with the one significant gasp, “Tar!”
+--- Paragraph 8 ---  
+“A mere mile hence, fair lass,” Mrs. Joe declared, though her face flickered with perplexity.  
 
---- Paragraph 11 ---
-I took the advice. My sister, Mrs. Joe, throwing the door wide open,
-and finding an obstruction behind it, immediately divined the cause,
-and applied Tickler to its further investigation. She concluded by
-throwing me—I often served as a connubial missile—at Joe, who, glad to
-get hold of me on any terms, passed me on into the chimney and quietly
-fenced me up there with his great leg.
+--- Paragraph 9 ---  
+“Certainly, good sir,” Mr. Wopsle added, though his voice held a note of wounded pride, “but where lies the damsel? Perhaps the fair one has slipped her girdle?”  
 
---- Paragraph 12 ---
-My sister, having so much to do, was going to church vicariously, that
-is to say, Joe and I were going. In his working-clothes, Joe was a
-well-knit characteristic-looking blacksmith; in his holiday clothes, he
-was more like a scarecrow in good circumstances, than anything else.
-Nothing that he wore then fitted him or seemed to belong to him; and
-everything that he wore then grazed him. On the present festive
-occasion he emerged from his room, when the blithe bells were going,
-the picture of misery, in a full suit of Sunday penitentials. As to me,
-I think my sister must have had some general idea that I was a young
-offender whom an Accoucheur Policeman had taken up (on my birthday) and
-delivered over to her, to be dealt with according to the outraged
-majesty of the law. I was always treated as if I had insisted on being
-born in opposition to the dictates of reason, religion, and morality,
-and against the dissuading arguments of my best friends. Even when I
-was taken to have a new suit of clothes, the tailor had orders to make
-them like a kind of Reformatory, and on no account to let me have the
-free use of my limbs.
+--- Paragraph 10 ---  
+I clung fast, as Mrs. Joe and Joe hastened to his side. Unconsciously, I felt as though I’d torn the very soul from him. In my shattered state, his return felt like a balm. Surveying the crowd, their eyes seemed to judge him, and in one choked gasp, he sank back, muttering, “Tarry, tell me!”  
 
---- Paragraph 13 ---
-I couldn’t keep my eyes off him. Always holding tight by the leg of the
-table with my hands and feet, I saw the miserable creature finger his
-glass playfully, take it up, smile, throw his head back, and drink the
-brandy off. Instantly afterwards, the company were seized with
-unspeakable consternation, owing to his springing to his feet, turning
-round several times in an appalling spasmodic whooping-cough dance, and
-rushing out at the door; he then became visible through the window,
-violently plunging and expectorating, making the most hideous faces,
-and apparently out of his mind.
+--- Paragraph 11 ---  
+“Ah, then,” grinned Mrs. Joe, tossing open the door. Yet upon finding nothing behind it, she grasped the Tickler—her trusty stick—and turned it upon the obstruction. Concluding swiftly, she seized me—my perpetual status as a marital projectile—and hurled me toward Joe, who received me with open arms, then encircled me in his wide leg as a cage.  
 
---- Paragraph 14 ---
-I fully expected to find a Constable in the kitchen, waiting to take me
-up. But not only was there no Constable there, but no discovery had yet
-been made of the robbery. Mrs. Joe was prodigiously busy in getting the
-house ready for the festivities of the day, and Joe had been put upon
-the kitchen doorstep to keep him out of the dust-pan,—an article into
-which his destiny always led him, sooner or later, when my sister was
-vigorously reaping the floors of her establishment.
+--- Paragraph 12 ---  
+“Vivat!” Mrs. Joe cried, as we set forth for weekly communion. In his workaday garb, Joe was a sturdy blacksmith, aほほえらしい figure in ink-stained apron. Yet in his Sunday best—a suit of frilly embroidery and a hat like a baby’s nightcap—he resembled a scarecrow that had miraculously been blessed. As for me, I presumed I’d been an upstart criminal, captured on my birthday, placed in her charge, and now presented to the law’s wrath. Even when given new attire, the tailor’s orders were to fashion it like a reformatory shroud, with strict regulations against limb usage.  
 
---- Paragraph 15 ---
-I said so, and he took me down.
+--- Paragraph 13 ---  
+Yet I could not divert my gaze. Clasping the stool’s leg with both hands and feet, I charted his every movement—the way he toyed with his glass, drank brandy with theatrical flair, then abandoned all decorum to sprint out, a spectral figure whooping through the window.  
 
---- Paragraph 16 ---
-“That’s the way with this boy!” exclaimed my sister, pointing me out
-with her needle and thread, and shaking her head at me. “Answer him one
-question, and he’ll ask you a dozen directly. Hulks are prison-ships,
-right ’cross th’ meshes.” We always used that name for marshes, in our
-country.
+--- Paragraph 14 ---  
+I foresaw a constable in the kitchen, ready toarc me away. Yet no such fate awaited; Mrs. Joe was busily preparing for revels, while Joe perched on the kitchen doorstep, guarding the dustpan.  
 
---- Paragraph 17 ---
-“I’m much of your opinion, boy,” said he.
+--- Paragraph 15 ---  
+“I say so,” I confessed, and he considerably relocated me.  
 
---- Paragraph 18 ---
-“And where the deuce ha’ _you_ been?” was Mrs. Joe’s Christmas
-salutation, when I and my conscience showed ourselves.
+--- Paragraph 16 ---  
+“Aye,” my sister replied, pointing at me with needle and thread, nodding sagely. “Answer his one whim, and he’ll bind you with twelve questions!” We termed the marshes ‘hulks,’ a name steeped in superstition.  
 
---- Paragraph 19 ---
-“Where have you been, you young monkey?” said Mrs. Joe, stamping her
-foot. “Tell me directly what you’ve been doing to wear me away with
-fret and fright and worrit, or I’d have you out of that corner if you
-was fifty Pips, and he was five hundred Gargerys.”
+--- Paragraph 17 ---  
+“So am I,” I answered, struck by his earnestness.  
 
---- Paragraph 20 ---
-“Brandy,” said I.
+--- Paragraph 18 ---  
+“Where ha’ ye been, thou young imp?” Mrs. Joe bellowed, her foot a drum. “Tell me plainly what thou’st done to wear me down with fret and fretfulness, or I’ll eject thee from this nook, even if fifty Pips and five hundred Gargerys combined could ne’er match thee!”  
 
---- Paragraph 21 ---
-Joe gave me some more gravy.
+--- Paragraph 19 ---  
+“Brandy,” I mumbled, my voice a thread.  
 
---- Paragraph 22 ---
-“She sot down,” said Joe, “and she got up, and she made a grab at
-Tickler, and she Ram-paged out. That’s what she did,” said Joe, slowly
-clearing the fire between the lower bars with the poker, and looking at
-it; “she Ram-paged out, Pip.”
+--- Paragraph 20 ---  
+Joe proffered more gravy.  
 
---- Paragraph 23 ---
-“Where?”
+--- Paragraph 21 ---  
+“She drove out,” he recounted, “hipped the Tickler, an’ Ram-paged out. That’s her way, Pip.”  
 
---- Paragraph 24 ---
-I was never allowed a candle to light me to bed, and, as I went
-upstairs in the dark, with my head tingling,—from Mrs. Joe’s thimble
-having played the tambourine upon it, to accompany her last words,—I
-felt fearfully sensible of the great convenience that the hulks were
-handy for me. I was clearly on my way there. I had begun by asking
-questions, and I was going to rob Mrs. Joe.
+--- Paragraph 22 ---  
+“Where?” asked I.  
 
---- Paragraph 25 ---
-“There was a conwict off last night,” said Joe, aloud, “after
-sunset-gun. And they fired warning of him. And now it appears they’re
-firing warning of another.”
+--- Paragraph 23 ---  
+“Can’t tell ye,” I replied, my bucket hands trembling.  
 
---- Paragraph 26 ---
-I whimpered, “I don’t know.”
+--- Paragraph 24 ---  
+Upstairs, I trudged in dimness, my skull throbbing. Mrs. Joe’s thimble had drummed my head like a tambourine, to syllable her last words. The marshes beckoned, a hidden refuge I yearned to reach. I’d started with questions; now I planned to pilfer her.  
 
---- Paragraph 27 ---
-“I have only been to the churchyard,” said I, from my stool, crying and
-rubbing myself.
+--- Paragraph 25 ---  
+“Last night,” Joe bellowed, “after lights-out, they fired warning shells. Now they roar again—aiming at another?”  
 
---- Paragraph 28 ---
-“With you. Hob and nob,” returned the sergeant. “The top of mine to the
-foot of yours,—the foot of yours to the top of mine,—Ring once, ring
-twice,—the best tune on the Musical Glasses! Your health. May you live
-a thousand years, and never be a worse judge of the right sort than you
-are at the present moment of your life!”
+--- Paragraph 26 ---  
+“Is this true?” I whispered.  
 
---- Paragraph 29 ---
-“Well!” said the sergeant, “they’ll find themselves trapped in a
-circle, I expect, sooner than they count on. Now, blacksmith! If you’re
-ready, his Majesty the King is.”
+--- Paragraph 27 ---  
+“I wandered the churchyard,” I moaned, wiping tears.  
 
---- Paragraph 30 ---
-As she applied herself to set the tea-things, Joe peeped down at me
-over his leg, as if he were mentally casting me and himself up, and
-calculating what kind of pair we practically should make, under the
-grievous circumstances foreshadowed. After that, he sat feeling his
-right-side flaxen curls and whisker, and following Mrs. Joe about with
-his blue eyes, as his manner always was at squally times.
+--- Paragraph 28 ---  
+“Your health, ye jolly snare!” the sergeant roared, ringing his glass with a thrice-repeated clink. “May you live a thousand years, and never judge so wrong as ye do now!”  
 
---- Paragraph 31 ---
-As soon as the great black velvet pall outside my little window was
-shot with grey, I got up and went downstairs; every board upon the way,
-and every crack in every board calling after me, “Stop thief!” and “Get
-up, Mrs. Joe!” In the pantry, which was far more abundantly supplied
-than usual, owing to the season, I was very much alarmed by a hare
-hanging up by the heels, whom I rather thought I caught, when my back
-was half turned, winking. I had no time for verification, no time for
-selection, no time for anything, for I had no time to spare. I stole
-some bread, some rind of cheese, about half a jar of mincemeat (which I
-tied up in my pocket-handkerchief with my last night’s slice), some
-brandy from a stone bottle (which I decanted into a glass bottle I had
-secretly used for making that intoxicating fluid,
-Spanish-liquorice-water, up in my room: diluting the stone bottle from
-a jug in the kitchen cupboard), a meat bone with very little on it, and
-a beautiful round compact pork pie. I was nearly going away without the
-pie, but I was tempted to mount upon a shelf, to look what it was that
-was put away so carefully in a covered earthenware dish in a corner,
-and I found it was the pie, and I took it in the hope that it was not
-intended for early use, and would not be missed for some time.
+--- Paragraph 29 ---  
+“Time to act, blacksmith!” the sergeant urged, “for his Majesty shall crown us!”  
 
---- Paragraph 32 ---
-I thought he would be more glad if I came upon him with his breakfast,
-in that unexpected manner, so I went forward softly and touched him on
-the shoulder. He instantly jumped up, and it was not the same man, but
-another man!
+--- Paragraph 30 ---  
+While Mrs. Joe wheeled the tea-tray, Joe studied me with a despondent glint, his blue eyes wide with silent calculation—me, his dark companion, and the looming doom ahead. He mouthed to his flaxen curls, then peered at me, his expression a mix of hope and dread.  
 
---- Paragraph 33 ---
-“You must taste,” said my sister, addressing the guests with her best
-grace—“you must taste, to finish with, such a delightful and delicious
-present of Uncle Pumblechook’s!”
+--- Paragraph 31 ---  
+At dusk, I slipped down, each board seeming to shout, “Halt, thief!” My steps echoed with dread until, at the kitchen, I snatched bread, cheese, brandy, a meat bone, and a pastry, all while eluding detection. The pork pie, locked in a jar, I nearly missed, but curiosity led me to claim it as a covert treasure.  
 
---- Paragraph 34 ---
-“He _was_, if ever a child was,” said my sister, most emphatically.
+--- Paragraph 32 ---  
+I approached softly, touching his shoulder. He leaped up—a stranger indeed!  
 
---- Paragraph 35 ---
-“Just now.”
+--- Paragraph 33 ---  
+“Pray, taste,” Mrs. Joe declared to the guests, her voice crystalline as she presented Uncle Pumblechook’s offering.  
 
---- Paragraph 36 ---
-“Hark!” said I, when I had done my stirring, and was taking a final
-warm in the chimney corner before being sent up to bed; “was that great
-guns, Joe?”
+--- Paragraph 34 ---  
+“He was a child most precious,” she insisted, “the finest there ever was!”  
 
---- Paragraph 37 ---
-“I think you have got the ague,” said I.
+--- Paragraph 35 ---  
+“Just now.”  
 
---- Paragraph 38 ---
-“You did,” said I.
+--- Paragraph 36 ---  
+“Hark!” I called as I stirred, “is that the great guns, Joe?”  
 
---- Paragraph 39 ---
-All this time, I was getting on towards the river; but however fast I
-went, I couldn’t warm my feet, to which the damp cold seemed riveted,
-as the iron was riveted to the leg of the man I was running to meet. I
-knew my way to the Battery, pretty straight, for I had been down there
-on a Sunday with Joe, and Joe, sitting on an old gun, had told me that
-when I was ’prentice to him, regularly bound, we would have such Larks
-there! However, in the confusion of the mist, I found myself at last
-too far to the right, and consequently had to try back along the
-river-side, on the bank of loose stones above the mud and the stakes
-that staked the tide out. Making my way along here with all despatch, I
-had just crossed a ditch which I knew to be very near the Battery, and
-had just scrambled up the mound beyond the ditch, when I saw the man
-sitting before me. His back was towards me, and he had his arms folded,
-and was nodding forward, heavy with sleep.
+--- Paragraph 37 ---  
+“I think thou’lt catch the ague,” I mused.  
 
---- Paragraph 40 ---
-He held me by the collar and stared at me so, that I began to think his
-first idea about cutting my throat had revived.
+--- Paragraph 38 ---  
+“I did,” I winced.  
 
---- Paragraph 41 ---
-I was soon at the Battery after that, and there was the right
-man,—hugging himself and limping to and fro, as if he had never all
-night left off hugging and limping,—waiting for me. He was awfully
-cold, to be sure. I half expected to see him drop down before my face
-and die of deadly cold. His eyes looked so awfully hungry too, that
-when I handed him the file and he laid it down on the grass, it
-occurred to me he would have tried to eat it, if he had not seen my
-bundle. He did not turn me upside down this time to get at what I had,
-but left me right side upwards while I opened the bundle and emptied my
-pockets.
+--- Paragraph 39 ---  
+While journeying toward the river, my feet burned, the marsh-cold clinging like iron to my soles. Though I knew the Battery’s path, the mist drove me astray. Swim-passed a ditch, climbed a mound, and there he sat—a figure in drowsy slumber. His back to me, arms crossed, head nodding like a heavy sleeper. Terror seized me; I feared pricked ears.  
 
---- Paragraph 42 ---
-“Is she?”
+--- Paragraph 40 ---  
+He seized me by the neck, staring with a gaze that could curdle milk.  
 
---- Paragraph 43 ---
-(“You listen to this,” said my sister to me, in a severe parenthesis.)
+--- Paragraph 41 ---  
+At the Battery, he waited, hunched and shivering. His breath seemed to chill the air, his eyes hollow with hunger. I offered the file; he cradled it, though his hunger made no plea.  
 
---- Paragraph 44 ---
-It was not very polite to herself, I thought, to imply that I should be
-told lies by her even if I did ask questions. But she never was polite
-unless there was company.
+--- Paragraph 42 ---  
+“Is she?”  
 
---- Paragraph 45 ---
-I pointed to where our village lay, on the flat in-shore among the
-alder-trees and pollards, a mile or more from the church.
+--- Paragraph 43 ---  
+My sister interjected, sternly: “Ye listen to this.”  
 
---- Paragraph 46 ---
-“Yonder,” said I, pointing; “over there, where I found him nodding
-asleep, and thought it was you.”
+--- Paragraph 44 ---  
+A woeful prospect—my sister, who never lied, yet now seemed to cloak deceit. Still, her motives, though dubious, were clear: no better use for her tongue than to keep silence when company graced the room.  
 
---- Paragraph 47 ---
-But, Uncle Pumblechook, who was omnipotent in that kitchen, wouldn’t
-hear the word, wouldn’t hear of the subject, imperiously waved it all
-away with his hand, and asked for hot gin and water. My sister, who had
-begun to be alarmingly meditative, had to employ herself actively in
-getting the gin, the hot water, the sugar, and the lemon-peel, and
-mixing them. For the time being at least, I was saved. I still held on
-to the leg of the table, but clutched it now with the fervor of
-gratitude.
+--- Paragraph 45 ---  
+“I refer to our village,” I said, pointing ashore, “midst the alders and pollards, a mile from the church.”  
 
---- Paragraph 48 ---
-Joe looked at her in a helpless way, then took a helpless bite, and
-looked at me again.
+--- Paragraph 46 ---  
+“There,” I indicated, “where I found him asleep, miststyled as thou.”  
 
---- Paragraph 49 ---
-And yet this man was dressed in coarse grey, too, and had a great iron
-on his leg, and was lame, and hoarse, and cold, and was everything that
-the other man was; except that he had not the same face, and had a flat
-broad-brimmed low-crowned felt hat on. All this I saw in a moment, for
-I had only a moment to see it in: he swore an oath at me, made a hit at
-me,—it was a round weak blow that missed me and almost knocked himself
-down, for it made him stumble,—and then he ran into the mist, stumbling
-twice as he went, and I lost him.
+--- Paragraph 47 ---  
+Yet Uncle Pumblechook, omnipotent in that kitchen, adamantly refused, waving his hands as if swatting away spectral notions. He demanded gin and water, hot and sweet. My sister, erstwhile stoic, now darted about, mixing, sweating, her once-calm demeanor fraying.  
 
---- Paragraph 50 ---
-Mr. Wopsle, the clerk at church, was to dine with us; and Mr. Hubble
-the wheelwright and Mrs. Hubble; and Uncle Pumblechook (Joe’s uncle,
-but Mrs. Joe appropriated him), who was a well-to-do cornchandler in
-the nearest town, and drove his own chaise-cart. The dinner hour was
-half-past one. When Joe and I got home, we found the table laid, and
-Mrs. Joe dressed, and the dinner dressing, and the front door unlocked
-(it never was at any other time) for the company to enter by, and
-everything most splendid. And still, not a word of the robbery.
+--- Paragraph 48 ---  
+Joe eyed her helplessly, then took a bite, his expression unreadable.  
 
+--- Paragraph 49 ---  
+Across the fire, a figure in grey and iron awaited—the BRAVO!—limping, hoarse, cold. He gave me a contemptuous glare, swung a wild swing, missed, stumbled, and vanished into the fog.  
+
+--- Paragraph 50 ---  
+The evening’s company included Mr. Wopsle, clubman and parson’s clerk; Mr. and Mrs. Hubble, wheelwright and wife; and Uncle Pumblechook, farmer and carriaged proprietor. Dinner came at half-past one. Upon Joe and me’s homecoming, we found the table set in regal fashion, doors ajar, yet silence reigned. The theft? Unspoken.
