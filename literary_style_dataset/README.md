@@ -23,11 +23,15 @@ literary_style_dataset/
 ├── lib/
 │   └── dataset/           # Structured semantic datasets generated via API
 │       ├── dickens/
+│       │   ├── oliver_twist_paragraphs.jsonl        # (Human text + annotations)
+│       │   ├── oliver_twist_ai_plain.jsonl          # (Plain AI generation)
+│       │   └── oliver_twist_ai_styled.jsonl         # (Styled AI generation)
 │       └── austen/
 │
 ├── scripts/
 │   ├── clean_dataset.py   # The data-cleaning pipeline
-│   └── generate_semantic_dataset.py # Mock script for generating datasets via API
+│   ├── generate_semantic_dataset.py # Mock script for generating semantic datasets
+│   └── generate_ai_variations.py    # Mock script for generating AI paragraph variations
 │
 └── README.md
 ```
@@ -90,17 +94,14 @@ To run the pipeline and generate the `cleaned/` directory:
    python3 scripts/clean_dataset.py
    ```
 
-## 🧠 Semantic Dataset
+## 🧠 Semantic & AI vs Human Dataset
 
-In addition to the cleaned literary text, this project includes a structured semantic dataset located in the `lib/dataset/` directory.
+In addition to the cleaned literary text, this project includes a structured semantic and AI generation dataset located in the `lib/dataset/` directory.
 
-This dataset consists of:
-- **`*_topics.json`**: Contains 5-10 core recurring semantic topics (themes, ideas, conflicts) extracted for each novel.
-- **`*_paragraphs.jsonl`**: A paragraph-level dataset where every meaningful paragraph is structurally annotated with:
-  - A concise summary
-  - Primary and secondary semantic topics
-  - Key entities (characters, locations)
-  - Key events
-  - Semantic keywords
+This dataset consists of three core components:
+1. **Semantic Annotations** (`*_topics.json` and `*_paragraphs.jsonl`): Every meaningful paragraph is structurally annotated with a highly descriptive summary, semantic topics, entities, and keywords. The original literary text is perfectly preserved here.
+2. **Plain AI Generations** (`*_ai_plain.jsonl`): Standard, neutral AI-generated paragraphs written strictly from the descriptive summaries of the original texts.
+3. **Styled AI Generations** (`*_ai_styled.jsonl`): AI-generated paragraphs written from the summaries but heavily prompted to mimic the specific literary style of the original author (e.g., Dickens's melodrama, Austen's irony).
 
-**Important**: The `paragraph_text` field in these JSONL files contains the *exact, unmodified* text from the `cleaned/` directory. No original stylistic elements have been altered in the dataset creation process.
+### Model Training
+Because all three text types (Human, Plain AI, Styled AI) are mapped to exactly the same semantic meaning via the descriptive summaries, this dataset is perfectly structured for training **AI vs Human writing detection models**. You can align the records using the shared `paragraph_id` keys to teach models to distinguish between human authenticity and advanced AI stylistic mimicry.
