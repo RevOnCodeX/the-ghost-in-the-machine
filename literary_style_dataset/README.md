@@ -40,7 +40,11 @@ The raw files serve as the immutable source of truth for the dataset.
 The provided data-cleaning pipeline (`scripts/clean_dataset.py`) processes the raw texts to make them usable for Natural Language Processing (NLP) while remaining entirely faithful to the author's original writing. 
 
 **The script performs the following cleaning steps:**
-1. **Boilerplate Removal**: Automatically identifies and strips out the "START OF THE PROJECT GUTENBERG EBOOK" and "END OF..." markers, along with the associated legal and metadata boilerplate.
+1. **Boilerplate Removal**: 
+   - Automatically identifies and strips out the "START OF THE PROJECT GUTENBERG EBOOK" and "END OF..." markers. All subsequent legal, update, and distribution boilerplate after the end marker is completely removed.
+   - Removes Gutenberg image placeholders (e.g., `[Illustration]`) while preserving any embedded chapter headings or actual literary text.
+   - Automatically identifies and removes the entire Gutenberg Table of Contents.
+   - Strips unnecessary front matter, title/author metadata, and prefaces so that the file starts directly with the first actual chapter of the novel.
 2. **Formatting Normalization**: 
    - Removes invalid or non-standard control characters.
    - Normalizes line endings to standard Unix format (`\n`).
@@ -52,12 +56,20 @@ The provided data-cleaning pipeline (`scripts/clean_dataset.py`) processes the r
 **This dataset is intended for literary stylometry.** Therefore, the goal of the cleaning script is to remove dataset artifacts, *not* to simplify or alter the author's prose. 
 
 **The following elements are strictly preserved:**
-- **Punctuation & Capitalization**: Dashes, semicolons, exclamation marks, and capitalization patterns are left completely intact. These are critical features (stylomes) for distinguishing between authors (e.g., Dickens's liberal use of capitalization or Austen's specific sentence structures).
+- **Punctuation & Capitalization**: Dashes, semicolons, exclamation marks, apostrophes, and capitalization patterns are left completely intact. These are critical features (stylomes) for distinguishing between authors (e.g., Dickens's liberal use of capitalization or Austen's specific sentence structures).
+- **Linguistic Nuances**: Dialect, contractions, archaic spellings (e.g., "ha'", "wittles", "know'd", "partickler"), and unusual vocabulary are entirely preserved.
 - **Sentence & Paragraph Boundaries**: The script distinguishes between hard-wrapped lines and true paragraph breaks (double newlines), ensuring the structural flow of the novel remains exactly as the author intended.
 - **Dialogue**: Quotation marks and dialogue formatting are untouched, as dialogue-to-prose ratios are highly distinctive authorial signatures.
-- **Chapter Headings**: Kept intact to allow for later document segmentation or chapter-by-chapter analysis.
+- **Chapter Headings**: The actual chapter headings in the body of the novel are kept intact to allow for later document segmentation or chapter-by-chapter analysis.
 
-The script intentionally avoids aggressive preprocessing techniques like lowercasing, stemming, lemmatization, or stopword removal, as these would destroy the stylistic signals needed for human-vs-AI and author attribution tasks.
+The script intentionally avoids aggressive preprocessing techniques:
+- **No** lowercasing.
+- **No** stopword removal.
+- **No** stemming or lemmatization.
+- **No** removal of punctuation.
+- **No** rewriting or modernizing of language.
+
+These stylistic signals are absolutely crucial for human-vs-AI and author attribution tasks.
 
 ## 🚀 How to Run the Pipeline
 

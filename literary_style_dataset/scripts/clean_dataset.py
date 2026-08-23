@@ -9,20 +9,44 @@ CLEANED_DIR = BASE_DIR / "cleaned"
 
 def remove_gutenberg_boilerplate(text):
     """
-    Identifies and removes Project Gutenberg boilerplate text.
+    Identifies and removes Project Gutenberg boilerplate text, 
+    illustrations, Table of Contents, and front matter.
     """
-    # Match the start of the book content
-    start_match = re.search(r'\*\*\* START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK.*?\*\*\*', text, re.IGNORECASE)
-    end_match = re.search(r'\*\*\* END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK.*?\*\*\*', text, re.IGNORECASE)
+    # 1. Remove illustrations but preserve chapter headings if embedded
+    def replacer(match):
+        content = match.group(0)
+        chap_match = re.search(r'((?:CHAPTER|Chapter)\s+[IVXLCDM\d]+.*?)(?=\n|\])', content)
+        if chap_match:
+            return chap_match.group(1)
+        return ""
+    text = re.sub(r'\[Illustration[^\]]*\]', replacer, text, flags=re.IGNORECASE | re.DOTALL)
     
-    if start_match:
-        text = text[start_match.end():]
+    # 2. Chop END marker and everything after it
+    end_match = re.search(r'\*\*\* END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK.*?\*\*\*', text, re.IGNORECASE)
     if end_match:
         text = text[:end_match.start()]
         
-    # Some older files have a second smaller header after the start tag or transcribers notes.
-    # While we could remove more, the prompt strictly requests preserving author text.
-    # We will just strip leading/trailing whitespace left over from the markers.
+    # 3. Strip front matter including TOC by finding the first actual chapter heading
+    matches = list(re.finditer(r'^\s*(?:CHAPTER|Chapter)\s+(?:[IVXLCDM]+|\d+|ONE|TWO)\b.*$', text, flags=re.MULTILINE))
+    
+    actual_chapter_start = -1
+    for i in range(len(matches)):
+        if i == len(matches) - 1:
+            actual_chapter_start = matches[i].start()
+            break
+        chunk = text[matches[i].end():matches[i+1].start()]
+        if chunk.count('\n') > 15:
+            actual_chapter_start = matches[i].start()
+            break
+            
+    if actual_chapter_start != -1:
+        text = text[actual_chapter_start:]
+    else:
+        # Fallback if no chapter heading is found, just remove the START block
+        start_match = re.search(r'\*\*\* START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK.*?\*\*\*', text, re.IGNORECASE)
+        if start_match:
+            text = text[start_match.end():]
+            
     return text.strip()
 
 def normalize_text(text):
