@@ -1,9 +1,0 @@
-{
-    "batch_size": 10,
-    "word_range": {
-        "min": 100,
-        "max": 200
-    },
-    "total_paragraphs": 500,
-    "test_mode_paragraphs": 5
-}

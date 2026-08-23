@@ -1,48 +1,64 @@
-# The Ghost in the Machine - Literary Dataset
+# The Ghost in the Machine — Literary Style Dataset
 
-This repository contains a dataset comparing human-authored literary texts (Charles Dickens and Jane Austen) against AI-generated paragraphs written in a plain, neutral style and an author-mimicking style.
+A curated dataset of human-authored literary paragraphs from Charles Dickens and Jane Austen, designed to study and classify literary style.
 
-## Pipeline Architecture
+---
 
-The dataset is generated using a scalable multi-provider AI generation pipeline. It supports API provider fallback, quota management, and automatic retries.
+## Project Structure
 
-### Provider Fallback System
-The API router seamlessly shifts between API providers if one hits rate limits (429) or persistent errors. 
-The active fallback priority order is:
-1. **Gemini** (`gemini-flash-latest`)
-2. **OpenRouter** (`nvidia/nemotron-3.5-lightning:free`, `thinkingmachines/inkling-small:free`)
-3. **AgentRoute** (`gpt-5.6-sol`)
+```
+literary_style_dataset/
+│
+├── raw/                          # Original unmodified Project Gutenberg texts
+│   ├── dickens/
+│   │   ├── oliver_twist.txt
+│   │   ├── great_expectations.txt
+│   │   └── tale_of_two_cities.txt
+│   └── austen/
+│       ├── emma.txt
+│       ├── pride_and_prejudice.txt
+│       └── sense_and_sensibility.txt
+│
+├── cleaned/                      # Cleaned texts (Gutenberg boilerplate removed)
+│   ├── dickens/
+│   └── austen/
+│
+├── lib/
+│   └── summaries/
+│       └── all_paragraphs_for_review.txt   # 28 paragraphs per book with topic mapping
+│
+└── scripts/
+    └── clean_dataset.py          # Cleaning pipeline
+```
 
-## Setup Instructions
+---
 
-### 1. Installation
-Install the required dependencies using the provided `requirements.txt` (once generated) or using standard python libraries.
+## Authors & Books
+
+| Author | Books |
+|---|---|
+| Charles Dickens | Oliver Twist, Great Expectations, A Tale of Two Cities |
+| Jane Austen | Emma, Pride and Prejudice, Sense and Sensibility |
+
+---
+
+## Paragraph Dataset
+
+`lib/summaries/all_paragraphs_for_review.txt` contains **28 paragraphs per book** (168 total) extracted from the cleaned texts, each to be annotated with:
+- **Topic** — mapped to one of 5 core themes per book
+- **Summary** — a descriptive sentence capturing meaning, tone, and theme
+
+---
+
+## Setup
+
 ```bash
 pip install python-dotenv
-```
-
-### 2. Configuration & API Keys
-We securely use a `.env` file to store credentials. **Do not commit real API keys to GitHub.**
-
-1. Copy the example configuration:
-```bash
 cp .env.example .env
-```
-2. Open `.env` and add your API keys:
-```text
-GEMINI_API_KEY=your_gemini_key
-OPENROUTER_API_KEY=your_openrouter_key
-AGENTROUTE_API_KEY=your_agentroute_key
+# Add your API keys to .env
 ```
 
-### 3. Running Generation
-
-To execute the scalable multi-provider batch generation, simply run:
+Run the cleaning pipeline:
 ```bash
-python scripts/generate_ai_variations.py
-```
-
-To validate the generated JSON dataset output:
-```bash
-python scripts/validate_dataset.py
+python scripts/clean_dataset.py
 ```
