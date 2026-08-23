@@ -4,7 +4,10 @@ import json
 import time
 
 token = os.environ.get("ANTHROPIC_AUTH_TOKEN")
-base_dir = "/Users/aakshaj/.gemini/antigravity-ide/scratch/the-ghost-in-the-machine/literary_style_dataset/topics"
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+base_dir = str(BASE_DIR / "topics")
 
 def rewrite_paragraphs(author, book, topic, text_content):
     prompt = f"""

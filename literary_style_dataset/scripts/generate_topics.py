@@ -2,8 +2,11 @@ import os
 import random
 import re
 
-base_dir = "/Users/aakshaj/.gemini/antigravity-ide/scratch/the-ghost-in-the-machine/literary_style_dataset/cleaned"
-output_dir = "/Users/aakshaj/.gemini/antigravity-ide/scratch/the-ghost-in-the-machine/literary_style_dataset/topics"
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+base_dir = str(BASE_DIR / "cleaned")
+output_dir = str(BASE_DIR / "topics")
 
 books = {
     "austen": {
