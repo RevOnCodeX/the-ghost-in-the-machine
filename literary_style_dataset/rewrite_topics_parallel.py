@@ -5,10 +5,11 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import itertools
 
 keys = [
-    "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",
-    "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",
-    "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",
-    os.environ.get("ANTHROPIC_AUTH_TOKEN")
+    "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",
+    "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",
+    "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",
+    "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",
+    "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"
 ]
 
 # Use an iterator to round-robin through the keys
@@ -52,7 +53,7 @@ Here is the original text:
     }
     
     payload = {
-        "model": "openrouter/free",
+        "model": "google/gemma-4-26b-a4b-it:free",
         "messages": [
             {"role": "system", "content": "You are a helpful assistant that rewrites literary text."},
             {"role": "user", "content": prompt}
@@ -95,8 +96,8 @@ for root, dirs, files in os.walk(base_dir):
 
 print(f"Total files found: {len(files_to_process)}")
 
-# We use 4 workers so each key is effectively used by one thread
-with ThreadPoolExecutor(max_workers=4) as executor:
+# We use 5 workers so each key is effectively used by one thread
+with ThreadPoolExecutor(max_workers=5) as executor:
     futures = {executor.submit(rewrite_file, fp): fp for fp in files_to_process}
     for future in as_completed(futures):
         pass
