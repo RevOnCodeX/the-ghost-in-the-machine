@@ -1,8 +1,8 @@
-My father’s family name being Pirrip, and my Christian name Philip, my
+p1 My father’s family name being Pirrip, and my Christian name Philip, my
 infant tongue could make of both names nothing longer or more explicit
 than Pip. So, I called myself Pip, and came to be called Pip.
 
-I give Pirrip as my father’s family name, on the authority of his
+p2 I give Pirrip as my father’s family name, on the authority of his
 tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith.
 As I never saw my father or my mother, and never saw any likeness of
 either of them (for their days were long before the days of
@@ -20,7 +20,7 @@ entertained that they had all been born on their backs with their hands
 in their trousers-pockets, and had never taken them out in this state
 of existence.
 
-Ours was the marsh country, down by the river, within, as the river
+p3 Ours was the marsh country, down by the river, within, as the river
 wound, twenty miles of the sea. My first most vivid and broad
 impression of the identity of things seems to me to have been gained on
 a memorable raw afternoon towards evening. At such a time I found out
@@ -35,106 +35,106 @@ leaden line beyond was the river; and that the distant savage lair from
 which the wind was rushing was the sea; and that the small bundle of
 shivers growing afraid of it all and beginning to cry, was Pip.
 
-“Hold your noise!” cried a terrible voice, as a man started up from
+p4 “Hold your noise!” cried a terrible voice, as a man started up from
 among the graves at the side of the church porch. “Keep still, you
 little devil, or I’ll cut your throat!”
 
-A fearful man, all in coarse grey, with a great iron on his leg. A man
+p5 A fearful man, all in coarse grey, with a great iron on his leg. A man
 with no hat, and with broken shoes, and with an old rag tied round his
 head. A man who had been soaked in water, and smothered in mud, and
 lamed by stones, and cut by flints, and stung by nettles, and torn by
 briars; who limped, and shivered, and glared, and growled; and whose
 teeth chattered in his head as he seized me by the chin.
 
-“Oh! Don’t cut my throat, sir,” I pleaded in terror. “Pray don’t do it,
+p6 “Oh! Don’t cut my throat, sir,” I pleaded in terror. “Pray don’t do it,
 sir.”
 
-“Tell us your name!” said the man. “Quick!”
+p7 “Tell us your name!” said the man. “Quick!”
 
-“Pip, sir.”
+p8 “Pip, sir.”
 
-“Once more,” said the man, staring at me. “Give it mouth!”
+p9 “Once more,” said the man, staring at me. “Give it mouth!”
 
-“Pip. Pip, sir.”
+p10 “Pip. Pip, sir.”
 
-“Show us where you live,” said the man. “Pint out the place!”
+p11 “Show us where you live,” said the man. “Pint out the place!”
 
-I pointed to where our village lay, on the flat in-shore among the
+p12 I pointed to where our village lay, on the flat in-shore among the
 alder-trees and pollards, a mile or more from the church.
 
-The man, after looking at me for a moment, turned me upside down, and
+p13 The man, after looking at me for a moment, turned me upside down, and
 emptied my pockets. There was nothing in them but a piece of bread.
 When the church came to itself,—for he was so sudden and strong that he
 made it go head over heels before me, and I saw the steeple under my
 feet,—when the church came to itself, I say, I was seated on a high
 tombstone, trembling while he ate the bread ravenously.
 
-[Illustration]
+p14 [Illustration]
 
-“You young dog,” said the man, licking his lips, “what fat cheeks you
+p15 “You young dog,” said the man, licking his lips, “what fat cheeks you
 ha’ got.”
 
-I believe they were fat, though I was at that time undersized for my
+p16 I believe they were fat, though I was at that time undersized for my
 years, and not strong.
 
-“Darn me if I couldn’t eat ’em,” said the man, with a threatening shake
+p17 “Darn me if I couldn’t eat ’em,” said the man, with a threatening shake
 of his head, “and if I han’t half a mind to’t!”
 
-I earnestly expressed my hope that he wouldn’t, and held tighter to the
+p18 I earnestly expressed my hope that he wouldn’t, and held tighter to the
 tombstone on which he had put me; partly, to keep myself upon it;
 partly, to keep myself from crying.
 
-“Now lookee here!” said the man. “Where’s your mother?”
+p19 “Now lookee here!” said the man. “Where’s your mother?”
 
-“There, sir!” said I.
+p20 “There, sir!” said I.
 
-He started, made a short run, and stopped and looked over his shoulder.
+p21 He started, made a short run, and stopped and looked over his shoulder.
 
-“There, sir!” I timidly explained. “Also Georgiana. That’s my mother.”
+p22 “There, sir!” I timidly explained. “Also Georgiana. That’s my mother.”
 
-“Oh!” said he, coming back. “And is that your father alonger your
+p23 “Oh!” said he, coming back. “And is that your father alonger your
 mother?”
 
-“Yes, sir,” said I; “him too; late of this parish.”
+p24 “Yes, sir,” said I; “him too; late of this parish.”
 
-“Ha!” he muttered then, considering. “Who d’ye live with,—supposin’
+p25 “Ha!” he muttered then, considering. “Who d’ye live with,—supposin’
 you’re kindly let to live, which I han’t made up my mind about?”
 
-“My sister, sir,—Mrs. Joe Gargery,—wife of Joe Gargery, the blacksmith,
+p26 “My sister, sir,—Mrs. Joe Gargery,—wife of Joe Gargery, the blacksmith,
 sir.”
 
-“Blacksmith, eh?” said he. And looked down at his leg.
+p27 “Blacksmith, eh?” said he. And looked down at his leg.
 
-After darkly looking at his leg and me several times, he came closer to
+p28 After darkly looking at his leg and me several times, he came closer to
 my tombstone, took me by both arms, and tilted me back as far as he
 could hold me; so that his eyes looked most powerfully down into mine,
 and mine looked most helplessly up into his.
 
-“Now lookee here,” he said, “the question being whether you’re to be
+p29 “Now lookee here,” he said, “the question being whether you’re to be
 let to live. You know what a file is?”
 
-“Yes, sir.”
+p30 “Yes, sir.”
 
-“And you know what wittles is?”
+p31 “And you know what wittles is?”
 
-“Yes, sir.”
+p32 “Yes, sir.”
 
-After each question he tilted me over a little more, so as to give me a
+p33 After each question he tilted me over a little more, so as to give me a
 greater sense of helplessness and danger.
 
-“You get me a file.” He tilted me again. “And you get me wittles.” He
+p34 “You get me a file.” He tilted me again. “And you get me wittles.” He
 tilted me again. “You bring ’em both to me.” He tilted me again. “Or
 I’ll have your heart and liver out.” He tilted me again.
 
-I was dreadfully frightened, and so giddy that I clung to him with both
+p35 I was dreadfully frightened, and so giddy that I clung to him with both
 hands, and said, “If you would kindly please to let me keep upright,
 sir, perhaps I shouldn’t be sick, and perhaps I could attend more.”
 
-He gave me a most tremendous dip and roll, so that the church jumped
+p36 He gave me a most tremendous dip and roll, so that the church jumped
 over its own weathercock. Then, he held me by the arms, in an upright
 position on the top of the stone, and went on in these fearful terms:—
 
-“You bring me, to-morrow morning early, that file and them wittles. You
+p37 “You bring me, to-morrow morning early, that file and them wittles. You
 bring the lot to me, at that old Battery over yonder. You do it, and
 you never dare to say a word or dare to make a sign concerning your
 having seen such a person as me, or any person sumever, and you shall
@@ -153,23 +153,23 @@ from harming of you at the present moment, with great difficulty. I
 find it wery hard to hold that young man off of your inside. Now, what
 do you say?”
 
-I said that I would get him the file, and I would get him what broken
+p38 I said that I would get him the file, and I would get him what broken
 bits of food I could, and I would come to him at the Battery, early in
 the morning.
 
-“Say Lord strike you dead if you don’t!” said the man.
+p39 “Say Lord strike you dead if you don’t!” said the man.
 
-I said so, and he took me down.
+p40 I said so, and he took me down.
 
-“Now,” he pursued, “you remember what you’ve undertook, and you
+p41 “Now,” he pursued, “you remember what you’ve undertook, and you
 remember that young man, and you get home!”
 
-“Goo-good night, sir,” I faltered.
+p42 “Goo-good night, sir,” I faltered.
 
-“Much of that!” said he, glancing about him over the cold wet flat. “I
+p43 “Much of that!” said he, glancing about him over the cold wet flat. “I
 wish I was a frog. Or a eel!”
 
-At the same time, he hugged his shuddering body in both his
+p44 At the same time, he hugged his shuddering body in both his
 arms,—clasping himself, as if to hold himself together,—and limped
 towards the low church wall. As I saw him go, picking his way among the
 nettles, and among the brambles that bound the green mounds, he looked
@@ -177,7 +177,7 @@ in my young eyes as if he were eluding the hands of the dead people,
 stretching up cautiously out of their graves, to get a twist upon his
 ankle and pull him in.
 
-When he came to the low church wall, he got over it, like a man whose
+p45 When he came to the low church wall, he got over it, like a man whose
 legs were numbed and stiff, and then turned round to look for me. When
 I saw him turning, I set my face towards home, and made the best use of
 my legs. But presently I looked over my shoulder, and saw him going on
@@ -186,7 +186,7 @@ picking his way with his sore feet among the great stones dropped into
 the marshes here and there, for stepping-places when the rains were
 heavy or the tide was in.
 
-The marshes were just a long black horizontal line then, as I stopped
+p46 The marshes were just a long black horizontal line then, as I stopped
 to look after him; and the river was just another horizontal line, not
 nearly so broad nor yet so black; and the sky was just a row of long
 angry red lines and dense black lines intermixed. On the edge of the
@@ -205,10 +205,10 @@ him. But now I was frightened again, and ran home without stopping.
 
 
 
-Chapter II.
+p47 Chapter II.
 
 
-My sister, Mrs. Joe Gargery, was more than twenty years older than I,
+p48 My sister, Mrs. Joe Gargery, was more than twenty years older than I,
 and had established a great reputation with herself and the neighbours
 because she had brought me up “by hand.” Having at that time to find
 out for myself what the expression meant, and knowing her to have a
@@ -216,7 +216,7 @@ hard and heavy hand, and to be much in the habit of laying it upon her
 husband as well as upon me, I supposed that Joe Gargery and I were both
 brought up by hand.
 
-She was not a good-looking woman, my sister; and I had a general
+p49 She was not a good-looking woman, my sister; and I had a general
 impression that she must have made Joe Gargery marry her by hand. Joe
 was a fair man, with curls of flaxen hair on each side of his smooth
 face, and with eyes of such a very undecided blue that they seemed to
@@ -224,7 +224,7 @@ have somehow got mixed with their own whites. He was a mild,
 good-natured, sweet-tempered, easy-going, foolish, dear fellow,—a sort
 of Hercules in strength, and also in weakness.
 
-My sister, Mrs. Joe, with black hair and eyes, had such a prevailing
+p50 My sister, Mrs. Joe, with black hair and eyes, had such a prevailing
 redness of skin that I sometimes used to wonder whether it was possible
 she washed herself with a nutmeg-grater instead of soap. She was tall
 and bony, and almost always wore a coarse apron, fastened over her
@@ -235,7 +235,7 @@ apron so much. Though I really see no reason why she should have worn
 it at all; or why, if she did wear it at all, she should not have taken
 it off, every day of her life.
 
-Joe’s forge adjoined our house, which was a wooden house, as many of
+p51 Joe’s forge adjoined our house, which was a wooden house, as many of
 the dwellings in our country were,—most of them, at that time. When I
 ran home from the churchyard, the forge was shut up, and Joe was
 sitting alone in the kitchen. Joe and I being fellow-sufferers, and
@@ -243,80 +243,80 @@ having confidences as such, Joe imparted a confidence to me, the moment
 I raised the latch of the door and peeped in at him opposite to it,
 sitting in the chimney corner.
 
-“Mrs. Joe has been out a dozen times, looking for you, Pip. And she’s
+p52 “Mrs. Joe has been out a dozen times, looking for you, Pip. And she’s
 out now, making it a baker’s dozen.”
 
-“Is she?”
+p53 “Is she?”
 
-“Yes, Pip,” said Joe; “and what’s worse, she’s got Tickler with her.”
+p54 “Yes, Pip,” said Joe; “and what’s worse, she’s got Tickler with her.”
 
-At this dismal intelligence, I twisted the only button on my waistcoat
+p55 At this dismal intelligence, I twisted the only button on my waistcoat
 round and round, and looked in great depression at the fire. Tickler
 was a wax-ended piece of cane, worn smooth by collision with my tickled
 frame.
 
-“She sot down,” said Joe, “and she got up, and she made a grab at
+p56 “She sot down,” said Joe, “and she got up, and she made a grab at
 Tickler, and she Ram-paged out. That’s what she did,” said Joe, slowly
 clearing the fire between the lower bars with the poker, and looking at
 it; “she Ram-paged out, Pip.”
 
-“Has she been gone long, Joe?” I always treated him as a larger species
+p57 “Has she been gone long, Joe?” I always treated him as a larger species
 of child, and as no more than my equal.
 
-“Well,” said Joe, glancing up at the Dutch clock, “she’s been on the
+p58 “Well,” said Joe, glancing up at the Dutch clock, “she’s been on the
 Ram-page, this last spell, about five minutes, Pip. She’s a-coming! Get
 behind the door, old chap, and have the jack-towel betwixt you.”
 
-I took the advice. My sister, Mrs. Joe, throwing the door wide open,
+p59 I took the advice. My sister, Mrs. Joe, throwing the door wide open,
 and finding an obstruction behind it, immediately divined the cause,
 and applied Tickler to its further investigation. She concluded by
 throwing me—I often served as a connubial missile—at Joe, who, glad to
 get hold of me on any terms, passed me on into the chimney and quietly
 fenced me up there with his great leg.
 
-“Where have you been, you young monkey?” said Mrs. Joe, stamping her
+p60 “Where have you been, you young monkey?” said Mrs. Joe, stamping her
 foot. “Tell me directly what you’ve been doing to wear me away with
 fret and fright and worrit, or I’d have you out of that corner if you
 was fifty Pips, and he was five hundred Gargerys.”
 
-“I have only been to the churchyard,” said I, from my stool, crying and
+p61 “I have only been to the churchyard,” said I, from my stool, crying and
 rubbing myself.
 
-“Churchyard!” repeated my sister. “If it warn’t for me you’d have been
+p62 “Churchyard!” repeated my sister. “If it warn’t for me you’d have been
 to the churchyard long ago, and stayed there. Who brought you up by
 hand?”
 
-“You did,” said I.
+p63 “You did,” said I.
 
-“And why did I do it, I should like to know?” exclaimed my sister.
+p64 “And why did I do it, I should like to know?” exclaimed my sister.
 
-I whimpered, “I don’t know.”
+p65 I whimpered, “I don’t know.”
 
-“_I_ don’t!” said my sister. “I’d never do it again! I know that. I may
+p66 “_I_ don’t!” said my sister. “I’d never do it again! I know that. I may
 truly say I’ve never had this apron of mine off since born you were.
 It’s bad enough to be a blacksmith’s wife (and him a Gargery) without
 being your mother.”
 
-My thoughts strayed from that question as I looked disconsolately at
+p67 My thoughts strayed from that question as I looked disconsolately at
 the fire. For the fugitive out on the marshes with the ironed leg, the
 mysterious young man, the file, the food, and the dreadful pledge I was
 under to commit a larceny on those sheltering premises, rose before me
 in the avenging coals.
 
-“Hah!” said Mrs. Joe, restoring Tickler to his station. “Churchyard,
+p68 “Hah!” said Mrs. Joe, restoring Tickler to his station. “Churchyard,
 indeed! You may well say churchyard, you two.” One of us, by the by,
 had not said it at all. “You’ll drive _me_ to the churchyard betwixt
 you, one of these days, and O, a pr-r-recious pair you’d be without
 me!”
 
-As she applied herself to set the tea-things, Joe peeped down at me
+p69 As she applied herself to set the tea-things, Joe peeped down at me
 over his leg, as if he were mentally casting me and himself up, and
 calculating what kind of pair we practically should make, under the
 grievous circumstances foreshadowed. After that, he sat feeling his
 right-side flaxen curls and whisker, and following Mrs. Joe about with
 his blue eyes, as his manner always was at squally times.
 
-My sister had a trenchant way of cutting our bread and butter for us,
+p70 My sister had a trenchant way of cutting our bread and butter for us,
 that never varied. First, with her left hand she jammed the loaf hard
 and fast against her bib,—where it sometimes got a pin into it, and
 sometimes a needle, which we afterwards got into our mouths. Then she
@@ -328,7 +328,7 @@ final smart wipe on the edge of the plaster, and then sawed a very
 thick round off the loaf: which she finally, before separating from the
 loaf, hewed into two halves, of which Joe got one, and I the other.
 
-On the present occasion, though I was hungry, I dared not eat my slice.
+p71 On the present occasion, though I was hungry, I dared not eat my slice.
 I felt that I must have something in reserve for my dreadful
 acquaintance, and his ally the still more dreadful young man. I knew
 Mrs. Joe’s housekeeping to be of the strictest kind, and that my
@@ -336,7 +336,7 @@ larcenous researches might find nothing available in the safe.
 Therefore I resolved to put my hunk of bread and butter down the leg of
 my trousers.
 
-The effort of resolution necessary to the achievement of this purpose I
+p72 The effort of resolution necessary to the achievement of this purpose I
 found to be quite awful. It was as if I had to make up my mind to leap
 from the top of a high house, or plunge into a great depth of water.
 And it was made the more difficult by the unconscious Joe. In our
@@ -353,7 +353,7 @@ best be done in the least improbable manner consistent with the
 circumstances. I took advantage of a moment when Joe had just looked at
 me, and got my bread and butter down my leg.
 
-Joe was evidently made uncomfortable by what he supposed to be my loss
+p73 Joe was evidently made uncomfortable by what he supposed to be my loss
 of appetite, and took a thoughtful bite out of his slice, which he
 didn’t seem to enjoy. He turned it about in his mouth much longer than
 usual, pondering over it a good deal, and after all gulped it down like
@@ -361,51 +361,51 @@ a pill. He was about to take another bite, and had just got his head on
 one side for a good purchase on it, when his eye fell on me, and he saw
 that my bread and butter was gone.
 
-The wonder and consternation with which Joe stopped on the threshold of
+p74 The wonder and consternation with which Joe stopped on the threshold of
 his bite and stared at me, were too evident to escape my sister’s
 observation.
 
-“What’s the matter _now_?” said she, smartly, as she put down her cup.
+p75 “What’s the matter _now_?” said she, smartly, as she put down her cup.
 
-“I say, you know!” muttered Joe, shaking his head at me in very serious
+p76 “I say, you know!” muttered Joe, shaking his head at me in very serious
 remonstrance. “Pip, old chap! You’ll do yourself a mischief. It’ll
 stick somewhere. You can’t have chawed it, Pip.”
 
-“What’s the matter now?” repeated my sister, more sharply than before.
+p77 “What’s the matter now?” repeated my sister, more sharply than before.
 
-“If you can cough any trifle on it up, Pip, I’d recommend you to do
+p78 “If you can cough any trifle on it up, Pip, I’d recommend you to do
 it,” said Joe, all aghast. “Manners is manners, but still your elth’s
 your elth.”
 
-By this time, my sister was quite desperate, so she pounced on Joe,
+p79 By this time, my sister was quite desperate, so she pounced on Joe,
 and, taking him by the two whiskers, knocked his head for a little
 while against the wall behind him, while I sat in the corner, looking
 guiltily on.
 
-“Now, perhaps you’ll mention what’s the matter,” said my sister, out of
+p80 “Now, perhaps you’ll mention what’s the matter,” said my sister, out of
 breath, “you staring great stuck pig.”
 
-Joe looked at her in a helpless way, then took a helpless bite, and
+p81 Joe looked at her in a helpless way, then took a helpless bite, and
 looked at me again.
 
-“You know, Pip,” said Joe, solemnly, with his last bite in his cheek,
+p82 “You know, Pip,” said Joe, solemnly, with his last bite in his cheek,
 and speaking in a confidential voice, as if we two were quite alone,
 “you and me is always friends, and I’d be the last to tell upon you,
 any time. But such a—” he moved his chair and looked about the floor
 between us, and then again at me—“such a most oncommon Bolt as that!”
 
-“Been bolting his food, has he?” cried my sister.
+p83 “Been bolting his food, has he?” cried my sister.
 
-“You know, old chap,” said Joe, looking at me, and not at Mrs. Joe,
+p84 “You know, old chap,” said Joe, looking at me, and not at Mrs. Joe,
 with his bite still in his cheek, “I Bolted, myself, when I was your
 age—frequent—and as a boy I’ve been among a many Bolters; but I never
 see your Bolting equal yet, Pip, and it’s a mercy you ain’t Bolted
 dead.”
 
-My sister made a dive at me, and fished me up by the hair, saying
+p85 My sister made a dive at me, and fished me up by the hair, saying
 nothing more than the awful words, “You come along and be dosed.”
 
-Some medical beast had revived Tar-water in those days as a fine
+p86 Some medical beast had revived Tar-water in those days as a fine
 medicine, and Mrs. Joe always kept a supply of it in the cupboard;
 having a belief in its virtues correspondent to its nastiness. At the
 best of times, so much of this elixir was administered to me as a
@@ -419,7 +419,7 @@ meditating before the fire), “because he had had a turn.” Judging from
 myself, I should say he certainly had a turn afterwards, if he had had
 none before.
 
-Conscience is a dreadful thing when it accuses man or boy; but when, in
+p87 Conscience is a dreadful thing when it accuses man or boy; but when, in
 the case of a boy, that secret burden co-operates with another secret
 burden down the leg of his trousers, it is (as I can testify) a great
 punishment. The guilty knowledge that I was going to rob Mrs. Joe—I
@@ -438,44 +438,44 @@ liver to-night, instead of to-morrow! If ever anybody’s hair stood on
 end with terror, mine must have done so then. But, perhaps, nobody’s
 ever did?
 
-It was Christmas Eve, and I had to stir the pudding for next day, with
+p88 It was Christmas Eve, and I had to stir the pudding for next day, with
 a copper-stick, from seven to eight by the Dutch clock. I tried it with
 the load upon my leg (and that made me think afresh of the man with the
 load on _his_ leg), and found the tendency of exercise to bring the
 bread and butter out at my ankle, quite unmanageable. Happily I slipped
 away, and deposited that part of my conscience in my garret bedroom.
 
-“Hark!” said I, when I had done my stirring, and was taking a final
+p89 “Hark!” said I, when I had done my stirring, and was taking a final
 warm in the chimney corner before being sent up to bed; “was that great
 guns, Joe?”
 
-“Ah!” said Joe. “There’s another conwict off.”
+p90 “Ah!” said Joe. “There’s another conwict off.”
 
-“What does that mean, Joe?” said I.
+p91 “What does that mean, Joe?” said I.
 
-Mrs. Joe, who always took explanations upon herself, said, snappishly,
+p92 Mrs. Joe, who always took explanations upon herself, said, snappishly,
 “Escaped. Escaped.” Administering the definition like Tar-water.
 
-While Mrs. Joe sat with her head bending over her needlework, I put my
+p93 While Mrs. Joe sat with her head bending over her needlework, I put my
 mouth into the forms of saying to Joe, “What’s a convict?” Joe put
 _his_ mouth into the forms of returning such a highly elaborate answer,
 that I could make out nothing of it but the single word “Pip.”
 
-“There was a conwict off last night,” said Joe, aloud, “after
+p94 “There was a conwict off last night,” said Joe, aloud, “after
 sunset-gun. And they fired warning of him. And now it appears they’re
 firing warning of another.”
 
-“_Who’s_ firing?” said I.
+p95 “_Who’s_ firing?” said I.
 
-“Drat that boy,” interposed my sister, frowning at me over her work,
+p96 “Drat that boy,” interposed my sister, frowning at me over her work,
 “what a questioner he is. Ask no questions, and you’ll be told no
 lies.”
 
-It was not very polite to herself, I thought, to imply that I should be
+p97 It was not very polite to herself, I thought, to imply that I should be
 told lies by her even if I did ask questions. But she never was polite
 unless there was company.
 
-At this point Joe greatly augmented my curiosity by taking the utmost
+p98 At this point Joe greatly augmented my curiosity by taking the utmost
 pains to open his mouth very wide, and to put it into the form of a
 word that looked to me like “sulks.” Therefore, I naturally pointed to
 Mrs. Joe, and put my mouth into the form of saying, “her?” But Joe
@@ -483,42 +483,42 @@ wouldn’t hear of that, at all, and again opened his mouth very wide,
 and shook the form of a most emphatic word out of it. But I could make
 nothing of the word.
 
-“Mrs. Joe,” said I, as a last resort, “I should like to know—if you
+p99 “Mrs. Joe,” said I, as a last resort, “I should like to know—if you
 wouldn’t much mind—where the firing comes from?”
 
-“Lord bless the boy!” exclaimed my sister, as if she didn’t quite mean
+p100 “Lord bless the boy!” exclaimed my sister, as if she didn’t quite mean
 that but rather the contrary. “From the Hulks!”
 
-“Oh-h!” said I, looking at Joe. “Hulks!”
+p101 “Oh-h!” said I, looking at Joe. “Hulks!”
 
-Joe gave a reproachful cough, as much as to say, “Well, I told you so.”
+p102 Joe gave a reproachful cough, as much as to say, “Well, I told you so.”
 
-“And please, what’s Hulks?” said I.
+p103 “And please, what’s Hulks?” said I.
 
-“That’s the way with this boy!” exclaimed my sister, pointing me out
+p104 “That’s the way with this boy!” exclaimed my sister, pointing me out
 with her needle and thread, and shaking her head at me. “Answer him one
 question, and he’ll ask you a dozen directly. Hulks are prison-ships,
 right ’cross th’ meshes.” We always used that name for marshes, in our
 country.
 
-“I wonder who’s put into prison-ships, and why they’re put there?” said
+p105 “I wonder who’s put into prison-ships, and why they’re put there?” said
 I, in a general way, and with quiet desperation.
 
-It was too much for Mrs. Joe, who immediately rose. “I tell you what,
+p106 It was too much for Mrs. Joe, who immediately rose. “I tell you what,
 young fellow,” said she, “I didn’t bring you up by hand to badger
 people’s lives out. It would be blame to me and not praise, if I had.
 People are put in the Hulks because they murder, and because they rob,
 and forge, and do all sorts of bad; and they always begin by asking
 questions. Now, you get along to bed!”
 
-I was never allowed a candle to light me to bed, and, as I went
+p107 I was never allowed a candle to light me to bed, and, as I went
 upstairs in the dark, with my head tingling,—from Mrs. Joe’s thimble
 having played the tambourine upon it, to accompany her last words,—I
 felt fearfully sensible of the great convenience that the hulks were
 handy for me. I was clearly on my way there. I had begun by asking
 questions, and I was going to rob Mrs. Joe.
 
-Since that time, which is far enough away now, I have often thought
+p108 Since that time, which is far enough away now, I have often thought
 that few people know what secrecy there is in the young under terror.
 No matter how unreasonable the terror, so that it be terror. I was in
 mortal terror of the young man who wanted my heart and liver; I was in
@@ -528,7 +528,7 @@ no hope of deliverance through my all-powerful sister, who repulsed me
 at every turn; I am afraid to think of what I might have done on
 requirement, in the secrecy of my terror.
 
-If I slept at all that night, it was only to imagine myself drifting
+p109 If I slept at all that night, it was only to imagine myself drifting
 down the river on a strong spring-tide, to the Hulks; a ghostly pirate
 calling out to me through a speaking-trumpet, as I passed the
 gibbet-station, that I had better come ashore and be hanged there at
@@ -539,7 +539,7 @@ getting a light by easy friction then; to have got one I must have
 struck it out of flint and steel, and have made a noise like the very
 pirate himself rattling his chains.
 
-As soon as the great black velvet pall outside my little window was
+p110 As soon as the great black velvet pall outside my little window was
 shot with grey, I got up and went downstairs; every board upon the way,
 and every crack in every board calling after me, “Stop thief!” and “Get
 up, Mrs. Joe!” In the pantry, which was far more abundantly supplied
@@ -559,7 +559,7 @@ was put away so carefully in a covered earthenware dish in a corner,
 and I found it was the pie, and I took it in the hope that it was not
 intended for early use, and would not be missed for some time.
 
-There was a door in the kitchen, communicating with the forge; I
+p111 There was a door in the kitchen, communicating with the forge; I
 unlocked and unbolted that door, and got a file from among Joe’s tools.
 Then I put the fastenings as I had found them, opened the door at which
 I had entered when I ran home last night, shut it, and ran for the
@@ -568,10 +568,10 @@ misty marshes.
 
 
 
-Chapter III.
+p112 Chapter III.
 
 
-It was a rimy morning, and very damp. I had seen the damp lying on the
+p113 It was a rimy morning, and very damp. I had seen the damp lying on the
 outside of my little window, as if some goblin had been crying there
 all night, and using the window for a pocket-handkerchief. Now, I saw
 the damp lying on the bare hedges and spare grass, like a coarser sort
@@ -583,7 +583,7 @@ there—was invisible to me until I was quite close under it. Then, as I
 looked up at it, while it dripped, it seemed to my oppressed conscience
 like a phantom devoting me to the Hulks.
 
-The mist was heavier yet when I got out upon the marshes, so that
+p114 The mist was heavier yet when I got out upon the marshes, so that
 instead of my running at everything, everything seemed to run at me.
 This was very disagreeable to a guilty mind. The gates and dikes and
 banks came bursting at me through the mist, as if they cried as plainly
@@ -598,7 +598,7 @@ for myself I took it!” Upon which he put down his head, blew a cloud of
 smoke out of his nose, and vanished with a kick-up of his hind-legs and
 a flourish of his tail.
 
-All this time, I was getting on towards the river; but however fast I
+p115 All this time, I was getting on towards the river; but however fast I
 went, I couldn’t warm my feet, to which the damp cold seemed riveted,
 as the iron was riveted to the leg of the man I was running to meet. I
 knew my way to the Battery, pretty straight, for I had been down there
@@ -613,12 +613,12 @@ had just scrambled up the mound beyond the ditch, when I saw the man
 sitting before me. His back was towards me, and he had his arms folded,
 and was nodding forward, heavy with sleep.
 
-I thought he would be more glad if I came upon him with his breakfast,
+p116 I thought he would be more glad if I came upon him with his breakfast,
 in that unexpected manner, so I went forward softly and touched him on
 the shoulder. He instantly jumped up, and it was not the same man, but
 another man!
 
-And yet this man was dressed in coarse grey, too, and had a great iron
+p117 And yet this man was dressed in coarse grey, too, and had a great iron
 on his leg, and was lame, and hoarse, and cold, and was everything that
 the other man was; except that he had not the same face, and had a flat
 broad-brimmed low-crowned felt hat on. All this I saw in a moment, for
@@ -627,11 +627,11 @@ me,—it was a round weak blow that missed me and almost knocked himself
 down, for it made him stumble,—and then he ran into the mist, stumbling
 twice as he went, and I lost him.
 
-“It’s the young man!” I thought, feeling my heart shoot as I identified
+p118 “It’s the young man!” I thought, feeling my heart shoot as I identified
 him. I dare say I should have felt a pain in my liver, too, if I had
 known where it was.
 
-I was soon at the Battery after that, and there was the right
+p119 I was soon at the Battery after that, and there was the right
 man,—hugging himself and limping to and fro, as if he had never all
 night left off hugging and limping,—waiting for me. He was awfully
 cold, to be sure. I half expected to see him drop down before my face
@@ -642,62 +642,62 @@ bundle. He did not turn me upside down this time to get at what I had,
 but left me right side upwards while I opened the bundle and emptied my
 pockets.
 
-“What’s in the bottle, boy?” said he.
+p120 “What’s in the bottle, boy?” said he.
 
-“Brandy,” said I.
+p121 “Brandy,” said I.
 
-He was already handing mincemeat down his throat in the most curious
+p122 He was already handing mincemeat down his throat in the most curious
 manner,—more like a man who was putting it away somewhere in a violent
 hurry, than a man who was eating it,—but he left off to take some of
 the liquor. He shivered all the while so violently, that it was quite
 as much as he could do to keep the neck of the bottle between his
 teeth, without biting it off.
 
-“I think you have got the ague,” said I.
+p123 “I think you have got the ague,” said I.
 
-“I’m much of your opinion, boy,” said he.
+p124 “I’m much of your opinion, boy,” said he.
 
-“It’s bad about here,” I told him. “You’ve been lying out on the
+p125 “It’s bad about here,” I told him. “You’ve been lying out on the
 meshes, and they’re dreadful aguish. Rheumatic too.”
 
-“I’ll eat my breakfast afore they’re the death of me,” said he. “I’d do
+p126 “I’ll eat my breakfast afore they’re the death of me,” said he. “I’d do
 that, if I was going to be strung up to that there gallows as there is
 over there, directly afterwards. I’ll beat the shivers so far, I’ll bet
 you.”
 
-He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all
+p127 He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all
 at once: staring distrustfully while he did so at the mist all round
 us, and often stopping—even stopping his jaws—to listen. Some real or
 fancied sound, some clink upon the river or breathing of beast upon the
 marsh, now gave him a start, and he said, suddenly,—
 
-“You’re not a deceiving imp? You brought no one with you?”
+p128 “You’re not a deceiving imp? You brought no one with you?”
 
-“No, sir! No!”
+p129 “No, sir! No!”
 
-“Nor giv’ no one the office to follow you?”
+p130 “Nor giv’ no one the office to follow you?”
 
-“No!”
+p131 “No!”
 
-“Well,” said he, “I believe you. You’d be but a fierce young hound
+p132 “Well,” said he, “I believe you. You’d be but a fierce young hound
 indeed, if at your time of life you could help to hunt a wretched
 warmint hunted as near death and dunghill as this poor wretched warmint
 is!”
 
-Something clicked in his throat as if he had works in him like a clock,
+p133 Something clicked in his throat as if he had works in him like a clock,
 and was going to strike. And he smeared his ragged rough sleeve over
 his eyes.
 
-Pitying his desolation, and watching him as he gradually settled down
+p134 Pitying his desolation, and watching him as he gradually settled down
 upon the pie, I made bold to say, “I am glad you enjoy it.”
 
-“Did you speak?”
+p135 “Did you speak?”
 
-“I said I was glad you enjoyed it.”
+p136 “I said I was glad you enjoyed it.”
 
-“Thankee, my boy. I do.”
+p137 “Thankee, my boy. I do.”
 
-I had often watched a large dog of ours eating his food; and I now
+p138 I had often watched a large dog of ours eating his food; and I now
 noticed a decided similarity between the dog’s way of eating, and the
 man’s. The man took strong sharp sudden bites, just like the dog. He
 swallowed, or rather snapped up, every mouthful, too soon and too fast;
@@ -708,48 +708,48 @@ appreciate it comfortably I thought, or to have anybody to dine with
 him, without making a chop with his jaws at the visitor. In all of
 which particulars he was very like the dog.
 
-“I am afraid you won’t leave any of it for him,” said I, timidly; after
+p139 “I am afraid you won’t leave any of it for him,” said I, timidly; after
 a silence during which I had hesitated as to the politeness of making
 the remark. “There’s no more to be got where that came from.” It was
 the certainty of this fact that impelled me to offer the hint.
 
-“Leave any for him? Who’s him?” said my friend, stopping in his
+p140 “Leave any for him? Who’s him?” said my friend, stopping in his
 crunching of pie-crust.
 
-“The young man. That you spoke of. That was hid with you.”
+p141 “The young man. That you spoke of. That was hid with you.”
 
-“Oh ah!” he returned, with something like a gruff laugh. “Him? Yes,
+p142 “Oh ah!” he returned, with something like a gruff laugh. “Him? Yes,
 yes! _He_ don’t want no wittles.”
 
-“I thought he looked as if he did,” said I.
+p143 “I thought he looked as if he did,” said I.
 
-The man stopped eating, and regarded me with the keenest scrutiny and
+p144 The man stopped eating, and regarded me with the keenest scrutiny and
 the greatest surprise.
 
-“Looked? When?”
+p145 “Looked? When?”
 
-“Just now.”
+p146 “Just now.”
 
-“Where?”
+p147 “Where?”
 
-“Yonder,” said I, pointing; “over there, where I found him nodding
+p148 “Yonder,” said I, pointing; “over there, where I found him nodding
 asleep, and thought it was you.”
 
-He held me by the collar and stared at me so, that I began to think his
+p149 He held me by the collar and stared at me so, that I began to think his
 first idea about cutting my throat had revived.
 
-“Dressed like you, you know, only with a hat,” I explained, trembling;
+p150 “Dressed like you, you know, only with a hat,” I explained, trembling;
 “and—and”—I was very anxious to put this delicately—“and with—the same
 reason for wanting to borrow a file. Didn’t you hear the cannon last
 night?”
 
-“Then there _was_ firing!” he said to himself.
+p151 “Then there _was_ firing!” he said to himself.
 
-“I wonder you shouldn’t have been sure of that,” I returned, “for we
+p152 “I wonder you shouldn’t have been sure of that,” I returned, “for we
 heard it up at home, and that’s farther away, and we were shut in
 besides.”
 
-“Why, see now!” said he. “When a man’s alone on these flats, with a
+p153 “Why, see now!” said he. “When a man’s alone on these flats, with a
 light head and a light stomach, perishing of cold and want, he hears
 nothin’ all night, but guns firing, and voices calling. Hears? He sees
 the soldiers, with their red coats lighted up by the torches carried
@@ -762,20 +762,20 @@ firing! Why, I see the mist shake with the cannon, arter it was broad
 day,—But this man”; he had said all the rest, as if he had forgotten my
 being there; “did you notice anything in him?”
 
-“He had a badly bruised face,” said I, recalling what I hardly knew I
+p154 “He had a badly bruised face,” said I, recalling what I hardly knew I
 knew.
 
-“Not here?” exclaimed the man, striking his left cheek mercilessly,
+p155 “Not here?” exclaimed the man, striking his left cheek mercilessly,
 with the flat of his hand.
 
-“Yes, there!”
+p156 “Yes, there!”
 
-“Where is he?” He crammed what little food was left, into the breast of
+p157 “Where is he?” He crammed what little food was left, into the breast of
 his grey jacket. “Show me the way he went. I’ll pull him down, like a
 bloodhound. Curse this iron on my sore leg! Give us hold of the file,
 boy.”
 
-I indicated in what direction the mist had shrouded the other man, and
+p158 I indicated in what direction the mist had shrouded the other man, and
 he looked up at it for an instant. But he was down on the rank wet
 grass, filing at his iron like a madman, and not minding me or minding
 his own leg, which had an old chafe upon it and was bloody, but which
@@ -792,10 +792,10 @@ going.
 
 
 
-Chapter IV.
+p159 Chapter IV.
 
 
-I fully expected to find a Constable in the kitchen, waiting to take me
+p160 I fully expected to find a Constable in the kitchen, waiting to take me
 up. But not only was there no Constable there, but no discovery had yet
 been made of the robbery. Mrs. Joe was prodigiously busy in getting the
 house ready for the festivities of the day, and Joe had been put upon
@@ -803,18 +803,18 @@ the kitchen doorstep to keep him out of the dust-pan,—an article into
 which his destiny always led him, sooner or later, when my sister was
 vigorously reaping the floors of her establishment.
 
-“And where the deuce ha’ _you_ been?” was Mrs. Joe’s Christmas
+p161 “And where the deuce ha’ _you_ been?” was Mrs. Joe’s Christmas
 salutation, when I and my conscience showed ourselves.
 
-I said I had been down to hear the Carols. “Ah! well!” observed Mrs.
+p162 I said I had been down to hear the Carols. “Ah! well!” observed Mrs.
 Joe. “You might ha’ done worse.” Not a doubt of that I thought.
 
-“Perhaps if I warn’t a blacksmith’s wife, and (what’s the same thing) a
+p163 “Perhaps if I warn’t a blacksmith’s wife, and (what’s the same thing) a
 slave with her apron never off, _I_ should have been to hear the
 Carols,” said Mrs. Joe. “I’m rather partial to Carols, myself, and
 that’s the best of reasons for my never hearing any.”
 
-Joe, who had ventured into the kitchen after me as the dustpan had
+p164 Joe, who had ventured into the kitchen after me as the dustpan had
 retired before us, drew the back of his hand across his nose with a
 conciliatory air, when Mrs. Joe darted a look at him, and, when her
 eyes were withdrawn, secretly crossed his two forefingers, and
@@ -823,7 +823,7 @@ This was so much her normal state, that Joe and I would often, for
 weeks together, be, as to our fingers, like monumental Crusaders as to
 their legs.
 
-We were to have a superb dinner, consisting of a leg of pickled pork
+p165 We were to have a superb dinner, consisting of a leg of pickled pork
 and greens, and a pair of roast stuffed fowls. A handsome mince-pie had
 been made yesterday morning (which accounted for the mincemeat not
 being missed), and the pudding was already on the boil. These extensive
@@ -832,7 +832,7 @@ breakfast; “for I ain’t,” said Mrs. Joe,—“I ain’t a-going to have no
 formal cramming and busting and washing up now, with what I’ve got
 before me, I promise you!”
 
-So, we had our slices served out, as if we were two thousand troops on
+p166 So, we had our slices served out, as if we were two thousand troops on
 a forced march instead of a man and boy at home; and we took gulps of
 milk and water, with apologetic countenances, from a jug on the
 dresser. In the meantime, Mrs. Joe put clean white curtains up, and
@@ -847,7 +847,7 @@ art of making her cleanliness more uncomfortable and unacceptable than
 dirt itself. Cleanliness is next to Godliness, and some people do the
 same by their religion.
 
-My sister, having so much to do, was going to church vicariously, that
+p167 My sister, having so much to do, was going to church vicariously, that
 is to say, Joe and I were going. In his working-clothes, Joe was a
 well-knit characteristic-looking blacksmith; in his holiday clothes, he
 was more like a scarecrow in good circumstances, than anything else.
@@ -865,7 +865,7 @@ was taken to have a new suit of clothes, the tailor had orders to make
 them like a kind of Reformatory, and on no account to let me have the
 free use of my limbs.
 
-Joe and I going to church, therefore, must have been a moving spectacle
+p168 Joe and I going to church, therefore, must have been a moving spectacle
 for compassionate minds. Yet, what I suffered outside was nothing to
 what I underwent within. The terrors that had assailed me whenever Mrs.
 Joe had gone near the pantry, or out of the room, were only to be
@@ -879,7 +879,7 @@ propose a private conference in the vestry. I am far from being sure
 that I might not have astonished our small congregation by resorting to
 this extreme measure, but for its being Christmas Day and no Sunday.
 
-Mr. Wopsle, the clerk at church, was to dine with us; and Mr. Hubble
+p169 Mr. Wopsle, the clerk at church, was to dine with us; and Mr. Hubble
 the wheelwright and Mrs. Hubble; and Uncle Pumblechook (Joe’s uncle,
 but Mrs. Joe appropriated him), who was a well-to-do cornchandler in
 the nearest town, and drove his own chaise-cart. The dinner hour was
@@ -888,7 +888,7 @@ Mrs. Joe dressed, and the dinner dressing, and the front door unlocked
 (it never was at any other time) for the company to enter by, and
 everything most splendid. And still, not a word of the robbery.
 
-The time came, without bringing with it any relief to my feelings, and
+p170 The time came, without bringing with it any relief to my feelings, and
 the company came. Mr. Wopsle, united to a Roman nose and a large
 shining bald forehead, had a deep voice which he was uncommonly proud
 of; indeed it was understood among his acquaintance that if you could
@@ -901,26 +901,26 @@ giving the whole verse,—he looked all round the congregation first, as
 much as to say, “You have heard my friend overhead; oblige me with your
 opinion of this style!”
 
-I opened the door to the company,—making believe that it was a habit of
+p171 I opened the door to the company,—making believe that it was a habit of
 ours to open that door,—and I opened it first to Mr. Wopsle, next to
 Mr. and Mrs. Hubble, and last of all to Uncle Pumblechook. N.B. _I_ was
 not allowed to call him uncle, under the severest penalties.
 
-“Mrs. Joe,” said Uncle Pumblechook, a large hard-breathing middle-aged
+p172 “Mrs. Joe,” said Uncle Pumblechook, a large hard-breathing middle-aged
 slow man, with a mouth like a fish, dull staring eyes, and sandy hair
 standing upright on his head, so that he looked as if he had just been
 all but choked, and had that moment come to, “I have brought you as the
 compliments of the season—I have brought you, Mum, a bottle of sherry
 wine—and I have brought you, Mum, a bottle of port wine.”
 
-Every Christmas Day he presented himself, as a profound novelty, with
+p173 Every Christmas Day he presented himself, as a profound novelty, with
 exactly the same words, and carrying the two bottles like dumb-bells.
 Every Christmas Day, Mrs. Joe replied, as she now replied, “O, Un—cle
 Pum-ble—chook! This _is_ kind!” Every Christmas Day, he retorted, as he
 now retorted, “It’s no more than your merits. And now are you all
 bobbish, and how’s Sixpennorth of halfpence?” meaning me.
 
-We dined on these occasions in the kitchen, and adjourned, for the nuts
+p174 We dined on these occasions in the kitchen, and adjourned, for the nuts
 and oranges and apples to the parlour; which was a change very like
 Joe’s change from his working-clothes to his Sunday dress. My sister
 was uncommonly lively on the present occasion, and indeed was generally
@@ -933,7 +933,7 @@ stooping old man, of a sawdusty fragrance, with his legs
 extraordinarily wide apart: so that in my short days I always saw some
 miles of open country between them when I met him coming up the lane.
 
-Among this good company I should have felt myself, even if I hadn’t
+p175 Among this good company I should have felt myself, even if I hadn’t
 robbed the pantry, in a false position. Not because I was squeezed in
 at an acute angle of the tablecloth, with the table in my chest, and
 the Pumblechookian elbow in my eye, nor because I was not allowed to
@@ -947,31 +947,31 @@ every now and then, and stick the point into me. I might have been an
 unfortunate little bull in a Spanish arena, I got so smartingly touched
 up by these moral goads.
 
-It began the moment we sat down to dinner. Mr. Wopsle said grace with
+p176 It began the moment we sat down to dinner. Mr. Wopsle said grace with
 theatrical declamation,—as it now appears to me, something like a
 religious cross of the Ghost in Hamlet with Richard the Third,—and
 ended with the very proper aspiration that we might be truly grateful.
 Upon which my sister fixed me with her eye, and said, in a low
 reproachful voice, “Do you hear that? Be grateful.”
 
-“Especially,” said Mr. Pumblechook, “be grateful, boy, to them which
+p177 “Especially,” said Mr. Pumblechook, “be grateful, boy, to them which
 brought you up by hand.”
 
-Mrs. Hubble shook her head, and contemplating me with a mournful
+p178 Mrs. Hubble shook her head, and contemplating me with a mournful
 presentiment that I should come to no good, asked, “Why is it that the
 young are never grateful?” This moral mystery seemed too much for the
 company until Mr. Hubble tersely solved it by saying, “Naterally
 wicious.” Everybody then murmured “True!” and looked at me in a
 particularly unpleasant and personal manner.
 
-Joe’s station and influence were something feebler (if possible) when
+p179 Joe’s station and influence were something feebler (if possible) when
 there was company than when there was none. But he always aided and
 comforted me when he could, in some way of his own, and he always did
 so at dinner-time by giving me gravy, if there were any. There being
 plenty of gravy to-day, Joe spooned into my plate, at this point, about
 half a pint.
 
-A little later on in the dinner, Mr. Wopsle reviewed the sermon with
+p180 A little later on in the dinner, Mr. Wopsle reviewed the sermon with
 some severity, and intimated—in the usual hypothetical case of the
 Church being “thrown open”—what kind of sermon _he_ would have given
 them. After favouring them with some heads of that discourse, he
@@ -979,46 +979,46 @@ remarked that he considered the subject of the day’s homily, ill
 chosen; which was the less excusable, he added, when there were so many
 subjects “going about.”
 
-“True again,” said Uncle Pumblechook. “You’ve hit it, sir! Plenty of
+p181 “True again,” said Uncle Pumblechook. “You’ve hit it, sir! Plenty of
 subjects going about, for them that know how to put salt upon their
 tails. That’s what’s wanted. A man needn’t go far to find a subject, if
 he’s ready with his salt-box.” Mr. Pumblechook added, after a short
 interval of reflection, “Look at Pork alone. There’s a subject! If you
 want a subject, look at Pork!”
 
-“True, sir. Many a moral for the young,” returned Mr. Wopsle,—and I
+p182 “True, sir. Many a moral for the young,” returned Mr. Wopsle,—and I
 knew he was going to lug me in, before he said it; “might be deduced
 from that text.”
 
-(“You listen to this,” said my sister to me, in a severe parenthesis.)
+p183 (“You listen to this,” said my sister to me, in a severe parenthesis.)
 
-Joe gave me some more gravy.
+p184 Joe gave me some more gravy.
 
-“Swine,” pursued Mr. Wopsle, in his deepest voice, and pointing his
+p185 “Swine,” pursued Mr. Wopsle, in his deepest voice, and pointing his
 fork at my blushes, as if he were mentioning my Christian name,—“swine
 were the companions of the prodigal. The gluttony of Swine is put
 before us, as an example to the young.” (I thought this pretty well in
 him who had been praising up the pork for being so plump and juicy.)
 “What is detestable in a pig is more detestable in a boy.”
 
-“Or girl,” suggested Mr. Hubble.
+p186 “Or girl,” suggested Mr. Hubble.
 
-“Of course, or girl, Mr. Hubble,” assented Mr. Wopsle, rather
+p187 “Of course, or girl, Mr. Hubble,” assented Mr. Wopsle, rather
 irritably, “but there is no girl present.”
 
-“Besides,” said Mr. Pumblechook, turning sharp on me, “think what
+p188 “Besides,” said Mr. Pumblechook, turning sharp on me, “think what
 you’ve got to be grateful for. If you’d been born a Squeaker—”
 
-“He _was_, if ever a child was,” said my sister, most emphatically.
+p189 “He _was_, if ever a child was,” said my sister, most emphatically.
 
-Joe gave me some more gravy.
+p190 Joe gave me some more gravy.
 
-“Well, but I mean a four-footed Squeaker,” said Mr. Pumblechook. “If
+p191 “Well, but I mean a four-footed Squeaker,” said Mr. Pumblechook. “If
 you had been born such, would you have been here now? Not you—”
 
-“Unless in that form,” said Mr. Wopsle, nodding towards the dish.
+p192 “Unless in that form,” said Mr. Wopsle, nodding towards the dish.
 
-“But I don’t mean in that form, sir,” returned Mr. Pumblechook, who had
+p193 “But I don’t mean in that form, sir,” returned Mr. Pumblechook, who had
 an objection to being interrupted; “I mean, enjoying himself with his
 elders and betters, and improving himself with their conversation, and
 rolling in the lap of luxury. Would he have been doing that? No, he
@@ -1031,19 +1031,19 @@ frock to get a penknife from out of his waistcoat-pocket, and he would
 have shed your blood and had your life. No bringing up by hand then.
 Not a bit of it!”
 
-Joe offered me more gravy, which I was afraid to take.
+p194 Joe offered me more gravy, which I was afraid to take.
 
-“He was a world of trouble to you, ma’am,” said Mrs. Hubble,
+p195 “He was a world of trouble to you, ma’am,” said Mrs. Hubble,
 commiserating my sister.
 
-“Trouble?” echoed my sister; “trouble?” and then entered on a fearful
+p196 “Trouble?” echoed my sister; “trouble?” and then entered on a fearful
 catalogue of all the illnesses I had been guilty of, and all the acts
 of sleeplessness I had committed, and all the high places I had tumbled
 from, and all the low places I had tumbled into, and all the injuries I
 had done myself, and all the times she had wished me in my grave, and I
 had contumaciously refused to go there.
 
-I think the Romans must have aggravated one another very much, with
+p197 I think the Romans must have aggravated one another very much, with
 their noses. Perhaps, they became the restless people they were, in
 consequence. Anyhow, Mr. Wopsle’s Roman nose so aggravated me, during
 the recital of my misdemeanours, that I should have liked to pull it
@@ -1053,23 +1053,23 @@ pause was broken which ensued upon my sister’s recital, and in which
 pause everybody had looked at me (as I felt painfully conscious) with
 indignation and abhorrence.
 
-“Yet,” said Mr. Pumblechook, leading the company gently back to the
+p198 “Yet,” said Mr. Pumblechook, leading the company gently back to the
 theme from which they had strayed, “Pork—regarded as biled—is rich,
 too; ain’t it?”
 
-“Have a little brandy, uncle,” said my sister.
+p199 “Have a little brandy, uncle,” said my sister.
 
-O Heavens, it had come at last! He would find it was weak, he would say
+p200 O Heavens, it had come at last! He would find it was weak, he would say
 it was weak, and I was lost! I held tight to the leg of the table under
 the cloth, with both hands, and awaited my fate.
 
-My sister went for the stone bottle, came back with the stone bottle,
+p201 My sister went for the stone bottle, came back with the stone bottle,
 and poured his brandy out: no one else taking any. The wretched man
 trifled with his glass,—took it up, looked at it through the light, put
 it down,—prolonged my misery. All this time Mrs. Joe and Joe were
 briskly clearing the table for the pie and pudding.
 
-I couldn’t keep my eyes off him. Always holding tight by the leg of the
+p202 I couldn’t keep my eyes off him. Always holding tight by the leg of the
 table with my hands and feet, I saw the miserable creature finger his
 glass playfully, take it up, smile, throw his head back, and drink the
 brandy off. Instantly afterwards, the company were seized with
@@ -1079,20 +1079,20 @@ rushing out at the door; he then became visible through the window,
 violently plunging and expectorating, making the most hideous faces,
 and apparently out of his mind.
 
-I held on tight, while Mrs. Joe and Joe ran to him. I didn’t know how I
+p203 I held on tight, while Mrs. Joe and Joe ran to him. I didn’t know how I
 had done it, but I had no doubt I had murdered him somehow. In my
 dreadful situation, it was a relief when he was brought back, and
 surveying the company all round as if _they_ had disagreed with him,
 sank down into his chair with the one significant gasp, “Tar!”
 
-I had filled up the bottle from the tar-water jug. I knew he would be
+p204 I had filled up the bottle from the tar-water jug. I knew he would be
 worse by and by. I moved the table, like a Medium of the present day,
 by the vigor of my unseen hold upon it.
 
-“Tar!” cried my sister, in amazement. “Why, how ever could Tar come
+p205 “Tar!” cried my sister, in amazement. “Why, how ever could Tar come
 there?”
 
-But, Uncle Pumblechook, who was omnipotent in that kitchen, wouldn’t
+p206 But, Uncle Pumblechook, who was omnipotent in that kitchen, wouldn’t
 hear the word, wouldn’t hear of the subject, imperiously waved it all
 away with his hand, and asked for hot gin and water. My sister, who had
 begun to be alarmingly meditative, had to employ herself actively in
@@ -1101,32 +1101,32 @@ mixing them. For the time being at least, I was saved. I still held on
 to the leg of the table, but clutched it now with the fervor of
 gratitude.
 
-By degrees, I became calm enough to release my grasp and partake of
+p207 By degrees, I became calm enough to release my grasp and partake of
 pudding. Mr. Pumblechook partook of pudding. All partook of pudding.
 The course terminated, and Mr. Pumblechook had begun to beam under the
 genial influence of gin and water. I began to think I should get over
 the day, when my sister said to Joe, “Clean plates,—cold.”
 
-I clutched the leg of the table again immediately, and pressed it to my
+p208 I clutched the leg of the table again immediately, and pressed it to my
 bosom as if it had been the companion of my youth and friend of my
 soul. I foresaw what was coming, and I felt that this time I really was
 gone.
 
-“You must taste,” said my sister, addressing the guests with her best
+p209 “You must taste,” said my sister, addressing the guests with her best
 grace—“you must taste, to finish with, such a delightful and delicious
 present of Uncle Pumblechook’s!”
 
-Must they! Let them not hope to taste it!
+p210 Must they! Let them not hope to taste it!
 
-“You must know,” said my sister, rising, “it’s a pie; a savory pork
+p211 “You must know,” said my sister, rising, “it’s a pie; a savory pork
 pie.”
 
-The company murmured their compliments. Uncle Pumblechook, sensible of
+p212 The company murmured their compliments. Uncle Pumblechook, sensible of
 having deserved well of his fellow-creatures, said,—quite vivaciously,
 all things considered,—“Well, Mrs. Joe, we’ll do our best endeavours;
 let us have a cut at this same pie.”
 
-My sister went out to get it. I heard her steps proceed to the pantry.
+p213 My sister went out to get it. I heard her steps proceed to the pantry.
 I saw Mr. Pumblechook balance his knife. I saw reawakening appetite in
 the Roman nostrils of Mr. Wopsle. I heard Mr. Hubble remark that “a bit
 of savory pork pie would lay atop of anything you could mention, and do
@@ -1136,49 +1136,49 @@ merely in spirit, or in the bodily hearing of the company. I felt that
 I could bear no more, and that I must run away. I released the leg of
 the table, and ran for my life.
 
-But I ran no farther than the house door, for there I ran head-foremost
+p214 But I ran no farther than the house door, for there I ran head-foremost
 into a party of soldiers with their muskets, one of whom held out a
 pair of handcuffs to me, saying, “Here you are, look sharp, come on!”
 
 
 
 
-Chapter V.
+p215 Chapter V.
 
 
-The apparition of a file of soldiers ringing down the but-ends of their
+p216 The apparition of a file of soldiers ringing down the but-ends of their
 loaded muskets on our door-step, caused the dinner-party to rise from
 table in confusion, and caused Mrs. Joe re-entering the kitchen
 empty-handed, to stop short and stare, in her wondering lament of
 “Gracious goodness gracious me, what’s gone—with the—pie!”
 
-The sergeant and I were in the kitchen when Mrs. Joe stood staring; at
+p217 The sergeant and I were in the kitchen when Mrs. Joe stood staring; at
 which crisis I partially recovered the use of my senses. It was the
 sergeant who had spoken to me, and he was now looking round at the
 company, with his handcuffs invitingly extended towards them in his
 right hand, and his left on my shoulder.
 
-“Excuse me, ladies and gentleman,” said the sergeant, “but as I have
+p218 “Excuse me, ladies and gentleman,” said the sergeant, “but as I have
 mentioned at the door to this smart young shaver,” (which he hadn’t),
 “I am on a chase in the name of the king, and I want the blacksmith.”
 
-“And pray what might you want with _him_?” retorted my sister, quick to
+p219 “And pray what might you want with _him_?” retorted my sister, quick to
 resent his being wanted at all.
 
-“Missis,” returned the gallant sergeant, “speaking for myself, I should
+p220 “Missis,” returned the gallant sergeant, “speaking for myself, I should
 reply, the honour and pleasure of his fine wife’s acquaintance;
 speaking for the king, I answer, a little job done.”
 
-This was received as rather neat in the sergeant; insomuch that Mr.
+p221 This was received as rather neat in the sergeant; insomuch that Mr.
 Pumblechook cried audibly, “Good again!”
 
-“You see, blacksmith,” said the sergeant, who had by this time picked
+p222 “You see, blacksmith,” said the sergeant, who had by this time picked
 out Joe with his eye, “we have had an accident with these, and I find
 the lock of one of ’em goes wrong, and the coupling don’t act pretty.
 As they are wanted for immediate service, will you throw your eye over
 them?”
 
-Joe threw his eye over them, and pronounced that the job would
+p223 Joe threw his eye over them, and pronounced that the job would
 necessitate the lighting of his forge fire, and would take nearer two
 hours than one. “Will it? Then will you set about it at once,
 blacksmith?” said the off-hand sergeant, “as it’s on his Majesty’s
@@ -1190,47 +1190,47 @@ loosely clasped before them; now, resting a knee or a shoulder; now,
 easing a belt or a pouch; now, opening the door to spit stiffly over
 their high stocks, out into the yard.
 
-All these things I saw without then knowing that I saw them, for I was
+p224 All these things I saw without then knowing that I saw them, for I was
 in an agony of apprehension. But beginning to perceive that the
 handcuffs were not for me, and that the military had so far got the
 better of the pie as to put it in the background, I collected a little
 more of my scattered wits.
 
-“Would you give me the time?” said the sergeant, addressing himself to
+p225 “Would you give me the time?” said the sergeant, addressing himself to
 Mr. Pumblechook, as to a man whose appreciative powers justified the
 inference that he was equal to the time.
 
-“It’s just gone half past two.”
+p226 “It’s just gone half past two.”
 
-“That’s not so bad,” said the sergeant, reflecting; “even if I was
+p227 “That’s not so bad,” said the sergeant, reflecting; “even if I was
 forced to halt here nigh two hours, that’ll do. How far might you call
 yourselves from the marshes, hereabouts? Not above a mile, I reckon?”
 
-“Just a mile,” said Mrs. Joe.
+p228 “Just a mile,” said Mrs. Joe.
 
-“That’ll do. We begin to close in upon ’em about dusk. A little before
+p229 “That’ll do. We begin to close in upon ’em about dusk. A little before
 dusk, my orders are. That’ll do.”
 
-“Convicts, sergeant?” asked Mr. Wopsle, in a matter-of-course way.
+p230 “Convicts, sergeant?” asked Mr. Wopsle, in a matter-of-course way.
 
-“Ay!” returned the sergeant, “two. They’re pretty well known to be out
+p231 “Ay!” returned the sergeant, “two. They’re pretty well known to be out
 on the marshes still, and they won’t try to get clear of ’em before
 dusk. Anybody here seen anything of any such game?”
 
-Everybody, myself excepted, said no, with confidence. Nobody thought of
+p232 Everybody, myself excepted, said no, with confidence. Nobody thought of
 me.
 
-“Well!” said the sergeant, “they’ll find themselves trapped in a
+p233 “Well!” said the sergeant, “they’ll find themselves trapped in a
 circle, I expect, sooner than they count on. Now, blacksmith! If you’re
 ready, his Majesty the King is.”
 
-Joe had got his coat and waistcoat and cravat off, and his leather
+p234 Joe had got his coat and waistcoat and cravat off, and his leather
 apron on, and passed into the forge. One of the soldiers opened its
 wooden windows, another lighted the fire, another turned to at the
 bellows, the rest stood round the blaze, which was soon roaring. Then
 Joe began to hammer and clink, hammer and clink, and we all looked on.
 
-The interest of the impending pursuit not only absorbed the general
+p235 The interest of the impending pursuit not only absorbed the general
 attention, but even made my sister liberal. She drew a pitcher of beer
 from the cask for the soldiers, and invited the sergeant to take a
 glass of brandy. But Mr. Pumblechook said, sharply, “Give him wine,
@@ -1240,26 +1240,26 @@ wine, if it was equally convenient. When it was given him, he drank his
 Majesty’s health and compliments of the season, and took it all at a
 mouthful and smacked his lips.
 
-“Good stuff, eh, sergeant?” said Mr. Pumblechook.
+p236 “Good stuff, eh, sergeant?” said Mr. Pumblechook.
 
-“I’ll tell you something,” returned the sergeant; “I suspect that
+p237 “I’ll tell you something,” returned the sergeant; “I suspect that
 stuff’s of _your_ providing.”
 
-Mr. Pumblechook, with a fat sort of laugh, said, “Ay, ay? Why?”
+p238 Mr. Pumblechook, with a fat sort of laugh, said, “Ay, ay? Why?”
 
-“Because,” returned the sergeant, clapping him on the shoulder, “you’re
+p239 “Because,” returned the sergeant, clapping him on the shoulder, “you’re
 a man that knows what’s what.”
 
-“D’ye think so?” said Mr. Pumblechook, with his former laugh. “Have
+p240 “D’ye think so?” said Mr. Pumblechook, with his former laugh. “Have
 another glass!”
 
-“With you. Hob and nob,” returned the sergeant. “The top of mine to the
+p241 “With you. Hob and nob,” returned the sergeant. “The top of mine to the
 foot of yours,—the foot of yours to the top of mine,—Ring once, ring
 twice,—the best tune on the Musical Glasses! Your health. May you live
 a thousand years, and never be a worse judge of the right sort than you
 are at the present moment of your life!”
 
-The sergeant tossed off his glass again and seemed quite ready for
+p242 The sergeant tossed off his glass again and seemed quite ready for
 another glass. I noticed that Mr. Pumblechook in his hospitality
 appeared to forget that he had made a present of the wine, but took the
 bottle from Mrs. Joe and had all the credit of handing it about in a
@@ -1267,7 +1267,7 @@ gush of joviality. Even I got some. And he was so very free of the wine
 that he even called for the other bottle, and handed that about with
 the same liberality, when the first was gone.
 
-As I watched them while they all stood clustering about the forge,
+p243 As I watched them while they all stood clustering about the forge,
 enjoying themselves so much, I thought what terrible good sauce for a
 dinner my fugitive friend on the marshes was. They had not enjoyed
 themselves a quarter so much, before the entertainment was brightened
@@ -1280,7 +1280,7 @@ blaze rose and sank, and the red-hot sparks dropped and died, the pale
 afternoon outside almost seemed in my pitying young fancy to have
 turned pale on their account, poor wretches.
 
-At last, Joe’s job was done, and the ringing and roaring stopped. As
+p244 At last, Joe’s job was done, and the ringing and roaring stopped. As
 Joe got on his coat, he mustered courage to propose that some of us
 should go down with the soldiers and see what came of the hunt. Mr.
 Pumblechook and Mr. Hubble declined, on the plea of a pipe and ladies’
@@ -1291,7 +1291,7 @@ all about it and how it ended. As it was, she merely stipulated, “If
 you bring the boy back with his head blown to bits by a musket, don’t
 look to me to put it together again.”
 
-The sergeant took a polite leave of the ladies, and parted from Mr.
+p245 The sergeant took a polite leave of the ladies, and parted from Mr.
 Pumblechook as from a comrade; though I doubt if he were quite as fully
 sensible of that gentleman’s merits under arid conditions, as when
 something moist was going. His men resumed their muskets and fell in.
@@ -1302,7 +1302,7 @@ treasonably whispered to Joe, “I hope, Joe, we shan’t find them.” and
 Joe whispered to me, “I’d give a shilling if they had cut and run,
 Pip.”
 
-We were joined by no stragglers from the village, for the weather was
+p246 We were joined by no stragglers from the village, for the weather was
 cold and threatening, the way dreary, the footing bad, darkness coming
 on, and the people had good fires in-doors and were keeping the day. A
 few faces hurried to glowing windows and looked after us, but none came
@@ -1314,7 +1314,7 @@ anything, and then we struck out on the open marshes, through the gate
 at the side of the churchyard. A bitter sleet came rattling against us
 here on the east wind, and Joe took me on his back.
 
-Now that we were out upon the dismal wilderness where they little
+p247 Now that we were out upon the dismal wilderness where they little
 thought I had been within eight or nine hours and had seen both men
 hiding, I considered for the first time, with great dread, if we should
 come upon them, would my particular convict suppose that it was I who
@@ -1323,7 +1323,7 @@ imp, and he had said I should be a fierce young hound if I joined the
 hunt against him. Would he believe that I was both imp and hound in
 treacherous earnest, and had betrayed him?
 
-It was of no use asking myself this question now. There I was, on Joe’s
+p248 It was of no use asking myself this question now. There I was, on Joe’s
 back, and there was Joe beneath me, charging at the ditches like a
 hunter, and stimulating Mr. Wopsle not to tumble on his Roman nose, and
 to keep up with us. The soldiers were in front of us, extending into a
@@ -1334,7 +1334,7 @@ Under the low red glare of sunset, the beacon, and the gibbet, and the
 mound of the Battery, and the opposite shore of the river, were plain,
 though all of a watery lead colour.
 
-With my heart thumping like a blacksmith at Joe’s broad shoulder, I
+p249 With my heart thumping like a blacksmith at Joe’s broad shoulder, I
 looked all about for any sign of the convicts. I could see none, I
 could hear none. Mr. Wopsle had greatly alarmed me more than once, by
 his blowing and hard breathing; but I knew the sounds by this time, and
@@ -1346,14 +1346,14 @@ angrily as if they held us responsible for both annoyances; but, except
 these things, and the shudder of the dying day in every blade of grass,
 there was no break in the bleak stillness of the marshes.
 
-The soldiers were moving on in the direction of the old Battery, and we
+p250 The soldiers were moving on in the direction of the old Battery, and we
 were moving on a little way behind them, when, all of a sudden, we all
 stopped. For there had reached us on the wings of the wind and rain, a
 long shout. It was repeated. It was at a distance towards the east, but
 it was long and loud. Nay, there seemed to be two or more shouts raised
 together,—if one might judge from a confusion in the sound.
 
-To this effect the sergeant and the nearest men were speaking under
+p251 To this effect the sergeant and the nearest men were speaking under
 their breath, when Joe and I came up. After another moment’s listening,
 Joe (who was a good judge) agreed, and Mr. Wopsle (who was a bad judge)
 agreed. The sergeant, a decisive man, ordered that the sound should not
@@ -1362,7 +1362,7 @@ should make towards it “at the double.” So we slanted to the right
 (where the East was), and Joe pounded away so wonderfully, that I had
 to hold on tight to keep my seat.
 
-It was a run indeed now, and what Joe called, in the only two words he
+p252 It was a run indeed now, and what Joe called, in the only two words he
 spoke all the time, “a Winder.” Down banks and up banks, and over
 gates, and splashing into dikes, and breaking among coarse rushes: no
 man cared where he went. As we came nearer to the shouting, it became
@@ -1376,41 +1376,41 @@ both voices would seem to be stifled in a struggle, and then would
 break out again. And when it had come to this, the soldiers ran like
 deer, and Joe too.
 
-The sergeant ran in first, when we had run the noise quite down, and
+p253 The sergeant ran in first, when we had run the noise quite down, and
 two of his men ran in close upon him. Their pieces were cocked and
 levelled when we all ran in.
 
-“Here are both men!” panted the sergeant, struggling at the bottom of a
+p254 “Here are both men!” panted the sergeant, struggling at the bottom of a
 ditch. “Surrender, you two! and confound you for two wild beasts! Come
 asunder!”
 
-Water was splashing, and mud was flying, and oaths were being sworn,
+p255 Water was splashing, and mud was flying, and oaths were being sworn,
 and blows were being struck, when some more men went down into the
 ditch to help the sergeant, and dragged out, separately, my convict and
 the other one. Both were bleeding and panting and execrating and
 struggling; but of course I knew them both directly.
 
-“Mind!” said my convict, wiping blood from his face with his ragged
+p256 “Mind!” said my convict, wiping blood from his face with his ragged
 sleeves, and shaking torn hair from his fingers: “_I_ took him! _I_
 give him up to you! Mind that!”
 
-“It’s not much to be particular about,” said the sergeant; “it’ll do
+p257 “It’s not much to be particular about,” said the sergeant; “it’ll do
 you small good, my man, being in the same plight yourself. Handcuffs
 there!”
 
-“I don’t expect it to do me any good. I don’t want it to do me more
+p258 “I don’t expect it to do me any good. I don’t want it to do me more
 good than it does now,” said my convict, with a greedy laugh. “I took
 him. He knows it. That’s enough for me.”
 
-The other convict was livid to look at, and, in addition to the old
+p259 The other convict was livid to look at, and, in addition to the old
 bruised left side of his face, seemed to be bruised and torn all over.
 He could not so much as get his breath to speak, until they were both
 separately handcuffed, but leaned upon a soldier to keep himself from
 falling.
 
-“Take notice, guard,—he tried to murder me,” were his first words.
+p260 “Take notice, guard,—he tried to murder me,” were his first words.
 
-“Tried to murder him?” said my convict, disdainfully. “Try, and not do
+p261 “Tried to murder him?” said my convict, disdainfully. “Try, and not do
 it? I took him, and giv’ him up; that’s what I done. I not only
 prevented him getting off the marshes, but I dragged him here,—dragged
 him this far on his way back. He’s a gentleman, if you please, this
@@ -1418,10 +1418,10 @@ villain. Now, the Hulks has got its gentleman again, through me. Murder
 him? Worth my while, too, to murder him, when I could do worse and drag
 him back!”
 
-The other one still gasped, “He tried—he tried-to—murder me. Bear—bear
+p262 The other one still gasped, “He tried—he tried-to—murder me. Bear—bear
 witness.”
 
-“Lookee here!” said my convict to the sergeant. “Single-handed I got
+p263 “Lookee here!” said my convict to the sergeant. “Single-handed I got
 clear of the prison-ship; I made a dash and I done it. I could ha’ got
 clear of these death-cold flats likewise—look at my leg: you won’t find
 much iron on it—if I hadn’t made the discovery that _he_ was here. Let
@@ -1431,15 +1431,15 @@ died at the bottom there,” and he made an emphatic swing at the ditch
 with his manacled hands, “I’d have held to him with that grip, that you
 should have been safe to find him in my hold.”
 
-The other fugitive, who was evidently in extreme horror of his
+p264 The other fugitive, who was evidently in extreme horror of his
 companion, repeated, “He tried to murder me. I should have been a dead
 man if you had not come up.”
 
-“He lies!” said my convict, with fierce energy. “He’s a liar born, and
+p265 “He lies!” said my convict, with fierce energy. “He’s a liar born, and
 he’ll die a liar. Look at his face; ain’t it written there? Let him
 turn those eyes of his on me. I defy him to do it.”
 
-The other, with an effort at a scornful smile, which could not,
+p266 The other, with an effort at a scornful smile, which could not,
 however, collect the nervous working of his mouth into any set
 expression, looked at the soldiers, and looked about at the marshes and
 at the sky, but certainly did not look at the speaker.
