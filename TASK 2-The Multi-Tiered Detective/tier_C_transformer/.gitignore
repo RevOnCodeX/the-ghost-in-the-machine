@@ -1,0 +1,7 @@
+.env
+*.bin
+*.pt
+*.safetensors
+checkpoint-*
+__pycache__/
+wandb/

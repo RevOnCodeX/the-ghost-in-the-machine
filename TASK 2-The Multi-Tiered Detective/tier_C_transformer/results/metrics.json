@@ -1,0 +1,24 @@
+{
+  "random_split": {
+    "test_loss": 0.21869663894176483,
+    "test_accuracy": 0.9111111111111111,
+    "test_f1": 0.9145299145299145,
+    "test_precision": 0.8770491803278688,
+    "test_recall": 0.9553571428571429,
+    "test_roc_auc": 0.9852243994943111,
+    "test_runtime": 10.5646,
+    "test_samples_per_second": 21.298,
+    "test_steps_per_second": 2.745
+  },
+  "book_split": {
+    "test_loss": 0.1032964363694191,
+    "test_accuracy": 0.9641025641025641,
+    "test_f1": 0.9651741293532339,
+    "test_precision": 0.9371980676328503,
+    "test_recall": 0.9948717948717949,
+    "test_roc_auc": 0.9938461538461538,
+    "test_runtime": 18.3201,
+    "test_samples_per_second": 21.288,
+    "test_steps_per_second": 2.675
+  }
+}
