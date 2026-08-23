@@ -1,0 +1,31 @@
+{
+  "novel": "Great Expectations",
+  "author": "Charles Dickens",
+  "topics": [
+    {
+      "topic_id": "T01",
+      "topic_name": "Social Class and Ambition",
+      "topic_description": "The tension between social position, personal ambition, wealth, and the desire to improve one's place in society."
+    },
+    {
+      "topic_id": "T02",
+      "topic_name": "Guilt and Redemption",
+      "topic_description": "The psychological weight of past actions and the journey toward moral purification."
+    },
+    {
+      "topic_id": "T03",
+      "topic_name": "Illusions vs. Reality",
+      "topic_description": "The contrast between romanticized ideals (like wealth or Estella) and their harsh truths."
+    },
+    {
+      "topic_id": "T04",
+      "topic_name": "Family and Loss",
+      "topic_description": "The influence of family relationships, separation, death, and emotional attachment."
+    },
+    {
+      "topic_id": "T05",
+      "topic_name": "Crime and Justice",
+      "topic_description": "The legal system, the treatment of convicts, and the nature of criminality."
+    }
+  ]
+}

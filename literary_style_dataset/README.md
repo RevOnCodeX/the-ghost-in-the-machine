@@ -20,8 +20,14 @@ literary_style_dataset/
 │   ├── dickens/
 │   └── austen/
 │
+├── lib/
+│   └── dataset/           # Structured semantic datasets generated via API
+│       ├── dickens/
+│       └── austen/
+│
 ├── scripts/
-│   └── clean_dataset.py   # The data-cleaning pipeline
+│   ├── clean_dataset.py   # The data-cleaning pipeline
+│   └── generate_semantic_dataset.py # Mock script for generating datasets via API
 │
 └── README.md
 ```
@@ -84,6 +90,17 @@ To run the pipeline and generate the `cleaned/` directory:
    python3 scripts/clean_dataset.py
    ```
 
-The script will automatically detect the `.txt` files in `raw/dickens/` and `raw/austen/`, process them, and output the cleaned versions with a `_cleaned.txt` suffix into the `cleaned/` directory. It also provides a console report detailing character counts, word counts, and lines removed/merged for validation.
+## 🧠 Semantic Dataset
 
-To add a new book to the dataset, simply drop the raw `.txt` file into the appropriate `raw/` subdirectory and rerun the script.
+In addition to the cleaned literary text, this project includes a structured semantic dataset located in the `lib/dataset/` directory.
+
+This dataset consists of:
+- **`*_topics.json`**: Contains 5-10 core recurring semantic topics (themes, ideas, conflicts) extracted for each novel.
+- **`*_paragraphs.jsonl`**: A paragraph-level dataset where every meaningful paragraph is structurally annotated with:
+  - A concise summary
+  - Primary and secondary semantic topics
+  - Key entities (characters, locations)
+  - Key events
+  - Semantic keywords
+
+**Important**: The `paragraph_text` field in these JSONL files contains the *exact, unmodified* text from the `cleaned/` directory. No original stylistic elements have been altered in the dataset creation process.
