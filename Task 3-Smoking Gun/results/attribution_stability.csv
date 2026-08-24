@@ -1,0 +1,6 @@
+paragraph_id,spearman_correlation,steps_a,steps_b
+pride_and_prejudice_TFamil_P21,0.9392609146779474,50,100
+pride_and_prejudice_TFamil_P48,0.2563017627533757,50,100
+pride_and_prejudice_TReput_P18,0.8831224055887416,50,100
+pride_and_prejudice_TPride_P13,0.30308123249299723,50,100
+pride_and_prejudice_TReput_P10,0.9710309424617252,50,100

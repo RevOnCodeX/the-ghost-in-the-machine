@@ -1,0 +1,15 @@
+{
+    "python_version": "3.9",
+    "pytorch_version": "2.x",
+    "transformers_version": "4.x",
+    "peft_version": "0.x",
+    "captum_version": "0.8.0",
+    "random_seed": 42,
+    "numpy_seed": 42,
+    "pytorch_seed": 42,
+    "cuda_availability": "Depends on local env (CPU/MPS/CUDA fallback handled)",
+    "model_checkpoint": "roberta-base",
+    "lora_adapter": "tier_C_transformer/models/roberta_lora_detector/book_split",
+    "n_steps_ig": 50,
+    "baseline_strategy": "<pad> token embedding representation"
+}

@@ -1,0 +1,23 @@
+term,odds_ratio,p_value,human_rate,ai_rate,fdr_p_value,significant
+tapestry,,1.0,0.0,0.0,1.0,False
+delve,,1.0,0.0,0.0,1.0,False
+testament,,1.0,0.0,0.0,1.0,False
+realm,,1.0,0.0,0.0,1.0,False
+multifaceted,,1.0,0.0,0.0,1.0,False
+nuanced,0.0,1.0,0.0,0.005128205128205128,1.0,False
+furthermore,0.0,1.0,0.0,0.005128205128205128,1.0,False
+moreover,0.39378238341968913,0.4488746193325616,0.010256410256410256,0.02564102564102564,1.0,False
+underscore,,1.0,0.0,0.0,1.0,False
+showcase,,1.0,0.0,0.0,1.0,False
+landscape,,1.0,0.0,0.0,1.0,False
+intricate,0.49742268041237114,1.0,0.005128205128205128,0.010256410256410256,1.0,False
+vibrant,,1.0,0.0,0.0,1.0,False
+foster,,1.0,0.0,0.0,1.0,False
+embark,,1.0,0.0,0.0,1.0,False
+paramount,,1.0,0.0,0.0,1.0,False
+pivotal,,1.0,0.0,0.0,1.0,False
+commendable,0.6632124352331606,1.0,0.010256410256410256,0.015384615384615385,1.0,False
+notably,0.0,0.4987146529562982,0.0,0.010256410256410256,1.0,False
+arguably,,1.0,0.0,0.0,1.0,False
+ever-evolving,,1.0,0.0,0.0,1.0,False
+in today's world,,1.0,0.0,0.0,1.0,False

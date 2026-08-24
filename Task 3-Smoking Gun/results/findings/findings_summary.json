@@ -1,0 +1,30 @@
+{
+    "strongest_ai_isms": [],
+    "strongest_attributed_words": [],
+    "strongest_attributed_phrases": [
+        "make it out.\u00e2\u0122\u013f",
+        "it out.\u00e2\u0122\u013f",
+        "before the ladies.\u00e2\u0122\u013f",
+        "the ladies.\u00e2\u0122\u013f",
+        "miserable. They assuaged"
+    ],
+    "rhythm_features": {
+        "human_mean_sentence_length": 18.898937922411204,
+        "ai_mean_sentence_length": 15.3297710925222,
+        "human_sentence_length_cv": 0.6047567467720939,
+        "ai_sentence_length_cv": 0.5547785969217985
+    },
+    "punctuation_features": [],
+    "attribution_concentration": {
+        "top_1_mean_share": 0.19460033117374304,
+        "top_5_mean_share": 0.48225427809930155,
+        "top_10_mean_share": 0.6622871477852051,
+        "top_20_mean_share": 0.8323742953828581
+    },
+    "ablation_results": {
+        "mean_ai_ism_prob_change": 0.0,
+        "mean_attribution_prob_change": -0.08973474204540251
+    },
+    "dickens_results": {},
+    "austen_results": {}
+}

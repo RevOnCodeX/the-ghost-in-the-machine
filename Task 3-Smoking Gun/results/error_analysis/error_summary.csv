@@ -1,0 +1,4 @@
+paragraph_id,author,book,ai_probability,main_error_hypothesis,strongest_ai_attribution,strongest_statistical_anomaly,ai_isms_present,sentence_rhythm_anomaly,punctuation_anomaly,repetition_anomaly,counterfactual_effect,confidence
+pride_and_prejudice_TClass_P26,austen,pride_and_prejudice,0.9981643557548524,AI-like sentence rhythm,ourn,hapax_count (Z=2.91),None,Yes,No,No,"Token Drop: 0.00, Phrase Drop: -0.00",High
+pride_and_prejudice_TReput_P20,austen,pride_and_prejudice,0.9981643557548524,AI-like sentence rhythm,ourn,hapax_count (Z=2.91),None,Yes,No,No,"Token Drop: 0.00, Phrase Drop: -0.00",High
+pride_and_prejudice_TClass_P22,austen,pride_and_prejudice,0.945605993270874,Strong stylistic regularity (phrase dependence),ľ,repeated_word_ratio (Z=-1.38),None,No,No,No,"Token Drop: 0.83, Phrase Drop: 0.46",High

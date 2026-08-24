@@ -1,0 +1,835 @@
+paragraph_id,phrase,phrase_length,attribution,absolute_attribution,rank
+pride_and_prejudice_TFamil_P21,Her performance,2,0.25927556306123734,0.25927556306123734,3.0
+pride_and_prejudice_TFamil_P21,performance was,2,0.09093641303479671,0.09093641303479671,18.0
+pride_and_prejudice_TFamil_P21,"was agreeable,",2,0.18741670809686184,0.18741670809686184,7.0
+pride_and_prejudice_TFamil_P21,"agreeable, though",2,0.2736183777451515,0.2736183777451515,2.0
+pride_and_prejudice_TFamil_P21,though not,2,0.09452278260141611,0.09452278260141611,15.0
+pride_and_prejudice_TFamil_P21,not outstanding.,2,-0.11313208099454641,0.11313208099454641,11.0
+pride_and_prejudice_TFamil_P21,outstanding. After,2,-0.10524853598326445,0.10524853598326445,12.0
+pride_and_prejudice_TFamil_P21,After a,2,-0.037109158001840115,0.037109158001840115,39.0
+pride_and_prejudice_TFamil_P21,a song,2,0.033682141453027725,0.033682141453027725,41.0
+pride_and_prejudice_TFamil_P21,song or,2,0.1044627595692873,0.1044627595692873,14.0
+pride_and_prejudice_TFamil_P21,or two,2,0.0580214224755764,0.0580214224755764,28.0
+pride_and_prejudice_TFamil_P21,two and,2,0.010926859453320503,0.010926859453320503,51.0
+pride_and_prejudice_TFamil_P21,and before,2,-0.03468671813607216,0.03468671813607216,40.0
+pride_and_prejudice_TFamil_P21,before she,2,-0.030704893171787262,0.030704893171787262,43.0
+pride_and_prejudice_TFamil_P21,she could,2,-0.023663313128054142,0.023663313128054142,45.0
+pride_and_prejudice_TFamil_P21,could answer,2,-0.00646368321031332,0.00646368321031332,57.0
+pride_and_prejudice_TFamil_P21,answer the,2,0.007855478674173355,0.007855478674173355,54.0
+pride_and_prejudice_TFamil_P21,the various,2,0.06371135823428631,0.06371135823428631,23.0
+pride_and_prejudice_TFamil_P21,various entreaties,2,0.22797759994864464,0.22797759994864464,5.0
+pride_and_prejudice_TFamil_P21,entreaties to,2,0.19247511588037014,0.19247511588037014,6.0
+pride_and_prejudice_TFamil_P21,to sing,2,0.09014811553061008,0.09014811553061008,19.0
+pride_and_prejudice_TFamil_P21,"sing again,",2,0.07519996631890535,0.07519996631890535,21.0
+pride_and_prejudice_TFamil_P21,"again, she",2,0.06706407014280558,0.06706407014280558,22.0
+pride_and_prejudice_TFamil_P21,she yielded,2,0.0941723994910717,0.0941723994910717,16.0
+pride_and_prejudice_TFamil_P21,yielded the,2,0.046014443039894104,0.046014443039894104,33.0
+pride_and_prejudice_TFamil_P21,the instrument,2,0.059696316719055176,0.059696316719055176,26.0
+pride_and_prejudice_TFamil_P21,instrument eagerly,2,0.04700431553646922,0.04700431553646922,32.0
+pride_and_prejudice_TFamil_P21,eagerly to,2,0.060488011222332716,0.060488011222332716,25.0
+pride_and_prejudice_TFamil_P21,to her,2,0.05016825348138809,0.05016825348138809,31.0
+pride_and_prejudice_TFamil_P21,her sister,2,-0.006690323352813721,0.006690323352813721,56.0
+pride_and_prejudice_TFamil_P21,"sister Mary,",2,-0.012843108735978603,0.012843108735978603,49.0
+pride_and_prejudice_TFamil_P21,"Mary, who,",2,-0.030765166506171227,0.030765166506171227,42.0
+pride_and_prejudice_TFamil_P21,"who, being",2,0.01621661428362131,0.01621661428362131,47.0
+pride_and_prejudice_TFamil_P21,being the,2,0.0433414988219738,0.0433414988219738,34.0
+pride_and_prejudice_TFamil_P21,the only,2,0.030129970982670784,0.030129970982670784,44.0
+pride_and_prejudice_TFamil_P21,only plain,2,0.015656459610909224,0.015656459610909224,48.0
+pride_and_prejudice_TFamil_P21,plain sister,2,0.006861784029752016,0.006861784029752016,55.0
+pride_and_prejudice_TFamil_P21,sister in,2,0.042620654217898846,0.042620654217898846,35.0
+pride_and_prejudice_TFamil_P21,in the,2,0.059175558388233185,0.059175558388233185,27.0
+pride_and_prejudice_TFamil_P21,the family,2,0.012583194300532341,0.012583194300532341,50.0
+pride_and_prejudice_TFamil_P21,family and,2,-0.010053372010588646,0.010053372010588646,52.0
+pride_and_prejudice_TFamil_P21,and thus,2,0.054870620369911194,0.054870620369911194,29.0
+pride_and_prejudice_TFamil_P21,thus eager,2,0.08285466581583023,0.08285466581583023,20.0
+pride_and_prejudice_TFamil_P21,eager to,2,0.10511841252446175,0.10511841252446175,13.0
+pride_and_prejudice_TFamil_P21,to acquire,2,0.13529109582304955,0.13529109582304955,8.0
+pride_and_prejudice_TFamil_P21,acquire knowledge,2,0.06311615463346243,0.06311615463346243,24.0
+pride_and_prejudice_TFamil_P21,knowledge and,2,-0.008719597943127155,0.008719597943127155,53.0
+pride_and_prejudice_TFamil_P21,"and accomplishments,",2,0.03922709450125694,0.03922709450125694,38.0
+pride_and_prejudice_TFamil_P21,"accomplishments, was",2,0.11681070551276207,0.11681070551276207,10.0
+pride_and_prejudice_TFamil_P21,was perpetually,2,0.02116335555911064,0.02116335555911064,46.0
+pride_and_prejudice_TFamil_P21,perpetually eager,2,0.09370457753539085,0.09370457753539085,17.0
+pride_and_prejudice_TFamil_P21,eager for,2,0.2571115717291832,0.2571115717291832,4.0
+pride_and_prejudice_TFamil_P21,for an,2,0.1197220990434289,0.1197220990434289,9.0
+pride_and_prejudice_TFamil_P21,an opportunity,2,0.03993503097444773,0.03993503097444773,37.0
+pride_and_prejudice_TFamil_P21,opportunity to,2,0.053547135554254055,0.053547135554254055,30.0
+pride_and_prejudice_TFamil_P21,to display,2,0.0416439538821578,0.0416439538821578,36.0
+pride_and_prejudice_TFamil_P21,display them.,2,-0.5970959067344666,0.5970959067344666,1.0
+pride_and_prejudice_TFamil_P21,Her performance was,3,0.27126132510602474,0.27126132510602474,3.0
+pride_and_prejudice_TFamil_P21,"performance was agreeable,",3,0.26636735908687115,0.26636735908687115,5.0
+pride_and_prejudice_TFamil_P21,"was agreeable, though",3,0.2856041397899389,0.2856041397899389,2.0
+pride_and_prejudice_TFamil_P21,"agreeable, though not",3,0.26995372865349054,0.26995372865349054,4.0
+pride_and_prejudice_TFamil_P21,though not outstanding.,3,-0.014944649301469326,0.014944649301469326,52.0
+pride_and_prejudice_TFamil_P21,not outstanding. After,3,-0.10891318507492542,0.10891318507492542,20.0
+pride_and_prejudice_TFamil_P21,outstanding. After a,3,-0.14657658990472555,0.14657658990472555,15.0
+pride_and_prejudice_TFamil_P21,After a song,3,0.037901037372648716,0.037901037372648716,45.0
+pride_and_prejudice_TFamil_P21,a song or,3,0.0631347056478262,0.0631347056478262,31.0
+pride_and_prejudice_TFamil_P21,song or two,3,0.13303161785006523,0.13303161785006523,18.0
+pride_and_prejudice_TFamil_P21,or two and,3,0.04037942364811897,0.04037942364811897,44.0
+pride_and_prejudice_TFamil_P21,two and before,3,-0.006117859855294228,0.006117859855294228,54.0
+pride_and_prejudice_TFamil_P21,and before she,3,-0.04834689199924469,0.04834689199924469,38.0
+pride_and_prejudice_TFamil_P21,before she could,3,-0.04070803243666887,0.04070803243666887,43.0
+pride_and_prejudice_TFamil_P21,she could answer,3,-0.02012385707348585,0.02012385707348585,51.0
+pride_and_prejudice_TFamil_P21,could answer the,3,-0.0021476605907082558,0.0021476605907082558,56.0
+pride_and_prejudice_TFamil_P21,answer the various,3,0.0672508142888546,0.0672508142888546,29.0
+pride_and_prejudice_TFamil_P21,the various entreaties,3,0.2322936225682497,0.2322936225682497,9.0
+pride_and_prejudice_TFamil_P21,various entreaties to,3,0.2518704514950514,0.2518704514950514,8.0
+pride_and_prejudice_TFamil_P21,entreaties to sing,3,0.2587303798645735,0.2587303798645735,6.0
+pride_and_prejudice_TFamil_P21,"to sing again,",3,0.0990928178653121,0.0990928178653121,24.0
+pride_and_prejudice_TFamil_P21,"sing again, she",3,0.13331933412700891,0.13331933412700891,17.0
+pride_and_prejudice_TFamil_P21,"again, she yielded",3,0.10311710182577372,0.10311710182577372,22.0
+pride_and_prejudice_TFamil_P21,she yielded the,3,0.10413381084799767,0.10413381084799767,21.0
+pride_and_prejudice_TFamil_P21,yielded the instrument,3,0.09574934840202332,0.09574934840202332,25.0
+pride_and_prejudice_TFamil_P21,the instrument eagerly,3,0.056965726893395185,0.056965726893395185,33.0
+pride_and_prejudice_TFamil_P21,instrument eagerly to,3,0.11022291658446193,0.11022291658446193,19.0
+pride_and_prejudice_TFamil_P21,eagerly to her,3,0.0474376636557281,0.0474376636557281,39.0
+pride_and_prejudice_TFamil_P21,to her sister,3,0.056528277695178986,0.056528277695178986,34.0
+pride_and_prejudice_TFamil_P21,"her sister Mary,",3,-0.025893456302583218,0.025893456302583218,48.0
+pride_and_prejudice_TFamil_P21,"sister Mary, who,",3,-0.024405142292380333,0.024405142292380333,49.0
+pride_and_prejudice_TFamil_P21,"Mary, who, being",3,-0.0029865186661481857,0.0029865186661481857,55.0
+pride_and_prejudice_TFamil_P21,"who, being the",3,0.03177946526557207,0.03177946526557207,46.0
+pride_and_prejudice_TFamil_P21,being the only,3,0.057908618822693825,0.057908618822693825,32.0
+pride_and_prejudice_TFamil_P21,the only plain,3,0.031219310592859983,0.031219310592859983,47.0
+pride_and_prejudice_TFamil_P21,only plain sister,3,0.02142890403047204,0.02142890403047204,50.0
+pride_and_prejudice_TFamil_P21,plain sister in,3,0.043709993828088045,0.043709993828088045,42.0
+pride_and_prejudice_TFamil_P21,sister in the,3,0.064948002807796,0.064948002807796,30.0
+pride_and_prejudice_TFamil_P21,in the family,3,0.04943140409886837,0.04943140409886837,36.0
+pride_and_prejudice_TFamil_P21,the family and,3,0.01227397657930851,0.01227397657930851,53.0
+pride_and_prejudice_TFamil_P21,family and thus,3,0.04512646608054638,0.04512646608054638,40.0
+pride_and_prejudice_TFamil_P21,and thus eager,3,0.0825454480946064,0.0825454480946064,27.0
+pride_and_prejudice_TFamil_P21,thus eager to,3,0.16029825061559677,0.16029825061559677,13.0
+pride_and_prejudice_TFamil_P21,eager to acquire,3,0.16296592354774475,0.16296592354774475,11.0
+pride_and_prejudice_TFamil_P21,to acquire knowledge,3,0.14055973943322897,0.14055973943322897,16.0
+pride_and_prejudice_TFamil_P21,acquire knowledge and,3,0.04912791308015585,0.04912791308015585,37.0
+pride_and_prejudice_TFamil_P21,"knowledge and accomplishments,",3,0.04449573811143637,0.04449573811143637,41.0
+pride_and_prejudice_TFamil_P21,"and accomplishments, was",3,0.10282246395945549,0.10282246395945549,23.0
+pride_and_prejudice_TFamil_P21,"accomplishments, was perpetually",3,0.07437869161367416,0.07437869161367416,28.0
+pride_and_prejudice_TFamil_P21,was perpetually eager,3,0.1572999469935894,0.1572999469935894,14.0
+pride_and_prejudice_TFamil_P21,perpetually eager for,3,0.2146795578300953,0.2146795578300953,10.0
+pride_and_prejudice_TFamil_P21,eager for an,3,0.25585869047790766,0.25585869047790766,7.0
+pride_and_prejudice_TFamil_P21,for an opportunity,3,0.16091001126915216,0.16091001126915216,12.0
+pride_and_prejudice_TFamil_P21,an opportunity to,3,0.052294254302978516,0.052294254302978516,35.0
+pride_and_prejudice_TFamil_P21,opportunity to display,3,0.08283186610788107,0.08283186610788107,26.0
+pride_and_prejudice_TFamil_P21,to display them.,3,-0.5847366834059358,0.5847366834059358,1.0
+pride_and_prejudice_TFamil_P48,Elizabeth rejoined,2,0.13745822571218014,0.13745822571218014,32.0
+pride_and_prejudice_TFamil_P48,rejoined them,2,0.04790185671299696,0.04790185671299696,80.0
+pride_and_prejudice_TFamil_P48,them only,2,0.024418619461357594,0.024418619461357594,104.0
+pride_and_prejudice_TFamil_P48,only to,2,0.02967352233827114,0.02967352233827114,100.0
+pride_and_prejudice_TFamil_P48,to say,2,0.05658370442688465,0.05658370442688465,73.0
+pride_and_prejudice_TFamil_P48,say that,2,0.06038219854235649,0.06038219854235649,66.0
+pride_and_prejudice_TFamil_P48,that her,2,0.05885779485106468,0.05885779485106468,70.0
+pride_and_prejudice_TFamil_P48,her sister,2,0.10849807783961296,0.10849807783961296,38.0
+pride_and_prejudice_TFamil_P48,sister was,2,0.130109041929245,0.130109041929245,34.0
+pride_and_prejudice_TFamil_P48,was worse,2,0.035396430641412735,0.035396430641412735,91.0
+pride_and_prejudice_TFamil_P48,worse and,2,-0.06910369917750359,0.06910369917750359,58.0
+pride_and_prejudice_TFamil_P48,and that,2,-0.05529517028480768,0.05529517028480768,75.0
+pride_and_prejudice_TFamil_P48,that she,2,0.05754655506461859,0.05754655506461859,71.0
+pride_and_prejudice_TFamil_P48,she could,2,0.08162059262394905,0.08162059262394905,49.0
+pride_and_prejudice_TFamil_P48,could not,2,-0.1380290500819683,0.1380290500819683,31.0
+pride_and_prejudice_TFamil_P48,not leave,2,-0.06487482786178589,0.06487482786178589,64.0
+pride_and_prejudice_TFamil_P48,leave her.,2,1.542930006980896,1.542930006980896,5.0
+pride_and_prejudice_TFamil_P48,her. Bingley,2,1.3783459961414337,1.3783459961414337,7.0
+pride_and_prejudice_TFamil_P48,Bingley urged,2,0.42504099011421204,0.42504099011421204,20.0
+pride_and_prejudice_TFamil_P48,urged that,2,0.8985610008239746,0.8985610008239746,11.0
+pride_and_prejudice_TFamil_P48,that Mr.,2,0.6646166145801544,0.6646166145801544,14.0
+pride_and_prejudice_TFamil_P48,Mr. Jones,2,0.3234279528260231,0.3234279528260231,22.0
+pride_and_prejudice_TFamil_P48,Jones be,2,0.14687880128622055,0.14687880128622055,29.0
+pride_and_prejudice_TFamil_P48,be sent,2,0.1109541654586792,0.1109541654586792,37.0
+pride_and_prejudice_TFamil_P48,sent for,2,0.05331427603960037,0.05331427603960037,78.0
+pride_and_prejudice_TFamil_P48,for immediately;,2,0.018597673624753952,0.018597673624753952,111.0
+pride_and_prejudice_TFamil_P48,immediately; while,2,-0.02142159268260002,0.02142159268260002,106.0
+pride_and_prejudice_TFamil_P48,while his,2,-0.03139625862240791,0.03139625862240791,96.0
+pride_and_prejudice_TFamil_P48,"his sisters,",2,-0.03306687530130148,0.03306687530130148,94.0
+pride_and_prejudice_TFamil_P48,"sisters, convinced",2,0.0603537829592824,0.0603537829592824,67.0
+pride_and_prejudice_TFamil_P48,convinced that,2,0.096465814858675,0.096465814858675,45.0
+pride_and_prejudice_TFamil_P48,that no,2,0.04625113867223263,0.04625113867223263,83.0
+pride_and_prejudice_TFamil_P48,no country,2,0.019445019774138927,0.019445019774138927,110.0
+pride_and_prejudice_TFamil_P48,country remedy,2,0.01284016389399767,0.01284016389399767,115.0
+pride_and_prejudice_TFamil_P48,remedy could,2,0.029160020872950554,0.029160020872950554,101.0
+pride_and_prejudice_TFamil_P48,could be,2,0.03269799239933491,0.03269799239933491,95.0
+pride_and_prejudice_TFamil_P48,"be effective,",2,0.1263425014913082,0.1263425014913082,35.0
+pride_and_prejudice_TFamil_P48,"effective, recommended",2,0.14196601882576942,0.14196601882576942,30.0
+pride_and_prejudice_TFamil_P48,recommended an,2,0.001255318522453308,0.001255318522453308,124.0
+pride_and_prejudice_TFamil_P48,an express,2,-0.030532867182046175,0.030532867182046175,97.0
+pride_and_prejudice_TFamil_P48,express to,2,-0.021154180634766817,0.021154180634766817,107.0
+pride_and_prejudice_TFamil_P48,to town,2,-0.012003269046545029,0.012003269046545029,116.0
+pride_and_prejudice_TFamil_P48,town for,2,0.008136883843690157,0.008136883843690157,118.0
+pride_and_prejudice_TFamil_P48,for one,2,-0.007968367543071508,0.007968367543071508,119.0
+pride_and_prejudice_TFamil_P48,one of,2,0.03434182144701481,0.03434182144701481,92.0
+pride_and_prejudice_TFamil_P48,of the,2,0.0661045890301466,0.0661045890301466,63.0
+pride_and_prejudice_TFamil_P48,the most,2,-0.079562122002244,0.079562122002244,51.0
+pride_and_prejudice_TFamil_P48,most eminent,2,-0.1362883523106575,0.1362883523106575,33.0
+pride_and_prejudice_TFamil_P48,eminent physicians.,2,1.10044065117836,1.10044065117836,9.0
+pride_and_prejudice_TFamil_P48,physicians. This,2,1.4869013130664825,1.4869013130664825,6.0
+pride_and_prejudice_TFamil_P48,This she,2,0.46369215846061707,0.46369215846061707,19.0
+pride_and_prejudice_TFamil_P48,she would,2,0.0464480035007,0.0464480035007,82.0
+pride_and_prejudice_TFamil_P48,would not,2,-0.08951736614108086,0.08951736614108086,48.0
+pride_and_prejudice_TFamil_P48,not hear,2,-0.058865513652563095,0.058865513652563095,69.0
+pride_and_prejudice_TFamil_P48,hear of;,2,0.008267276920378208,0.008267276920378208,117.0
+pride_and_prejudice_TFamil_P48,of; yet,2,0.09215950313955545,0.09215950313955545,47.0
+pride_and_prejudice_TFamil_P48,yet she,2,0.04018191248178482,0.04018191248178482,89.0
+pride_and_prejudice_TFamil_P48,she was,2,-0.0077630202285945415,0.0077630202285945415,120.0
+pride_and_prejudice_TFamil_P48,was not,2,-0.0330900396220386,0.0330900396220386,93.0
+pride_and_prejudice_TFamil_P48,not entirely,2,-0.00036464259028434753,0.00036464259028434753,126.0
+pride_and_prejudice_TFamil_P48,entirely unwilling,2,0.07305401936173439,0.07305401936173439,55.0
+pride_and_prejudice_TFamil_P48,unwilling to,2,0.07907184585928917,0.07907184585928917,52.0
+pride_and_prejudice_TFamil_P48,to accede,2,0.040794214233756065,0.040794214233756065,86.0
+pride_and_prejudice_TFamil_P48,accede to,2,0.0175236314535141,0.0175236314535141,113.0
+pride_and_prejudice_TFamil_P48,to her,2,0.042622411623597145,0.042622411623597145,84.0
+pride_and_prejudice_TFamil_P48,her brotherâĢĻs,2,0.029699470847845078,0.029699470847845078,99.0
+pride_and_prejudice_TFamil_P48,"brotherâĢĻs proposal,",2,0.07624923065304756,0.07624923065304756,53.0
+pride_and_prejudice_TFamil_P48,"proposal, and",2,0.06799812871031463,0.06799812871031463,60.0
+pride_and_prejudice_TFamil_P48,and it,2,-0.013290009694173932,0.013290009694173932,114.0
+pride_and_prejudice_TFamil_P48,it was,2,-0.017576522193849087,0.017576522193849087,112.0
+pride_and_prejudice_TFamil_P48,was settled,2,-0.026581634767353535,0.026581634767353535,103.0
+pride_and_prejudice_TFamil_P48,settled that,2,-0.05412748083472252,0.05412748083472252,76.0
+pride_and_prejudice_TFamil_P48,that Mr.,2,0.5951327048242092,0.5951327048242092,16.0
+pride_and_prejudice_TFamil_P48,Mr. Jones,2,0.6713009104132652,0.6713009104132652,13.0
+pride_and_prejudice_TFamil_P48,Jones should,2,0.0710429772734642,0.0710429772734642,56.0
+pride_and_prejudice_TFamil_P48,should be,2,0.020717536099255085,0.020717536099255085,109.0
+pride_and_prejudice_TFamil_P48,be dispatched,2,0.037119449116289616,0.037119449116289616,90.0
+pride_and_prejudice_TFamil_P48,dispatched early,2,0.06772380694746971,0.06772380694746971,61.0
+pride_and_prejudice_TFamil_P48,early the,2,0.0989779531955719,0.0989779531955719,43.0
+pride_and_prejudice_TFamil_P48,the following,2,0.0013318061828613281,0.0013318061828613281,123.0
+pride_and_prejudice_TFamil_P48,following morning,2,-0.2997710704803467,0.2997710704803467,23.0
+pride_and_prejudice_TFamil_P48,morning should,2,-0.363360732793808,0.363360732793808,21.0
+pride_and_prejudice_TFamil_P48,should Miss,2,-0.10300556942820549,0.10300556942820549,40.0
+pride_and_prejudice_TFamil_P48,Miss Bennet,2,-0.11710724234580994,0.11710724234580994,36.0
+pride_and_prejudice_TFamil_P48,Bennet not,2,-0.17745661921799183,0.17745661921799183,28.0
+pride_and_prejudice_TFamil_P48,not be,2,-0.06144184432923794,0.06144184432923794,65.0
+pride_and_prejudice_TFamil_P48,be decidedly,2,-1.1229386553168297,1.1229386553168297,8.0
+pride_and_prejudice_TFamil_P48,decidedly better.,2,-3.9931885600090027,3.9931885600090027,2.0
+pride_and_prejudice_TFamil_P48,better. Bingley,2,-5.097049176692963,5.097049176692963,1.0
+pride_and_prejudice_TFamil_P48,Bingley was,2,-2.488061010837555,2.488061010837555,3.0
+pride_and_prejudice_TFamil_P48,was quite,2,-0.19644448161125183,0.19644448161125183,27.0
+pride_and_prejudice_TFamil_P48,quite uncomfortable;,2,-0.52344561368227,0.52344561368227,17.0
+pride_and_prejudice_TFamil_P48,uncomfortable; his,2,-0.6081870682537556,0.6081870682537556,15.0
+pride_and_prejudice_TFamil_P48,his sisters,2,-0.2279987446963787,0.2279987446963787,26.0
+pride_and_prejudice_TFamil_P48,sisters declared,2,-0.09525182843208313,0.09525182843208313,46.0
+pride_and_prejudice_TFamil_P48,declared themselves,2,-0.27892863750457764,0.27892863750457764,25.0
+pride_and_prejudice_TFamil_P48,themselves miserable.,2,0.7376406714320183,0.7376406714320183,12.0
+pride_and_prejudice_TFamil_P48,miserable. They,2,1.588219754397869,1.588219754397869,4.0
+pride_and_prejudice_TFamil_P48,They assuaged,2,0.9431442525237799,0.9431442525237799,10.0
+pride_and_prejudice_TFamil_P48,assuaged their,2,0.4640715215355158,0.4640715215355158,18.0
+pride_and_prejudice_TFamil_P48,their wretchedness,2,0.004198595881462097,0.004198595881462097,122.0
+pride_and_prejudice_TFamil_P48,wretchedness by,2,0.07503765169531107,0.07503765169531107,54.0
+pride_and_prejudice_TFamil_P48,by singing,2,0.056320116855204105,0.056320116855204105,74.0
+pride_and_prejudice_TFamil_P48,singing duets,2,0.10561554878950119,0.10561554878950119,39.0
+pride_and_prejudice_TFamil_P48,duets after,2,0.1011071726679802,0.1011071726679802,41.0
+pride_and_prejudice_TFamil_P48,"after supper,",2,0.10062546841800213,0.10062546841800213,42.0
+pride_and_prejudice_TFamil_P48,"supper, while",2,0.07962571457028389,0.07962571457028389,50.0
+pride_and_prejudice_TFamil_P48,while he,2,0.030427592806518078,0.030427592806518078,98.0
+pride_and_prejudice_TFamil_P48,he found,2,0.0661734277382493,0.0661734277382493,62.0
+pride_and_prejudice_TFamil_P48,found relief,2,0.021674146875739098,0.021674146875739098,105.0
+pride_and_prejudice_TFamil_P48,relief in,2,0.0401866789907217,0.0401866789907217,88.0
+pride_and_prejudice_TFamil_P48,in giving,2,0.06815258134156466,0.06815258134156466,59.0
+pride_and_prejudice_TFamil_P48,giving his,2,0.0006685275584459305,0.0006685275584459305,125.0
+pride_and_prejudice_TFamil_P48,his housekeeper,2,0.020861306227743626,0.020861306227743626,108.0
+pride_and_prejudice_TFamil_P48,housekeeper instructions,2,0.04670305177569389,0.04670305177569389,81.0
+pride_and_prejudice_TFamil_P48,instructions to,2,0.05696989595890045,0.05696989595890045,72.0
+pride_and_prejudice_TFamil_P48,to ensure,2,0.07008148729801178,0.07008148729801178,57.0
+pride_and_prejudice_TFamil_P48,ensure every,2,0.05978076905012131,0.05978076905012131,68.0
+pride_and_prejudice_TFamil_P48,every possible,2,0.04035135731101036,0.04035135731101036,87.0
+pride_and_prejudice_TFamil_P48,possible attention,2,0.05147304758429527,0.05147304758429527,79.0
+pride_and_prejudice_TFamil_P48,attention to,2,0.053888481110334396,0.053888481110334396,77.0
+pride_and_prejudice_TFamil_P48,to the,2,0.02823964785784483,0.02823964785784483,102.0
+pride_and_prejudice_TFamil_P48,the sick,2,0.0002782801166176796,0.0002782801166176796,127.0
+pride_and_prejudice_TFamil_P48,sick lady,2,-0.005416014697402716,0.005416014697402716,121.0
+pride_and_prejudice_TFamil_P48,lady and,2,-0.041148833464831114,0.041148833464831114,85.0
+pride_and_prejudice_TFamil_P48,and her,2,-0.09823714569211006,0.09823714569211006,44.0
+pride_and_prejudice_TFamil_P48,her sister.,2,0.28376835584640503,0.28376835584640503,24.0
+pride_and_prejudice_TFamil_P48,Elizabeth rejoined them,3,0.15280750673264265,0.15280750673264265,39.0
+pride_and_prejudice_TFamil_P48,rejoined them only,3,0.05697119515389204,0.05697119515389204,86.0
+pride_and_prejudice_TFamil_P48,them only to,3,0.045022803358733654,0.045022803358733654,96.0
+pride_and_prejudice_TFamil_P48,only to say,3,0.06565304286777973,0.06565304286777973,77.0
+pride_and_prejudice_TFamil_P48,to say that,3,0.08098638243973255,0.08098638243973255,65.0
+pride_and_prejudice_TFamil_P48,say that her,3,0.09483731538057327,0.09483731538057327,58.0
+pride_and_prejudice_TFamil_P48,that her sister,3,0.13290075585246086,0.13290075585246086,45.0
+pride_and_prejudice_TFamil_P48,her sister was,3,0.16456415876746178,0.16456415876746178,37.0
+pride_and_prejudice_TFamil_P48,sister was worse,3,0.10943939164280891,0.10943939164280891,54.0
+pride_and_prejudice_TFamil_P48,was worse and,3,-0.01303761824965477,0.01303761824965477,119.0
+pride_and_prejudice_TFamil_P48,worse and that,3,-0.07596482057124376,0.07596482057124376,68.0
+pride_and_prejudice_TFamil_P48,and that she,3,0.009112506173551083,0.009112506173551083,122.0
+pride_and_prejudice_TFamil_P48,that she could,3,0.07475947123020887,0.07475947123020887,73.0
+pride_and_prejudice_TFamil_P48,she could not,3,-0.07362137362360954,0.07362137362360954,74.0
+pride_and_prejudice_TFamil_P48,could not leave,3,-0.0476619116961956,0.0476619116961956,91.0
+pride_and_prejudice_TFamil_P48,not leave her.,3,1.3876880407333374,1.3876880407333374,10.0
+pride_and_prejudice_TFamil_P48,leave her. Bingley,3,1.4687131345272064,1.4687131345272064,8.0
+pride_and_prejudice_TFamil_P48,her. Bingley urged,3,1.8776038587093353,1.8776038587093353,6.0
+pride_and_prejudice_TFamil_P48,Bingley urged that,3,0.824344128370285,0.824344128370285,18.0
+pride_and_prejudice_TFamil_P48,urged that Mr.,3,1.163874477148056,1.163874477148056,11.0
+pride_and_prejudice_TFamil_P48,that Mr. Jones,3,0.7227310910820961,0.7227310910820961,20.0
+pride_and_prejudice_TFamil_P48,Mr. Jones be,3,0.41219227761030197,0.41219227761030197,28.0
+pride_and_prejudice_TFamil_P48,Jones be sent,3,0.16906864196062088,0.16906864196062088,35.0
+pride_and_prejudice_TFamil_P48,be sent for,3,0.14207860082387924,0.14207860082387924,42.0
+pride_and_prejudice_TFamil_P48,sent for immediately;,3,0.04078751429915428,0.04078751429915428,100.0
+pride_and_prejudice_TFamil_P48,for immediately; while,3,0.009702842682600021,0.009702842682600021,121.0
+pride_and_prejudice_TFamil_P48,immediately; while his,3,-0.043923020362854004,0.043923020362854004,98.0
+pride_and_prejudice_TFamil_P48,"while his sisters,",3,-0.04196170624345541,0.04196170624345541,99.0
+pride_and_prejudice_TFamil_P48,"his sisters, convinced",3,0.037852355279028416,0.037852355279028416,105.0
+pride_and_prejudice_TFamil_P48,"sisters, convinced that",3,0.0859003672376275,0.0859003672376275,62.0
+pride_and_prejudice_TFamil_P48,convinced that no,3,0.11717036925256252,0.11717036925256252,48.0
+pride_and_prejudice_TFamil_P48,that no country,3,0.044991604052484035,0.044991604052484035,97.0
+pride_and_prejudice_TFamil_P48,no country remedy,3,0.03354471828788519,0.03354471828788519,108.0
+pride_and_prejudice_TFamil_P48,country remedy could,3,0.02790048625320196,0.02790048625320196,110.0
+pride_and_prejudice_TFamil_P48,remedy could be,3,0.04679769091308117,0.04679769091308117,92.0
+pride_and_prejudice_TFamil_P48,"could be effective,",3,0.1414028238505125,0.1414028238505125,44.0
+pride_and_prejudice_TFamil_P48,"be effective, recommended",3,0.15960368886590004,0.15960368886590004,38.0
+pride_and_prejudice_TFamil_P48,"effective, recommended an",3,0.1099601499736309,0.1099601499736309,53.0
+pride_and_prejudice_TFamil_P48,recommended an express,3,0.0027283201925456524,0.0027283201925456524,124.0
+pride_and_prejudice_TFamil_P48,an express to,3,-0.053160049486905336,0.053160049486905336,88.0
+pride_and_prejudice_TFamil_P48,express to town,3,-0.010530267376452684,0.010530267376452684,120.0
+pride_and_prejudice_TFamil_P48,to town for,3,-0.014490298461169004,0.014490298461169004,118.0
+pride_and_prejudice_TFamil_P48,town for one,3,0.0026555457152426243,0.0026555457152426243,125.0
+pride_and_prejudice_TFamil_P48,for one of,3,0.03185479203239083,0.03185479203239083,109.0
+pride_and_prejudice_TFamil_P48,one of the,3,0.060623250901699066,0.060623250901699066,83.0
+pride_and_prejudice_TFamil_P48,of the most,3,-0.039738962426781654,0.039738962426781654,101.0
+pride_and_prejudice_TFamil_P48,the most eminent,3,-0.11000692285597324,0.11000692285597324,52.0
+pride_and_prejudice_TFamil_P48,most eminent physicians.,3,0.9945970997214317,0.9945970997214317,14.0
+pride_and_prejudice_TFamil_P48,eminent physicians. This,3,1.4564565122127533,1.4564565122127533,9.0
+pride_and_prejudice_TFamil_P48,physicians. This she,3,1.5945776104927063,1.5945776104927063,7.0
+pride_and_prejudice_TFamil_P48,This she would,3,0.4024638645350933,0.4024638645350933,29.0
+pride_and_prejudice_TFamil_P48,she would not,3,0.0181589312851429,0.0181589312851429,116.0
+pride_and_prejudice_TFamil_P48,would not hear,3,-0.12009380757808685,0.12009380757808685,47.0
+pride_and_prejudice_TFamil_P48,not hear of;,3,-0.02002179529517889,0.02002179529517889,113.0
+pride_and_prejudice_TFamil_P48,hear of; yet,3,0.06158306170254946,0.06158306170254946,81.0
+pride_and_prejudice_TFamil_P48,of; yet she,3,0.07902563083916903,0.07902563083916903,67.0
+pride_and_prejudice_TFamil_P48,yet she was,3,0.04555276455357671,0.04555276455357671,94.0
+pride_and_prejudice_TFamil_P48,she was not,3,-0.04622391192242503,0.04622391192242503,93.0
+pride_and_prejudice_TFamil_P48,was not entirely,3,0.00500620948150754,0.00500620948150754,123.0
+pride_and_prejudice_TFamil_P48,not entirely unwilling,3,0.0345931276679039,0.0345931276679039,107.0
+pride_and_prejudice_TFamil_P48,entirely unwilling to,3,0.11716809496283531,0.11716809496283531,49.0
+pride_and_prejudice_TFamil_P48,unwilling to accede,3,0.07575198449194431,0.07575198449194431,71.0
+pride_and_prejudice_TFamil_P48,to accede to,3,0.06163770705461502,0.06163770705461502,80.0
+pride_and_prejudice_TFamil_P48,accede to her,3,0.03930255025625229,0.03930255025625229,103.0
+pride_and_prejudice_TFamil_P48,to her brotherâĢĻs,3,0.05054296366870403,0.05054296366870403,89.0
+pride_and_prejudice_TFamil_P48,"her brotherâĢĻs proposal,",3,0.09802814945578575,0.09802814945578575,56.0
+pride_and_prejudice_TFamil_P48,"brotherâĢĻs proposal, and",3,0.07591868075542152,0.07591868075542152,69.0
+pride_and_prejudice_TFamil_P48,"proposal, and it",3,0.05503866891376674,0.05503866891376674,87.0
+pride_and_prejudice_TFamil_P48,and it was,3,-0.01790707209147513,0.01790707209147513,117.0
+pride_and_prejudice_TFamil_P48,it was settled,3,-0.039541094563901424,0.039541094563901424,102.0
+pride_and_prejudice_TFamil_P48,was settled that,3,-0.058744543232023716,0.058744543232023716,84.0
+pride_and_prejudice_TFamil_P48,settled that Mr.,3,0.5731681324541569,0.5731681324541569,23.0
+pride_and_prejudice_TFamil_P48,that Mr. Jones,3,0.639138001948595,0.639138001948595,22.0
+pride_and_prejudice_TFamil_P48,Mr. Jones should,3,0.6983385905623436,0.6983385905623436,21.0
+pride_and_prejudice_TFamil_P48,Jones should be,3,0.06472283322364092,0.06472283322364092,78.0
+pride_and_prejudice_TFamil_P48,should be dispatched,3,0.06415712926536798,0.06415712926536798,79.0
+pride_and_prejudice_TFamil_P48,be dispatched early,3,0.06140366289764643,0.06140366289764643,82.0
+pride_and_prejudice_TFamil_P48,dispatched early the,3,0.1424175463616848,0.1424175463616848,41.0
+pride_and_prejudice_TFamil_P48,early the following,3,0.02561601996421814,0.02561601996421814,111.0
+pride_and_prejudice_TFamil_P48,the following morning,3,-0.2250773310661316,0.2250773310661316,33.0
+pride_and_prejudice_TFamil_P48,following morning should,3,-0.43672266602516174,0.43672266602516174,27.0
+pride_and_prejudice_TFamil_P48,morning should Miss,3,-0.3294147066771984,0.3294147066771984,30.0
+pride_and_prejudice_TFamil_P48,should Miss Bennet,3,-0.254058837890625,0.254058837890625,31.0
+pride_and_prejudice_TFamil_P48,Miss Bennet not,3,-0.14351059310138226,0.14351059310138226,40.0
+pride_and_prejudice_TFamil_P48,Bennet not be,3,-0.21249511279165745,0.21249511279165745,34.0
+pride_and_prejudice_TFamil_P48,not be decidedly,3,-1.149342006072402,1.149342006072402,13.0
+pride_and_prejudice_TFamil_P48,be decidedly better.,3,-4.028227053582668,4.028227053582668,3.0
+pride_and_prejudice_TFamil_P48,decidedly better. Bingley,3,-6.184949338436127,6.184949338436127,1.0
+pride_and_prejudice_TFamil_P48,better. Bingley was,3,-5.3933494091033936,5.3933494091033936,2.0
+pride_and_prejudice_TFamil_P48,Bingley was quite,3,-2.388205260038376,2.388205260038376,4.0
+pride_and_prejudice_TFamil_P48,was quite uncomfortable;,3,-0.819745846092701,0.819745846092701,19.0
+pride_and_prejudice_TFamil_P48,quite uncomfortable; his,3,-0.5083313174545765,0.5083313174545765,26.0
+pride_and_prejudice_TFamil_P48,uncomfortable; his sisters,3,-0.8513001091778278,0.8513001091778278,17.0
+pride_and_prejudice_TFamil_P48,his sisters declared,3,-0.08013753220438957,0.08013753220438957,66.0
+pride_and_prejudice_TFamil_P48,sisters declared themselves,3,-0.5220416784286499,0.5220416784286499,25.0
+pride_and_prejudice_TFamil_P48,declared themselves miserable.,3,0.8855018839240074,0.8855018839240074,16.0
+pride_and_prejudice_TFamil_P48,themselves miserable. They,3,1.1614299044013023,1.1614299044013023,12.0
+pride_and_prejudice_TFamil_P48,miserable. They assuaged,3,2.107574773952365,2.107574773952365,5.0
+pride_and_prejudice_TFamil_P48,They assuaged their,3,0.8878607545047998,0.8878607545047998,15.0
+pride_and_prejudice_TFamil_P48,assuaged their wretchedness,3,0.5235536154359579,0.5235536154359579,24.0
+pride_and_prejudice_TFamil_P48,their wretchedness by,3,0.019754153676331043,0.019754153676331043,114.0
+pride_and_prejudice_TFamil_P48,wretchedness by singing,3,0.11580221075564623,0.11580221075564623,51.0
+pride_and_prejudice_TFamil_P48,by singing duets,3,0.12117110658437014,0.12117110658437014,46.0
+pride_and_prejudice_TFamil_P48,singing duets after,3,0.14187173172831535,0.14187173172831535,43.0
+pride_and_prejudice_TFamil_P48,"duets after supper,",3,0.16547645814716816,0.16547645814716816,36.0
+pride_and_prejudice_TFamil_P48,"after supper, while",3,0.11588189750909805,0.11588189750909805,50.0
+pride_and_prejudice_TFamil_P48,"supper, while he",3,0.09479687828570604,0.09479687828570604,59.0
+pride_and_prejudice_TFamil_P48,while he found,3,0.08142985682934523,0.08142985682934523,63.0
+pride_and_prejudice_TFamil_P48,he found relief,3,0.03684531059116125,0.03684531059116125,106.0
+pride_and_prejudice_TFamil_P48,found relief in,3,0.09118894301354885,0.09118894301354885,60.0
+pride_and_prejudice_TFamil_P48,relief in giving,3,0.038824464194476604,0.038824464194476604,104.0
+pride_and_prejudice_TFamil_P48,in giving his,3,0.07018332369625568,0.07018332369625568,76.0
+pride_and_prejudice_TFamil_P48,giving his housekeeper,3,0.019499091431498528,0.019499091431498528,115.0
+pride_and_prejudice_TFamil_P48,his housekeeper instructions,3,0.04873379413038492,0.04873379413038492,90.0
+pride_and_prejudice_TFamil_P48,housekeeper instructions to,3,0.07580045983195305,0.07580045983195305,70.0
+pride_and_prejudice_TFamil_P48,instructions to ensure,3,0.09795397520065308,0.09795397520065308,57.0
+pride_and_prejudice_TFamil_P48,to ensure every,3,0.08887817710638046,0.08887817710638046,61.0
+pride_and_prejudice_TFamil_P48,ensure every possible,3,0.08133543655276299,0.08133543655276299,64.0
+pride_and_prejudice_TFamil_P48,every possible attention,3,0.07026973739266396,0.07026973739266396,75.0
+pride_and_prejudice_TFamil_P48,possible attention to,3,0.07544314861297607,0.07544314861297607,72.0
+pride_and_prejudice_TFamil_P48,attention to the,3,0.058158027939498425,0.058158027939498425,85.0
+pride_and_prejudice_TFamil_P48,to the sick,3,0.02424838114529848,0.02424838114529848,112.0
+pride_and_prejudice_TFamil_P48,the sick lady,3,-0.0011464678682386875,0.0011464678682386875,126.0
+pride_and_prejudice_TFamil_P48,sick lady and,3,-0.04514010017737746,0.04514010017737746,95.0
+pride_and_prejudice_TFamil_P48,lady and her,3,-0.09966189367696643,0.09966189367696643,55.0
+pride_and_prejudice_TFamil_P48,and her sister.,3,0.24404427036643028,0.24404427036643028,32.0
+pride_and_prejudice_TReput_P18,"âĢľNay,âĢĿ cried",2,0.20471007376909256,0.20471007376909256,10.0
+pride_and_prejudice_TReput_P18,"cried Bingley,",2,0.02651818096637726,0.02651818096637726,44.0
+pride_and_prejudice_TReput_P18,"Bingley, âĢľthis",2,-0.11885296925902367,0.11885296925902367,16.0
+pride_and_prejudice_TReput_P18,âĢľthis is,2,-0.12442488595843315,0.12442488595843315,14.0
+pride_and_prejudice_TReput_P18,is too,2,-0.2620239704847336,0.2620239704847336,8.0
+pride_and_prejudice_TReput_P18,too muchâĢĶto,2,-0.2057117000222206,0.2057117000222206,9.0
+pride_and_prejudice_TReput_P18,muchâĢĶto remember,2,-0.04968792945146561,0.04968792945146561,29.0
+pride_and_prejudice_TReput_P18,remember at,2,0.07441271096467972,0.07441271096467972,22.0
+pride_and_prejudice_TReput_P18,at night,2,0.12037039548158646,0.12037039548158646,15.0
+pride_and_prejudice_TReput_P18,night all,2,0.0705270478501916,0.0705270478501916,24.0
+pride_and_prejudice_TReput_P18,all the,2,-0.016425526700913906,0.016425526700913906,49.0
+pride_and_prejudice_TReput_P18,the foolish,2,0.04225090891122818,0.04225090891122818,34.0
+pride_and_prejudice_TReput_P18,foolish things,2,0.07412946037948132,0.07412946037948132,23.0
+pride_and_prejudice_TReput_P18,things that,2,-0.010206693783402443,0.010206693783402443,55.0
+pride_and_prejudice_TReput_P18,that were,2,-0.10124598443508148,0.10124598443508148,18.0
+pride_and_prejudice_TReput_P18,were said,2,-0.08186457585543394,0.08186457585543394,20.0
+pride_and_prejudice_TReput_P18,said in,2,-0.03376446757465601,0.03376446757465601,37.0
+pride_and_prejudice_TReput_P18,in the,2,-0.02489708736538887,0.02489708736538887,47.0
+pride_and_prejudice_TReput_P18,the morning.,2,-0.3329747971147299,0.3329747971147299,5.0
+pride_and_prejudice_TReput_P18,morning. And,2,-0.38289399445056915,0.38289399445056915,4.0
+pride_and_prejudice_TReput_P18,"And yet,",2,-0.19802024960517883,0.19802024960517883,11.0
+pride_and_prejudice_TReput_P18,"yet, upon",2,-0.10279855132102966,0.10279855132102966,17.0
+pride_and_prejudice_TReput_P18,upon my,2,0.04556243307888508,0.04556243307888508,31.0
+pride_and_prejudice_TReput_P18,"my honor,",2,0.002848934382200241,0.002848934382200241,59.0
+pride_and_prejudice_TReput_P18,"honor, I",2,0.004299191292375326,0.004299191292375326,57.0
+pride_and_prejudice_TReput_P18,I believed,2,-0.0017537479288876057,0.0017537479288876057,60.0
+pride_and_prejudice_TReput_P18,believed what,2,0.011360296979546547,0.011360296979546547,53.0
+pride_and_prejudice_TReput_P18,what I,2,0.046849390491843224,0.046849390491843224,30.0
+pride_and_prejudice_TReput_P18,I said,2,0.01222282089293003,0.01222282089293003,52.0
+pride_and_prejudice_TReput_P18,said of,2,0.006748789921402931,0.006748789921402931,56.0
+pride_and_prejudice_TReput_P18,of myself,2,0.032806459814310074,0.032806459814310074,38.0
+pride_and_prejudice_TReput_P18,myself to,2,0.030383789911866188,0.030383789911866188,42.0
+pride_and_prejudice_TReput_P18,to be,2,0.020577640738338232,0.020577640738338232,48.0
+pride_and_prejudice_TReput_P18,"be true,",2,0.025833434192463756,0.025833434192463756,45.0
+pride_and_prejudice_TReput_P18,"true, and",2,-0.0030017185490578413,0.0030017185490578413,58.0
+pride_and_prejudice_TReput_P18,and I,2,-0.03458401141688228,0.03458401141688228,35.0
+pride_and_prejudice_TReput_P18,I believe,2,-0.015977793838828802,0.015977793838828802,50.0
+pride_and_prejudice_TReput_P18,believe it,2,-0.06694114953279495,0.06694114953279495,25.0
+pride_and_prejudice_TReput_P18,it at,2,-0.04359716735780239,0.04359716735780239,33.0
+pride_and_prejudice_TReput_P18,at this,2,0.02528957463800907,0.02528957463800907,46.0
+pride_and_prejudice_TReput_P18,this moment.,2,-0.5823126044124365,0.5823126044124365,3.0
+pride_and_prejudice_TReput_P18,moment. At,2,-0.6215896029025316,0.6215896029025316,2.0
+pride_and_prejudice_TReput_P18,"At least,",2,-0.03182770684361458,0.03182770684361458,40.0
+pride_and_prejudice_TReput_P18,"least, therefore,",2,-0.027593383565545082,0.027593383565545082,43.0
+pride_and_prejudice_TReput_P18,"therefore, I",2,-0.05207288824021816,0.05207288824021816,27.0
+pride_and_prejudice_TReput_P18,I did,2,-0.033972419798374176,0.033972419798374176,36.0
+pride_and_prejudice_TReput_P18,did not,2,-0.0317213274538517,0.0317213274538517,41.0
+pride_and_prejudice_TReput_P18,not assume,2,-0.04994959756731987,0.04994959756731987,28.0
+pride_and_prejudice_TReput_P18,assume the,2,-0.013853957876563072,0.013853957876563072,51.0
+pride_and_prejudice_TReput_P18,the character,2,0.04420631192624569,0.04420631192624569,32.0
+pride_and_prejudice_TReput_P18,character of,2,0.07990095019340515,0.07990095019340515,21.0
+pride_and_prejudice_TReput_P18,of needless,2,0.12492209672927856,0.12492209672927856,13.0
+pride_and_prejudice_TReput_P18,needless precipitance,2,0.2808182090520859,0.2808182090520859,7.0
+pride_and_prejudice_TReput_P18,precipitance merely,2,0.29982663691043854,0.29982663691043854,6.0
+pride_and_prejudice_TReput_P18,merely to,2,0.13818985223770142,0.13818985223770142,12.0
+pride_and_prejudice_TReput_P18,to show,2,-0.03228650987148285,0.03228650987148285,39.0
+pride_and_prejudice_TReput_P18,show off,2,-0.0967174842953682,0.0967174842953682,19.0
+pride_and_prejudice_TReput_P18,off before,2,-0.011183826252818108,0.011183826252818108,54.0
+pride_and_prejudice_TReput_P18,before the,2,0.06416969932615757,0.06416969932615757,26.0
+pride_and_prejudice_TReput_P18,the ladies.âĢĿ,2,2.3569957688450813,2.3569957688450813,1.0
+pride_and_prejudice_TReput_P18,"âĢľNay,âĢĿ cried Bingley,",3,0.0729607418179512,0.0729607418179512,26.0
+pride_and_prejudice_TReput_P18,"cried Bingley, âĢľthis",3,0.03941454365849495,0.03941454365849495,44.0
+pride_and_prejudice_TReput_P18,"Bingley, âĢľthis is",3,-0.2561742179095745,0.2561742179095745,12.0
+pride_and_prejudice_TReput_P18,âĢľthis is too,3,-0.2491276077926159,0.2491276077926159,13.0
+pride_and_prejudice_TReput_P18,is too muchâĢĶto,3,-0.34303294867277145,0.34303294867277145,9.0
+pride_and_prejudice_TReput_P18,too muchâĢĶto remember,3,-0.17439065128564835,0.17439065128564835,14.0
+pride_and_prejudice_TReput_P18,muchâĢĶto remember at,3,-0.006596267223358154,0.006596267223358154,57.0
+pride_and_prejudice_TReput_P18,remember at night,3,0.15169144421815872,0.15169144421815872,17.0
+pride_and_prejudice_TReput_P18,at night all,3,0.11361871007829905,0.11361871007829905,19.0
+pride_and_prejudice_TReput_P18,night all the,3,0.0608532065525651,0.0608532065525651,29.0
+pride_and_prejudice_TReput_P18,all the foolish,3,0.03549922350794077,0.03549922350794077,47.0
+pride_and_prejudice_TReput_P18,the foolish things,3,0.06445561908185482,0.06445561908185482,28.0
+pride_and_prejudice_TReput_P18,foolish things that,3,0.04171805642545223,0.04171805642545223,41.0
+pride_and_prejudice_TReput_P18,things that were,3,-0.07904127426445484,0.07904127426445484,24.0
+pride_and_prejudice_TReput_P18,that were said,3,-0.11427597980946302,0.11427597980946302,18.0
+pride_and_prejudice_TReput_P18,were said in,3,-0.10259904805570841,0.10259904805570841,20.0
+pride_and_prejudice_TReput_P18,said in the,3,-0.03792708273977041,0.03792708273977041,46.0
+pride_and_prejudice_TReput_P18,in the morning.,3,-0.35370926931500435,0.35370926931500435,8.0
+pride_and_prejudice_TReput_P18,the morning. And,3,-0.38705660961568356,0.38705660961568356,6.0
+pride_and_prejudice_TReput_P18,"morning. And yet,",3,-0.5268324315547943,0.5268324315547943,5.0
+pride_and_prejudice_TReput_P18,"And yet, upon",3,-0.15688036382198334,0.15688036382198334,16.0
+pride_and_prejudice_TReput_P18,"yet, upon my",3,-0.09837600402534008,0.09837600402534008,21.0
+pride_and_prejudice_TReput_P18,"upon my honor,",3,0.04398882016539574,0.04398882016539574,40.0
+pride_and_prejudice_TReput_P18,"my honor, I",3,0.008721738588064909,0.008721738588064909,56.0
+pride_and_prejudice_TReput_P18,"honor, I believed",3,-0.0033273608423769474,0.0033273608423769474,58.0
+pride_and_prejudice_TReput_P18,I believed what,3,0.017233101185411215,0.017233101185411215,53.0
+pride_and_prejudice_TReput_P18,believed what I,3,0.03922283835709095,0.03922283835709095,45.0
+pride_and_prejudice_TReput_P18,what I said,3,0.03120967000722885,0.03120967000722885,50.0
+pride_and_prejudice_TReput_P18,I said of,3,0.034611331298947334,0.034611331298947334,48.0
+pride_and_prejudice_TReput_P18,said of myself,3,0.0171667393296957,0.0171667393296957,54.0
+pride_and_prejudice_TReput_P18,of myself to,3,0.05277230031788349,0.05277230031788349,37.0
+pride_and_prejudice_TReput_P18,myself to be,3,0.030995590146631002,0.030995590146631002,51.0
+pride_and_prejudice_TReput_P18,"to be true,",3,0.04579927469603717,0.04579927469603717,38.0
+pride_and_prejudice_TReput_P18,"be true, and",3,-0.002389918314293027,0.002389918314293027,59.0
+pride_and_prejudice_TReput_P18,"true, and I",3,-0.009362377459183335,0.009362377459183335,55.0
+pride_and_prejudice_TReput_P18,and I believe,3,-0.044201146345585585,0.044201146345585585,39.0
+pride_and_prejudice_TReput_P18,I believe it,3,-0.07330180844292045,0.07330180844292045,25.0
+pride_and_prejudice_TReput_P18,believe it at,3,-0.0532143022865057,0.0532143022865057,36.0
+pride_and_prejudice_TReput_P18,it at this,3,-0.03203443996608257,0.03203443996608257,49.0
+pride_and_prejudice_TReput_P18,at this moment.,3,-0.5685857571661472,0.5685857571661472,4.0
+pride_and_prejudice_TReput_P18,this moment. At,3,-0.6100268755108118,0.6100268755108118,3.0
+pride_and_prejudice_TReput_P18,"moment. At least,",3,-0.6257030386477709,0.6257030386477709,2.0
+pride_and_prejudice_TReput_P18,"At least, therefore,",3,-0.0553076546639204,0.0553076546639204,35.0
+pride_and_prejudice_TReput_P18,"least, therefore, I",3,-0.05618632398545742,0.05618632398545742,33.0
+pride_and_prejudice_TReput_P18,"therefore, I did",3,-0.05745236761868,0.05745236761868,31.0
+pride_and_prejudice_TReput_P18,I did not,3,-0.06031426787376404,0.06031426787376404,30.0
+pride_and_prejudice_TReput_P18,did not assume,3,-0.05532907694578171,0.05532907694578171,34.0
+pride_and_prejudice_TReput_P18,not assume the,3,-0.040195805951952934,0.040195805951952934,42.0
+pride_and_prejudice_TReput_P18,assume the character,3,0.02059856243431568,0.02059856243431568,52.0
+pride_and_prejudice_TReput_P18,the character of,3,0.08965474180877209,0.08965474180877209,22.0
+pride_and_prejudice_TReput_P18,character of needless,3,0.15937461704015732,0.15937461704015732,15.0
+pride_and_prejudice_TReput_P18,of needless precipitance,3,0.3262666389346123,0.3262666389346123,11.0
+pride_and_prejudice_TReput_P18,needless precipitance merely,3,0.3793003037571907,0.3793003037571907,7.0
+pride_and_prejudice_TReput_P18,precipitance merely to,3,0.3395343944430351,0.3395343944430351,10.0
+pride_and_prejudice_TReput_P18,merely to show,3,0.06619558483362198,0.06619558483362198,27.0
+pride_and_prejudice_TReput_P18,to show off,3,-0.057009726762771606,0.057009726762771606,32.0
+pride_and_prejudice_TReput_P18,show off before,3,-0.08317809365689754,0.08317809365689754,23.0
+pride_and_prejudice_TReput_P18,off before the,3,0.03944648243486881,0.03944648243486881,43.0
+pride_and_prejudice_TReput_P18,before the ladies.âĢĿ,3,2.370535159483552,2.370535159483552,1.0
+pride_and_prejudice_TPride_P13,"âĢľPride,âĢĿ said",2,0.36091984063386917,0.36091984063386917,4.0
+pride_and_prejudice_TPride_P13,said Miss,2,0.10620812140405178,0.10620812140405178,13.0
+pride_and_prejudice_TPride_P13,"Miss Lucas,",2,0.1477910066023469,0.1477910066023469,9.0
+pride_and_prejudice_TPride_P13,"Lucas, âĢľis",2,0.137547736056149,0.137547736056149,11.0
+pride_and_prejudice_TPride_P13,âĢľis justifiable,2,0.27270083501935005,0.27270083501935005,6.0
+pride_and_prejudice_TPride_P13,justifiable here.,2,1.0671398658305407,1.0671398658305407,1.0
+pride_and_prejudice_TPride_P13,here. A,2,0.8958784071728587,0.8958784071728587,2.0
+pride_and_prejudice_TPride_P13,A fine,2,0.3604335943236947,0.3604335943236947,5.0
+pride_and_prejudice_TPride_P13,fine young,2,0.523093193769455,0.523093193769455,3.0
+pride_and_prejudice_TPride_P13,"young man,",2,0.251293633133173,0.251293633133173,7.0
+pride_and_prejudice_TPride_P13,"man, with",2,0.14379867911338806,0.14379867911338806,10.0
+pride_and_prejudice_TPride_P13,"with fortune,",2,0.10569750145077705,0.10569750145077705,14.0
+pride_and_prejudice_TPride_P13,"fortune, might",2,0.09376472234725952,0.09376472234725952,16.0
+pride_and_prejudice_TPride_P13,might deem,2,0.08401607722043991,0.08401607722043991,17.0
+pride_and_prejudice_TPride_P13,deem himself,2,0.10062146186828613,0.10062146186828613,15.0
+pride_and_prejudice_TPride_P13,himself entitled,2,0.11000015586614609,0.11000015586614609,12.0
+pride_and_prejudice_TPride_P13,entitled to,2,0.16961946338415146,0.16961946338415146,8.0
+pride_and_prejudice_TPride_P13,to it.âĢĿ,2,0.020344125106930733,0.020344125106930733,18.0
+pride_and_prejudice_TPride_P13,"âĢľPride,âĢĿ said Miss",3,0.4692376106977463,0.4692376106977463,6.0
+pride_and_prejudice_TPride_P13,"said Miss Lucas,",3,0.14568135794252157,0.14568135794252157,15.0
+pride_and_prejudice_TPride_P13,"Miss Lucas, âĢľis",3,0.2458655061200261,0.2458655061200261,9.0
+pride_and_prejudice_TPride_P13,"Lucas, âĢľis justifiable",3,0.31217407155781984,0.31217407155781984,7.0
+pride_and_prejudice_TPride_P13,âĢľis justifiable here.,3,1.1652143653482199,1.1652143653482199,2.0
+pride_and_prejudice_TPride_P13,justifiable here. A,3,1.0705047426745296,1.0705047426745296,3.0
+pride_and_prejudice_TPride_P13,here. A fine,3,1.2529471246525645,1.2529471246525645,1.0
+pride_and_prejudice_TPride_P13,A fine young,3,0.5264580706134439,0.5264580706134439,5.0
+pride_and_prejudice_TPride_P13,"fine young man,",3,0.6083623506128788,0.6083623506128788,4.0
+pride_and_prejudice_TPride_P13,"young man, with",3,0.3098231554031372,0.3098231554031372,8.0
+pride_and_prejudice_TPride_P13,"man, with fortune,",3,0.1909666582942009,0.1909666582942009,11.0
+pride_and_prejudice_TPride_P13,"with fortune, might",3,0.15229424461722374,0.15229424461722374,12.0
+pride_and_prejudice_TPride_P13,"fortune, might deem",3,0.13118405640125275,0.13118405640125275,16.0
+pride_and_prejudice_TPride_P13,might deem himself,3,0.14721820503473282,0.14721820503473282,14.0
+pride_and_prejudice_TPride_P13,deem himself entitled,3,0.1474194899201393,0.1474194899201393,13.0
+pride_and_prejudice_TPride_P13,himself entitled to,3,0.23282159119844437,0.23282159119844437,10.0
+pride_and_prejudice_TPride_P13,entitled to it.âĢĿ,3,0.06714215315878391,0.06714215315878391,17.0
+pride_and_prejudice_TReput_P10,âĢľI know,2,-0.0180197861045599,0.0180197861045599,73.0
+pride_and_prejudice_TReput_P10,know you,2,-0.043375164270401,0.043375164270401,49.0
+pride_and_prejudice_TReput_P10,"you do,âĢĿ",2,0.076762979850173,0.076762979850173,28.0
+pride_and_prejudice_TReput_P10,"do,âĢĿ she",2,0.0524221807718277,0.0524221807718277,43.0
+pride_and_prejudice_TReput_P10,"she continued,",2,0.01853826455771923,0.01853826455771923,72.0
+pride_and_prejudice_TReput_P10,"continued, âĢľand",2,-0.08492886461317539,0.08492886461317539,20.0
+pride_and_prejudice_TReput_P10,âĢľand that,2,-0.15354611910879612,0.15354611910879612,6.0
+pride_and_prejudice_TReput_P10,that is,2,-0.1461579017341137,0.1461579017341137,9.0
+pride_and_prejudice_TReput_P10,is what,2,-0.07989969104528427,0.07989969104528427,23.0
+pride_and_prejudice_TReput_P10,what makes,2,-0.04289930686354637,0.04289930686354637,50.0
+pride_and_prejudice_TReput_P10,makes the,2,-0.04470416437834501,0.04470416437834501,47.0
+pride_and_prejudice_TReput_P10,the wonder.,2,0.0027256524190306664,0.0027256524190306664,83.0
+pride_and_prejudice_TReput_P10,wonder. With,2,0.004938057623803616,0.004938057623803616,81.0
+pride_and_prejudice_TReput_P10,With your,2,-0.007693209685385227,0.007693209685385227,79.0
+pride_and_prejudice_TReput_P10,your good,2,-0.016817073803395033,0.016817073803395033,75.0
+pride_and_prejudice_TReput_P10,"good sense,",2,-0.03939331090077758,0.03939331090077758,52.0
+pride_and_prejudice_TReput_P10,"sense, to",2,-0.05407504551112652,0.05407504551112652,41.0
+pride_and_prejudice_TReput_P10,to be,2,0.0034818481653928757,0.0034818481653928757,82.0
+pride_and_prejudice_TReput_P10,be so,2,0.030886035412549973,0.030886035412549973,57.0
+pride_and_prejudice_TReput_P10,so honestly,2,0.07033796235918999,0.07033796235918999,31.0
+pride_and_prejudice_TReput_P10,honestly blind,2,0.02297048643231392,0.02297048643231392,65.0
+pride_and_prejudice_TReput_P10,blind to,2,-0.005344932898879051,0.005344932898879051,80.0
+pride_and_prejudice_TReput_P10,to the,2,0.01569591462612152,0.01569591462612152,76.0
+pride_and_prejudice_TReput_P10,the follies,2,-0.01564256940037012,0.01564256940037012,77.0
+pride_and_prejudice_TReput_P10,follies and,2,-0.024050227366387844,0.024050227366387844,64.0
+pride_and_prejudice_TReput_P10,and nonsense,2,0.030547846108675003,0.030547846108675003,58.0
+pride_and_prejudice_TReput_P10,nonsense of,2,0.07825026102364063,0.07825026102364063,25.0
+pride_and_prejudice_TReput_P10,of others!,2,0.1011592335999012,0.1011592335999012,14.0
+pride_and_prejudice_TReput_P10,others! Affectation,2,0.138004831969738,0.138004831969738,10.0
+pride_and_prejudice_TReput_P10,Affectation of,2,0.15389355830848217,0.15389355830848217,5.0
+pride_and_prejudice_TReput_P10,of candour,2,0.1741199530661106,0.1741199530661106,4.0
+pride_and_prejudice_TReput_P10,candour is,2,0.11854665167629719,0.11854665167629719,12.0
+pride_and_prejudice_TReput_P10,is common,2,0.04412359185516834,0.04412359185516834,48.0
+pride_and_prejudice_TReput_P10,common enough;,2,0.05636320821940899,0.05636320821940899,40.0
+pride_and_prejudice_TReput_P10,enough; one,2,0.07837040908634663,0.07837040908634663,24.0
+pride_and_prejudice_TReput_P10,one meets,2,0.00014760717749595642,0.00014760717749595642,85.0
+pride_and_prejudice_TReput_P10,meets it,2,0.0008180737495422363,0.0008180737495422363,84.0
+pride_and_prejudice_TReput_P10,it everywhere.,2,0.09093422070145607,0.09093422070145607,19.0
+pride_and_prejudice_TReput_P10,everywhere. But,2,0.028364049270749092,0.028364049270749092,61.0
+pride_and_prejudice_TReput_P10,But to,2,0.020799363031983376,0.020799363031983376,67.0
+pride_and_prejudice_TReput_P10,to be,2,0.06136299483478069,0.06136299483478069,36.0
+pride_and_prejudice_TReput_P10,be candid,2,0.05088076926767826,0.05088076926767826,45.0
+pride_and_prejudice_TReput_P10,candid without,2,0.03651332715526223,0.03651332715526223,54.0
+pride_and_prejudice_TReput_P10,without ostentation,2,0.07814317615702748,0.07814317615702748,26.0
+pride_and_prejudice_TReput_P10,ostentation or,2,0.06427577324211597,0.06427577324211597,35.0
+pride_and_prejudice_TReput_P10,or designâĢĶto,2,-0.09800611063838005,0.09800611063838005,16.0
+pride_and_prejudice_TReput_P10,designâĢĶto seize,2,0.01893741264939308,0.01893741264939308,71.0
+pride_and_prejudice_TReput_P10,seize the,2,0.10819659568369389,0.10819659568369389,13.0
+pride_and_prejudice_TReput_P10,the good,2,0.06112123467028141,0.06112123467028141,37.0
+pride_and_prejudice_TReput_P10,good in,2,0.036533500999212265,0.036533500999212265,53.0
+pride_and_prejudice_TReput_P10,in everyoneâĢĻs,2,-0.15182070806622505,0.15182070806622505,8.0
+pride_and_prejudice_TReput_P10,everyoneâĢĻs character,2,-0.15236781351268291,0.15236781351268291,7.0
+pride_and_prejudice_TReput_P10,character and,2,-0.059027450159192085,0.059027450159192085,39.0
+pride_and_prejudice_TReput_P10,and enhance,2,-0.017595486715435982,0.017595486715435982,74.0
+pride_and_prejudice_TReput_P10,"enhance it,",2,0.026841480284929276,0.026841480284929276,62.0
+pride_and_prejudice_TReput_P10,"it, while",2,-0.012678906321525574,0.012678906321525574,78.0
+pride_and_prejudice_TReput_P10,while saying,2,-0.020399948582053185,0.020399948582053185,69.0
+pride_and_prejudice_TReput_P10,saying nothing,2,0.03556941822171211,0.03556941822171211,55.0
+pride_and_prejudice_TReput_P10,nothing of,2,0.024318715557456017,0.024318715557456017,63.0
+pride_and_prejudice_TReput_P10,of the,2,-0.01912292931228876,0.01912292931228876,70.0
+pride_and_prejudice_TReput_P10,the badâĢĶthat,2,-0.05969377979636192,0.05969377979636192,38.0
+pride_and_prejudice_TReput_P10,badâĢĶthat is,2,-0.07667733076959848,0.07667733076959848,29.0
+pride_and_prejudice_TReput_P10,is a,2,-0.051564617082476616,0.051564617082476616,44.0
+pride_and_prejudice_TReput_P10,a gift,2,-0.02969435229897499,0.02969435229897499,59.0
+pride_and_prejudice_TReput_P10,gift reserved,2,0.07040896080434322,0.07040896080434322,30.0
+pride_and_prejudice_TReput_P10,reserved for,2,0.06535345036536455,0.06535345036536455,34.0
+pride_and_prejudice_TReput_P10,for you,2,0.02060499507933855,0.02060499507933855,68.0
+pride_and_prejudice_TReput_P10,you alone.,2,0.41613665875047445,0.41613665875047445,2.0
+pride_and_prejudice_TReput_P10,alone. And,2,0.41120498161762953,0.41120498161762953,3.0
+pride_and_prejudice_TReput_P10,"And so,",2,-0.09213404729962349,0.09213404729962349,18.0
+pride_and_prejudice_TReput_P10,"so, you",2,-0.06824354827404022,0.06824354827404022,33.0
+pride_and_prejudice_TReput_P10,you like,2,0.06960301660001278,0.06960301660001278,32.0
+pride_and_prejudice_TReput_P10,like this,2,0.09828895144164562,0.09828895144164562,15.0
+pride_and_prejudice_TReput_P10,this manâĢĻs,2,0.09500240720808506,0.09500240720808506,17.0
+pride_and_prejudice_TReput_P10,"manâĢĻs sisters,",2,-0.03225889056921005,0.03225889056921005,56.0
+pride_and_prejudice_TReput_P10,"sisters, too,",2,-0.041592273861169815,0.041592273861169815,51.0
+pride_and_prejudice_TReput_P10,"too, do",2,0.021789644844830036,0.021789644844830036,66.0
+pride_and_prejudice_TReput_P10,do you?,2,0.12939368281513453,0.12939368281513453,11.0
+pride_and_prejudice_TReput_P10,you? Their,2,0.08347358740866184,0.08347358740866184,21.0
+pride_and_prejudice_TReput_P10,Their manners,2,0.029686398804187775,0.029686398804187775,60.0
+pride_and_prejudice_TReput_P10,manners are,2,0.04727984219789505,0.04727984219789505,46.0
+pride_and_prejudice_TReput_P10,are not,2,-0.07721540704369545,0.07721540704369545,27.0
+pride_and_prejudice_TReput_P10,not equal,2,-0.08113261312246323,0.08113261312246323,22.0
+pride_and_prejudice_TReput_P10,equal to,2,-0.053784534335136414,0.053784534335136414,42.0
+pride_and_prejudice_TReput_P10,to his.âĢĿ,2,0.6567736454308033,0.6567736454308033,1.0
+pride_and_prejudice_TReput_P10,âĢľI know you,3,0.008263746276497841,0.008263746276497841,80.0
+pride_and_prejudice_TReput_P10,"know you do,âĢĿ",3,0.007104283198714256,0.007104283198714256,82.0
+pride_and_prejudice_TReput_P10,"you do,âĢĿ she",3,0.07870571315288544,0.07870571315288544,35.0
+pride_and_prejudice_TReput_P10,"do,âĢĿ she continued,",3,0.06901771202683449,0.06901771202683449,38.0
+pride_and_prejudice_TReput_P10,"she continued, âĢľand",3,-0.08298613131046295,0.08298613131046295,32.0
+pride_and_prejudice_TReput_P10,"continued, âĢľand that",3,-0.13695058785378933,0.13695058785378933,18.0
+pride_and_prejudice_TReput_P10,âĢľand that is,3,-0.24768229760229588,0.24768229760229588,5.0
+pride_and_prejudice_TReput_P10,that is what,3,-0.1319214142858982,0.1319214142858982,20.0
+pride_and_prejudice_TReput_P10,is what makes,3,-0.13703548535704613,0.13703548535704613,17.0
+pride_and_prejudice_TReput_P10,what makes the,3,-0.030467676930129528,0.030467676930129528,63.0
+pride_and_prejudice_TReput_P10,makes the wonder.,3,-0.05441014189273119,0.05441014189273119,45.0
+pride_and_prejudice_TReput_P10,the wonder. With,3,0.01736968755722046,0.01736968755722046,72.0
+pride_and_prejudice_TReput_P10,wonder. With your,3,-0.017399187199771404,0.017399187199771404,71.0
+pride_and_prejudice_TReput_P10,With your good,3,-0.0021730386652052402,0.0021730386652052402,84.0
+pride_and_prejudice_TReput_P10,"your good sense,",3,-0.0617305557243526,0.0617305557243526,43.0
+pride_and_prejudice_TReput_P10,"good sense, to",3,-0.04855487449094653,0.04855487449094653,48.0
+pride_and_prejudice_TReput_P10,"sense, to be",3,-0.04143163375556469,0.04143163375556469,56.0
+pride_and_prejudice_TReput_P10,to be so,3,0.02172447182238102,0.02172447182238102,67.0
+pride_and_prejudice_TReput_P10,be so honestly,3,0.08298137411475182,0.08298137411475182,33.0
+pride_and_prejudice_TReput_P10,so honestly blind,3,0.04121311008930206,0.04121311008930206,57.0
+pride_and_prejudice_TReput_P10,honestly blind to,3,0.04675040580332279,0.04675040580332279,49.0
+pride_and_prejudice_TReput_P10,blind to the,3,-0.013428937643766403,0.013428937643766403,75.0
+pride_and_prejudice_TReput_P10,to the follies,3,0.008137349970638752,0.008137349970638752,81.0
+pride_and_prejudice_TReput_P10,the follies and,3,-0.032134232111275196,0.032134232111275196,61.0
+pride_and_prejudice_TReput_P10,follies and nonsense,3,0.022989281453192234,0.022989281453192234,65.0
+pride_and_prejudice_TReput_P10,and nonsense of,3,0.06175859831273556,0.06175859831273556,42.0
+pride_and_prejudice_TReput_P10,nonsense of others!,3,0.14819874241948128,0.14819874241948128,14.0
+pride_and_prejudice_TReput_P10,of others! Affectation,3,0.16921558417379856,0.16921558417379856,11.0
+pride_and_prejudice_TReput_P10,others! Affectation of,3,0.22384203970432281,0.22384203970432281,7.0
+pride_and_prejudice_TReput_P10,Affectation of candour,3,0.24217630364000797,0.24217630364000797,6.0
+pride_and_prejudice_TReput_P10,of candour is,3,0.204383859410882,0.204383859410882,8.0
+pride_and_prejudice_TReput_P10,candour is common,3,0.13240633718669415,0.13240633718669415,19.0
+pride_and_prejudice_TReput_P10,is common enough;,3,0.08662711456418037,0.08662711456418037,31.0
+pride_and_prejudice_TReput_P10,common enough; one,3,0.09223009459674358,0.09223009459674358,29.0
+pride_and_prejudice_TReput_P10,enough; one meets,3,0.04265112988650799,0.04265112988650799,52.0
+pride_and_prejudice_TReput_P10,one meets it,3,0.03668496012687683,0.03668496012687683,59.0
+pride_and_prejudice_TReput_P10,meets it everywhere.,3,0.05521494150161743,0.05521494150161743,44.0
+pride_and_prejudice_TReput_P10,it everywhere. But,3,0.06490140222012997,0.06490140222012997,39.0
+pride_and_prejudice_TReput_P10,everywhere. But to,3,0.07519623078405857,0.07519623078405857,36.0
+pride_and_prejudice_TReput_P10,But to be,3,0.03533017635345459,0.03533017635345459,60.0
+pride_and_prejudice_TReput_P10,to be candid,3,0.09771295078098774,0.09771295078098774,26.0
+pride_and_prejudice_TReput_P10,be candid without,3,0.051044140476733446,0.051044140476733446,47.0
+pride_and_prejudice_TReput_P10,candid without ostentation,3,0.11449313210323453,0.11449313210323453,22.0
+pride_and_prejudice_TReput_P10,without ostentation or,3,0.06443914445117116,0.06443914445117116,41.0
+pride_and_prejudice_TReput_P10,ostentation or designâĢĶto,3,-0.020026305690407753,0.020026305690407753,69.0
+pride_and_prejudice_TReput_P10,or designâĢĶto seize,3,0.005233380943536758,0.005233380943536758,83.0
+pride_and_prejudice_TReput_P10,designâĢĶto seize the,3,0.02389451675117016,0.02389451675117016,64.0
+pride_and_prejudice_TReput_P10,seize the good,3,0.16436072625219822,0.16436072625219822,12.0
+pride_and_prejudice_TReput_P10,the good in,3,0.04149060510098934,0.04149060510098934,55.0
+pride_and_prejudice_TReput_P10,good in everyoneâĢĻs,3,-0.09565657749772072,0.09565657749772072,27.0
+pride_and_prejudice_TReput_P10,in everyoneâĢĻs character,3,-0.17199844308197498,0.17199844308197498,10.0
+pride_and_prejudice_TReput_P10,everyoneâĢĻs character and,3,-0.19121752865612507,0.19121752865612507,9.0
+pride_and_prejudice_TReput_P10,character and enhance,3,-0.03777322173118591,0.03777322173118591,58.0
+pride_and_prejudice_TReput_P10,"and enhance it,",3,-0.012008234858512878,0.012008234858512878,76.0
+pride_and_prejudice_TReput_P10,"enhance it, while",3,0.008575322106480598,0.008575322106480598,79.0
+pride_and_prejudice_TReput_P10,"it, while saying",3,-0.014812696725130081,0.014812696725130081,74.0
+pride_and_prejudice_TReput_P10,while saying nothing,3,0.017303260043263435,0.017303260043263435,73.0
+pride_and_prejudice_TReput_P10,saying nothing of,3,0.02218492515385151,0.02218492515385151,66.0
+pride_and_prejudice_TReput_P10,nothing of the,3,0.01858027931302786,0.01858027931302786,70.0
+pride_and_prejudice_TReput_P10,of the badâĢĶthat,3,-0.07307827286422253,0.07307827286422253,37.0
+pride_and_prejudice_TReput_P10,the badâĢĶthat is,3,-0.08241576701402664,0.08241576701402664,34.0
+pride_and_prejudice_TReput_P10,badâĢĶthat is a,3,-0.10551996063441038,0.10551996063441038,24.0
+pride_and_prejudice_TReput_P10,is a gift,3,-0.05241633951663971,0.05241633951663971,46.0
+pride_and_prejudice_TReput_P10,a gift reserved,3,0.041566330939531326,0.041566330939531326,54.0
+pride_and_prejudice_TReput_P10,gift reserved for,3,0.06450172793120146,0.06450172793120146,40.0
+pride_and_prejudice_TReput_P10,reserved for you,3,0.09186567831784487,0.09186567831784487,30.0
+pride_and_prejudice_TReput_P10,for you alone.,3,0.4102294258773327,0.4102294258773327,3.0
+pride_and_prejudice_TReput_P10,you alone. And,3,0.43771720957010984,0.43771720957010984,2.0
+pride_and_prejudice_TReput_P10,"alone. And so,",3,0.29749038349837065,0.29749038349837065,4.0
+pride_and_prejudice_TReput_P10,"And so, you",3,-0.04666299745440483,0.04666299745440483,50.0
+pride_and_prejudice_TReput_P10,"so, you like",3,-0.0441115815192461,0.0441115815192461,51.0
+pride_and_prejudice_TReput_P10,you like this,3,0.14376000128686428,0.14376000128686428,15.0
+pride_and_prejudice_TReput_P10,like this manâĢĻs,3,0.11913437396287918,0.11913437396287918,21.0
+pride_and_prejudice_TReput_P10,"this manâĢĻs sisters,",3,0.04189809411764145,0.04189809411764145,53.0
+pride_and_prejudice_TReput_P10,"manâĢĻs sisters, too,",3,-0.020746851339936256,0.020746851339936256,68.0
+pride_and_prejudice_TReput_P10,"sisters, too, do",3,-0.031314668245613575,0.031314668245613575,62.0
+pride_and_prejudice_TReput_P10,"too, do you?",3,0.14090572204440832,0.14090572204440832,16.0
+pride_and_prejudice_TReput_P10,do you? Their,3,0.09375119302421808,0.09375119302421808,28.0
+pride_and_prejudice_TReput_P10,you? Their manners,3,0.14880247600376606,0.14880247600376606,13.0
+pride_and_prejudice_TReput_P10,Their manners are,3,0.011637352406978607,0.011637352406978607,78.0
+pride_and_prejudice_TReput_P10,manners are not,3,-0.011886518448591232,0.011886518448591232,77.0
+pride_and_prejudice_TReput_P10,are not equal,3,-0.0991816595196724,0.0991816595196724,25.0
+pride_and_prejudice_TReput_P10,not equal to,3,-0.1129508949816227,0.1129508949816227,23.0
+pride_and_prejudice_TReput_P10,equal to his.âĢĿ,3,0.6348073929548264,0.6348073929548264,1.0
+pride_and_prejudice_TReput_P39,[Illustration:ĊĊA graceful,2,-0.5226233601570129,0.5226233601570129,1.0
+pride_and_prejudice_TReput_P39,graceful silhouette,2,-0.09151759557425976,0.09151759557425976,6.0
+pride_and_prejudice_TReput_P39,silhouette of,2,-0.03544357419013977,0.03544357419013977,15.0
+pride_and_prejudice_TReput_P39,of a,2,0.020922431722283363,0.020922431722283363,19.0
+pride_and_prejudice_TReput_P39,a lady,2,-0.011735286563634872,0.011735286563634872,23.0
+pride_and_prejudice_TReput_P39,lady in,2,-0.014547624625265598,0.014547624625265598,22.0
+pride_and_prejudice_TReput_P39,in a,2,-0.04268268030136824,0.04268268030136824,12.0
+pride_and_prejudice_TReput_P39,a modest,2,-0.03473270405083895,0.03473270405083895,16.0
+pride_and_prejudice_TReput_P39,"modest gown,",2,-0.05342574883252382,0.05342574883252382,9.0
+pride_and_prejudice_TReput_P39,"gown, her",2,-0.07477297633886337,0.07477297633886337,8.0
+pride_and_prejudice_TReput_P39,her delicate,2,-0.02444393141195178,0.02444393141195178,18.0
+pride_and_prejudice_TReput_P39,delicate hand,2,0.036779791582375765,0.036779791582375765,14.0
+pride_and_prejudice_TReput_P39,hand resting,2,-0.018018238246440887,0.018018238246440887,20.0
+pride_and_prejudice_TReput_P39,resting upon,2,-0.0949726328253746,0.0949726328253746,4.0
+pride_and_prejudice_TReput_P39,upon a,2,-0.07992301136255264,0.07992301136255264,7.0
+pride_and_prejudice_TReput_P39,a closed,2,-0.09813936799764633,0.09813936799764633,2.0
+pride_and_prejudice_TReput_P39,"closed volume,",2,-0.0926729328930378,0.0926729328930378,5.0
+pride_and_prejudice_TReput_P39,"volume, emblematic",2,-0.015477987006306648,0.015477987006306648,21.0
+pride_and_prejudice_TReput_P39,emblematic of,2,0.0297908466309309,0.0297908466309309,17.0
+pride_and_prejudice_TReput_P39,of the,2,0.006180372089147568,0.006180372089147568,25.0
+pride_and_prejudice_TReput_P39,the gentle,2,0.0023054108023643494,0.0023054108023643494,26.0
+pride_and_prejudice_TReput_P39,gentle intellect,2,0.007685448974370956,0.007685448974370956,24.0
+pride_and_prejudice_TReput_P39,intellect that,2,0.03705985099077225,0.03705985099077225,13.0
+pride_and_prejudice_TReput_P39,that pervades,2,0.053125071339309216,0.053125071339309216,10.0
+pride_and_prejudice_TReput_P39,pervades the,2,0.04469464998692274,0.04469464998692274,11.0
+pride_and_prejudice_TReput_P39,the novel.],2,0.09555481746792793,0.09555481746792793,3.0
+pride_and_prejudice_TReput_P39,[Illustration:ĊĊA graceful silhouette,3,-0.5880621448159218,0.5880621448159218,1.0
+pride_and_prejudice_TReput_P39,graceful silhouette of,3,-0.061522385105490685,0.061522385105490685,11.0
+pride_and_prejudice_TReput_P39,silhouette of a,3,-0.04451635293662548,0.04451635293662548,17.0
+pride_and_prejudice_TReput_P39,of a lady,3,0.0182599239051342,0.0182599239051342,20.0
+pride_and_prejudice_TReput_P39,a lady in,3,-0.02362040337175131,0.02362040337175131,19.0
+pride_and_prejudice_TReput_P39,lady in a,3,-0.0453451881185174,0.0453451881185174,15.0
+pride_and_prejudice_TReput_P39,in a modest,3,-0.04661782085895538,0.04661782085895538,14.0
+pride_and_prejudice_TReput_P39,"a modest gown,",3,-0.08422331232577562,0.08422331232577562,6.0
+pride_and_prejudice_TReput_P39,"modest gown, her",3,-0.07870811689645052,0.07870811689645052,8.0
+pride_and_prejudice_TReput_P39,"gown, her delicate",3,-0.07393453968688846,0.07393453968688846,10.0
+pride_and_prejudice_TReput_P39,her delicate hand,3,0.011497423518449068,0.011497423518449068,23.0
+pride_and_prejudice_TReput_P39,delicate hand resting,3,-0.01717980159446597,0.01717980159446597,21.0
+pride_and_prejudice_TReput_P39,hand resting upon,3,-0.059031277894973755,0.059031277894973755,12.0
+pride_and_prejudice_TReput_P39,resting upon a,3,-0.13388260453939438,0.13388260453939438,3.0
+pride_and_prejudice_TReput_P39,upon a closed,3,-0.1391524076461792,0.1391524076461792,2.0
+pride_and_prejudice_TReput_P39,"a closed volume,",3,-0.13158290460705757,0.13158290460705757,4.0
+pride_and_prejudice_TReput_P39,"closed volume, emblematic",3,-0.0747073832899332,0.0747073832899332,9.0
+pride_and_prejudice_TReput_P39,"volume, emblematic of",3,-0.003652689978480339,0.003652689978480339,24.0
+pride_and_prejudice_TReput_P39,emblematic of the,3,0.02414592169225216,0.02414592169225216,18.0
+pride_and_prejudice_TReput_P39,of the gentle,3,0.014130707830190659,0.014130707830190659,22.0
+pride_and_prejudice_TReput_P39,the gentle intellect,3,0.002040524035692215,0.002040524035692215,25.0
+pride_and_prejudice_TReput_P39,gentle intellect that,3,0.04501018673181534,0.04501018673181534,16.0
+pride_and_prejudice_TReput_P39,intellect that pervades,3,0.05286018457263708,0.05286018457263708,13.0
+pride_and_prejudice_TReput_P39,that pervades the,3,0.08201938774436712,0.08201938774436712,7.0
+pride_and_prejudice_TReput_P39,pervades the novel.],3,0.11135515104979277,0.11135515104979277,5.0
+pride_and_prejudice_TReput_P38,âĢľYour most,2,-0.3526509404182434,0.3526509404182434,1.0
+pride_and_prejudice_TReput_P38,most obedient,2,0.1166418008506298,0.1166418008506298,4.0
+pride_and_prejudice_TReput_P38,obedient and,2,0.12172631546854973,0.12172631546854973,3.0
+pride_and_prejudice_TReput_P38,and humble,2,-0.08817781507968903,0.08817781507968903,5.0
+pride_and_prejudice_TReput_P38,"humble servant,âĢĿ",2,-0.1576242558658123,0.1576242558658123,2.0
+pride_and_prejudice_TReput_P38,âĢľYour most obedient,3,-0.30781011655926704,0.30781011655926704,1.0
+pride_and_prejudice_TReput_P38,most obedient and,3,0.19352729246020317,0.19352729246020317,2.0
+pride_and_prejudice_TReput_P38,obedient and humble,3,-0.04333699122071266,0.04333699122071266,4.0
+pride_and_prejudice_TReput_P38,"and humble servant,âĢĿ",3,-0.08073876425623894,0.08073876425623894,3.0
+pride_and_prejudice_TFamil_P16,"âĢľAnother time,",2,-0.33698022831231356,0.33698022831231356,4.0
+pride_and_prejudice_TFamil_P16,"time, Lizzy,âĢĿ",2,0.3847285686060786,0.3847285686060786,3.0
+pride_and_prejudice_TFamil_P16,"Lizzy,âĢĿ said",2,0.5041126683354378,0.5041126683354378,1.0
+pride_and_prejudice_TFamil_P16,said her,2,-0.11953584849834442,0.11953584849834442,9.0
+pride_and_prejudice_TFamil_P16,"her mother,",2,-0.1997685320675373,0.1997685320675373,7.0
+pride_and_prejudice_TFamil_P16,"mother, âĢľI",2,-0.27216479927301407,0.27216479927301407,6.0
+pride_and_prejudice_TFamil_P16,âĢľI would,2,-0.2727983519434929,0.2727983519434929,5.0
+pride_and_prejudice_TFamil_P16,would not,2,-0.020699957385659218,0.020699957385659218,13.0
+pride_and_prejudice_TFamil_P16,not dance,2,-0.13918768428266048,0.13918768428266048,8.0
+pride_and_prejudice_TFamil_P16,dance with,2,-0.11691447347402573,0.11691447347402573,10.0
+pride_and_prejudice_TFamil_P16,"with him,",2,-0.0325904656201601,0.0325904656201601,12.0
+pride_and_prejudice_TFamil_P16,"him, were",2,0.013282159343361855,0.013282159343361855,14.0
+pride_and_prejudice_TFamil_P16,were I,2,0.07128127478063107,0.07128127478063107,11.0
+pride_and_prejudice_TFamil_P16,I you.âĢĿ,2,-0.4260168634355068,0.4260168634355068,2.0
+pride_and_prejudice_TFamil_P16,"âĢľAnother time, Lizzy,âĢĿ",3,0.10121600609272718,0.10121600609272718,11.0
+pride_and_prejudice_TFamil_P16,"time, Lizzy,âĢĿ said",3,0.45064500253647566,0.45064500253647566,2.0
+pride_and_prejudice_TFamil_P16,"Lizzy,âĢĿ said her",3,0.3186603859066963,0.3186603859066963,4.0
+pride_and_prejudice_TFamil_P16,"said her mother,",3,-0.13385209813714027,0.13385209813714027,9.0
+pride_and_prejudice_TFamil_P16,"her mother, âĢľI",3,-0.4576170817017555,0.4576170817017555,1.0
+pride_and_prejudice_TFamil_P16,"mother, âĢľI would",3,-0.28711460158228874,0.28711460158228874,5.0
+pride_and_prejudice_TFamil_P16,âĢľI would not,3,-0.27854850701987743,0.27854850701987743,6.0
+pride_and_prejudice_TFamil_P16,would not dance,3,-0.15413748659193516,0.15413748659193516,8.0
+pride_and_prejudice_TFamil_P16,not dance with,3,-0.12266462855041027,0.12266462855041027,10.0
+pride_and_prejudice_TFamil_P16,"dance with him,",3,-0.16602799482643604,0.16602799482643604,7.0
+pride_and_prejudice_TFamil_P16,"with him, were",3,0.029805215075612068,0.029805215075612068,12.0
+pride_and_prejudice_TFamil_P16,"him, were I",3,0.02216775342822075,0.02216775342822075,13.0
+pride_and_prejudice_TFamil_P16,were I you.âĢĿ,3,-0.36362118273973465,0.36362118273973465,3.0
+pride_and_prejudice_TReput_P28,âĢľMerely to,2,-0.4193718582391739,0.4193718582391739,4.0
+pride_and_prejudice_TReput_P28,to the,2,-0.027217868715524673,0.027217868715524673,19.0
+pride_and_prejudice_TReput_P28,the illustration,2,-0.04837670549750328,0.04837670549750328,15.0
+pride_and_prejudice_TReput_P28,illustration of,2,-0.011957913637161255,0.011957913637161255,21.0
+pride_and_prejudice_TReput_P28,of _your_,2,0.04036760330200195,0.04036760330200195,16.0
+pride_and_prejudice_TReput_P28,"_your_ character,âĢĿ",2,-0.1778020979836583,0.1778020979836583,7.0
+pride_and_prejudice_TReput_P28,"character,âĢĿ said",2,-0.27465979475528,0.27465979475528,5.0
+pride_and_prejudice_TReput_P28,"said she,",2,-0.13424099003896117,0.13424099003896117,8.0
+pride_and_prejudice_TReput_P28,"she, endeavouring",2,-0.012707020621746778,0.012707020621746778,20.0
+pride_and_prejudice_TReput_P28,endeavouring to,2,0.058782072737812996,0.058782072737812996,13.0
+pride_and_prejudice_TReput_P28,to shake,2,-0.03614573925733566,0.03614573925733566,17.0
+pride_and_prejudice_TReput_P28,shake off,2,-0.1196582242846489,0.1196582242846489,9.0
+pride_and_prejudice_TReput_P28,off her,2,-0.10402455925941467,0.10402455925941467,11.0
+pride_and_prejudice_TReput_P28,her gravity.,2,-0.5197339132428169,0.5197339132428169,3.0
+pride_and_prejudice_TReput_P28,gravity. âĢľI,2,-0.7182255927473307,0.7182255927473307,2.0
+pride_and_prejudice_TReput_P28,âĢľI am,2,-0.2525426270440221,0.2525426270440221,6.0
+pride_and_prejudice_TReput_P28,am trying,2,-0.08377301227301359,0.08377301227301359,12.0
+pride_and_prejudice_TReput_P28,trying to,2,-0.03427726402878761,0.03427726402878761,18.0
+pride_and_prejudice_TReput_P28,to make,2,0.05808267742395401,0.05808267742395401,14.0
+pride_and_prejudice_TReput_P28,make it,2,0.11908114328980446,0.11908114328980446,10.0
+pride_and_prejudice_TReput_P28,it out.âĢĿ,2,2.93765027821064,2.93765027821064,1.0
+pride_and_prejudice_TReput_P28,âĢľMerely to the,3,-0.4141995273530483,0.4141995273530483,5.0
+pride_and_prejudice_TReput_P28,to the illustration,3,-0.08076690509915352,0.08076690509915352,14.0
+pride_and_prejudice_TReput_P28,the illustration of,3,-0.00678558275103569,0.00678558275103569,20.0
+pride_and_prejudice_TReput_P28,illustration of _your_,3,-0.013181433081626892,0.013181433081626892,18.0
+pride_and_prejudice_TReput_P28,"of _your_ character,âĢĿ",3,-0.13621097523719072,0.13621097523719072,11.0
+pride_and_prejudice_TReput_P28,"_your_ character,âĢĿ said",3,-0.27588331419974566,0.27588331419974566,8.0
+pride_and_prejudice_TReput_P28,"character,âĢĿ said she,",3,-0.31081956857815385,0.31081956857815385,7.0
+pride_and_prejudice_TReput_P28,"said she, endeavouring",3,-0.11078823683783412,0.11078823683783412,12.0
+pride_and_prejudice_TReput_P28,"she, endeavouring to",3,0.022622298914939165,0.022622298914939165,17.0
+pride_and_prejudice_TReput_P28,endeavouring to shake,3,-0.01269298605620861,0.01269298605620861,19.0
+pride_and_prejudice_TReput_P28,to shake off,3,-0.08432890474796295,0.08432890474796295,13.0
+pride_and_prejudice_TReput_P28,shake off her,3,-0.17549961805343628,0.17549961805343628,9.0
+pride_and_prejudice_TReput_P28,off her gravity.,3,-0.5679170787334442,0.5679170787334442,4.0
+pride_and_prejudice_TReput_P28,her gravity. âĢľI,3,-0.774066986516118,0.774066986516118,2.0
+pride_and_prejudice_TReput_P28,gravity. âĢľI am,3,-0.7164351465180516,0.7164351465180516,3.0
+pride_and_prejudice_TReput_P28,âĢľI am trying,3,-0.3381060855463147,0.3381060855463147,6.0
+pride_and_prejudice_TReput_P28,am trying to,3,-0.03248681779950857,0.03248681779950857,15.0
+pride_and_prejudice_TReput_P28,trying to make,3,-0.027480781078338623,0.027480781078338623,16.0
+pride_and_prejudice_TReput_P28,to make it,3,0.17036733776330948,0.17036733776330948,10.0
+pride_and_prejudice_TReput_P28,make it out.âĢĿ,3,2.944446761161089,2.944446761161089,1.0
+pride_and_prejudice_TPride_P7,*(Illustration of,2,-0.42834001034498215,0.42834001034498215,1.0
+pride_and_prejudice_TPride_P7,of Pride,2,-0.1202000193297863,0.1202000193297863,5.0
+pride_and_prejudice_TPride_P7,Pride and,2,0.007645182311534882,0.007645182311534882,9.0
+pride_and_prejudice_TPride_P7,and PrejudiceâĢĶleft,2,0.1426688227802515,0.1426688227802515,4.0
+pride_and_prejudice_TPride_P7,PrejudiceâĢĶleft to,2,0.1588186901062727,0.1588186901062727,3.0
+pride_and_prejudice_TPride_P7,"to imagination,",2,-0.09287934750318527,0.09287934750318527,6.0
+pride_and_prejudice_TPride_P7,"imagination, as",2,-0.2506362870335579,0.2506362870335579,2.0
+pride_and_prejudice_TPride_P7,as per,2,-0.0825052484869957,0.0825052484869957,7.0
+pride_and_prejudice_TPride_P7,per original.)*,2,0.010444775223731995,0.010444775223731995,8.0
+pride_and_prejudice_TPride_P7,*(Illustration of Pride,3,-0.447045486420393,0.447045486420393,1.0
+pride_and_prejudice_TPride_P7,of Pride and,3,-0.09384936094284058,0.09384936094284058,7.0
+pride_and_prejudice_TPride_P7,Pride and PrejudiceâĢĶleft,3,0.12396334670484066,0.12396334670484066,5.0
+pride_and_prejudice_TPride_P7,and PrejudiceâĢĶleft to,3,0.18516934849321842,0.18516934849321842,4.0
+pride_and_prejudice_TPride_P7,"PrejudiceâĢĶleft to imagination,",3,0.023438816890120506,0.023438816890120506,8.0
+pride_and_prejudice_TPride_P7,"to imagination, as",3,-0.20813576132059097,0.20813576132059097,3.0
+pride_and_prejudice_TPride_P7,"imagination, as per",3,-0.2178851217031479,0.2178851217031479,2.0
+pride_and_prejudice_TPride_P7,as per original.)*,3,-0.1048116385936737,0.1048116385936737,6.0
