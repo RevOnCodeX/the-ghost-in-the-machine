@@ -1,23 +1,57 @@
 # Task 3: The Smoking Gun
 
-This directory contains interpretability and error analysis studies for the Tier C RoBERTa + LoRA AI text detector. The goal is to answer the fundamental question: *Why does the model predict text as AI-generated?*
+This directory contains our comprehensive interpretability and error analysis investigation into the Tier C RoBERTa + LoRA AI text detector. While our Tier C model achieved near-perfect accuracy, modern neural networks often function as "black boxes." The goal of this task was to answer the fundamental question: *Why does the model predict text as AI-generated, and what specific linguistic artifacts is it detecting?*
 
-## Components
+By dissecting the model's decision-making process, we can better understand the underlying differences between human literary composition and synthetic generation.
 
-### 1. `saliency/`
-Uses Captum's `LayerIntegratedGradients` to interrogate the Tier C model and determine token-level attributions. It extracts the top positive (AI-supporting) and negative (Human-supporting) tokens and phrases for correct predictions.
+---
 
-### 2. `findings/`
-A rigorous investigation into *what* the model relies on:
-- **AI-ism Frequency & Enrichment:** Tests whether stereotypical "AI vocabulary" (like *tapestry*, *delve*, *testament*) is statistically enriched in AI text.
-- **Rhythm Analysis:** Explores sentence length variability and punctuation density, concluding that AI models possess an unusually consistent and homogeneous rhythmic syntax compared to human authors.
-- **Ablation Studies:** Proves causality by stripping suspected "famous AI-isms" vs. structurally salient tokens, proving that the model relies on broader rhythmic/syntactic features rather than simple vocabulary tricks.
+## 1. Interpretability via Saliency Mapping (`saliency/`)
 
-### 3. `error_analysis/`
-Focuses exclusively on False Positives (Human texts classified as AI).
-- Identifies anomalies in human texts (e.g., highly rhythmic sentences or repetitive phrases).
-- Compares misclassified human text locally against correctly classified human and AI texts.
-- Leverages counterfactual testing to isolate the exact phrases responsible for the error.
+We employed Captum's **Layer Integrated Gradients (IG)** to interrogate the fine-tuned RoBERTa model. IG allows us to attribute the model's final prediction logit back to individual input tokens, establishing a direct mathematical link between specific words/phrases and the model's confidence in the "AI" label.
 
-## Notebooks
-Interactive and visual summaries for all these components can be found in the `notebooks/` directory.
+**Methodology:**
+- We analyzed correct predictions (True Positives and True Negatives) across a strictly held-out subset of Austen and Dickens texts (`BOOK-SPLIT` test set).
+- We extracted the highest positively-attributed (AI-supporting) and negatively-attributed (Human-supporting) tokens and phrases for each text.
+
+---
+
+## 2. Experimental Findings (`findings/`)
+
+Our analysis specifically tested a popular hypothesis: Do AI detectors simply learn to spot "famous AI-isms" (e.g., *tapestry*, *delve*, *testament*, *multifaceted*), or do they detect deeper structural patterns?
+
+### Key Results
+- **AI-isms are Statistically Enriched:** We confirmed through Fisher's Exact Enrichment tests (with FDR correction) that stereotypical AI vocabulary words are significantly overrepresented in the AI-generated texts.
+- **AI-isms are NOT the "Smoking Gun":** Despite their frequency, our attribution analysis revealed that the model does *not* heavily rely on these obvious words to make its decisions. 
+- **The True Signal is Structural Rhythm:** The model focuses on deeper syntactic structures and rhythm. We found that AI-generated text exhibits a highly uniform, low-variance sentence rhythm (narrow standard deviation in sentence lengths) compared to the varied, dynamic rhythm of human authors. 
+
+### Causality via Ablation
+To prove this, we conducted counterfactual ablation tests:
+1. **Removing Famous AI-isms:** When we computationally masked out the "famous AI-isms" from AI texts, the model's AI probability barely dropped.
+2. **Removing Structurally Salient Tokens:** When we masked out the top 5 highly-attributed structural tokens discovered by IG, the model's confidence plummeted. 
+
+**Impact:** This proves that the detector is robust and relies on deep, distributed structural syntax rather than easily-manipulated vocabulary tricks. Simply prompting an AI to "avoid using the word tapestry" will not easily evade this detector.
+
+---
+
+## 3. Error Analysis (`error_analysis/`)
+
+No model is perfect. To understand the model's limitations, we isolated the extremely rare **False Positives** (Human text that the model incorrectly classified as AI-generated). 
+
+### Key Results
+- **Identification:** The model's errors were highly concentrated; in our evaluation, it misclassified certain specific paragraphs by Jane Austen while making zero mistakes on Charles Dickens.
+- **Statistical Anomalies:** By computing Task 1 features on these False Positives, we discovered they were statistical outliers compared to the general Human distribution. The misclassified Austen paragraphs exhibited unusually uniform sentence lengths and highly repetitive phrasing—characteristics typical of our AI dataset.
+- **Counterfactual Validation:** We proved the causality of the error using IG. By identifying the exact tokens that pushed the model to predict "AI" and ablating them, the model's AI probability crashed from ~99% to near 0%. 
+
+**Impact:** The error analysis demonstrates that the model does not fail randomly. It fails when a human author coincidentally writes with the specific syntactic uniformity and repetition that strongly characterizes synthetic text. This highlights an inherent limitation in purely statistical classification: highly constrained or unusually structured human writing can inadvertently mimic the mathematical fingerprint of an LLM.
+
+---
+
+## Notebooks & Reproducibility
+
+Interactive summaries, heatmaps, distribution plots, and ablation charts for all these components can be found in the `notebooks/` directory:
+- `task3_saliency.ipynb`
+- `task3_findings.ipynb`
+- `task3_error_analysis.ipynb`
+
+All analyses were strictly contained to the validation corpus, ensuring no data leakage from the training phase.
