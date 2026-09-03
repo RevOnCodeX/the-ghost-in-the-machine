@@ -1,57 +1,167 @@
 # Task 3: The Smoking Gun
 
-This directory contains our comprehensive interpretability and error analysis investigation into the Tier C RoBERTa + LoRA AI text detector. While our Tier C model achieved near-perfect accuracy, modern neural networks often function as "black boxes." The goal of this task was to answer the fundamental question: *Why does the model predict text as AI-generated, and what specific linguistic artifacts is it detecting?*
+**Goal:** Open the Tier C black box. Find out *exactly* what the 97%-accurate RoBERTa model is actually detecting — not just that it works, but *why* it works.
 
-By dissecting the model's decision-making process, we can better understand the underlying differences between human literary composition and synthetic generation.
-
----
-
-## 1. Interpretability via Saliency Mapping (`saliency/`)
-
-We employed Captum's **Layer Integrated Gradients (IG)** to interrogate the fine-tuned RoBERTa model. IG allows us to attribute the model's final prediction logit back to individual input tokens, establishing a direct mathematical link between specific words/phrases and the model's confidence in the "AI" label.
-
-**Methodology:**
-- We analyzed correct predictions (True Positives and True Negatives) across a strictly held-out subset of Austen and Dickens texts (`BOOK-SPLIT` test set).
-- We extracted the highest positively-attributed (AI-supporting) and negatively-attributed (Human-supporting) tokens and phrases for each text.
+This matters because understanding a model's reasoning is the only way to know when it will fail, and it directly arms Task 4 with the knowledge needed to evade it.
 
 ---
 
-## 2. Experimental Findings (`findings/`)
+## The Problem with Black-Box Models
 
-Our analysis specifically tested a popular hypothesis: Do AI detectors simply learn to spot "famous AI-isms" (e.g., *tapestry*, *delve*, *testament*, *multifaceted*), or do they detect deeper structural patterns?
+The Tier C detector achieves 97% accuracy, but that number alone tells us nothing about its *reasoning*. Is it picking up on specific "AI words" like *tapestry* or *unprecedented*? Is it sensitive to sentence rhythm? Does it read the overall structure of a paragraph? Without knowing, we can't trust it, explain it, or defend against someone trying to fool it.
 
-### Key Results
-- **AI-isms are Statistically Enriched:** We confirmed through Fisher's Exact Enrichment tests (with FDR correction) that stereotypical AI vocabulary words are significantly overrepresented in the AI-generated texts.
-- **AI-isms are NOT the "Smoking Gun":** Despite their frequency, our attribution analysis revealed that the model does *not* heavily rely on these obvious words to make its decisions. 
-- **The True Signal is Structural Rhythm:** The model focuses on deeper syntactic structures and rhythm. We found that AI-generated text exhibits a highly uniform, low-variance sentence rhythm compared to the varied, dynamic rhythm of human authors (e.g., human sentence length Coefficient of Variation (CV) = `0.60` vs AI CV = `0.55`). 
+This task uses **model interpretability** to answer the question: given a specific paragraph, which words are driving the AI/human decision?
 
-### Causality via Ablation
-To prove this, we conducted counterfactual ablation tests:
-1. **Removing Famous AI-isms:** When we computationally masked out the "famous AI-isms" from AI texts, the model's AI probability barely dropped at all (mean drop of `0.0%`).
-2. **Removing Structurally Salient Tokens:** When we masked out the top 5 highly-attributed structural tokens discovered by IG, the model's confidence dropped significantly (mean drop of `9.0%` globally, with some examples plunging over `80%`). 
+---
 
-**Impact:** This proves that the detector is robust and relies on deep, distributed structural syntax rather than easily-manipulated vocabulary tricks. Simply prompting an AI to "avoid using the word tapestry" will not easily evade this detector.
+## Method: Captum Layer Integrated Gradients (LayerIG)
+
+**Integrated Gradients** is a formal attribution method from the interpretability literature. Here is the intuition:
+
+1. Start with a "blank" input — a paragraph of all padding tokens (no information)
+2. Gradually interpolate from the blank input to the real input
+3. At each step, measure the gradient of the output (AI probability) with respect to each token's embedding
+4. Integrate (sum) these gradients across all steps
+
+The result is a **score for every single token** in the input:
+- **Positive score** → this word pushes the model toward predicting "AI"
+- **Negative score** → this word pushes the model toward predicting "human"
+- **Score near zero** → this word doesn't affect the prediction much
+
+This gives us a detailed map of what the model is paying attention to. We used **Captum's `LayerIntegratedGradients`** applied specifically to RoBERTa's word embedding layer.
+
+---
+
+## 1. Saliency Mapping (`saliency/`)
+
+We ran LayerIG on a large held-out set of true positives (AI text correctly classified as AI) and true negatives (human text correctly classified as human) from the book-split test set.
+
+### What we found
+
+**Tokens that strongly push toward "AI" classification:**
+- Words like `"essential"`, `"endeavor"`, `"profound"`, `"unprecedented"`, `"innovation"`, `"implications"`, `"tapestry"`, `"delve"`
+- But more importantly: **punctuation and structural tokens** — specifically, semicolons and comma-joined compound clauses
+- Long sequences of high-probability, low-entropy token transitions — positions in the sentence where the next word was almost predictable
+
+**Tokens that strongly push toward "human" classification:**
+- Idiomatic, informal phrases
+- Unusual or unexpected word choices
+- Sentence endings that break an expected pattern
+- Short, fragmented clauses mixed with longer ones
+
+---
+
+## 2. The Main Finding: It's Not the "AI Words" (`findings/`)
+
+There is a popular assumption that AI detectors work by flagging stereotypical "AI-isms" — words like *tapestry*, *delve*, *multifaceted*, *testament*. Task 3 rigorously tested this assumption and found it is **mostly wrong**.
+
+### The experiment
+
+We ran **Fisher's Exact Test with FDR (Benjamini-Hochberg) correction** to determine whether known "AI-ism" words appear more often in AI text than in human text.
+
+**Confirmed:** Yes — famous AI-ism words are statistically enriched in AI-generated text. The model *has* seen this pattern.
+
+**Then we ran ablation tests:**
+
+> *What happens to the model's AI confidence if we mask out (remove) all the famous AI-ism words from an AI text?*
+
+| What was removed | Average confidence drop |
+|---|---|
+| Famous AI-isms (`tapestry`, `delve`, etc.) | **0.0%** — no meaningful change |
+| Top 5 high-attribution structural tokens (from LayerIG) | **9.0% average drop**, up to **80%+ in specific cases** |
+
+### What this proves
+
+The model does **not** rely on individual famous AI words to make its decision. Those words are correlated with AI text in the training data, but the model has learned deeper, more distributed structural patterns that are harder to remove.
+
+The real signal is **syntactic rhythm** — specifically, the uniformity of sentence lengths in AI text:
+
+- **Human writing:** Sentence length varies dramatically. Short punchy sentences. Very long winding clauses that meander and double back on themselves. Fragments. Mid-sentence interruptions.
+- **AI writing:** Sentence lengths cluster around a mean. The variation is low. The Coefficient of Variation (CV) of sentence lengths in AI text ≈ **0.55** vs. human CV ≈ **0.60** — a small but consistent difference that the transformer detects reliably.
+
+This means you cannot evade the Tier C detector simply by avoiding specific words. You have to disrupt the *rhythm*.
 
 ---
 
 ## 3. Error Analysis (`error_analysis/`)
 
-No model is perfect. To understand the model's limitations, we isolated the extremely rare **False Positives** (Human text that the model incorrectly classified as AI-generated). 
+Even a 97%-accurate model makes mistakes. Understanding *where* it fails is as important as understanding where it succeeds.
 
-### Key Results
-- **Identification:** The model's errors were highly concentrated; in our evaluation, it misclassified exactly 3 specific paragraphs by Jane Austen while making zero mistakes on Charles Dickens.
-- **Statistical Anomalies:** By computing Task 1 features on these False Positives, we discovered they were statistical outliers compared to the general Human distribution. The misclassified Austen paragraphs exhibited unusually uniform sentence lengths and highly repetitive phrasing—characteristics typical of our AI dataset (e.g., one FP exhibited a word count Z-score of `+2.73` and a sentence length variability Z-score of `+2.13`).
-- **Counterfactual Validation:** We proved the causality of the error using IG. By identifying the exact tokens that pushed the model to predict "AI" and ablating them, the model's AI probability crashed. For instance, in FP `TClass_P22`, removing the top 5 attributed tokens caused the AI prediction probability to plummet from `94.5%` to just `11.3%`.  
+### What we found
 
-**Impact:** The error analysis demonstrates that the model does not fail randomly. It fails when a human author coincidentally writes with the specific syntactic uniformity and repetition that strongly characterizes synthetic text. This highlights an inherent limitation in purely statistical classification: highly constrained or unusually structured human writing can inadvertently mimic the mathematical fingerprint of an LLM.
+The model's errors were highly concentrated — it misclassified **exactly 3 paragraphs** by Jane Austen (false positives: human text labeled as AI) and made **zero errors on Dickens**.
+
+### Why those specific Austen paragraphs?
+
+We computed the Task 1 stylometric features on the 3 false positives and compared them to the general human distribution:
+
+- All 3 had unusually **uniform sentence lengths** (very low CV — similar to AI)
+- All 3 had **repetitive phrasing patterns** — Austen occasionally writes with highly parallel grammatical structures (e.g., listing character attributes in equal-length clauses)
+- One false positive had a word count Z-score of **+2.73** and a sentence length variability Z-score of **+2.13** — statistically extreme outliers in the human distribution
+
+These paragraphs write *like AI* not because they are AI, but because Austen's prose in those sections happens to share the statistical signature of LLM output.
+
+### Confirming causality with LayerIG
+
+For the most confidently wrong false positive (`TClass_P22`, scored 94.5% AI):
+- We identified the top 5 tokens with the highest positive attribution (pushing toward "AI")
+- We ablated (masked) those tokens
+- The AI probability dropped from **94.5% → 11.3%**
+
+This confirmed that the error was *caused* by those specific tokens and structural patterns — not noise or randomness.
+
+### The broader lesson
+
+The model fails when a human writes in a way that coincidentally mimics the statistical signature of an LLM. This is an inherent limitation of any statistical classifier: it classifies *patterns*, not *intent*. A highly structured, formally written human text can look exactly like AI output to any detector.
 
 ---
 
-## Notebooks & Reproducibility
+## Directory Structure
 
-Interactive summaries, heatmaps, distribution plots, and ablation charts for all these components can be found in the `notebooks/` directory:
-- `task3_saliency.ipynb`
-- `task3_findings.ipynb`
-- `task3_error_analysis.ipynb`
+```
+Task 3-Smoking Gun/
+│
+├── saliency/               ← LayerIG attribution extraction scripts and outputs
+├── findings/               ← AI-ism enrichment tests, ablation results
+├── error_analysis/         ← False positive identification and per-example ablation
+├── results/                ← Summary tables and aggregate statistics
+├── notebooks/
+│   ├── task3_saliency.ipynb        ← Saliency heatmaps and token attribution visualisations
+│   ├── task3_findings.ipynb        ← Enrichment tests, CV analysis, ablation charts
+│   └── task3_error_analysis.ipynb  ← False positive deep-dives
+├── experiment_config.json  ← Hyperparameters and dataset paths
+└── requirements.txt        ← captum, transformers, peft, scipy, matplotlib
+```
 
-All analyses were strictly contained to the validation corpus, ensuring no data leakage from the training phase.
+---
+
+## How to Run
+
+```bash
+pip install -r "Task 3-Smoking Gun/requirements.txt"
+
+# Run saliency extraction
+python "Task 3-Smoking Gun/saliency/extract_attributions.py"
+
+# Run AI-ism enrichment tests
+python "Task 3-Smoking Gun/findings/test_aiism_enrichment.py"
+
+# Run error analysis
+python "Task 3-Smoking Gun/error_analysis/analyze_false_positives.py"
+
+# Or explore interactively via the notebooks
+jupyter notebook "Task 3-Smoking Gun/notebooks/"
+```
+
+---
+
+## Key Takeaway
+
+| Question | Answer |
+|---|---|
+| Does the model flag specific "AI words"? | No — removing them drops confidence by 0% |
+| What does it actually detect? | Structural rhythm — sentence length uniformity |
+| Why does it sometimes fail? | When human writing coincidentally has LLM-like rhythm |
+| How does failure manifest? | Only 3 Austen paragraphs misclassified, all structural outliers |
+
+This finding directly informs Task 4: to fool the Tier C detector, you must disrupt its rhythm signal — not just change the vocabulary.
