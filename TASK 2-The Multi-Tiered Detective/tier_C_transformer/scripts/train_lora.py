@@ -73,7 +73,8 @@ def train_experiment(exp_name, train_df, val_df, test_df):
         r=16,
         lora_alpha=32,
         lora_dropout=0.1,
-        target_modules=["query", "value"]
+        target_modules=["query", "value"],
+        modules_to_save=["classifier"]
     )
     
     model = get_peft_model(model, lora_config)

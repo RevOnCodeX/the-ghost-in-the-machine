@@ -64,7 +64,7 @@ Interpretability analysis of the Tier C model using Captum Layer Integrated Grad
 
 ---
 
-### [Task 4 — The Turing Test](./Task%204-Web%20Interface/README.md)
+### [Task 4 — The Turing Test](./Task%204-The%20Turing%20Test/README.md)
 A Genetic Algorithm evolves AI-written text to evade the Tier C detector:
 
 - **Phase 1 (Generations 1–42):** Semantic mutations. Hard plateau at **7.08% human score**.
