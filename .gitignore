@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Models & large binary files (too large for Git)
+*.pkl
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.h5
+
+# FastText embeddings
+*.model
+*.model.vectors.npy
+
+# Node.js / demo-site (web interface excluded as requested)
+Task\ 4-Web\ Interface/demo-site/
+Task\ 4-Web\ Interface/frontend/
+node_modules/
+package-lock.json
+package.json
+
+# Test scripts & scratch files
+test_*.py
+test_bedrock_bearer.py
+test_boto3.py
+test_proxy.py
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
