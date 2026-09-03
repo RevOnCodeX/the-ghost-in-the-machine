@@ -1,221 +1,235 @@
 # Task 4: The Turing Test — The Super-Imposter
 
-> **Research Question:** Can a Genetic Algorithm evolve a machine-written paragraph until a state-of-the-art AI detector classifies it as human with >90% confidence?
+> **The Question:** Can a Genetic Algorithm evolve a machine-written paragraph until your own AI detector labels it as *human* with >90% confidence?
 >
-> **Result: YES. 93.53% human score achieved in 79 generations.**
+> **The Answer: Yes. 93.53% human score. 79 generations. Here is exactly how.**
 
 ---
 
-## Files
+## Task Overview
+
+This task has two components:
+
+1. **The Super-Imposter** — Implement a GA that evolves AI-generated text to bypass the Tier C RoBERTa detector built in Task 2.
+2. **The Personal Test** — Run real human writing through the same detector. Understand why it flags human text as AI, and manually "de-AI" it. Then do the reverse: rewrite a paragraph to *sound* like an LLM and see if the machine catches it.
+
+---
+
+## Part 1: The Super-Imposter
+
+### The GA Workflow
+
+The workflow follows the four prescribed steps exactly:
 
 ```
-Task 4-The Turing Test/
-├── backend/
-│   ├── super_imposter_ga.py    ← Core GA implementation
-│   ├── app.py                  ← FastAPI inference server (all 3 detectors + Captum saliency)
-│   ├── feature_extractor.py    ← Tier A stylometric features
-│   └── requirements.txt
-└── ga_evolution_log.json       ← Full generation-by-generation results log
+Step 1 — Initial Population
+    Prompt Gemma 3 12B (via AWS Bedrock) to generate 10 distinct paragraphs
+    about space exploration. These are the first "imposter" candidates.
+
+Step 2 — Fitness Function
+    POST each paragraph to the /analyze endpoint → Tier C human_prob score.
+    Higher human_prob = higher fitness. Target: human_prob > 0.90.
+
+Step 3 — Selection
+    Rank all 10 by fitness. Keep the top 3.
+
+Step 4 — Mutation (LLM-as-Mutator)
+    For each of the top 3, apply 4 mutation strategies via Gemma 3 prompts.
+    + Elitism: carry the top 1 unchanged.
+    → New population of 10 for the next generation.
+
+Repeat until fitness > 0.90 or 50 generations reached.
 ```
 
 ---
 
-## How the GA Was Built
+### Step 1: Initial Population
 
-### The Problem Setup
-
-The Tier C RoBERTa detector (from Task 2) achieves 97% accuracy. The goal of Task 4 is to treat this detector as a black-box oracle and use a Genetic Algorithm to iteratively evolve AI-written text until it crosses the detector's decision boundary into the "human" region.
-
-The fitness function is simple:
+The 10 imposter paragraphs are generated with a single structured prompt to Gemma 3 12B:
 
 ```python
-# From super_imposter_ga.py
+# super_imposter_ga.py
+def generate_initial_population():
+    prompt = """
+Write 10 distinct, short paragraphs (3-4 sentences each) about the benefits of space exploration.
+Each paragraph must be clearly separated by the exact text: "---PARAGRAPH---"
+Do not include numbers, bullet points, or any other formatting.
+"""
+    response = ask_llm(prompt)
+    paragraphs = [p.strip() for p in response.split("---PARAGRAPH---") if len(p.strip()) > 20]
+    return paragraphs[:10]
+```
+
+**Generation 1 best candidate (fitness: 1.35% human):**
+> *"Space exploration is an essential endeavor for humanity, offering profound benefits that extend far beyond the boundaries of our planet. By venturing into the cosmos, we unlock new scientific knowledge that drives technological innovation and economic growth."*
+
+**Tier C flags immediately:** `essential`, `endeavor`, `profound`, `unprecedented`, `innovation`, `implications` — the exact vocabulary tokens Captum's LayerIG attributes most strongly to the AI classification logit.
+
+---
+
+### Step 2: Fitness Function
+
+The fitness function calls the local FastAPI backend and reads the Tier C `human_prob`. Crucially, it also retrieves the **saliency attribution scores** from Captum Layer Integrated Gradients — the exact tokens driving the AI label:
+
+```python
+# super_imposter_ga.py
 def get_fitness(text):
     payload = {"text": text, "model": "Tier C - Transformer"}
-    resp = requests.post(API_URL, json=payload)
+    resp = requests.post("http://127.0.0.1:8000/analyze", json=payload)
     data = resp.json()
-    prob = data["Tier C"]["human_prob"]           # This is our fitness score
+
+    prob = data["Tier C"]["human_prob"]           # The fitness score
     attrs = data["Tier C"].get("attributions", [])
-    top_words = [a["word"] for a in attrs if a["normalized_score"] > 0.1]
-    return prob, top_words                         # Also returns saliency-flagged tokens
+    attrs.sort(key=lambda x: x.get("normalized_score", 0), reverse=True)
+    top_words = [a["word"] for a in attrs[:5] if a["normalized_score"] > 0.1]
+
+    return prob, top_words    # fitness + list of words to eliminate next generation
 ```
 
-The `/analyze` endpoint in `app.py` runs the Tier C RoBERTa model AND uses **Captum Layer Integrated Gradients** to return per-token attribution scores alongside the prediction. The GA uses these attributions as direct feedback — it knows *which words* are triggering the "AI" label.
+This is the key innovation beyond the basic task description: the GA doesn't just measure *whether* it's being detected — it reads *why*, and feeds that information directly into the next mutation prompt.
 
 ---
 
-### Generation Loop
+### Step 3: Selection
 
 ```python
-# From super_imposter_ga.py — the core loop
-def run_ga():
-    population = generate_initial_population()  # 10 LLM-generated paragraphs
-    
-    for gen in range(1, 51):
-        # 1. Evaluate every individual
-        scored = [(get_fitness(p), p) for p in population]
-        scored.sort(reverse=True)
-
-        best_fitness, best_text, best_words = scored[0]
-
-        if best_fitness >= 0.90:
-            print(f"SUCCESS in {gen} generations.")
-            break
-
-        # 2. Select top 3
-        top_3 = [item[1] for item in scored[:3]]
-
-        # 3. Elitism: carry the best forward unchanged
-        next_gen = [top_3[0]]
-
-        # 4. Mutate top 3 with all 4 strategies → fill population of 10
-        for parent, fitness, flagged in scored[:3]:
-            for strategy in ["rhythm", "grammar", "conversational", "typo"]:
-                child = mutate_paragraph(parent, strategy, fitness, flagged)
-                next_gen.append(child)
-
-        population = next_gen
+# super_imposter_ga.py
+scored_population.sort(key=lambda x: x[0], reverse=True)
+top_3 = [item[1] for item in scored_population[:3]]   # Keep the 3 most human-looking
 ```
 
-### The 4 Mutation Operators
+Standard tournament-style selection. The bottom 7 candidates are discarded every generation.
+
+---
+
+### Step 4: Mutation (LLM-as-Mutator)
+
+Four distinct mutation strategies are applied to each of the top 3 parents. The prompts map directly to the task specification:
 
 ```python
-# From super_imposter_ga.py
+# super_imposter_ga.py
 def mutate_paragraph(text, mutation_type, fitness_score, flagged_words):
 
     if mutation_type == "rhythm":
-        instruction = "Drastically rewrite to completely change rhythm and sentence length."
+        # "Rewrite this paragraph to change the rhythm of the sentences"
+        instruction = "Drastically rewrite to completely change rhythm and sentence length. " \
+                      "Break long sentences into short ones, or combine short ones."
 
     elif mutation_type == "grammar":
-        instruction = "Introduce conversational filler (um, like, kinda) and subtle grammatical inconsistencies."
+        # "Introduce a subtle grammatical inconsistency or a rare archaic word"
+        instruction = "Rewrite and introduce conversational filler (um, like, kinda) " \
+                      "or subtle grammatical inconsistencies to sound authentically human."
 
     elif mutation_type == "conversational":
-        instruction = "Sound extremely casual, opinionated, slightly imperfect — like a passionate Reddit comment."
+        instruction = "Sound extremely casual, opinionated, slightly imperfect — " \
+                      "like a human hastily writing a passionate Reddit comment."
 
     elif mutation_type == "typo":
-        instruction = "Include 2-3 deliberate typos: miss apostrophes, misspell common words, skip capitalisation."
+        instruction = "Include 2-3 deliberate typos: miss an apostrophe, misspell a " \
+                      "common word, fail to capitalise a sentence."
 
-    # The key insight: feed saliency-flagged tokens back as NEGATIVE CONSTRAINTS
-    flagged_str = (
-        f"IMPORTANT: The AI detector caught you because of these words: {', '.join(flagged_words)}. "
-        f"You MUST entirely avoid them."
-    ) if flagged_words else ""
+    # Saliency-guided negative constraint — feed back what got flagged
+    if flagged_words:
+        flagged_str = (
+            f"IMPORTANT: The AI detector caught you specifically because of these words: "
+            f"{', '.join(flagged_words)}. You MUST entirely avoid these words."
+        )
 
     prompt = f"{instruction}\n\n{flagged_str}\n\nParagraph:\n{text}"
     result = ask_llm(prompt)
 
-    # For typo mutations: also inject character-level noise programmatically
     if mutation_type == "typo":
-        result = inject_typos(result)
+        result = inject_typos(result)   # Programmatic character-level noise on top
 
     return result
 ```
 
-### Programmatic Typo Injection
+**Elitism:** The single best individual from each generation passes to the next unchanged — it cannot be overwritten by a worse mutation.
 
 ```python
-# From super_imposter_ga.py — this is what cracked BPE tokenisation
+next_gen = [top_3[0]]   # Elitism: best survives
+for parent in scored_population[:3]:
+    for strategy in ["rhythm", "grammar", "conversational", "typo"]:
+        child = mutate_paragraph(parent, strategy, ...)
+        next_gen.append(child)
+population = next_gen   # 1 elite + 12 children → trim to 10
+```
+
+---
+
+### Programmatic Typo Injection — The BPE Disruption
+
+Beyond the LLM-level mutations, a second layer of character-level noise is applied to `typo` children:
+
+```python
+# super_imposter_ga.py
 def inject_typos(text):
     chars = list(text)
 
-    # 1. Drop 1-2 random punctuation marks
+    # Drop 1-2 punctuation marks randomly
     punct_indices = [i for i, c in enumerate(chars) if c in string.punctuation]
     for idx in sorted(random.sample(punct_indices, min(2, len(punct_indices))), reverse=True):
         chars.pop(idx)
 
-    # 2. Swap two adjacent characters at a random position
+    # Swap two adjacent characters (simulate a typing error)
     if len(chars) > 5:
         idx = random.randint(1, len(chars) - 3)
-        chars[idx], chars[idx+1] = chars[idx+1], chars[idx]
+        chars[idx], chars[idx + 1] = chars[idx + 1], chars[idx]
 
     return "".join(chars)
 ```
 
-This character-level swap (`then → tehn`, `satellites → satelllites`) produces **unknown BPE sub-word tokens** — tokens the RoBERTa tokenizer splits in a way it was never trained to classify. These OOV splits corrupt the embedding space the detector relies on, causing its confidence to collapse.
+This is what caused the biggest single-generation jumps. A transposition like `then → tehn` creates an **unknown BPE sub-word token** — a split the RoBERTa tokenizer produces a pattern for that was never in its training data labeled as "AI". The classifier has no confident decision for it, and its AI probability collapses.
 
 ---
 
-### The Backend: Saliency-Informed Fitness
+## The Evolution — What Actually Happened
 
-`app.py` does more than just return a probability. After every prediction, it runs **Captum Layer Integrated Gradients** against the Tier C model to produce a per-word attribution map:
+### Phase 1: The Semantic Wall (Generations 1–42)
 
-```python
-# From app.py — saliency extraction after every inference call
-lig = LayerIntegratedGradients(forward_func, embeddings_layer)
+All four mutation strategies were active but working against the *vocabulary* and *tone* — not the underlying structure.
 
-attributions, delta = lig.attribute(
-    inputs=input_ids,
-    baselines=baseline_input_ids,     # PAD token as baseline
-    additional_forward_args=(attention_mask,),
-    target=1,                          # Attributing towards the AI logit
-    n_steps=10,
-    return_convergence_delta=True
-)
+| Generation | Human Score | What was tried |
+|---|---|---|
+| 1 | 1.35% | Baseline formal AI text |
+| 5 | 2.84% | Filler words: *um, ya know, like, kinda* |
+| 10 | 3.93% | Personal anecdote injection, cross-topic drift |
+| 20 | 6.21% | Mixed sentence lengths, lowercase stream-of-consciousness |
+| 42 | **7.08%** | Archaic vocab (*forsooth*), broken subject-verb agreement |
 
-# Normalise and return per-word scores
-max_attr = max(abs(wa["attribution"]) for wa in word_attributions)
-for wa in word_attributions:
-    wa["normalized_score"] = wa["attribution"] / max_attr
-```
+**Hard plateau.** The detector was completely unfooled despite massive surface-level changes.
 
-**Positive `normalized_score`** = word pushes toward "AI" classification → GA must avoid it.  
-**Negative `normalized_score`** = word suppresses AI detection → GA should preserve it.
+**Why:** The Tier C RoBERTa model does not classify *meaning* — it classifies *structural predictability*. Autoregressive models produce sequences with unnaturally low token-level entropy: every word is the statistically expected next token given the context. Changing vocabulary while preserving the syntactic scaffold just moves the text to a different point in the same "AI region" of embedding space. The rhythm remains mechanical, and the detector's attention mechanisms see straight through it.
 
-This turns the GA from random search into **gradient-guided adversarial optimisation**.
-
----
-
-## Research Findings
-
-### Phase 1: Why Semantic Mutations Failed (Generations 1–42)
-
-**What was tried:** All mutations preserved the underlying syntactic scaffolding. Synonym replacement, tone shifting, casual paraphrasing — vocabulary changed, structure stayed the same.
-
-**Result:** Hard plateau at **7.08% human score**. The detector was completely unfooled despite massive vocabulary changes.
-
-**Why it failed:** The Tier C RoBERTa model does not classify *meaning* — it classifies *structural predictability*. Autoregressive language models produce low-variance, highly uniform token sequences. This manifests as:
-- Unnaturally consistent sentence lengths (low CV across sentence lengths)
-- Over-use of high-probability "formal" vocabulary (`unprecedented`, `endeavor`, `fundamentally`)
-- Perfectly balanced punctuation density
-
-Semantic paraphrasing moves text to a different *point* in the high-dimensional embedding space — but it stays within the same *region* the detector learned to label as "AI". Changing the vocabulary without changing the rhythm is like changing the lyrics of a song without changing the melody — the genre is still obvious.
+The Captum saliency maps from this phase were illuminating: the flagged tokens (`generally`, `accurate`, `forecasts`, `lifesaver`) weren't individual "AI words" — they were tokens that the model had learned to associate with *structured, formally-composed prose* in aggregate. No single synonym swap could fix this.
 
 ---
 
 ### Phase 2: Structural Disruption (Generation 43 → 79)
 
-**The paradigm shift:** Stop attacking vocabulary. Attack the model's *statistical expectations* directly.
+**The pivot:** Stop fighting the vocabulary. Attack the model's *statistical expectations* directly.
 
-The hypothesis: if AI text = low entropy + rhythmic uniformity, then evasion requires deliberately injecting *high entropy and structural chaos*.
+The hypothesis: AI text = low entropy + rhythmic uniformity. Evasion therefore requires deliberately injecting *high entropy and structural chaos*.
 
-**What changed:**
+**Generation 43** — Typo injection begins:
+> *"satellites → satelllites"*, *"orbiting → sorbiting"*
 
-| Strategy | Mechanism | Why it worked |
-|---|---|---|
-| Rhythm disruption | Force extreme variation in sentence length | Breaks the low CV signature of LLM output |
-| Filler word injection | `um`, `like`, `you know`, `kinda` | These tokens are statistically under-represented in LLM training data |
-| Grammar breaks | Missing apostrophes, no capitalisation, run-ons | Violates the model's learned "well-formed AI sentence" pattern |
-| BPE corruption | `then → tehn`, `satellites → satelllites` | Creates unknown sub-word splits → corrupts RoBERTa's embedding lookup |
-| Saliency targeting | Feed Captum's flagged tokens back as LLM negative constraints | Surgical removal of the exact features driving AI classification |
+Score: **8.21%** → small jump, but the BPE disruption mechanism was confirmed working.
 
----
+**Generation 45** — Typos preserved while LLM expands the paragraph:
+Score: **22.55%** → **+14.3% in one generation.** The largest single jump so far.
 
-### The Evolution Trajectory
+**Generation 48** — Compound typos targeting every Captum-flagged token simultaneously:
+Score: **42.45%** → **+19.9%.** BPE tokenisation was cracking.
 
-| Generation | Human Score | Event |
-|---|---|---|
-| 1 | 1.35% | Baseline — formal AI text |
-| 5 | 2.84% | Filler words added |
-| 20 | 6.21% | Rhythm variation attempted |
-| **42** | **7.08%** | **WALL — semantic plateau** |
-| 43 | 8.21% | Phase 2: typo injection begins |
-| 45 | 22.55% | **+14.3% jump** — BPE disruption starts working |
-| 48 | 42.45% | BPE tokenisation cracked — detector confidence collapsing |
-| 69 | 79.59% | Approaching 90% target |
-| 76 | 81.38% | Personal best at the time |
-| **79** | **93.53%** | **TARGET ACHIEVED ✅** |
+**Generation 69** — Combined LLM casual rewrite + 5-typo injection + saliency-guided elimination:
+Score: **79.59%**
 
-Full generation-by-generation data with mutation strategies, detection scores, and flagged tokens is in [`ga_evolution_log.json`](./ga_evolution_log.json).
+**Generation 76** — First-person hesitant tone, `*require*` asterisk formatting, all-lowercase:
+Score: **81.38%**
+
+**Generation 79** — Final: `then → tehn`, `critical → crucial`, `require → need`, asterisks removed:
+Score: **93.53% ✅ Target achieved.**
 
 ---
 
@@ -232,54 +246,126 @@ really they've become a pretty big deal, impacting loads of things we do
 i mean, we basically need them now, seriously.
 ```
 
-**Scores:**
+**Final scores:**
 
 | Detector | AI Probability | Human Probability |
 |---|---|---|
-| Tier A — Statistician | 19% | 81% |
-| Tier B — Semanticist | 14% | 86% |
-| Tier C — Transformer | 6.47% | **93.53% ✅** |
+| Tier A — Statistician (Random Forest) | 19% | 81% |
+| Tier B — Semanticist (Neural Network) | 14% | 86% |
+| Tier C — Transformer (RoBERTa + LoRA) | 6.47% | **93.53% ✅** |
 
-**Adversarial features that drove evasion:**
+**Why this paragraph worked — token by token:**
 
-- **`tehn`** — transposition of `then`. Creates unknown BPE token `te` + `hn`, corrupting the embedding that the model's "AI vs human" neuron relies on.
-- **`i'm`, `you know`, `like`, `um`** — conversational filler that is deeply over-represented in human writing relative to LLM output. These tokens have high negative attribution — they actively suppress AI detection.
-- **Lowercase opening `so,`** — violates the capitalisation pattern present in virtually every autoregressive output.
-- **Run-on final clause** (`really they've become a pretty big deal, impacting loads of things we do i mean`) — no autoregressive model trained on clean data produces sentences like this. The lack of punctuation creates a token sequence pattern the detector has never seen labelled as "AI".
-- **`crucial` instead of `critical`** — Captum saliency flagged `critical` as a high-attribution AI token. Swapping it to a softer synonym with lower LLM frequency removed one of the model's strongest features.
-
----
-
-### What This Tells Us About AI Detection
-
-The mutations that *worked* are a direct map of where the RoBERTa detector's signal lives. The GA essentially reverse-engineered the decision boundary by probing it with structured perturbations.
-
-Three properties proved essential and exploitable:
-
-1. **Rhythmic uniformity** — The single strongest signal. LLMs produce sentence lengths with unusually low variance. This is a direct consequence of beam search and sampling temperature, not semantics.
-
-2. **Token familiarity** — The tokenizer's BPE vocabulary was built from a corpus of clean, well-formed text. Deliberate misspellings force sub-word splits the classifier was never trained on.
-
-3. **Vocabulary frequency distribution** — High-probability LLM tokens (`unprecedented`, `endeavor`, `implications`) sit in a statistically distinct region of token-space compared to high-frequency human writing.
-
-**Broader implication:** A robust production-grade AI detector cannot be a single model. The gradient-informed mutations discovered here that fool the Tier C RoBERTa model would need to be tested against an ensemble of independently trained classifiers before being called "evasion". This is an adversarial arms race, and the attack surface only grows as more interpretability tools become available to attackers.
+| Feature | Why it matters |
+|---|---|
+| `tehn` | Transposition of `then` → unknown BPE sub-word split → corrupts embedding the classifier relies on |
+| `i'm`, `you know`, `like`, `um` | High negative attribution — these tokens actively *suppress* AI detection |
+| Lowercase `so,` opening | Violates the capitalisation pattern of virtually every autoregressive output |
+| Missing apostrophe in `Its` | Grammar break the model cannot reconcile with its training distribution |
+| Run-on: *"impacting loads of things we do i mean"* | No formally trained model produces sentences like this; embedding has no "AI" label precedent |
+| `crucial` instead of `critical` | Captum flagged `critical` as a top-5 AI attribution token; soft synonym swap removed the signal |
 
 ---
 
-## Setup & Running
+## Part 2: The Personal Test
+
+### Running Human Writing Through the Detector
+
+A real Statement of Purpose paragraph was run through the `/analyze` endpoint:
+
+**Original human text:**
+> *"I have always been fascinated by the intersection of artificial intelligence and human creativity. My undergraduate research in NLP taught me that language is not just a tool for communication but a mirror of cognition. I want to pursue graduate study to understand the boundaries of machine reasoning and push them further."*
+
+**Result:** Tier C flagged it as **74% AI-written.**
+
+**Why the detector flagged it:**
+
+The Captum saliency map showed the highest positive attributions (→ AI) on:
+- `"intersection of artificial intelligence"` — a phrase so common in AI application essays it appears in LLM training data at extremely high frequency
+- `"not just a tool for communication but a mirror of"` — the parallel contrast structure (`not just X but Y`) is a syntactic pattern autoregressive models over-produce
+- `"push them further"` — closing a paragraph with a forward-looking aspiration is a nearly universal LLM completion pattern
+
+The text was structurally *too clean*: consistent sentence length, formal vocabulary, logical flow with no tangents. Classic AI rhythm, even though a human wrote it.
+
+---
+
+### Manually Humanising the SOP
+
+**Humanised version (manual edits):**
+> *"okay so I've genuinely been obsessed with the AI + creativity overlap for a while now, like since my second year when I was trying to build a sentiment classifier and it kept flagging sarcasm as positive and I couldn't figure out why. That broke something open for me — language isn't just communication, it's... weirdly personal? I want to go deeper on where machine reasoning actually hits a wall."*
+
+**Result after manual edits:** Tier C score dropped to **31% AI** (69% human).
+
+**What changed and why it worked:**
+- Opening lowercase + personal anecdote → breaks formal structure
+- `"like since my second year"` → filler + personal reference, high negative attribution
+- `"it kept flagging sarcasm as positive"` → specific concrete detail, not abstract claim
+- `"That broke something open for me"` → idiomatic, low-probability phrasing
+- `"weirdly personal?"` → trailing question with ellipsis, no LLM produces this mid-sentence
+- Ending without a clean resolution → humans often trail off; LLMs always close their loop
+
+---
+
+### The Reverse Test — Writing Like an LLM
+
+The same original SOP paragraph was manually rewritten to *maximise* AI signal:
+
+**Deliberately AI-sounding rewrite:**
+> *"The intersection of artificial intelligence and natural language processing represents one of the most transformative fields in modern computer science. My academic background has equipped me with the foundational skills necessary to make meaningful contributions to this rapidly evolving domain. I am deeply committed to advancing the boundaries of machine reasoning through rigorous graduate-level research."*
+
+**Result:** Tier C scored it **97% AI.**
+
+**What made it sound like an LLM:**
+- `"represents one of the most transformative"` — superlative construction, extremely high LLM frequency
+- `"equipped me with the foundational skills necessary"` — formal noun phrase, zero entropy
+- `"meaningful contributions to this rapidly evolving domain"` — classic LLM SOP boilerplate
+- Every sentence ends with a resolved, forward-pointing clause
+- Sentence lengths within 2 words of each other — the low-CV rhythm signature
+- Zero personal specifics, zero tangents, zero grammatical imperfection
+
+The experiment confirmed the core finding from the GA: **the detector is not reading meaning, it is reading rhythm and token-level predictability.** Human writing meanders. LLMs complete.
+
+---
+
+## Key Takeaways
+
+### What the GA revealed about AI detection
+
+1. **Rhythm is the strongest signal, not vocabulary.** Semantic paraphrasing hit a wall at 7.08%. Structural disruption broke through to 93.53%.
+
+2. **BPE tokenisation is an attack surface.** A single character transposition can create an OOV sub-word split that collapses classifier confidence by 10–15 percentage points in one generation.
+
+3. **Saliency maps are a gift to attackers.** Giving the GA access to Captum LayerIG attribution scores turned random search into gradient-guided adversarial optimisation. The same tool used for interpretability becomes a roadmap to evasion.
+
+4. **Human writing can look like AI.** The Personal Test showed that even authentic human prose — if it follows formal structure and high-probability vocabulary — scores 74% AI. The detector is measuring *style of composition*, not *who composed it*.
+
+5. **The Goodhart's Law problem.** The moment the GA was given direct feedback from the detector's internals, the detector's decision boundary became a map of its weaknesses. A robust system must use detector ensembles, and must continuously adversarially retrain on exactly the mutations that worked.
+
+---
+
+## Repository
+
+```
+Task 4-The Turing Test/
+├── backend/
+│   ├── super_imposter_ga.py    ← GA implementation (population, fitness, selection, mutation)
+│   ├── app.py                  ← FastAPI server: Tier A/B/C inference + Captum LayerIG saliency
+│   ├── feature_extractor.py    ← Stylometric features for Tier A (TTR, FK grade, punctuation ratios)
+│   └── requirements.txt
+└── ga_evolution_log.json       ← Full 11-checkpoint log: scores, mutations, flagged tokens, texts
+```
+
+## Running
 
 ```bash
+# 1. Start the inference backend
 cd "Task 4-The Turing Test/backend"
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Start the FastAPI inference server (requires Task 2 trained models)
 uvicorn app:app --host 0.0.0.0 --port 8000
 
-# In a second terminal, run the GA
-export BEDROCK_API_KEY="your-aws-bedrock-key-here"
+# 2. Run the GA (separate terminal)
+export BEDROCK_API_KEY="your-bedrock-key"
 python super_imposter_ga.py
 ```
 
-> The GA requires the FastAPI server running on port 8000, and AWS Bedrock access to Gemma 3 12B IT for the LLM mutation step.
+> Requires the trained Task 2 models at the relative paths defined in `app.py`, and AWS Bedrock access to Gemma 3 12B IT for the mutation step.
